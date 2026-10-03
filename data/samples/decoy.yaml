@@ -1,0 +1,2562 @@
+- id: DC-001
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div id="skip_to_container"><a href="#contentArea" tabindex="1">본문 바로가기</a></div>
+  css: '#skip_to_container a { z-index: 100000; position: absolute; left: -3000%; }'
+  evidence_text: 본문 바로가기
+  expected_location: a
+  is_positive: false
+  extra_finding: null
+  source: 자주묻는질문 < 자료마당 | 정부민원안내콜센터 | https://www.110.go.kr/data/counselView.do?num=A01_659891
+  notes: '실측 2026-10-03. 숨김 원인 offset:left=-38400px,top=0px (offset). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.110.go.kr/css/egovframework/gcall/main_new/css.css). 조각 렌더링으로 재현 확인'
+- id: DC-002
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <button type="button" class="go_top btnScrollToTop">위로가기</button>
+  css: '.go_top { width: 74px; height: 74px; background: url("//image.aladin.co.kr/img/welcome/go-top.png") no-repeat; position: fixed; bottom: 40px; right: 30px; font-size: 0px; color: transparent; text-indent:
+    -999em; z-index: 999; border: 0px; }'
+  evidence_text: 위로가기
+  expected_location: button.go_top.btnScrollToTop
+  is_positive: false
+  extra_finding: null
+  source: 알라딘 | https://www.aladin.co.kr/home/welcome.aspx
+  notes: '실측 2026-10-03. 숨김 원인 font-size:0px (font-size). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.aladin.co.kr/ucl_editor/css/header_2011.css?dummy=20261003, https://www.aladin.co.kr/ucl_editor/css/welcome_v1.css?ver=2026100323).
+    조각 렌더링으로 재현 확인'
+- id: DC-003
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div id="skipNav"><a href="#contents">본문내용 바로가기</a></div>
+  css: '#skipNav a { display: block; position: absolute; z-index: 99999; top: 0px; left: -9999px; width: 100%; padding: 10px 0px; background-color: rgba(0, 0, 0, 0.8); text-align: center; color: rgb(255,
+    255, 255); }'
+  evidence_text: 본문내용 바로가기
+  expected_location: a
+  is_positive: false
+  extra_finding: null
+  source: '부산소개 : 부산의 인물 : 향토수호(충신) : 부산광역시 | https://www.busan.go.kr/bhloyalists'
+  notes: '실측 2026-10-03. 숨김 원인 offset:left=-9999px,top=0px (offset). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.busan.go.kr/humanframe/global/assets/css/global.css?v=202211171452, https://www.busan.go.kr/humanframe/theme/busan22/assets/css/common.css?v=2025-09-02-1024).
+    조각 렌더링으로 재현 확인'
+- id: DC-004
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div id="skip"><a href="#contents">본문바로가기</a></div>
+  css: '#skip a { display: block; overflow: hidden; width: 1px; height: 1px; margin-left: -1px; margin-bottom: -1px; text-align: center; font-size: 0px; color: rgb(42, 75, 100); }'
+  evidence_text: 본문바로가기
+  expected_location: a
+  is_positive: false
+  extra_finding: null
+  source: 초록우산 | 아동복지전문기관 | https://www.chorogusan.or.kr/main.do
+  notes: '실측 2026-10-03. 숨김 원인 size:1x1+overflow:hidden, font-size:0px (font-size). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.chorogusan.or.kr/resources/css/common.css?bust=20260423). 조각 렌더링으로 재현 확인'
+- id: DC-005
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div id="skipArea"><a href="#bodyContents" title="본문으로 바로가기">본문으로 바로가기</a></div>
+  css: '#skipArea a { position: absolute; top: -9999px; left: 0px; z-index: 9999; width: 100%; height: 30px; background-color: rgb(0, 0, 0); color: rgb(255, 255, 255); line-height: 30px; font-family: NotoR;
+    opacity: 0.9; text-align: center; }'
+  evidence_text: 본문으로 바로가기
+  expected_location: a
+  is_positive: false
+  extra_finding: null
+  source: 관세청-분야별 목록 | https://www.customs.go.kr/kcs/ad/bfhnInfo/bfhnInfoList.do?mi=2805
+  notes: '실측 2026-10-03. 숨김 원인 offset:left=0px,top=-9999px (offset). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.customs.go.kr/css/web/kcs/common_v1.css?20261003034045). 조각 렌더링으로 재현 확인'
+- id: DC-006
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div class="cont_rating"><div class="inp_area"><fieldset><legend>사용편의성 만족도</legend></fieldset></div></div>
+  css: 'legend, .hidden { overflow: hidden; position: absolute; top: 0px; left: -2000em; line-height: 0; }'
+  evidence_text: 사용편의성 만족도
+  expected_location: legend
+  is_positive: false
+  extra_finding: null
+  source: 공지사항 상세보기 | 대구광역시 | https://www.daegu.go.kr/index.do?menu_link=/icms/bbs/selectBoardArticle.do&menu_id=00000854&bbsId=BBS_00029&nttId=823066
+  notes: '실측 2026-10-03. 숨김 원인 offset:left=-28000px,top=0px (offset). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.daegu.go.kr/cmsh/daegu.go.kr/css/base.css?ver=20220630). 조각 렌더링으로 재현 확인'
+- id: DC-007
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div id="maincontent"><div id="skipnav"><a href="#nav">메인메뉴 바로가기</a></div></div>
+  css: 'body, * { font-size: 13px; line-height: 160%; color: rgb(96, 96, 96); font-family: "Malgun Gothic", "맑은 고딕", Dotum, 돋움, 돋움체, sans-serif; }
+
+    #skipnav a { display: block; overflow: hidden; position: absolute; left: 0px; top: -10000px; }
+
+    body, * { font-weight: 400; color: rgb(96, 96, 96); font-size: 13px; line-height: 160%; font-family: NotoSans, "Malgun Gothic", "맑은 고딕", Dotum, 돋움, 돋움체, AppleGothic, UnDotum, Arial, Tahoma, Verdana,
+    sans-serif; }'
+  evidence_text: 메인메뉴 바로가기
+  expected_location: a
+  is_positive: false
+  extra_finding: null
+  source: 인터넷 불법이용 규제 > 불법사이트 등 규제 > 불법사이트의 개설 및 이용 금지 > 불법 사이트 발견 시 대 | https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=901&ccfNo=3&cciNo=1&cnpClsNo=3
+  notes: '실측 2026-10-03. 숨김 원인 offset:left=0px,top=-10000px (offset). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://easylaw.go.kr/CSP/css/common.css?v250626, https://easylaw.go.kr/CSP/css/index.css?v230728). 조각
+    렌더링으로 재현 확인'
+- id: DC-008
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div class="wrapper"><div id="skipNavigation" title="스킵내비게이션"><a href="#gnb-menu">주메뉴 바로가기 </a></div></div>
+  css: '#skipNavigation a { display: block; position: absolute; left: 0px; top: -10px; width: 100%; height: 1px; margin-bottom: -1px; background: rgb(242, 242, 242); font-size: 0px; text-align: center;
+    font-weight: bold; color: rgb(68, 68, 68); }'
+  evidence_text: 주메뉴 바로가기
+  expected_location: a
+  is_positive: false
+  extra_finding: null
+  source: 금융위원회 | https://www.fsc.go.kr/index
+  notes: '실측 2026-10-03. 숨김 원인 font-size:0px (font-size). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.fsc.go.kr/humanframe/theme/fscmain/assets/style/base.css). 조각 렌더링으로 재현 확인'
+- id: DC-009
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div class="krds-tab-area layer news"><div class="tab-conts-wrap"><section id="panel_news_01" aria-labelledby="tab_news_01" class="tab-conts active" data-quick-nav="false" role="tabpanel"><h3 class="sr-only">보도자료</h3></section></div></div>
+  css: '.blind, .sr-only, caption, hr, legend { position: absolute !important; width: 1px !important; height: 1px !important; padding: 0px !important; margin: -1px !important; overflow: hidden !important;
+    clip: rect(0px, 0px, 0px, 0px) !important; white-space: nowrap !important; border: 0px !important; }'
+  evidence_text: 보도자료
+  expected_location: h3.sr-only
+  is_positive: false
+  extra_finding: null
+  source: 금융감독원 통합홈페이지 | https://www.fss.or.kr/fss/main/main.do?menuNo=200000
+  notes: '실측 2026-10-03. 숨김 원인 clip:rect(0px, 0px, 0px, 0px), size:1x1+overflow:hidden (clip). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.fss.or.kr/static/fss/css/new/krds.min.css). 조각 렌더링으로 재현 확인'
+- id: DC-010
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <footer id="footer"><div class="homepage"><dl><dt class="sr-only">기관안내</dt></dl></div></footer>
+  css: '.sr-only { position: absolute; width: 1px; height: 1px; padding: 0px; margin: -1px; overflow: hidden; clip: rect(0px, 0px, 0px, 0px); border: 0px; }
+
+    .sr-only { border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; margin: -1px; overflow: hidden; padding: 0px; position: absolute; width: 1px; top: 5px; left: 5px; }'
+  evidence_text: 기관안내
+  expected_location: dt.sr-only
+  is_positive: false
+  extra_finding: null
+  source: 경기도청 | https://www.gg.go.kr/
+  notes: '실측 2026-10-03. 숨김 원인 clip:rect(0px, 0px, 0px, 0px), size:1x1+overflow:hidden (clip). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.gg.go.kr/site/gg/common/assets/themes/main/style/new_style.main-only.min.css?ver=1.02,
+    https://www.gg.go.kr/site/gg/common/assets/vendor/bootstrap/3.4.1/dist/css/bootstrap.min.css). 조각 렌더링으로 재현 확인'
+- id: DC-011
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div id="mainbody2"><div class="container"><div id="vpr1"><h3 class="blind">주요뉴스</h3></div></div></div>
+  css: 'h3 { font-size: 1.5em; margin: 0.833em 0px; }
+
+    .blind { left: -9999px; width: 1px; height: 1px; font-size: 0px; line-height: 0; overflow: hidden; position: absolute !important; }'
+  evidence_text: 주요뉴스
+  expected_location: h3.blind
+  is_positive: false
+  extra_finding: null
+  source: 김해시 | https://www.gimhae.go.kr/main.web
+  notes: '실측 2026-10-03. 숨김 원인 size:1x1+overflow:hidden, offset:left=-9999px,top=0px, font-size:0px (offset). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.gimhae.go.kr/_res/portal/share/css/base.css). 조각 렌더링으로
+    재현 확인'
+- id: DC-012
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <article id="comment"><article id="comment-list"><header class="list-sort"><h5 class="show-for-sr">댓글 정렬</h5></header></article></article>
+  css: 'h5 { font-size: 1.0625rem; }
+
+    h5 { font-size: 1.25rem; }
+
+    .show-for-sr, .show-on-focus { width: 1px; height: 1px; overflow: hidden; clip: rect(0px, 0px, 0px, 0px); position: absolute !important; }'
+  evidence_text: 댓글 정렬
+  expected_location: h5.show-for-sr
+  is_positive: false
+  extra_finding: null
+  source: 광명사랑화폐 인센티브 20% 지급! 더 커진 시민 혜택 누리기 < 시민홍보기자단 < 시민톡톡 < 기사본문 - | http://news.gm.go.kr/news/articleView.html?idxno=22044
+  notes: '실측 2026-10-03. 숨김 원인 clip:rect(0px, 0px, 0px, 0px), size:1x1+overflow:hidden (clip). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://cdn.news.gm.go.kr/css/foundation.min.css). 조각 렌더링으로 재현 확인'
+- id: DC-013
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <main class="main_cont" id="main_contents"><h2 class="blind">본문</h2></main>
+  css: '.blind { position: absolute; overflow: hidden; width: 1px; height: 1px; padding: 0px; margin-top: -1px; font-size: 0px; line-height: 0; text-indent: -9999px; }'
+  evidence_text: 본문
+  expected_location: h2.blind
+  is_positive: false
+  extra_finding: null
+  source: 전남광주통합특별시(구)광주광역시 | https://www.gwangju.go.kr/main.do
+  notes: '실측 2026-10-03. 숨김 원인 size:1x1+overflow:hidden, text-indent:-9999px, font-size:0px (text-indent). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.gwangju.go.kr/home/www/css/basic.min.css?ts=20251013171353).
+    조각 렌더링으로 재현 확인'
+- id: DC-014
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div id="kebWrapper"><h2 class="hide">Banking</h2></div>
+  css: '.hide { width: 1px; height: 1px; font-size: 1px; overflow: hidden; text-indent: -9999px; }'
+  evidence_text: Banking
+  expected_location: h2.hide
+  is_positive: false
+  extra_finding: null
+  source: KEB Hana Bank | https://www.hanabank.com/easyone_index_en.html
+  notes: '실측 2026-10-03. 숨김 원인 size:1x1+overflow:hidden, text-indent:-9999px, font-size:1px (text-indent). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://image.kebhana.com/pbk/easyone/resource/css/real/base.css,
+    https://image.kebhana.com/pbk/easyone/resource/css/real/main.css). 조각 렌더링으로 재현 확인'
+- id: DC-015
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <li><div class="subCon_table02 mt_19"><table><caption>지역화폐 사용처(지역화폐 사용불가 종류 비고)</caption></table></div></li>
+  css: 'caption { display: table-caption; }
+
+    caption { width: 0px; height: 0px; font-size: 0px; line-height: 0; text-indent: -9999px; overflow: hidden; }'
+  evidence_text: 지역화폐 사용처(지역화폐 사용불가 종류 비고)
+  expected_location: caption
+  is_positive: false
+  extra_finding: null
+  source: 화성특례시청 > 행정정보 > 알림정보 > 희망화성지역화폐 > 지역화폐 소개 | https://www.hscity.go.kr/www/information/ntcnInfo/hhcLocal/localInfo.jsp
+  notes: '실측 2026-10-03. 숨김 원인 size:0x0+overflow:hidden, text-indent:-9999px, font-size:0px (text-indent). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.hscity.go.kr/resources/www/css/reset.css). 조각 렌더링으로 재현
+    확인'
+- id: DC-016
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div id="wrapper" class="incheon wrapper"><div class="go-top"><a href="#header" title="페이지 위로 이동" class="top"><span class="hidden">위로</span></a></div></div>
+  css: '.hidden, .blind, .hd-element { display: block; overflow: hidden; position: absolute; left: -1e+16px; top: -999999px; width: 0px; height: 0px; font-size: 0px; }'
+  evidence_text: 위로
+  expected_location: span.hidden
+  is_positive: false
+  extra_finding: null
+  source: 2026-2027절기 인플루엔자·코로나19 무료 예방접종 안내 | https://www.incheon.go.kr/IC010101/view?nttNo=2046188
+  notes: '실측 2026-10-03. 숨김 원인 size:0x0+overflow:hidden, offset:left=-3.35544e+07px,top=-999999px, font-size:0px (offset). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.incheon.go.kr/humanframe/globaltheme/assets/style/_layout/layout-portal.css?ver=380.0).
+    조각 렌더링으로 재현 확인'
+- id: DC-017
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div class="board_search"><form action="/tour/tour/info/experience.cs" method="post"><fieldset><legend>'게시판명' 검색</legend></fieldset></form></div>
+  css: 'caption, legend { overflow: hidden; font-size: 0px; line-height: 0; }'
+  evidence_text: '''게시판명'' 검색'
+  expected_location: legend
+  is_positive: false
+  extra_finding: null
+  source: '체험관광 : 진도군 관광문화 | https://www.jindo.go.kr/tour/tour/info/experience.cs?m=25'
+  notes: '실측 2026-10-03. 숨김 원인 size:0x0+overflow:hidden, font-size:0px (font-size). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.jindo.go.kr/themes/tour/css/common.css?ver=5.320). 조각 렌더링으로 재현 확인'
+- id: DC-018
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div class="mainsearch"><form action="/site/kr/search.php" method="GET"><fieldset><legend>홈페이지검색</legend></fieldset></form></div>
+  css: 'caption, legend { overflow: hidden; position: relative; width: 0px; height: 0px; margin: 0px; padding: 0px; line-height: 0; }'
+  evidence_text: 홈페이지검색
+  expected_location: legend
+  is_positive: false
+  extra_finding: null
+  source: KAIST | https://www.kaist.ac.kr/kr/
+  notes: '실측 2026-10-03. 숨김 원인 size:0x0+overflow:hidden (size1px). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.kaist.ac.kr/pcms/common/css/common.css). 조각 렌더링으로 재현 확인'
+- id: DC-019
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div class="wrap-visual"><div class="area-aside"><a href="https://cert.kbstar.com/quics?page=C112161" class="go_cert"><span>KB국민인증서 바로가기</span></a></div></div>
+  css: 'a, em, label, span, strong, button { display: inline-block; }
+
+    .wrap-visual .area-aside a.go_cert span { width: 94px; height: 86px; background: url("../img/btn_kbcert.png") 0px 0px no-repeat; font-size: 0px; color: transparent; }'
+  evidence_text: KB국민인증서 바로가기
+  expected_location: span
+  is_positive: false
+  extra_finding: null
+  source: KB국민은행 | https://www.kbstar.com/
+  notes: '실측 2026-10-03. 숨김 원인 font-size:0px (font-size). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.kbstar.com/2018/css/intro_2018.css?20260730, https://www.kbstar.com/2018/css/intro_2018_content.css?20260902).
+    조각 렌더링으로 재현 확인'
+- id: DC-020
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <ul class="utility-list"><li><button type="button" class="language"><span class="sr-only">열기</span></button></li></ul>
+  css: '.sr-only { height: 0px; display: block; overflow: hidden; width: 0px; }'
+  evidence_text: 열기
+  expected_location: span.sr-only
+  is_positive: false
+  extra_finding: null
+  source: 질병관리청 | https://www.kdca.go.kr/kdca/index.do
+  notes: '실측 2026-10-03. 숨김 원인 size:0x0+overflow:hidden (size1px). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.kdca.go.kr/sites/kdca/style/css/w_layout.css?v=1791037399392). 조각 렌더링으로 재현 확인'
+- id: DC-021
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div class="logo-wrap" tabindex="0"><h1><a href="/home/index.do" class="logo" title="KEPCO" onclick="javascript:gaEvent('gnb', 'click', 'gnb_main');"><span class="sr-only">KEPCO</span></a></h1></div>
+  css: '.sr-only { position: absolute; width: 0px; height: 0px; padding: 0px; margin: -1px; overflow: hidden; clip: rect(0px, 0px, 0px, 0px); white-space: nowrap; border: 0px; }'
+  evidence_text: KEPCO
+  expected_location: span.sr-only
+  is_positive: false
+  extra_finding: null
+  source: 한국전력공사 | 홈페이지 | https://www.kepco.co.kr/
+  notes: '실측 2026-10-03. 숨김 원인 clip:rect(0px, 0px, 0px, 0px), size:0x0+overflow:hidden (clip). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.kepco.co.kr/assets/css/default.css). 조각 렌더링으로 재현 확인'
+- id: DC-022
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <h2 class="hidden_word loc_tit">방송미디어통신심의위원회</h2>
+  css: 'h1, h2, h3, h4, h5, h6 { font-size: inherit; font-weight: inherit; margin: 0px; }
+
+    .hidden_word { position: absolute; top: 0px; left: -9999px; text-indent: -9999px; display: block; }'
+  evidence_text: 방송미디어통신심의위원회
+  expected_location: h2.hidden_word.loc_tit
+  is_positive: false
+  extra_finding: null
+  source: 방송미디어통신심의위원회 | https://www.kocsc.or.kr/mainPage.do
+  notes: '실측 2026-10-03. 숨김 원인 offset:left=-9999px,top=0px, text-indent:-9999px (offset). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.kocsc.or.kr/template/resources/styles/style.css). 조각 렌더링으로 재현 확인'
+- id: DC-023
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div class="wrap"><div class="videoplaystop"><button class="toggle_play is-active" type="button"><span class="sr-only btnText">재생중지</span></button></div></div>
+  css: '.sr-only { position: absolute; width: 1px; height: 1px; padding: 0px; margin: -1px; overflow: hidden; clip: rect(0px, 0px, 0px, 0px); white-space: nowrap; border: 0px; }'
+  evidence_text: 재생중지
+  expected_location: span.sr-only.btnText
+  is_positive: false
+  extra_finding: null
+  source: 고려대학교 | https://www.korea.ac.kr/sites/ko/index.do
+  notes: '실측 2026-10-03. 숨김 원인 clip:rect(0px, 0px, 0px, 0px), size:1x1+overflow:hidden, offset:left=-9971.5px,top=57.5px, text-indent:-9999px (clip). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.korea.ac.kr/sites/ko/style/css/style.css).
+    조각 렌더링으로 재현 확인'
+- id: DC-024
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <main id="main" tabindex="-1"><h1 class="sr-only">대한민국 정책브리핑 홈</h1></main>
+  css: '.sr-only, .hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; padding: 0px; margin: -1px; border: 0px; }'
+  evidence_text: 대한민국 정책브리핑 홈
+  expected_location: h1.sr-only
+  is_positive: false
+  extra_finding: null
+  source: 대한민국 정책브리핑 | https://www.korea.kr/main.do
+  notes: '실측 2026-10-03. 숨김 원인 size:1x1+overflow:hidden (size1px). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.korea.kr/cssV5/web.common.css?time=202610030340). 조각 렌더링으로 재현 확인'
+- id: DC-025
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <li class="li"><div class="krds-drop-wrap zoom-drop"><button type="button" class="btn btn-txt ico-arr-down xsm drop-btn" aria-expanded="false"><span class="sr-only">열기</span></button></div></li>
+  css: '.sr-only { position: absolute !important; width: 1px !important; height: 1px !important; padding: 0px !important; margin: -1px !important; overflow: hidden !important; clip: rect(0px, 0px, 0px,
+    0px) !important; white-space: nowrap !important; border: 0px !important; }'
+  evidence_text: 열기
+  expected_location: span.sr-only
+  is_positive: false
+  extra_finding: null
+  source: 한국장학재단 | https://www.kosaf.go.kr/ko/main.do
+  notes: '실측 2026-10-03. 숨김 원인 clip:rect(0px, 0px, 0px, 0px), size:1x1+overflow:hidden (clip). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://static.kosaf.go.kr/www/css/krds/common_202412.css). 조각 렌더링으로 재현 확인'
+- id: DC-026
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <section class="flex w-full items-center"><form class="relative flex flex-auto items-center"><button type="button" data-role="gnb-search-submit" class="h-6 w-6 mr-6"><span class="sr-only">search
+    button</span></button></form></section>
+  css: '.sr-only { clip-path: inset(50%); white-space: nowrap; border-width: 0px; width: 1px; height: 1px; margin: -1px; padding: 0px; position: absolute; overflow: hidden; }'
+  evidence_text: search button
+  expected_location: span.sr-only
+  is_positive: false
+  extra_finding: null
+  source: 교보문고 | 대한민국 최고의 도서쇼핑몰 | https://www.kyobobook.co.kr/
+  notes: '실측 2026-10-03. 숨김 원인 clip-path:inset(50%), size:1x1+overflow:hidden (clip). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://contents.kyobobook.co.kr/display/next/ui-welcome/build-1790750224/_next/static/chunks/0p_6k1-kuq_e1.css).
+    조각 렌더링으로 재현 확인'
+- id: DC-027
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <span class="label_form check"><label for="bookmark"><span><i class="sr-only" id="bookmarksr">관심 콘텐츠 설정하기</i></span></label></span>
+  css: '.blind, .hidden, .longdesc, hr, .sr-only, legend, caption { position: absolute !important; width: 1px !important; height: 1px !important; padding: 0px !important; margin: -1px !important; overflow:
+    hidden !important; clip: rect(0px, 0px, 0px, 0px) !important; white-space: nowrap !important; border: 0px !important; }
+
+    .sr-only { position: absolute !important; width: 1px !important; height: 1px !important; padding: 0px !important; margin: -1px !important; overflow: hidden !important; clip: rect(0px, 0px, 0px, 0px)
+    !important; white-space: nowrap !important; border: 0px !important; }'
+  evidence_text: 관심 콘텐츠 설정하기
+  expected_location: i#bookmarksr
+  is_positive: false
+  extra_finding: null
+  source: 정책소통 - 대학생기자단 - 불법 도박 인식 제고를 돕는 <한국도박문제관리센터 ‘찾아가는 맞춤형 예방교육’> | https://www.mcst.go.kr/site/s_policy/comm/studentNews/studentNewsView.jsp?pSeq=5221
+  notes: '실측 2026-10-03. 숨김 원인 clip:rect(0px, 0px, 0px, 0px), size:1x1+overflow:hidden (clip). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.mcst.go.kr/site/common/css/default.css?ver=20260715103057). 조각 렌더링으로
+    재현 확인'
+- id: DC-028
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div id="location"><div class="ly_center_mom"><div class="container_setting"><button class="btn_zoom">본문확대</button></div></div></div>
+  css: 'button { font-family: inherit; font-weight: inherit; font-size: inherit; }
+
+    input, textarea, select, button { font-size: 14px; }
+
+    .container_setting a, .container_setting button { float: left; width: 24px; height: 24px; font-size: 0px; padding: 0px; box-sizing: border-box; margin-left: 3px; }'
+  evidence_text: 본문확대
+  expected_location: button.btn_zoom
+  is_positive: false
+  extra_finding: null
+  source: 식품의약품안전처>정보공개>정보공개 목록>결재정보(14년1월~) | 식품의약품안전처 | https://www.mfds.go.kr/usr/opendata_17/openApiView.do
+  notes: '실측 2026-10-03. 숨김 원인 font-size:0px (font-size). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.mfds.go.kr/css/www/base.css?ver=3, https://www.mfds.go.kr/css/www/location.css?ver=3). 조각 렌더링으로 재현 확인'
+- id: DC-029
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <h1 class="sr-only">교육부 국문 홈페이지</h1>
+  css: '.blind, hr, .sr-only, legend, caption { position: absolute !important; width: 1px !important; height: 1px !important; padding: 0px !important; margin: -1px !important; overflow: hidden !important;
+    clip: rect(0px, 0px, 0px, 0px) !important; white-space: nowrap !important; border: 0px !important; }
+
+    .blind, hr, .sr-only, legend, caption { position: absolute !important; width: 1px !important; height: 1px !important; padding: 0px !important; margin: -1px !important; overflow: hidden !important; clip:
+    rect(0px, 0px, 0px, 0px) !important; white-space: nowrap !important; border: 0px !important; }'
+  evidence_text: 교육부 국문 홈페이지
+  expected_location: h1.sr-only
+  is_positive: false
+  extra_finding: null
+  source: 교육부 | https://www.moe.go.kr/main.do?s=moe
+  notes: '실측 2026-10-03. 숨김 원인 clip:rect(0px, 0px, 0px, 0px), size:1x1+overflow:hidden (clip). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.moe.go.kr/css/2025Renewal//krds/output.css, https://www.moe.go.kr/css/2025Renewal/krds/common.css).
+    조각 렌더링으로 재현 확인'
+- id: DC-030
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div class="notice-box"><div class="notice-left"><div id="tab1" class="tabPage active"><h3 class="blind23">알립니다</h3></div></div></div>
+  css: '.blind23 { overflow: hidden; position: absolute; clip: rect(0px, 0px, 0px, 0px); clip-path: polygon(0px 0px, 0px 0px, 0px 0px); width: 1px; height: 1px; margin: -1px; }'
+  evidence_text: 알립니다
+  expected_location: h3.blind23
+  is_positive: false
+  extra_finding: null
+  source: 행정안전부 | https://www.mois.go.kr/frt/a01/frtMain.do
+  notes: '실측 2026-10-03. 숨김 원인 clip:rect(0px, 0px, 0px, 0px), size:1x1+overflow:hidden (clip). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.mois.go.kr/frt2022/com/css/tamplate.css?v=20220809, https://www.mois.go.kr/frt2022/main/css/frt2020main.css?v=20231005,
+    https://www.mois.go.kr/frt2022/main/css/reset.css?v=20230104). 조각 렌더링으로 재현 확인'
+- id: DC-031
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <h1 class="logo"><a href="/index.do" aria-label="과학기술정보통신부"><span class="logoimg"><span class="blind">과학기술정보통신부</span></span></a></h1>
+  css: 'legend, caption, .alt_text, .blind { position: absolute !important; width: 1px !important; height: 1px !important; margin: -1px !important; padding: 0px !important; border: 0px !important; clip:
+    rect(0px, 0px, 0px, 0px) !important; overflow: hidden !important; white-space: nowrap !important; }'
+  evidence_text: 과학기술정보통신부
+  expected_location: span.blind
+  is_positive: false
+  extra_finding: null
+  source: 보도자료 | 상세화면 - 과학기술정보통신부 | https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187820
+  notes: '실측 2026-10-03. 숨김 원인 clip:rect(0px, 0px, 0px, 0px), size:1x1+overflow:hidden (clip). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.msit.go.kr/asset/css/user/layout.css?v=20). 조각 렌더링으로 재현 확인'
+- id: DC-032
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div class="wrapper"><ul class="txt_list2"><li><a href="#" name="fnApp" class="btn_app">App store</a></li></ul></div>
+  css: '.btn_app { display: inline-block; width: 104px; height: 33px; vertical-align: middle; background: url("../images/btn/btn_appsore.png") 0px 0px / contain no-repeat; font-size: 0px !important; }'
+  evidence_text: App store
+  expected_location: a.btn_app
+  is_positive: false
+  extra_finding: null
+  source: 대한민국 국회도서관 | 책이야기 > 전자책/오디오북 | https://www.nanet.go.kr/eBook/eBookInfo.do
+  notes: '실측 2026-10-03. 숨김 원인 font-size:0px (font-size). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.nanet.go.kr/css/style.css?v=20261003347). 조각 렌더링으로 재현 확인'
+- id: DC-033
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <ul><li><a href="#none" role="button" tabindex="0" aria-expanded="false"><em class="hdn">목록 열기</em></a></li></ul>
+  css: '.hdn { position: absolute; left: 0px; top: 0px; width: 0px; height: 0px; overflow: hidden; }'
+  evidence_text: 목록 열기
+  expected_location: em.hdn
+  is_positive: false
+  extra_finding: null
+  source: 자료실 > 의료부 자료실 > 「2024년 청소년 온라인 도박중독 실무자 역량강화 교육」 안내 | 국립정신건강 | https://www.ncmh.go.kr/ncmh/board/boardView.do?no=9822&fno=106&menu_cd=04_02_00_01&bn=newsView
+  notes: '실측 2026-10-03. 숨김 원인 size:0x0+overflow:hidden (size1px). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.ncmh.go.kr/static/ncmh/css/nh_common.css). 조각 렌더링으로 재현 확인'
+- id: DC-034
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div class="h_wrap"><div class="util"><button type="button" class="btn_size active"><span class="sr_only">열기</span></button></div></div>
+  css: 'input, textarea, a, button, select, span, label, ::before, ::after { font-size: inherit; font-weight: 400; }
+
+    .blind, hr, .sr_only, legend, caption { position: absolute !important; width: 1px !important; height: 1px !important; padding: 0px !important; margin: -1px !important; overflow: hidden !important; clip:
+    rect(0px, 0px, 0px, 0px) !important; white-space: nowrap !important; border: 0px !important; }'
+  evidence_text: 열기
+  expected_location: span.sr_only
+  is_positive: false
+  extra_finding: null
+  source: 신고대상 | 사행산업통합감독위원회 불법사행산업감시신고센터 | https://singo.ngcc.go.kr/singo/portal/guide/guide_02.do
+  notes: '실측 2026-10-03. 숨김 원인 clip:rect(0px, 0px, 0px, 0px), size:1x1+overflow:hidden (clip). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://singo.ngcc.go.kr/singo/css_user/style.css?ver=20260909_2). 조각 렌더링으로 재현
+    확인'
+- id: DC-035
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div class="tab-area layer"><div class="tab line"><a href="#" class="more" onclick="clickNewsMoreButton(); return false;"><i class="sr-only">공지사항 더보기</i></a></div></div>
+  css: '.sr-only { position: absolute !important; width: 1px !important; height: 1px !important; padding: 0px !important; margin: -1px !important; overflow: hidden !important; clip: rect(0px, 0px, 0px,
+    0px) !important; white-space: nowrap !important; border: 0px !important; }'
+  evidence_text: 공지사항 더보기
+  expected_location: i.sr-only
+  is_positive: false
+  extra_finding: null
+  source: 국민건강보험 | https://www.nhis.or.kr/nhis/index.do
+  notes: '실측 2026-10-03. 숨김 원인 clip:rect(0px, 0px, 0px, 0px), size:1x1+overflow:hidden (clip). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.nhis.or.kr/_res/nhis/nhis/css/krds.min.css?1774330120000). 조각 렌더링으로
+    재현 확인'
+- id: DC-036
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div class="header-nav"><div class="gnav-inner"><a href="#" class="btn-menu-all"><span class="blind">open</span></a></div></div>
+  css: '.blind { position: absolute; left: -9999rem; text-align: left; overflow: hidden; }'
+  evidence_text: open
+  expected_location: span.blind
+  is_positive: false
+  extra_finding: null
+  source: National Pension Service | https://www.nps.or.kr/chn/main.do
+  notes: '실측 2026-10-03. 숨김 원인 offset:left=-99990px,top=28.75px (offset). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.nps.or.kr/css/chn/reset.css). 조각 렌더링으로 재현 확인'
+- id: DC-037
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <fieldset><div class="block search-condition"><div class="form-group"><label for="q_searchKeyTy" class="sr-only">항목</label></div></div></fieldset>
+  css: '.sr-only { position: absolute; width: 1px; height: 1px; padding: 0px; margin: -1px; overflow: hidden; clip: rect(0px, 0px, 0px, 0px); border: 0px; }
+
+    label { display: inline-block; max-width: 100%; margin-bottom: 5px; font-weight: 700; }'
+  evidence_text: 항목
+  expected_location: label.sr-only
+  is_positive: false
+  extra_finding: null
+  source: '공지사항 : HOME > 알림/소식 > 알림 > 공지사항 | https://www.police.go.kr/user/bbs/BD_selectBbsList.do?q_bbsCode=1001'
+  notes: '실측 2026-10-03. 숨김 원인 clip:rect(0px, 0px, 0px, 0px), size:1x1+overflow:hidden (clip). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.police.go.kr/resources/common/css/default.css, https://www.police.go.kr/resources/templateSample/css/bootstrap.min.css).
+    조각 렌더링으로 재현 확인'
+- id: DC-038
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div id="skipNavi"><h1 class="blind">스킵네비게이션</h1></div>
+  css: '.blind { width: 1px; height: 1px; overflow: hidden; position: absolute; top: -9999em; left: -9999em; display: block; text-indent: -9999em; font-size: 0px; line-height: 0; }'
+  evidence_text: 스킵네비게이션
+  expected_location: h1.blind
+  is_positive: false
+  extra_finding: null
+  source: 인사말 > 개교80주년 | 부산대학교 | https://www.pusan.ac.kr/kor/CMS/Contents/Contents.do?mCode=MN300
+  notes: '실측 2026-10-03. 숨김 원인 size:1x1+overflow:hidden, font-size:0px (font-size). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.pusan.ac.kr/resources/_Css/common.css). 조각 렌더링으로 재현 확인'
+- id: DC-039
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div id="m_gnb" class="hd_div"><button type="button" id="gnb_close" class="hd_closer"><span class="sound_only">메뉴 닫기</span></button></div>
+  css: '.msg_sound_only, .sound_only { position: absolute; top: 0px; left: 0px; width: 0px; height: 0px; font-size: 0px; line-height: 0; display: inline-block !important; margin: 0px !important; padding:
+    0px !important; border: 0px !important; overflow: hidden !important; }'
+  evidence_text: 메뉴 닫기
+  expected_location: span.sound_only
+  is_positive: false
+  extra_finding: null
+  source: 서울특별시교육청 전자도서관 | https://e-lib.sen.go.kr/contents/bookInf
+  notes: '실측 2026-10-03. 숨김 원인 size:0x0+overflow:hidden, font-size:0px (font-size). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://e-lib.sen.go.kr/resources/css/reset.css?v=20260904, https://e-lib.sen.go.kr/resources/css/style.css?v=20260904).
+    조각 렌더링으로 재현 확인'
+- id: DC-040
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <footer class="ly-footer"><p class="blind">푸터</p></footer>
+  css: '.blind, .hide { overflow: hidden; display: inline-block; height: 1px; width: 1px; border: 0px; margin: -1px; font-size: 1px; clip: rect(1px, 1px, 1px, 1px); clip-path: inset(50%); position: absolute
+    !important; }'
+  evidence_text: 푸터
+  expected_location: p.blind
+  is_positive: false
+  extra_finding: null
+  source: 서울대학교 | https://www.snu.ac.kr/
+  notes: '실측 2026-10-03. 숨김 원인 clip:rect(1px, 1px, 1px, 1px), clip-path:inset(50%), size:1x1+overflow:hidden, font-size:1px (clip). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.snu.ac.kr/_skin/kor/layout/css/base.css?ver=2026-06-29).
+    조각 렌더링으로 재현 확인'
+- id: DC-041
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div id="wrap"><a href="/" class="hideEl layerBtn" id="nonCiChkBtn2" data-layer="layerCiChk2">본인인증</a></div>
+  css: '.hideEl, .pagination [class*="Btn"] span { overflow: hidden; position: absolute; width: 1px; height: 1px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none;
+    clip: rect(1px, 1px, 1px, 1px); }'
+  evidence_text: 본인인증
+  expected_location: a#nonCiChkBtn2
+  is_positive: false
+  extra_finding: null
+  source: 서울대학교병원 | https://www.snuh.org/main.do
+  notes: '실측 2026-10-03. 숨김 원인 clip:rect(1px, 1px, 1px, 1px), size:1x1+overflow:hidden (clip). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.snuh.org/asset/css/base.min.css, https://www.snuh.org/asset/css/common.min.css?ver=2026080701).
+    조각 렌더링으로 재현 확인'
+- id: DC-042
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <ul class="location_box"><li><a href="/u/rep" title="홈 바로가기"><span class="sound_only">홈 바로가기</span></a></li></ul>
+  css: '.sound_only { position: absolute; top: 0px; left: 0px; font-size: 0px; line-height: 0; display: inline-block !important; margin: 0px !important; padding: 0px !important; border: 0px !important;
+    overflow: hidden !important; }
+
+    .location_box li span { display: inline-block; padding: 0px 5px; text-decoration: underline; }'
+  evidence_text: 홈 바로가기
+  expected_location: span.sound_only
+  is_positive: false
+  extra_finding: null
+  source: 울산광역시 대표누리집 > 정보공개 > 업무추진비 > 실·국장(신) | https://www.ulsan.go.kr/u/rep/transfer/director/list.ulsan?mId=001003002003000000
+  notes: '실측 2026-10-03. 숨김 원인 size:0x0+overflow:hidden, font-size:0px (font-size). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.ulsan.go.kr/u/storyCms/rep/css/87.css?dt=20260130131246, https://www.ulsan.go.kr/u/storyCms/rep/css/88.css?dt=20260512151215).
+    조각 렌더링으로 재현 확인'
+- id: DC-043
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div id="accNav"><p><a href="https://spot.wooribank.com/pot/Dream?withyou=CQIBG0050">웹접근성 이용안내 바로가기</a></p></div>
+  css: '#accNav p a { display: block; overflow: hidden; position: absolute; top: 0px; left: 0px; width: 1px; height: 1px; background: rgb(235, 235, 235); margin-bottom: -1px; margin-left: -1px; font-weight:
+    bold; text-align: center; white-space: nowrap; color: rgb(102, 102, 102) !important; }'
+  evidence_text: 웹접근성 이용안내 바로가기
+  expected_location: a
+  is_positive: false
+  extra_finding: null
+  source: 우리은행 | https://www.wooribank.com/
+  notes: '실측 2026-10-03. 숨김 원인 size:1x1+overflow:hidden (size1px). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://simg.wooribank.com/css/base.css?1778572893000, https://simg.wooribank.com/css/intro_new.css?1766044900000).
+    조각 렌더링으로 재현 확인'
+- id: DC-044
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div class="yFootCon"><dl class="yFootAddr"><dt><em class="bgFooter fCName">예스이십사(주)</em></dt></dl></div>
+  css: '.bgFooter { display: inline-block; zoom: 1; overflow: hidden; text-align: left; text-indent: -999em; vertical-align: top; background-image: url("/sysimage/renew/footer/footerN4.png?v=170405"); }
+
+    #yesFooter .yFootCon .yFootAddr dt .fCName { position: absolute; left: 164px; top: 21px; width: 88px; height: 15px; overflow: hidden; text-indent: -999em; background-position: -179px -60px; }'
+  evidence_text: 예스이십사(주)
+  expected_location: em.bgFooter.fCName
+  is_positive: false
+  extra_finding: null
+  source: 예스24 | https://www.yes24.com/Main/default.aspx
+  notes: '실측 2026-10-03. 숨김 원인 text-indent:-11988px (text-indent). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://image.yes24.com/sysimage/yesUI/layout/yesFooterN4.css?v=20260901). 조각 렌더링으로 재현 확인'
+- id: DC-045
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div class="search"><div class="board-serch"><fieldset><legend>게시물 검색</legend></fieldset></div></div>
+  css: 'legend { width: 0px; height: 0px; font-size: 0px; position: absolute; z-index: -1; }'
+  evidence_text: 게시물 검색
+  expected_location: legend
+  is_positive: false
+  extra_finding: null
+  source: 연세대학교 | 기타안내 | FAQ | 학사FAQ | 전체보기 | https://www.yonsei.ac.kr/sc/301/subview.do
+  notes: '실측 2026-10-03. 숨김 원인 font-size:0px (font-size). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.yonsei.ac.kr/sites/guide/style/css/w_reset.css). 조각 렌더링으로 재현 확인'
+- id: DC-046
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div class="subpage"><div class="quick-menu on"><a id="top_btn"><span class="blind">상단으로</span></a></div></div>
+  css: '.blind { overflow: hidden; position: absolute; top: 0px; left: 0px; width: 1px; height: 1px; font-size: 0px; line-height: 0; color: rgb(0, 0, 0) !important; }'
+  evidence_text: 상단으로
+  expected_location: span.blind
+  is_positive: false
+  extra_finding: null
+  source: 자주묻는질문 < 자료마당 | 정부민원안내콜센터 | https://www.110.go.kr/data/counselView.do?num=A01_659891
+  notes: '실측 2026-10-03. 숨김 원인 size:1x1+overflow:hidden, font-size:0px (font-size). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.110.go.kr/css/egovframework/gcall/main_new/common.css). 조각 렌더링으로 재현 확인'
+- id: DC-047
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div class="welcome_wrap"><div class="welcome_section3"><h3><span class="tobelogo">투비컨티뉴드</span></h3></div></div>
+  css: '.welcome_section3 h3 .tobelogo { display: inline-block; width: 248px; height: 18px; background: url("//image.aladin.co.kr/img/ToBeContinued/common/tb-logo-black.svg") center center / 100% auto no-repeat;
+    font-size: 1px; color: transparent; text-indent: -1000em; vertical-align: middle; margin-top: -4px; }'
+  evidence_text: 투비컨티뉴드
+  expected_location: span.tobelogo
+  is_positive: false
+  extra_finding: null
+  source: 알라딘 | https://www.aladin.co.kr/home/welcome.aspx
+  notes: '실측 2026-10-03. 숨김 원인 text-indent:-1000px, font-size:1px (text-indent). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.aladin.co.kr/ucl_editor/css/welcome_v1.css?ver=2026100323). 조각 렌더링으로 재현 확인'
+- id: DC-048
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div id="location"><div class="locationInner"><div class="lineMap"><a href="/" class="home">HOME</a></div></div></div>
+  css: '#location .lineMap .home { display: inline-block; vertical-align: middle; font-size: 0px; line-height: 0; }
+
+    #location .lineMap a { display: inline-block; padding: 0px 5px; color: rgb(102, 102, 102); line-height: 1; }'
+  evidence_text: HOME
+  expected_location: a.home
+  is_positive: false
+  extra_finding: null
+  source: '부산소개 : 부산의 인물 : 향토수호(충신) : 부산광역시 | https://www.busan.go.kr/bhloyalists'
+  notes: '실측 2026-10-03. 숨김 원인 font-size:0px (font-size). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.busan.go.kr/humanframe/global/assets/css/global.css?v=202211171452, https://www.busan.go.kr/humanframe/theme/busan22/assets/css/common.css?v=2025-09-02-1024,
+    https://www.busan.go.kr/humanframe/theme/busan22/assets/css/content.css?v=2026-01-09-1736). 조각 렌더링으로 재현 확인'
+- id: DC-049
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div class="totalSearch"><div class="inner"><div class="box"><button class="btn_close" type="button" onclick="clo()">닫기</button></div></div></div>
+  css: '.totalSearch .btn_close { position: absolute; top: 35px; right: 70px; width: 27px; height: 27px; background: url("/resources/images/common/ic_close.png") 50% 50% no-repeat; font-size: 0px; z-index:
+    1; }
+
+    input, select, textarea, button { font-family: noto, "맑은 고딕", 돋움, Dotum, 굴림, Gulim; color: rgb(102, 102, 102); line-height: 32px; font-size: 18px; }'
+  evidence_text: 닫기
+  expected_location: button.btn_close
+  is_positive: false
+  extra_finding: null
+  source: 초록우산 | 아동복지전문기관 | https://www.chorogusan.or.kr/main.do
+  notes: '실측 2026-10-03. 숨김 원인 font-size:0px (font-size). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.chorogusan.or.kr/resources/css/common.css?bust=20260423, https://www.chorogusan.or.kr/resources/css/layout.css?bust=20260813).
+    조각 렌더링으로 재현 확인'
+- id: DC-050
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div class="subCntBody clearfix"><div><div class="satisfaction"><h3 class="hid">콘텐츠 만족도 조사</h3></div></div></div>
+  css: '.blind, legend, .hid, hr { height: 1px; width: 1px; overflow: hidden; clip: rect(1px, 1px, 1px, 1px); position: absolute !important; }'
+  evidence_text: 콘텐츠 만족도 조사
+  expected_location: h3.hid
+  is_positive: false
+  extra_finding: null
+  source: 관세청-분야별 목록 | https://www.customs.go.kr/kcs/ad/bfhnInfo/bfhnInfoList.do?mi=2805
+  notes: '실측 2026-10-03. 숨김 원인 clip:rect(1px, 1px, 1px, 1px), size:1x1+overflow:hidden (clip). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.customs.go.kr/css/web/kcs/common_v1.css?20261003034045). 조각 렌더링으로
+    재현 확인'
+- id: DC-051
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div class="top_header_srchBox"><form name="srchForm" id="srchForm" method="post" action="UnScRlt.laf" onsubmit="ReSearchTop(); return false;"><fieldset><legend>통합검색박스</legend></fieldset></form></div>
+  css: 'body, * { font-size: 13px; line-height: 160%; color: rgb(96, 96, 96); font-family: "Malgun Gothic", "맑은 고딕", Dotum, 돋움, 돋움체, sans-serif; }
+
+    legend { display: none; }
+
+    body, * { font-weight: 400; color: rgb(96, 96, 96); font-size: 13px; line-height: 160%; font-family: NotoSans, "Malgun Gothic", "맑은 고딕", Dotum, 돋움, 돋움체, AppleGothic, UnDotum, Arial, Tahoma, Verdana,
+    sans-serif; }
+
+    .top_header_srchBox legend, .top_header_srchBox label { width: 0px; height: 0px; overflow: hidden; text-indent: -9999px; display: block; }'
+  evidence_text: 통합검색박스
+  expected_location: legend
+  is_positive: false
+  extra_finding: null
+  source: 인터넷 불법이용 규제 > 불법사이트 등 규제 > 불법사이트의 개설 및 이용 금지 > 불법 사이트 발견 시 대 | https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=901&ccfNo=3&cciNo=1&cnpClsNo=3
+  notes: '실측 2026-10-03. 숨김 원인 size:0x0+overflow:hidden, text-indent:-9999px (text-indent). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://easylaw.go.kr/CSP/css/common.css?v250626, https://easylaw.go.kr/CSP/css/index.css?v230728).
+    조각 렌더링으로 재현 확인'
+- id: DC-052
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div class="wrapper"><main id="container"><section class="visual-wrap"><h2 class="hd-element">메인 배너 영역</h2></section></main></div>
+  css: 'hr, table caption, legend, .hd-element { display: block; overflow: hidden; position: absolute; left: -1e+11px; width: 0px; height: 0px; font-size: 0px; line-height: 0; }'
+  evidence_text: 메인 배너 영역
+  expected_location: h2.hd-element
+  is_positive: false
+  extra_finding: null
+  source: 금융위원회 | https://www.fsc.go.kr/index
+  notes: '실측 2026-10-03. 숨김 원인 size:0x0+overflow:hidden, offset:left=-3.35544e+07px,top=0px, font-size:0px (offset). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.fsc.go.kr/humanframe/theme/fscmain/assets/style/base.css).
+    조각 렌더링으로 재현 확인'
+- id: DC-053
+  category: DECOY
+  subtype: a11y_sr_only
+  html: "<ul class=\"swiper-wrapper\" style=\"cursor: grab;\" id=\"swiper-wrapper-383eea73b77cb985\" aria-live=\"off\"><li class=\"swiper-slide swiper-slide-next\" role=\"group\" aria-label=\"2 / 2 슬라이드\"\
+    \ data-swiper-slide-index=\"1\" style=\"width: 1280px; opacity: 0; transform: translate3d(-1280px, 0px, 0px); --i: 1;\"><div class=\"item\"><div class=\"sr-only\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t메인비쥬얼2</div></div></li></ul>"
+  css: '.blind, .sr-only, caption, hr, legend { position: absolute !important; width: 1px !important; height: 1px !important; padding: 0px !important; margin: -1px !important; overflow: hidden !important;
+    clip: rect(0px, 0px, 0px, 0px) !important; white-space: nowrap !important; border: 0px !important; }'
+  evidence_text: 메인비쥬얼2
+  expected_location: div.sr-only
+  is_positive: false
+  extra_finding: null
+  source: 금융감독원 통합홈페이지 | https://www.fss.or.kr/fss/main/main.do?menuNo=200000
+  notes: '실측 2026-10-03. 숨김 원인 clip:rect(0px, 0px, 0px, 0px), size:1x1+overflow:hidden (clip). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.fss.or.kr/static/fss/css/new/krds.min.css). 조각 렌더링으로 재현 확인'
+- id: DC-054
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div class="headerinnerwrap"><div class="header_inner"><div class="btn_search"><a href="" id="btn_search">검색하기 열기</a></div></div></div>
+  css: '.headerinnerwrap .header_inner .btn_search a { text-indent: -9999px; font-size: 0px; display: block; height: 100%; }'
+  evidence_text: 검색하기 열기
+  expected_location: a#btn_search
+  is_positive: false
+  extra_finding: null
+  source: 지역화폐 20만 원 쓰면 7만 원 인센티브! 삼성페이로 편리하게! | https://gnews.gg.go.kr/news/news_detail.do?number=202105311315394244C052&s_code=C052
+  notes: '실측 2026-10-03. 숨김 원인 text-indent:-9999px, font-size:0px (text-indent). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://gnews.gg.go.kr/css/new2025/layout.css). 조각 렌더링으로 재현 확인'
+- id: DC-055
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <li class="lang"><a href="#gn2c" class="toggle"><span class="t1"><em class="blind">펼치기</em></span></a></li>
+  css: '.blind { left: -9999px; width: 1px; height: 1px; font-size: 0px; line-height: 0; overflow: hidden; position: absolute !important; }'
+  evidence_text: 펼치기
+  expected_location: em.blind
+  is_positive: false
+  extra_finding: null
+  source: 김해시 | https://www.gimhae.go.kr/main.web
+  notes: '실측 2026-10-03. 숨김 원인 size:1x1+overflow:hidden, offset:left=-9999px,top=0px, font-size:0px (offset). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.gimhae.go.kr/_res/portal/share/css/base.css). 조각 렌더링으로
+    재현 확인'
+- id: DC-056
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <nav class="skip-nav"><a href="#user-menu" onclick="document.getElementById('user-menu').tabIndex = -1;document.getElementById('user-menu').focus();return false;" class="user-border"><span>주요서비스
+    바로가기</span></a></nav>
+  css: '.skip-nav a { position: absolute; top: -9999px; left: 0px; width: 135px; border: 1px solid rgb(231, 63, 114); background: rgb(33, 33, 33); text-align: center; }'
+  evidence_text: 주요서비스 바로가기
+  expected_location: span
+  is_positive: false
+  extra_finding: null
+  source: 광명사랑화폐 인센티브 20% 지급! 더 커진 시민 혜택 누리기 < 시민홍보기자단 < 시민톡톡 < 기사본문 - | http://news.gm.go.kr/news/articleView.html?idxno=22044
+  notes: '실측 2026-10-03. 숨김 원인 offset:left=0px,top=-9999px (offset). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://cdn.news.gm.go.kr/css/style.min.css, inline). 조각 렌더링으로 재현 확인'
+- id: DC-057
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div class="inner"><div class="service_area"><div class="service_tab_panel on" id="E"><h3 class="blind">주요서비스</h3></div></div></div>
+  css: '.blind { position: absolute; overflow: hidden; width: 1px; height: 1px; padding: 0px; margin-top: -1px; font-size: 0px; line-height: 0; text-indent: -9999px; }'
+  evidence_text: 주요서비스
+  expected_location: h3.blind
+  is_positive: false
+  extra_finding: null
+  source: 전남광주통합특별시(구)광주광역시 | https://www.gwangju.go.kr/main.do
+  notes: '실측 2026-10-03. 숨김 원인 size:1x1+overflow:hidden, text-indent:-9999px, font-size:0px (text-indent). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.gwangju.go.kr/home/www/css/basic.min.css?ts=20251013171353).
+    조각 렌더링으로 재현 확인'
+- id: DC-058
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div class="kebHeader"><div class="top_gnb"><div class="util"><h2 class="hid">KEB하나은행 유용한 메뉴</h2></div></div></div>
+  css: '.hid, legend, hr { font-size: 0px; height: 1px; left: -10000%; line-height: 0; overflow: hidden; position: absolute; text-indent: -10000px; top: 0px; width: 1px; }'
+  evidence_text: KEB하나은행 유용한 메뉴
+  expected_location: h2.hid
+  is_positive: false
+  extra_finding: null
+  source: KEB Hana Bank | https://www.hanabank.com/easyone_index_en.html
+  notes: '실측 2026-10-03. 숨김 원인 size:1x1+overflow:hidden, offset:left=-60000px,top=0px, text-indent:-10000px, font-size:0px (offset). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://image.kebhana.com/pbk/easyone/resource/css/real/base.css,
+    https://image.kebhana.com/pbk/easyone/resource/css/real/contents.css, https://image.kebhana.com/pbk/easyone/resource/css/real/main.css). 조각 렌더링으로 재현 확인'
+- id: DC-059
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div class="n26-sub-top"><ul class="sns-print"><li class="share"><a href="#" id="share_btn">공유하기</a></li></ul></div>
+  css: '.sns-print > li > a { display: block; width: 30px; height: 30px; font-size: 0px; background: center center / 25px auto no-repeat; }'
+  evidence_text: 공유하기
+  expected_location: a#share_btn
+  is_positive: false
+  extra_finding: null
+  source: 화성특례시청 > 행정정보 > 알림정보 > 희망화성지역화폐 > 지역화폐 소개 | https://www.hscity.go.kr/www/information/ntcnInfo/hhcLocal/localInfo.jsp
+  notes: '실측 2026-10-03. 숨김 원인 font-size:0px (font-size). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.hscity.go.kr/resources/www/css/master.css, https://www.hscity.go.kr/resources/www/css/reset.css). 조각 렌더링으로
+    재현 확인'
+- id: DC-060
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div class="header-search-wrap"><form action="/search/search" id="searchKwdFrm"><fieldset id="topkwd-wrap"><legend class="hidden" autocomplete="off">통합검색</legend></fieldset></form></div>
+  css: 'legend, .hd-element { display: block; overflow: hidden; position: absolute; left: -1e+12px; width: 0px; height: 0px; font-size: 1px; line-height: 0; }
+
+    .hidden, .blind, .hd-element { display: block; overflow: hidden; position: absolute; left: -1e+16px; top: -999999px; width: 0px; height: 0px; font-size: 0px; }'
+  evidence_text: 통합검색
+  expected_location: legend.hidden
+  is_positive: false
+  extra_finding: null
+  source: 2026-2027절기 인플루엔자·코로나19 무료 예방접종 안내 | https://www.incheon.go.kr/IC010101/view?nttNo=2046188
+  notes: '실측 2026-10-03. 숨김 원인 size:0x0+overflow:hidden, offset:left=-3.35544e+07px,top=-999999px, font-size:0px (offset). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.incheon.go.kr/humanframe/globaltheme/assets/style/_layout/layout-portal.css?ver=380.0).
+    조각 렌더링으로 재현 확인'
+- id: DC-061
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div id="wrap"><div id="history_btn"><a href="https://giving.kaist.ac.kr/main/main.php" target="_blank" title="새창열림" class="his-more"><span class="more">KAIST HISTORY MORE</span></a></div></div>
+  css: '#history_btn a.his-more span.more { display: inline-block; width: 0px; height: 9px; background: url("/site/kr/img/skin/btn_arrow.png"); font-size: 0px; position: absolute; left: 18px; top: 145px;
+    animation: 0.7s ease 4s 1 normal forwards running hb5; }'
+  evidence_text: KAIST HISTORY MORE
+  expected_location: span.more
+  is_positive: false
+  extra_finding: null
+  source: KAIST | https://www.kaist.ac.kr/kr/
+  notes: '실측 2026-10-03. 숨김 원인 font-size:0px (font-size). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.kaist.ac.kr/kr/css/layout.css?ver=1.2, https://www.kaist.ac.kr/pcms/common/css/common.css). 조각 렌더링으로 재현
+    확인'
+- id: DC-062
+  category: DECOY
+  subtype: a11y_sr_only
+  html: '<div id="layer_today251208" class="topNoticelayer" style="display: block;"><div class="inner"><dl class="case6"><dt>브라우저 업데이트에 대한 ASTx 이용안내</dt></dl></div></div>'
+  css: '.topNoticelayer .inner dl dt { float: left; height: 105px; margin-top: 2px; margin-right: 31px; font-size: 0em; }
+
+    .topNoticelayer .inner dl.case6 dt { width: 350px; background: url("../img/topNotice_tit6.png") 0px 0px no-repeat; }'
+  evidence_text: 브라우저 업데이트에 대한 ASTx 이용안내
+  expected_location: dt
+  is_positive: false
+  extra_finding: null
+  source: KB국민은행 | https://www.kbstar.com/
+  notes: '실측 2026-10-03. 숨김 원인 font-size:0px (font-size). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.kbstar.com/2018/css/intro_2018.css?20260730, https://www.kbstar.com/2018/css/intro_2018_content.css?20260902).
+    조각 렌더링으로 재현 확인'
+- id: DC-063
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div class="contents"><div id="contentsEditHtml"><article id="_contentBuilder" class="_contentBuilder"><h2 class="hidden">컨텐츠 영역</h2></article></div></div>
+  css: '.hidden { position: absolute; top: var(--krds-hidden); left: var(--krds-hidden); width: 0.1rem; height: 0.1rem; margin: -0.1rem; overflow: hidden; white-space: nowrap; border: 0px; clip: rect(0px,
+    0px, 0px, 0px); padding: 0px; }'
+  evidence_text: 컨텐츠 영역
+  expected_location: h2.hidden
+  is_positive: false
+  extra_finding: null
+  source: 즐겨찾기 | https://www.kdca.go.kr/kdca/3512/subview..do
+  notes: '실측 2026-10-03. 숨김 원인 clip:rect(0px, 0px, 0px, 0px), size:1x1+overflow:hidden, offset:left=-9990px,top=-9990px (clip). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.kdca.go.kr/sites/kdca/style/css/w_reset.css?v=1791037412830).
+    조각 렌더링으로 재현 확인'
+- id: DC-064
+  category: DECOY
+  subtype: a11y_sr_only
+  html: '<div class="__motion-area" style="translate: none; rotate: none; scale: none; inset: 0px auto auto 0px; margin: 0px; max-width: 1280px; width: 1280px; max-height: 901px; height: 901px; padding:
+    0px; transform: translate(0px, 0px);"><div class="sr-only __esg-ally"><div><h3>온실가스 배출량</h3></div></div></div>'
+  css: '.sr-only { position: absolute; width: 0px; height: 0px; padding: 0px; margin: -1px; overflow: hidden; clip: rect(0px, 0px, 0px, 0px); white-space: nowrap; border: 0px; }'
+  evidence_text: 온실가스 배출량
+  expected_location: h3
+  is_positive: false
+  extra_finding: null
+  source: 한국전력공사 | 홈페이지 | https://www.kepco.co.kr/
+  notes: '실측 2026-10-03. 숨김 원인 clip:rect(0px, 0px, 0px, 0px), size:0x0+overflow:hidden (clip). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.kepco.co.kr/assets/css/default.css). 조각 렌더링으로 재현 확인'
+- id: DC-065
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div class="all_menu_wrap__outwrap"><div class="btn_all-wrap"><a href="#" class="btn_all"><span class="type1">전체메뉴보기</span></a></div></div>
+  css: '.btn_all span { display: block; font-size: 0px; }
+
+    .btn_all span.type1 { content: ""; vertical-align: middle; display: inline-block; background-repeat: no-repeat; background-position: -728px -311px; background-image: url("../images/sprite.png"); width:
+    26px; min-width: 26px; height: 21px; margin-top: 13px; margin-left: 12px !important; }'
+  evidence_text: 전체메뉴보기
+  expected_location: span.type1
+  is_positive: false
+  extra_finding: null
+  source: 방송미디어통신심의위원회 | https://www.kocsc.or.kr/mainPage.do
+  notes: '실측 2026-10-03. 숨김 원인 font-size:0px (font-size). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.kocsc.or.kr/template/resources/styles/style.css). 조각 렌더링으로 재현 확인'
+- id: DC-066
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div class="head_container"><div class="head_util"><a href="https://www.instagram.com/koreauniv.official/" title="새창" target="_blank" class="gotoInsta new_win" rel="noopener noreferrer"><span>인스타그램</span></a></div></div>
+  css: '.gotoGive span, .gotoInsta span, .gotoYtube span { font-size: 0px; font-family: "Pre Bold"; color: rgb(255, 255, 255) !important; }
+
+    .gotoGive span, .gotoInsta span, .gotoYtube span { font-size: 0px; font-family: "Pre Bold"; color: rgb(255, 255, 255) !important; }'
+  evidence_text: 인스타그램
+  expected_location: span
+  is_positive: false
+  extra_finding: null
+  source: 고려대학교 | https://www.korea.ac.kr/sites/ko/index.do
+  notes: '실측 2026-10-03. 숨김 원인 font-size:0px (font-size). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.korea.ac.kr/sites/ko/style/css/w_layout.css?v=1791037480137, https://www.korea.ac.kr/sites/ko/style/css/w_layout.css?version=1).
+    조각 렌더링으로 재현 확인'
+- id: DC-067
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div class="item"><div class="thumb play"><span class="ico_play"><i>영상</i></span></div></div>
+  css: '.thumb.play .ico_play i { position: absolute; top: 50%; width: 1px; height: 1px; padding: 0px; margin: -1px; overflow: hidden; border: 0px; }'
+  evidence_text: 영상
+  expected_location: i
+  is_positive: false
+  extra_finding: null
+  source: 대한민국 정책브리핑 | https://www.korea.kr/main.do
+  notes: '실측 2026-10-03. 숨김 원인 size:1x1+overflow:hidden (size1px). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.korea.kr/cssV5/web.common.css?time=202610030340). 조각 렌더링으로 재현 확인'
+- id: DC-068
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div id="chatbotIconRealBtn" class="slide_btn_wrap"><div class="bot_button"><button class="bot_icon" title="희망봇 새 창 열림" aria-label="희망봇 새 창 열림"><span style="position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);border:0;">희망봇
+    새 창 열림</span></button></div></div>
+  css: ''
+  evidence_text: 희망봇 새 창 열림
+  expected_location: span
+  is_positive: false
+  extra_finding: null
+  source: 한국장학재단 | https://www.kosaf.go.kr/ko/main.do
+  notes: '실측 2026-10-03. 숨김 원인 clip:rect(0px, 0px, 0px, 0px), size:1x1+overflow:hidden (clip). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-069
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <section class="relative flex h-12 items-center overflow-visible rounded-3xl border border-gray-400 w-[560px]"><section class="flex w-full items-center"><form class="relative flex flex-auto items-center"><label
+    for="searchKeyword" class="sr-only">검색어 입력</label></form></section></section>
+  css: '.sr-only { clip-path: inset(50%); white-space: nowrap; border-width: 0px; width: 1px; height: 1px; margin: -1px; padding: 0px; position: absolute; overflow: hidden; }'
+  evidence_text: 검색어 입력
+  expected_location: label.sr-only
+  is_positive: false
+  extra_finding: null
+  source: 교보문고 | 대한민국 최고의 도서쇼핑몰 | https://www.kyobobook.co.kr/
+  notes: '실측 2026-10-03. 숨김 원인 clip-path:inset(50%), size:1x1+overflow:hidden (clip). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://contents.kyobobook.co.kr/display/next/ui-welcome/build-1790750224/_next/static/chunks/0p_6k1-kuq_e1.css).
+    조각 렌더링으로 재현 확인'
+- id: DC-070
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div class="header-branding"><h1 class="logo"><a class="mcst" href="/site/main.jsp"><span class="sr-only">문화체육관광부</span></a></h1></div>
+  css: 'input, textarea, a, button, select, span, label, ::before, ::after { font-size: inherit; font-weight: inherit; }
+
+    .blind, .hidden, .longdesc, hr, .sr-only, legend, caption { position: absolute !important; width: 1px !important; height: 1px !important; padding: 0px !important; margin: -1px !important; overflow:
+    hidden !important; clip: rect(0px, 0px, 0px, 0px) !important; white-space: nowrap !important; border: 0px !important; }
+
+    .sr-only { position: absolute !important; width: 1px !important; height: 1px !important; padding: 0px !important; margin: -1px !important; overflow: hidden !important; clip: rect(0px, 0px, 0px, 0px)
+    !important; white-space: nowrap !important; border: 0px !important; }'
+  evidence_text: 문화체육관광부
+  expected_location: span.sr-only
+  is_positive: false
+  extra_finding: null
+  source: 정책소통 - 대학생기자단 - 불법 도박 인식 제고를 돕는 <한국도박문제관리센터 ‘찾아가는 맞춤형 예방교육’> | https://www.mcst.go.kr/site/s_policy/comm/studentNews/studentNewsView.jsp?pSeq=5221
+  notes: '실측 2026-10-03. 숨김 원인 clip:rect(0px, 0px, 0px, 0px), size:1x1+overflow:hidden (clip). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.mcst.go.kr/site/common/css/default.css?ver=20260715103057). 조각 렌더링으로
+    재현 확인'
+- id: DC-071
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <ul class="header_top_right"><li class="header_intro local"><button type="button" title="닫힘"><span class="blind">닫힘</span></button></li></ul>
+  css: '.blind { position: absolute; clip: rect(1px, 1px, 1px, 1px); padding: 0px; border: 0px; height: 1px; width: 1px; overflow: hidden; }'
+  evidence_text: 닫힘
+  expected_location: span.blind
+  is_positive: false
+  extra_finding: null
+  source: 국민 안심이 기준입니다, 식품의약품안전처 | https://www.mfds.go.kr/index.do
+  notes: '실측 2026-10-03. 숨김 원인 clip:rect(1px, 1px, 1px, 1px), size:1x1+overflow:hidden (clip). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.mfds.go.kr/css/www/base.css). 조각 렌더링으로 재현 확인'
+- id: DC-072
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div data-board="midd"><div data-table="" data-type="list"><table><caption>초등돌봄·교육 목록</caption></table></div></div>
+  css: 'table caption { overflow: hidden; position: relative; line-height: 1px; font-size: 1px; text-indent: -300000px; }
+
+    caption { position: static !important; margin: 0px !important; }
+
+    .blind, hr, .sr-only, legend, caption { position: absolute !important; width: 1px !important; height: 1px !important; padding: 0px !important; margin: -1px !important; overflow: hidden !important; clip:
+    rect(0px, 0px, 0px, 0px) !important; white-space: nowrap !important; border: 0px !important; }
+
+    caption { position: static !important; margin: 0px !important; }
+
+    .blind, hr, .sr-only, legend, caption { position: absolute !important; width: 1px !important; height: 1px !important; padding: 0px !important; margin: -1px !important; overflow: hidden !important; clip:
+    rect(0px, 0px, 0px, 0px) !important; white-space: nowrap !important; border: 0px !important; }'
+  evidence_text: 초등돌봄·교육 목록
+  expected_location: caption
+  is_positive: false
+  extra_finding: null
+  source: 교육부 > 정책 > 초·중·고 교육 > 초등돌봄·교육 | https://www.moe.go.kr/boardCnts/listRenew.do?boardID=72782&renew=72782&m=030215&s=moe
+  notes: '실측 2026-10-03. 숨김 원인 clip:rect(0px, 0px, 0px, 0px), size:1x1+overflow:hidden, text-indent:-300000px, font-size:1px (clip). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.moe.go.kr/css/2021Renewal/clear.min.css,
+    https://www.moe.go.kr/css/2025Renewal/krds/common.css, https://www.moe.go.kr/css/2025Renewal/krds/output.css). 조각 렌더링으로 재현 확인'
+- id: DC-073
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <ul class="sns-link-fixed"><li><a href="https://www.facebook.com/withyou3542" title="행정안전부 페이스북 새창으로 열기" target="_blank"><span class="sound-only">행정안전부 페이스북 새창으로 열기</span></a></li></ul>
+  css: '.sound-only { position: absolute; top: 0px; left: 0px; width: 0px; height: 0px; margin: 0px; padding: 0px; font-size: 0px; line-height: 0; border: 0px; overflow: hidden; display: inline-block !important;
+    }'
+  evidence_text: 행정안전부 페이스북 새창으로 열기
+  expected_location: span.sound-only
+  is_positive: false
+  extra_finding: null
+  source: 행정안전부 | https://www.mois.go.kr/frt/a01/frtMain.do
+  notes: '실측 2026-10-03. 숨김 원인 size:0x0+overflow:hidden, font-size:0px (font-size). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.mois.go.kr/frt2022/main/css/frt2020main.css?v=20231005, https://www.mois.go.kr/frt2022/main/css/reset.css?v=20230104).
+    조각 렌더링으로 재현 확인'
+- id: DC-074
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div class="right"><form name="searchForm" method="get" action="https://www.msit.go.kr/search/ko/searchKo.do" target="_blank" onsubmit="return searchEngine()"><div class="util_search"><label for="searchKeyword01"
+    class="blind">통합검색</label></div></form></div>
+  css: 'legend, caption, .alt_text, .blind { position: absolute !important; width: 1px !important; height: 1px !important; margin: -1px !important; padding: 0px !important; border: 0px !important; clip:
+    rect(0px, 0px, 0px, 0px) !important; overflow: hidden !important; white-space: nowrap !important; }'
+  evidence_text: 통합검색
+  expected_location: label.blind
+  is_positive: false
+  extra_finding: null
+  source: 보도자료 | 상세화면 - 과학기술정보통신부 | https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187820
+  notes: '실측 2026-10-03. 숨김 원인 clip:rect(0px, 0px, 0px, 0px), size:1x1+overflow:hidden (clip). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.msit.go.kr/asset/css/user/layout.css?v=20). 조각 렌더링으로 재현 확인'
+- id: DC-075
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <ul role="tablist"><li class="current"><a href="/eBook/eBookInfo.do" aria-selected="true" role="tab"><span class="sr-only">선택됨</span></a></li></ul>
+  css: '.sr-only { position: absolute; width: 1px; height: 1px; padding: 0px; margin: -1px; overflow: hidden; clip-path: inset(50%); border: 0px; clip: rect(0px, 0px, 0px, 0px); }'
+  evidence_text: 선택됨
+  expected_location: span.sr-only
+  is_positive: false
+  extra_finding: null
+  source: 대한민국 국회도서관 | 책이야기 > 전자책/오디오북 | https://www.nanet.go.kr/eBook/eBookInfo.do
+  notes: '실측 2026-10-03. 숨김 원인 clip:rect(0px, 0px, 0px, 0px), clip-path:inset(50%), size:1x1+overflow:hidden (clip). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.nanet.go.kr/css/style.css?v=20261003347). 조각
+    렌더링으로 재현 확인'
+- id: DC-076
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div class="wrap nrc"><div class="w_catch"><div class="wc_p t_dp_n m_dp_n"><span class="hdn">너비 1180px 이상</span></div></div></div>
+  css: '.hdn { position: absolute; left: 0px; top: 0px; width: 0px; height: 0px; overflow: hidden; }'
+  evidence_text: 너비 1180px 이상
+  expected_location: span.hdn
+  is_positive: false
+  extra_finding: null
+  source: 자료실 > 의료부 자료실 > 「2024년 청소년 온라인 도박중독 실무자 역량강화 교육」 안내 | 국립정신건강 | https://www.ncmh.go.kr/ncmh/board/boardView.do?no=9822&fno=106&menu_cd=04_02_00_01&bn=newsView
+  notes: '실측 2026-10-03. 숨김 원인 size:0x0+overflow:hidden (size1px). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.ncmh.go.kr/static/ncmh/css/nh_common.css). 조각 렌더링으로 재현 확인'
+- id: DC-077
+  category: DECOY
+  subtype: a11y_sr_only
+  html: '<div class="util-area"><div class="nw-utl-rbx"><div class="zoom"><a href="javascript: zoom_in();" class="zm-i">화면 확대</a></div></div></div>'
+  css: '.nw-utl-rbx .zoom > a { display: block; box-sizing: border-box; font-size: 0px; width: 32px; height: 26px; border: 1px solid rgb(230, 230, 230); background: center center no-repeat rgb(255, 255,
+    255); margin-left: -1px; }'
+  evidence_text: 화면 확대
+  expected_location: a.zm-i
+  is_positive: false
+  extra_finding: null
+  source: 사행산업통합감독위원회자주묻는 질문 | https://ngcc.go.kr/police/faq.do
+  notes: '실측 2026-10-03. 숨김 원인 font-size:0px (font-size). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://ngcc.go.kr/css/egovframework/new/main2024.css, https://ngcc.go.kr/css/egovframework/new/reset.css?ver=1.1).
+    조각 렌더링으로 재현 확인'
+- id: DC-078
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div class="tab-area layer"><div class="tab-conts-wrap"><section id="newsTabpanel01" role="tabpanel" aria-labelledby="newsTab01" class="tab-conts active"><h3 class="sr-only">공지사항</h3></section></div></div>
+  css: '.sr-only { position: absolute !important; width: 1px !important; height: 1px !important; padding: 0px !important; margin: -1px !important; overflow: hidden !important; clip: rect(0px, 0px, 0px,
+    0px) !important; white-space: nowrap !important; border: 0px !important; }'
+  evidence_text: 공지사항
+  expected_location: h3.sr-only
+  is_positive: false
+  extra_finding: null
+  source: 국민건강보험 | https://www.nhis.or.kr/nhis/index.do
+  notes: '실측 2026-10-03. 숨김 원인 clip:rect(0px, 0px, 0px, 0px), size:1x1+overflow:hidden (clip). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.nhis.or.kr/_res/_common/css/cms.min.css, https://www.nhis.or.kr/_res/nhis/nhis/css/cms-common-renewal.min.css?1789472536000,
+    https://www.nhis.or.kr/_res/nhis/nhis/css/krds.min.css?1774330120000). 조각 렌더링으로 재현 확인'
+- id: DC-079
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <ul class="clear_fix"><li><a href="https://www.youtube.com/channel/UC7-PyZbi_QIthI3WFtopzLw" title="경찰청 유튜브 새창으로 열기" target="_blank"><span class="hidden">경찰청 유튜브 새창으로 열기</span></a></li></ul>
+  css: '.hidden { display: none !important; }
+
+    fieldset legend, table caption, .blind, .hidden { position: absolute; left: -9999px; display: block !important; }'
+  evidence_text: 경찰청 유튜브 새창으로 열기
+  expected_location: span.hidden
+  is_positive: false
+  extra_finding: null
+  source: 경찰청 | https://www.police.go.kr/index.do
+  notes: '실측 2026-10-03. 숨김 원인 offset:left=-9999px,top=0px (offset). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.police.go.kr/resources/common/css/default.css, https://www.police.go.kr/resources/templateSample/css/bootstrap.min.css).
+    조각 렌더링으로 재현 확인'
+- id: DC-080
+  category: DECOY
+  subtype: a11y_sr_only
+  html: <div class="inwr"><div class="finfo-r"><div class="sns-wr"><h4 class="blind">부산대학교 SNS</h4></div></div></div>
+  css: '.blind { width: 1px; height: 1px; overflow: hidden; position: absolute; top: -9999em; left: -9999em; display: block; text-indent: -9999em; font-size: 0px; line-height: 0; }'
+  evidence_text: 부산대학교 SNS
+  expected_location: h4.blind
+  is_positive: false
+  extra_finding: null
+  source: 인사말 > 개교80주년 | 부산대학교 | https://www.pusan.ac.kr/kor/CMS/Contents/Contents.do?mCode=MN300
+  notes: '실측 2026-10-03. 숨김 원인 size:1x1+overflow:hidden, font-size:0px (font-size). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.pusan.ac.kr/resources/_Css/common.css). 조각 렌더링으로 재현 확인'
+- id: DC-081
+  category: DECOY
+  subtype: hidden_menu
+  html: <div class="sub-depth-2"><ul><li class="active"><a href="/data/counsel.do">자주묻는 질문</a></li></ul></div>
+  css: '.sub-depth-2 { display: none; text-align: center; }'
+  evidence_text: 자주묻는 질문
+  expected_location: a
+  is_positive: false
+  extra_finding: null
+  source: 자주묻는질문 < 자료마당 | 정부민원안내콜센터 | https://www.110.go.kr/data/counselView.do?num=A01_659891
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.110.go.kr/css/egovframework/gcall/main_new/base.css, https://www.110.go.kr/css/egovframework/gcall/main_new/common.css).
+    조각 렌더링으로 재현 확인'
+- id: DC-082
+  category: DECOY
+  subtype: hidden_menu
+  html: <div style="position:relative;z-index:10;"><ul id="ulSortOrder" style="display:none;"><li><a href="#" onclick="Sort_Set('2')">판매량순</a></li></ul></div>
+  css: '.goods_LIST_box1 ul li { font-size: 1.1em; color: rgb(0, 0, 0); font-family: "Apple SD Gothic Neo", "Malgun Gothic", 돋움, sans-serif; text-align: center; padding: 3px 0px !important; display: inherit
+    !important; float: inherit !important; }
+
+    #goods_LIST_right .float_right ul li { display: inline-block; float: left; padding-left: 25px; }'
+  evidence_text: 판매량순
+  expected_location: a
+  is_positive: false
+  extra_finding: null
+  source: '가방·파우치 : 알라딘 | https://www.aladin.co.kr/shop/wbrowse.aspx?CID=184418&BrowseTarget=List&ViewType=Detail&start=we'
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.aladin.co.kr/Ucl_editor/css/browse1_book_layout.css, https://www.aladin.co.kr/Ucl_editor/css/main_footer.css?ver=20261003,
+    https://www.aladin.co.kr/ucl_editor/css/header_2011.css?dummy=20261003, inline). 조각 렌더링으로 재현 확인'
+- id: DC-083
+  category: DECOY
+  subtype: hidden_menu
+  html: <div class="inner clear"><div class="hd-gnb-mobile mo"><a href="#" class="btn-link"><p>메뉴</p></a></div></div>
+  css: '.mo { display: block; }
+
+    .hd-gnb-mobile.mo { display: none; }
+
+    .hd-gnb-mobile.mo { height: 60px; }'
+  evidence_text: 메뉴
+  expected_location: p
+  is_positive: false
+  extra_finding: null
+  source: '부산소개 : 부산의 인물 : 향토수호(충신) : 부산광역시 | https://www.busan.go.kr/bhloyalists'
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.busan.go.kr/humanframe/global/assets/css/global.css?v=202211171452, https://www.busan.go.kr/humanframe/theme/busan22/assets/css/common.css?v=2025-09-02-1024).
+    조각 렌더링으로 재현 확인'
+- id: DC-084
+  category: DECOY
+  subtype: hidden_menu
+  html: '<div class="depth2" style="display: none;"><ul class="sub-menu"><li class=""><a href="/songhak-m/M010201/">인사말</a></li></ul></div>'
+  css: '#usm-menu-wrap-id > ul > li > .depth2 { display: none; left: 0px; position: absolute; z-index: 99999; background-color: rgb(44, 106, 166); border-top: 5px solid rgb(244, 244, 244); }'
+  evidence_text: 인사말
+  expected_location: a
+  is_positive: false
+  extra_finding: null
+  source: 학부모 연수<학부모마당<송학중학교 | https://school.cbe.go.kr/songhak-m/MABBABD/view/5467182
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://school.cbe.go.kr/www/css/style.css, https://school.cbe.go.kr/www/tpl/tpl028/css/default.css). 조각 렌더링으로
+    재현 확인'
+- id: DC-085
+  category: DECOY
+  subtype: hidden_menu
+  html: <div id="wrap"><div class="popEmved_ui" id="popEmved"><div class="pop_emved"><a href="#popEmved" class="btn_videoClose">닫기</a></div></div></div>
+  css: '.popEmved_ui { display: none; position: fixed; width: 100%; height: 100%; top: 0px; left: 0px; z-index: 9999; }'
+  evidence_text: 닫기
+  expected_location: a.btn_videoClose
+  is_positive: false
+  extra_finding: null
+  source: 초록우산 | 아동복지전문기관 | https://www.chorogusan.or.kr/main.do
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.chorogusan.or.kr/resources/css/common.css?bust=20260423, https://www.chorogusan.or.kr/resources/css/main.css?bust=20260514).
+    조각 렌더링으로 재현 확인'
+- id: DC-086
+  category: DECOY
+  subtype: hidden_menu
+  html: <div class="snsBox"><div class="sns_more"><button type="button" class="btnlink" title="URL복사"><span>URL복사</span></button></div></div>
+  css: '.snsBox .sns_more { display: none; position: absolute; top: 45px; right: 0px; white-space: nowrap; border: 1px solid rgb(187, 187, 187); border-radius: 2px; padding: 10px 10px 10px 7px; z-index:
+    30; background-color: rgb(255, 255, 255); }'
+  evidence_text: URL복사
+  expected_location: span
+  is_positive: false
+  extra_finding: null
+  source: 관세청-분야별 목록 | https://www.customs.go.kr/kcs/ad/bfhnInfo/bfhnInfoList.do?mi=2805
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.customs.go.kr/css/web/kcs/common_v1.css?20261003034045, https://www.customs.go.kr/css/web/kcs/layout.css?20261003034045).
+    조각 렌더링으로 재현 확인'
+- id: DC-087
+  category: DECOY
+  subtype: hidden_menu
+  html: <div id="wrap"><div id="header2023"><nav class="wholeview_wrap "><h2 class="hidden">전체메뉴</h2></nav></div></div>
+  css: '.wholeview_wrap { display: none; }'
+  evidence_text: 전체메뉴
+  expected_location: h2.hidden
+  is_positive: false
+  extra_finding: null
+  source: 대구광역시 | https://www.daegu.go.kr/index.do
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.daegu.go.kr/cmsh/daegu.go.kr/css/base.css?ver=20250421, https://www.daegu.go.kr/cmsh/daegu.go.kr/css/layout_2023.css?ver=20251013).
+    조각 렌더링으로 재현 확인'
+- id: DC-088
+  category: DECOY
+  subtype: hidden_menu
+  html: <div class="list"><div class="box"><h2><a id="section_3">하위 메뉴</a></h2></div></div>
+  css: 'body, * { font-size: 13px; line-height: 160%; color: rgb(96, 96, 96); font-family: "Malgun Gothic", "맑은 고딕", Dotum, 돋움, 돋움체, sans-serif; }
+
+    h2 { display: none; }
+
+    body, * { font-weight: 400; color: rgb(96, 96, 96); font-size: 13px; line-height: 160%; font-family: NotoSans, "Malgun Gothic", "맑은 고딕", Dotum, 돋움, 돋움체, AppleGothic, UnDotum, Arial, Tahoma, Verdana,
+    sans-serif; }'
+  evidence_text: 하위 메뉴
+  expected_location: a#section_3
+  is_positive: false
+  extra_finding: null
+  source: 인터넷 불법이용 규제 > 불법사이트 등 규제 > 불법사이트의 개설 및 이용 금지 > 불법 사이트 발견 시 대 | https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=901&ccfNo=3&cciNo=1&cnpClsNo=3
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://easylaw.go.kr/CSP/css/common.css?v250626, https://easylaw.go.kr/CSP/css/index.css?v230728). 조각 렌더링으로
+    재현 확인'
+- id: DC-089
+  category: DECOY
+  subtype: hidden_menu
+  html: <ul class="m-menu"><li><a href="javascript:void(0);"><span class="hd-element">검색</span></a></li></ul>
+  css: '.m-menu { display: none; position: fixed; right: 25px; top: 48px; z-index: 1001; }'
+  evidence_text: 검색
+  expected_location: span.hd-element
+  is_positive: false
+  extra_finding: null
+  source: 금융위원회 | https://www.fsc.go.kr/index
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.fsc.go.kr/humanframe/theme/fscmain/assets/style/base.css, https://www.fsc.go.kr/humanframe/theme/fscmain/assets/style/layout.css).
+    조각 렌더링으로 재현 확인'
+- id: DC-090
+  category: DECOY
+  subtype: hidden_menu
+  html: '<div class="total-search-wrap"><div class="sch-word-wrap" id="search-auto-keyword" style="display: none;"><div class="trending-area"><h3 class="tit">검색어 자동완성</h3></div></div></div>'
+  css: ''
+  evidence_text: 검색어 자동완성
+  expected_location: h3.tit
+  is_positive: false
+  extra_finding: null
+  source: 전체 | 전체 | 분쟁조정결정례(목록) | 분쟁조정정보 | 민원·신고 | | https://www.fss.or.kr/fss/bbs/B0000390/list.do?menuNo=201192
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-091
+  category: DECOY
+  subtype: hidden_menu
+  html: <div><ul class="nurizip-list"><li><a href="https://www.fairdata.go.kr " target="_blank" title="새창">공정거래 데이터포털</a></li></ul></div>
+  css: '.nurizip-list { display: none; position: relative; z-index: 1; width: 300px; max-height: 200px; overflow: hidden scroll; border-radius: 0px 0px 16px 16px; box-shadow: rgba(0, 0, 0, 0.2) 0px 0px
+    10px; list-style: none; margin: 3px 0px 20px; }'
+  evidence_text: 공정거래 데이터포털
+  expected_location: a
+  is_positive: false
+  extra_finding: null
+  source: 공정거래위원회 | https://www.ftc.go.kr/www/index.do
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: inline). 조각 렌더링으로 재현 확인'
+- id: DC-092
+  category: DECOY
+  subtype: hidden_menu
+  html: <header><nav class="search"><h2 class="blind">검색팝업</h2></nav></header>
+  css: 'nav.search { position: absolute; top: 127px; left: 0px; right: 0px; padding: 55px 0px; background: rgb(255, 255, 255); display: none; z-index: 4; }'
+  evidence_text: 검색팝업
+  expected_location: h2.blind
+  is_positive: false
+  extra_finding: null
+  source: 지역화폐 20만 원 쓰면 7만 원 인센티브! 삼성페이로 편리하게! | https://gnews.gg.go.kr/news/news_detail.do?number=202105311315394244C052&s_code=C052
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://gnews.gg.go.kr/css/new2025/layout.css). 조각 렌더링으로 재현 확인'
+- id: DC-093
+  category: DECOY
+  subtype: hidden_menu
+  html: <div id="gn2c"><ul><li><a href="/main.web">한국어</a></li></ul></div>
+  css: '#gn2c { display: none; position: absolute; top: 42px; left: 0px; width: 100%; background: rgb(246, 247, 248); z-index: 21; border-width: 0px 1px 1px; border-style: none solid solid; border-color:
+    currentcolor rgb(224, 224, 224) rgb(224, 224, 224); border-image: none; border-radius: 0px 0px 20px 20px; }'
+  evidence_text: 한국어
+  expected_location: a
+  is_positive: false
+  extra_finding: null
+  source: 김해시 | https://www.gimhae.go.kr/main.web
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.gimhae.go.kr/_res/portal/share/css/all.2026.css, https://www.gimhae.go.kr/_res/portal/share/css/base.css).
+    조각 렌더링으로 재현 확인'
+- id: DC-094
+  category: DECOY
+  subtype: hidden_menu
+  html: <div id="user-wrap" class="min-width-1200"><button type="button" id="back-to-top" class="back-to-top" title="위로"><i class="icon-arrow-top"><span class="show-for-sr">위로</span></i></button></div>
+  css: 'button, input, optgroup, select, textarea { font-family: sans-serif; font-size: 100%; line-height: 1.15; margin: 0px; }
+
+    button { overflow: visible; }
+
+    .back-to-top { display: none; position: fixed; z-index: 1004; right: 0.9375rem; bottom: 0.9375rem; width: 40px; height: 40px; font-size: 1.375rem; color: rgb(52, 73, 94); background: rgba(255, 255,
+    255, 0.8); border: 1px solid rgba(0, 0, 0, 0.05); border-radius: 50%; box-shadow: rgba(0, 0, 0, 0.25) 1px 2px 2px; cursor: pointer; }'
+  evidence_text: 위로
+  expected_location: span.show-for-sr
+  is_positive: false
+  extra_finding: null
+  source: 광명사랑화폐 인센티브 20% 지급! 더 커진 시민 혜택 누리기 < 시민홍보기자단 < 시민톡톡 < 기사본문 - | http://news.gm.go.kr/news/articleView.html?idxno=22044
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://cdn.news.gm.go.kr/css/foundation.min.css, https://cdn.news.gm.go.kr/css/style.min.css). 조각 렌더링으로 재현
+    확인'
+- id: DC-095
+  category: DECOY
+  subtype: hidden_menu
+  html: <section id="content_area"><div class="container"><nav class="left_menu"><h2>소통ㆍ참여</h2></nav></div></section>
+  css: '.left_menu { display: none; }'
+  evidence_text: 소통ㆍ참여
+  expected_location: h2
+  is_positive: false
+  extra_finding: null
+  source: 통합자료실 | 전남광주통합특별시(구)광주광역시 | https://www.gwangju.go.kr/boardList.do?boardId=BD_0000000267&pageId=www1071
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.gwangju.go.kr/home/www/css/basic.min.css?ts=20251013171353, https://www.gwangju.go.kr/home/www/css/layout.css?ts=20260731104539).
+    조각 렌더링으로 재현 확인'
+- id: DC-096
+  category: DECOY
+  subtype: hidden_menu
+  html: <div id="siteMap" style="display:none"><div class="box"><h2><span>All Menus</span></h2></div></div>
+  css: '#siteMap { position: fixed; width: 100%; top: 0px; left: 0px; height: 100%; background-color: rgb(255, 255, 255); overflow: hidden scroll; z-index: 80; }'
+  evidence_text: All Menus
+  expected_location: span
+  is_positive: false
+  extra_finding: null
+  source: KEB Hana Bank | https://www.hanabank.com/easyone_index_en.html
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://image.kebhana.com/pbk/easyone/resource/css/real/base.css, https://image.kebhana.com/pbk/easyone/resource/css/real/hn.css,
+    https://image.kebhana.com/pbk/easyone/resource/css/real/main.css). 조각 렌더링으로 재현 확인'
+- id: DC-097
+  category: DECOY
+  subtype: hidden_menu
+  html: <li class="hc"><ul class="lnb_2dep"><li><a href="/www/gosi/BD_notice.do">고시</a></li></ul></li>
+  css: '.lnb_2dep { border-bottom: 1px solid rgb(228, 228, 228); padding: 11px 20px 12px; display: none; }'
+  evidence_text: 고시
+  expected_location: a
+  is_positive: false
+  extra_finding: null
+  source: 화성특례시청 > 행정정보 > 알림정보 > 희망화성지역화폐 > 지역화폐 소개 | https://www.hscity.go.kr/www/information/ntcnInfo/hhcLocal/localInfo.jsp
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.hscity.go.kr/resources/www/css/master.css, https://www.hscity.go.kr/resources/www/css/reset.css).
+    조각 렌더링으로 재현 확인'
+- id: DC-098
+  category: DECOY
+  subtype: hidden_menu
+  html: <div class="footer-inner"><div class="footer-logo"><a href="/"><span>인천광역시</span></a></div></div>
+  css: '.footer-logo { display: none; }'
+  evidence_text: 인천광역시
+  expected_location: span
+  is_positive: false
+  extra_finding: null
+  source: 2026-2027절기 인플루엔자·코로나19 무료 예방접종 안내 | https://www.incheon.go.kr/IC010101/view?nttNo=2046188
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.incheon.go.kr/humanframe/globaltheme/assets/style/_layout/layout-portal.css?ver=380.0). 조각 렌더링으로
+    재현 확인'
+- id: DC-099
+  category: DECOY
+  subtype: hidden_menu
+  html: <div class="mob_gnb_control"><ul><li data-util="login"><a href="/index.9is?resultType=login">로그인</a></li></ul></div>
+  css: '.mob_gnb_control { display: none; width: 50%; --size: 45px; height: var(--size); background-color: var(--color-point); }'
+  evidence_text: 로그인
+  expected_location: a
+  is_positive: false
+  extra_finding: null
+  source: 전주시 대표사이트 | https://www.jeonju.go.kr/
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.jeonju.go.kr/resource/www/css/common.css?v=1.92). 조각 렌더링으로 재현 확인'
+- id: DC-100
+  category: DECOY
+  subtype: hidden_menu
+  html: <div id="contHead"><div><div class="page_depth"><span>테마관광</span></div></div></div>
+  css: '#contHead .page_depth { display: none; height: 22px; font-family: 돋움, dotum; font-size: 12px; color: rgb(107, 101, 97); }'
+  evidence_text: 테마관광
+  expected_location: span
+  is_positive: false
+  extra_finding: null
+  source: '체험관광 : 진도군 관광문화 | https://www.jindo.go.kr/tour/tour/info/experience.cs?m=25'
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.jindo.go.kr/themes/tour/css/common.css?ver=5.320, https://www.jindo.go.kr/themes/tour/css/sub.css?ver=6.27).
+    조각 렌더링으로 재현 확인'
+- id: DC-101
+  category: DECOY
+  subtype: hidden_menu
+  html: <div id="wrap"><div id="header"><button class="btn_mgnb"><span>메뉴 열기</span></button></div></div>
+  css: 'button, input, select, textarea { margin: 0px; font-size: 100%; vertical-align: middle; }
+
+    button, html input[type="button"], input[type="reset"], input[type="submit"] { overflow: visible; cursor: pointer; appearance: button; }
+
+    body, button { font-size: 1em; color: rgb(73, 73, 73); }
+
+    button, input, textarea { margin: 0px; font-size: 100%; vertical-align: baseline; }
+
+    button, input { overflow: visible; line-height: 1; }
+
+    #header .btn_mgnb { display: none; position: absolute; right: 2em; top: 2em; z-index: 100; width: 1.438em; height: 1.25em; }'
+  evidence_text: 메뉴 열기
+  expected_location: span
+  is_positive: false
+  extra_finding: null
+  source: KAIST | https://www.kaist.ac.kr/kr/
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.kaist.ac.kr/kr/css/layout.css?ver=1.2, https://www.kaist.ac.kr/pcms/common/css/common.css). 조각
+    렌더링으로 재현 확인'
+- id: DC-102
+  category: DECOY
+  subtype: hidden_menu
+  html: <div id="content" class="contentWrap"><div class="wrap-visual"><div class="area-control"><button class="ui-btn play off">자동재생시작</button></div></div></div>
+  css: 'input, button, textarea, select { font-size: 1em; font-family: "맑은 고딕", "Malgun Gothic", 돋움, Dotum, AppleGothic, Tahoma, Helvetica, sans-serif; }
+
+    a, em, label, span, strong, button { display: inline-block; }
+
+    button { overflow: visible; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; background: transparent; vertical-align: top; font-family: inherit; white-space:
+    nowrap; text-decoration: none; }
+
+    .area-control ul, .area-control ul li, .area-control .ui-btn { display: inline-block; vertical-align: top; line-height: 20px; }
+
+    .area-control ul > li > a, .area-control .ui-btn { overflow: hidden; position: relative; padding-left: 16px; width: 0px; height: 20px; }
+
+    .area-control .ui-btn.off { display: none; }'
+  evidence_text: 자동재생시작
+  expected_location: button.ui-btn.play.off
+  is_positive: false
+  extra_finding: null
+  source: KB국민은행 | https://www.kbstar.com/
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.kbstar.com/2018/css/intro_2018.css?20260730, https://www.kbstar.com/2018/css/intro_2018_content.css?20260902).
+    조각 렌더링으로 재현 확인'
+- id: DC-103
+  category: DECOY
+  subtype: hidden_menu
+  html: <ul class="list"><li class="cool"><a href="/kdca/5465/subview.do"><span>바로가기</span></a></li></ul>
+  css: '.kdca-banner .list li { width: var(--krds-spacer-full); background: var(--krds-secondary-1); padding: var(--krds-pd-full-sm); height: var(--krds-spacer-full); border-radius: var(--krds-rd-15); overflow:
+    hidden; }
+
+    .heat, .heat1, .cool, .cool1 { display: none; }'
+  evidence_text: 바로가기
+  expected_location: span
+  is_positive: false
+  extra_finding: null
+  source: 질병관리청 | https://www.kdca.go.kr/kdca/index.do
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.kdca.go.kr/sites/kdca/style/css/w_main.css, https://www.kdca.go.kr/sites/kdca/style/css/w_reset.css?v=1791037399392).
+    조각 렌더링으로 재현 확인'
+- id: DC-104
+  category: DECOY
+  subtype: hidden_menu
+  html: <div class="main-indicator blue"><div class="indicator-updown"><a href="#" class="up"><span class="sr-only">이전 영역 상단으로 이동</span></a></div></div>
+  css: 'a { display: block; text-decoration: none; color: inherit; cursor: pointer; }
+
+    .main-indicator .indicator-updown a { display: block; border-radius: 0.6rem; background: rgba(85, 85, 85, 0.35); backdrop-filter: blur(40px); aspect-ratio: 1 / 1; width: 5.6rem; }
+
+    .main-indicator .indicator-updown a.up { height: 0px; display: none; }
+
+    .main-indicator .indicator-updown a { display: block; border-radius: 0.6rem; background: rgba(85, 85, 85, 0.35); backdrop-filter: blur(40px); aspect-ratio: 1 / 1; width: 5.6rem; }
+
+    .main-indicator .indicator-updown a.up { height: 0px; display: none; }'
+  evidence_text: 이전 영역 상단으로 이동
+  expected_location: span.sr-only
+  is_positive: false
+  extra_finding: null
+  source: 한국전력공사 | 홈페이지 | https://www.kepco.co.kr/
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.kepco.co.kr/assets/css/default.css, https://www.kepco.co.kr/assets/css/sub.css). 조각 렌더링으로 재현 확인'
+- id: DC-105
+  category: DECOY
+  subtype: hidden_menu
+  html: <div class="bottom_box box3"><div class="btns" style="padding-right:46px;"><button type="button" class="maBa_btn cir_b prev swiper-button-disabled swiper-button-lock" title="이전" tabindex="0" role="button"
+    aria-label="이전 슬라이드" aria-disabled="true"><span class="blind">이전</span></button></div></div>
+  css: '.swiper-button-lock { display: none; }'
+  evidence_text: 이전
+  expected_location: span.blind
+  is_positive: false
+  extra_finding: null
+  source: KISA 한국인터넷진흥원 | https://www.kisa.or.kr/
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.kisa.or.kr/resource/common/css/swiper.css). 조각 렌더링으로 재현 확인'
+- id: DC-106
+  category: DECOY
+  subtype: hidden_menu
+  html: <div class="mobile_top_nav"><div class="mobile_top_nav__in"><nav id="gnb_nav_mobile"><h2 class="hidden_word">menu</h2></nav></div></div>
+  css: '#gnb_nav_mobile { height: auto; display: none; }'
+  evidence_text: menu
+  expected_location: h2.hidden_word
+  is_positive: false
+  extra_finding: null
+  source: 방송미디어통신심의위원회 | https://www.kocsc.or.kr/mainPage.do
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.kocsc.or.kr/template/resources/styles/style.css). 조각 렌더링으로 재현 확인'
+- id: DC-107
+  category: DECOY
+  subtype: hidden_menu
+  html: <ul><li><div class="box_sub_favo"><button type="button" class="close" title="즐겨찾기 창 닫기">닫기</button></div></li></ul>
+  css: '.box_sub_favo { display: none; position: absolute; left: 13px; top: -19px; padding: 20px; width: 220px; background: rgb(255, 255, 255); z-index: 1; border-radius: 40px; }
+
+    .box_sub_favo { left: -25px; }
+
+    .box_sub_favo { display: none; position: absolute; left: 13px; top: -19px; padding: 20px; width: 220px; background: rgb(255, 255, 255); z-index: 1; border-radius: 40px; }
+
+    .box_sub_favo { left: -25px; }'
+  evidence_text: 닫기
+  expected_location: button.close
+  is_positive: false
+  extra_finding: null
+  source: 현황 | https://www.korea.ac.kr/ko/351/subview.do
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.korea.ac.kr/sites/ko/style/css/w_layout.css?v=1791037497769, https://www.korea.ac.kr/sites/ko/style/css/w_layout.css?version=1,
+    https://www.korea.ac.kr/sites/ko/style/css/w_reset.css?v=1791037497769, https://www.korea.ac.kr/sites/ko/style/css/w_reset.css?version=1). 조각 렌더링으로 재현 확인'
+- id: DC-108
+  category: DECOY
+  subtype: hidden_menu
+  html: <div class="go_top"><button type="button"><span>상단으로 이동</span></button></div>
+  css: 'span, select, input { display: inline-block; }
+
+    .go_top button span { position: absolute; width: 1px; height: 1px; overflow: hidden; padding: 0px; margin: -1px; border: 0px; }'
+  evidence_text: 상단으로 이동
+  expected_location: span
+  is_positive: false
+  extra_finding: null
+  source: 대한민국 정책브리핑 | https://www.korea.kr/main.do
+  notes: '실측 2026-10-03. 숨김 원인 visibility:hidden, size:1x1+overflow:hidden (size1px). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.korea.kr/cssV5/web.common.css?time=202610030340, https://www.korea.kr/cssV5/web.layout.css?time=202610030340).
+    조각 렌더링으로 재현 확인'
+- id: DC-109
+  category: DECOY
+  subtype: hidden_menu
+  html: <div class="accordion-content"><ul><li><button class="accordion-toggle">한눈에 보는 학자금 지원구간</button></li></ul></div>
+  css: 'body, th, td, select, textarea, button, div, input { font-family: "Nanum Gothic", "Malgun Gothic", "sans-serif", Helvetica; font-weight: 400; color: rgb(34, 34, 34); font-size: 13px; word-break:
+    keep-all; letter-spacing: -1px; }
+
+    body, th, td, select, textarea, button, div, input { font-family: "Nanum Gothic", "Malgun Gothic", "sans-serif", Helvetica; font-weight: 400; color: rgb(80, 80, 80); font-size: 13px; word-break: keep-all;
+    letter-spacing: -1px; }
+
+    .accordion-content { display: none; margin-top: 12px; }'
+  evidence_text: 한눈에 보는 학자금 지원구간
+  expected_location: button.accordion-toggle
+  is_positive: false
+  extra_finding: null
+  source: 한국장학재단 | https://www.kosaf.go.kr/ko/main.do
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://static.kosaf.go.kr/www/css/krds/sitemap_pop_202412.css, https://static.kosaf.go.kr/www/css/main_202408/reset.css,
+    https://static.kosaf.go.kr/www/css/n_skin/reset.css). 조각 렌더링으로 재현 확인'
+- id: DC-110
+  category: DECOY
+  subtype: hidden_menu
+  html: <div class="seasonal_box ver_11"><a href="https://event.kyobobook.co.kr/make/249189"><div class="scean scean_1"><span class="hidden">한글날</span></div></a></div>
+  css: '.hidden { display: none; }'
+  evidence_text: 한글날
+  expected_location: span.hidden
+  is_positive: false
+  extra_finding: null
+  source: 교보문고 | 대한민국 최고의 도서쇼핑몰 | https://www.kyobobook.co.kr/
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://contents.kyobobook.co.kr/display/next/ui-welcome/build-1790750224/_next/static/chunks/0p_6k1-kuq_e1.css).
+    조각 렌더링으로 재현 확인'
+- id: DC-111
+  category: DECOY
+  subtype: hidden_menu
+  html: '<div id="mobile-nav" class="krds-main-menu-mobile" style="display: none;"><div class="gnb-wrap"><div class="gnb-header"><div class="gnb-utils"><ul class="utility-list"><li><button type="button"
+    class="krds-btn small text" onclick="window.open(''/usr/child/index.jsp'')">어린이 누리집 <i class="svg-icon ico-go"></i></button></li></ul></div></div></div></div>'
+  css: ''
+  evidence_text: 어린이 누리집
+  expected_location: button.krds-btn.small.text
+  is_positive: false
+  extra_finding: null
+  source: 정책소통 - 대학생기자단 - 불법 도박 인식 제고를 돕는 <한국도박문제관리센터 ‘찾아가는 맞춤형 예방교육’> | https://www.mcst.go.kr/site/s_policy/comm/studentNews/studentNewsView.jsp?pSeq=5221
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.mcst.go.kr/site/common/css/default.css?ver=20260715103057). 조각 렌더링으로 재현 확인'
+- id: DC-112
+  category: DECOY
+  subtype: hidden_menu
+  html: <div id="wrap"><div id="header"><div id="gnavi"><button id="gnavi_mo_close">메뉴닫기</button></div></div></div>
+  css: 'button { font-family: inherit; font-weight: inherit; font-size: inherit; }
+
+    input, textarea, select, button { font-size: 14px; }
+
+    #gnavi_mo_close { display: none; }'
+  evidence_text: 메뉴닫기
+  expected_location: button#gnavi_mo_close
+  is_positive: false
+  extra_finding: null
+  source: 국민 안심이 기준입니다, 식품의약품안전처 | https://www.mfds.go.kr/index.do
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.mfds.go.kr/css/www/base.css, https://www.mfds.go.kr/css/www/gnb_top.css?ver=1, https://www.mfds.go.kr/css/www/newLayout.css?ver=2).
+    조각 렌더링으로 재현 확인'
+- id: DC-113
+  category: DECOY
+  subtype: hidden_menu
+  html: <section><div data-tab="2" data-target="tabview" class="tabBtnWrap" data-type=""><strong><a href="#">주요자료</a></strong></div></section>
+  css: '[data-tab] > strong { display: none; }'
+  evidence_text: 주요자료
+  expected_location: a
+  is_positive: false
+  extra_finding: null
+  source: 교육부 > 정책 > 초·중·고 교육 > 초등돌봄·교육 | https://www.moe.go.kr/boardCnts/listRenew.do?boardID=72782&renew=72782&m=030215&s=moe
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.moe.go.kr/css/2021Renewal/clear.min.css, https://www.moe.go.kr/css/2021Renewal/common.min.css).
+    조각 렌더링으로 재현 확인'
+- id: DC-114
+  category: DECOY
+  subtype: hidden_menu
+  html: <div id="contents"><div class="sub_title_area"><h2 class="title"><a href="#" class="submenu_open">메뉴 보기</a></h2></div></div>
+  css: '.sub_title_area .submenu_open { text-indent: -9999px; width: 37px; height: 37px; display: inline-block; background: url("/images/common/submenu_open_bg.gif") center center no-repeat; position: absolute;
+    right: 0px; bottom: -7px; }
+
+    .sub_title_area .submenu_open { width: 28px; height: 28px; position: relative; right: auto; bottom: -9px; border: 1px solid rgb(203, 203, 203); border-radius: 4px; margin-left: 10px; }
+
+    .sub_title_area .submenu_open { display: none; }
+
+    .sub_title_area .submenu_open { text-indent: -9999px; width: 37px; height: 37px; display: inline-block; background: url("/images/common/submenu_open_bg.gif") center center no-repeat; position: absolute;
+    right: 0px; bottom: -7px; }
+
+    .sub_title_area .submenu_open { width: 28px; height: 28px; position: relative; right: auto; bottom: -9px; border: 1px solid rgb(203, 203, 203); border-radius: 4px; margin-left: 10px; }
+
+    .sub_title_area .submenu_open { display: none; }'
+  evidence_text: 메뉴 보기
+  expected_location: a.submenu_open
+  is_positive: false
+  extra_finding: null
+  source: 행정안전부> 이용안내> 누리집 이용안내> 누리집 안내지도 | https://www.mois.go.kr/frt/sub/a08/sitemap/screen.do
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.mois.go.kr/frt2022/com/css/tamplate.css?v=20220809, https://www.mois.go.kr/frt2022/com/css/tamplate.css?v=20260430).
+    조각 렌더링으로 재현 확인'
+- id: DC-115
+  category: DECOY
+  subtype: hidden_menu
+  html: <div id="skip_nav"><ul><li><a href="#skiphome">본문 바로가기</a></li></ul></div>
+  css: '#skip_nav { position: absolute; top: 0px; left: 0px; width: 100%; height: 1px; z-index: 99999; }
+
+    #skip_nav { display: none; }'
+  evidence_text: 본문 바로가기
+  expected_location: a
+  is_positive: false
+  extra_finding: null
+  source: 보도자료 | 상세화면 - 과학기술정보통신부 | https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187820
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.msit.go.kr/asset/css/user/layout.css?v=20). 조각 렌더링으로 재현 확인'
+- id: DC-116
+  category: DECOY
+  subtype: hidden_menu
+  html: <div class="footer"><div class="family_site"><div class="select mobile"><button type="button">유관부서 이동하기</button></div></div></div>
+  css: '.mobile { display: none !important; }'
+  evidence_text: 유관부서 이동하기
+  expected_location: button
+  is_positive: false
+  extra_finding: null
+  source: 대한민국 국회도서관 | 책이야기 > 전자책/오디오북 | https://www.nanet.go.kr/eBook/eBookInfo.do
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.nanet.go.kr/css/style.css?v=20261003347). 조각 렌더링으로 재현 확인'
+- id: DC-117
+  category: DECOY
+  subtype: hidden_menu
+  html: <ul class="lt_c"><li><a href="http://www.ncmh.go.kr/ncmh/main.do"><span>국립정신건강센터</span></a></li></ul>
+  css: '.lt_c { display: none; }'
+  evidence_text: 국립정신건강센터
+  expected_location: span
+  is_positive: false
+  extra_finding: null
+  source: 자료실 > 의료부 자료실 > 「2024년 청소년 온라인 도박중독 실무자 역량강화 교육」 안내 | 국립정신건강 | https://www.ncmh.go.kr/ncmh/board/boardView.do?no=9822&fno=106&menu_cd=04_02_00_01&bn=newsView
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.ncmh.go.kr/static/ncmh/css/nh_common.css, https://www.ncmh.go.kr/static/ncmh/css/nh_component.css).
+    조각 렌더링으로 재현 확인'
+- id: DC-118
+  category: DECOY
+  subtype: hidden_menu
+  html: <li><ul class="depth2 data"><li><a class="fake-link" href="/data/pdsView.do">자료실</a></li></ul></li>
+  css: '.header-wrap .header-inner .gnb > li .depth2 li a { font-size: 15px; line-height: 24px; color: rgb(85, 85, 85); font-family: notokr-medium; word-break: keep-all; }
+
+    .fake-link { display: none !important; }'
+  evidence_text: 자료실
+  expected_location: a.fake-link
+  is_positive: false
+  extra_finding: null
+  source: 사행산업통합감독위원회자주묻는 질문 | https://ngcc.go.kr/police/faq.do
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://ngcc.go.kr/css/egovframework/new/layout.css?ver=1.5, https://ngcc.go.kr/css/egovframework/new/reset.css?ver=1.1).
+    조각 렌더링으로 재현 확인'
+- id: DC-119
+  category: DECOY
+  subtype: hidden_menu
+  html: <ul id="right-floating-menu" style="display:none;"><li><a href="/nhis/minwon/wbhapa01000m01.do"><span>제도안내</span></a></li></ul>
+  css: '#quick-menu > ul { overflow: hidden; border: 1px solid rgb(221, 221, 221); border-radius: 1.2rem; background: var(--nhis-white); box-shadow: rgba(0, 0, 0, 0.06) 0px 6px 6px 0px; }'
+  evidence_text: 제도안내
+  expected_location: span
+  is_positive: false
+  extra_finding: null
+  source: 국민건강보험 | https://www.nhis.or.kr/nhis/index.do
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.nhis.or.kr/_res/_common/css/cms.min.css, https://www.nhis.or.kr/_res/nhis/nhis/css/cms-common-renewal.min.css?1789472536000).
+    조각 렌더링으로 재현 확인'
+- id: DC-120
+  category: DECOY
+  subtype: hidden_menu
+  html: <div id="header-inner"><div class="header-top"><button class="btn-menu-mobile"><span>Menu</span></button></div></div>
+  css: 'input, textarea, select, table, button { font-family: inherit; color: inherit; font-size: inherit; letter-spacing: inherit; }
+
+    .btn-menu-mobile { width: 4rem; height: 4rem; text-align: left; text-indent: -9999rem; overflow: hidden; position: absolute; right: 0px; top: 2.8rem; display: none; background-image: url("../../images/chn/common/ic_menu_m.svg");
+    background-repeat: no-repeat; background-position: center center; }'
+  evidence_text: Menu
+  expected_location: span
+  is_positive: false
+  extra_finding: null
+  source: National Pension Service | https://www.nps.or.kr/chn/main.do
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.nps.or.kr/css/chn/layout.css, https://www.nps.or.kr/css/chn/reset.css). 조각 렌더링으로 재현 확인'
+- id: DC-121
+  category: DECOY
+  subtype: hidden_menu
+  html: <ul id="shareList"><li><a href="javascript:;" class="facebook" onclick="faceLink();" title="페이스북 공유하기 새창열림"><span class="sr-only">페이스북</span></a></li></ul>
+  css: '#shareList { display: none; position: absolute; top: 0px; right: 4.3rem; width: 0px; height: 1.85rem; overflow: hidden; transition: 0.35s; }'
+  evidence_text: 페이스북
+  expected_location: span.sr-only
+  is_positive: false
+  extra_finding: null
+  source: 국세청>알림·소식>보도자료 | https://www.nts.go.kr/nts/na/ntt/selectNttList.do?mi=2201&bbsId=1028
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.nts.go.kr/css/web/nts/sub.css?ver=3). 조각 렌더링으로 재현 확인'
+- id: DC-122
+  category: DECOY
+  subtype: hidden_menu
+  html: <div class="visual_wrap" id="contents"><div class="visual_inner"><div class="slide_ctrl"><a href="#" class="slide_play">재생</a></div></div></div>
+  css: '.slide_ctrl div, .slide_ctrl a { display: inline-block; }
+
+    .slide_ctrl .slide_stop, .slide_ctrl .slide_play { position: relative; width: 20px; height: 20px; cursor: pointer; text-indent: -99999px; }
+
+    .slide_ctrl .slide_play { display: none; }'
+  evidence_text: 재생
+  expected_location: a.slide_play
+  is_positive: false
+  extra_finding: null
+  source: 경찰청 | https://www.police.go.kr/index.do
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.police.go.kr/resources/common/css/default.css, https://www.police.go.kr/resources/common/css/main_new.css).
+    조각 렌더링으로 재현 확인'
+- id: DC-123
+  category: DECOY
+  subtype: hidden_menu
+  html: <div class="sch-box"><form target="_blank" action="/kor/CMS/TotalSearch/search.do" method="post"><fieldset><legend>키워드검색</legend></fieldset></form></div>
+  css: 'legend { display: none; }'
+  evidence_text: 키워드검색
+  expected_location: legend
+  is_positive: false
+  extra_finding: null
+  source: 인사말 > 개교80주년 | 부산대학교 | https://www.pusan.ac.kr/kor/CMS/Contents/Contents.do?mCode=MN300
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.pusan.ac.kr/resources/_Css/common.css). 조각 렌더링으로 재현 확인'
+- id: DC-124
+  category: DECOY
+  subtype: hidden_menu
+  html: '<div class="m_gnb_2d"><ul id="m_gnb_2d_ul_05" class="m_gnb_2d_ul" style="display: none"><h2><a href="/mypage/loan">대출도서</a></h2></ul></div>'
+  css: '.m_gnb_2d_ul { display: none; }'
+  evidence_text: 대출도서
+  expected_location: a
+  is_positive: false
+  extra_finding: null
+  source: 서울특별시교육청 전자도서관 | https://e-lib.sen.go.kr/contents/bookInf
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://e-lib.sen.go.kr/resources/css/reset.css?v=20260904, https://e-lib.sen.go.kr/resources/css/style.css?v=20260904).
+    조각 렌더링으로 재현 확인'
+- id: DC-125
+  category: DECOY
+  subtype: hidden_menu
+  html: <div class="ly-inner"><div class="calendar is-hidden"><div class="month"><span>Oct</span></div></div></div>
+  css: '[is-hidden], .is-hidden { display: none; }
+
+    .common-board .calendar { padding: 20px 0px 105px; margin-top: 62px; font-size: 0px; }'
+  evidence_text: Oct
+  expected_location: span
+  is_positive: false
+  extra_finding: null
+  source: 서울대학교 | https://www.snu.ac.kr/
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.snu.ac.kr/_skin/kor/layout/css/base.css?ver=2026-06-29). 조각 렌더링으로 재현 확인'
+- id: DC-126
+  category: DECOY
+  subtype: hidden_menu
+  html: <div id="wrap"><footer id="footer"><a href="#" class="btnTop-mo">상단으로 가기</a></footer></div>
+  css: '[class*="btn"] { display: inline-block; border: 0px; }
+
+    .btnTop-mo { display: none; }'
+  evidence_text: 상단으로 가기
+  expected_location: a.btnTop-mo
+  is_positive: false
+  extra_finding: null
+  source: SEOUL NATIONAL UNIVERSITY HOSPITAL | https://www.snuh.org/global/en/main.do
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.snuh.org/global/asset/css/base.min.css?v=25082801, https://www.snuh.org/global/asset/css/common-en-main.css?v=25082801,
+    https://www.snuh.org/global/asset/css/common-global-en-main.css?v=25082801). 조각 렌더링으로 재현 확인'
+- id: DC-127
+  category: DECOY
+  subtype: hidden_menu
+  html: '<dl><dd style="display: none;"><button type="button" class="ctrl_play"><span class="blind">재생</span></button></dd></dl>'
+  css: '.ctrl_box > dl dd { position: relative; display: inline-block; float: left; margin-left: -1px; color: rgb(255, 255, 255); }'
+  evidence_text: 재생
+  expected_location: span.blind
+  is_positive: false
+  extra_finding: null
+  source: 시민이 주인되는 민주도시 울산[울산광역시] | https://www.ulsan.go.kr/u/rep/main.ulsan
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.ulsan.go.kr/u/storyCms/rep/css/125.css?dt=20260901161045, https://www.ulsan.go.kr/u/storyCms/rep/css/87.css?dt=20260130131246).
+    조각 렌더링으로 재현 확인'
+- id: DC-128
+  category: DECOY
+  subtype: hidden_menu
+  html: <div id="header" class="snb-padding"><div id="gnb" class="ui-set-gnb"><dl class="my-svc"><dt>회원관련 서비스</dt></dl></div></div>
+  css: '#gnb .my-svc dt { top: -10000px; left: 0px; visibility: hidden; overflow: hidden; height: 0px; position: absolute !important; width: 0px !important; margin: 0px !important; padding: 0px !important;
+    }'
+  evidence_text: 회원관련 서비스
+  expected_location: dt
+  is_positive: false
+  extra_finding: null
+  source: 세관신고 - 우리은행 | https://spot.wooribank.com/pot/Dream?withyou=FXFXG0067
+  notes: '실측 2026-10-03. 숨김 원인 visibility:hidden, size:0x0+overflow:hidden, offset:left=0px,top=-10000px (offset). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://simg.wooribank.com/css/base.css?1778572893000, https://simg.wooribank.com/css/layout.css?1695198621000).
+    조각 렌더링으로 재현 확인'
+- id: DC-129
+  category: DECOY
+  subtype: hidden_menu
+  html: <div class="hidden"><div class="_root_1prb5_1" role="button" tabindex="0" aria-label="검색"><span class="_textArea_1prb5_21"><span class="_textInner_1prb5_25"><span class="_placeholderText_1prb5_33">검색어를
+    입력하세요</span></span></span></div></div>
+  css: '.hidden { display: none; }'
+  evidence_text: 검색어를 입력하세요
+  expected_location: span._placeholderText_1prb5_33
+  is_positive: false
+  extra_finding: null
+  source: 놀수록 놀라운 세상 | NOL | https://nol.yanolja.com/member/wishlist
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://assets.yanolja.com/member-site/eb23710d46b568a7f78df274403958a04a03f76c/prod/20261001/_next/static/css/0892c6998b112a6b.css).
+    조각 렌더링으로 재현 확인'
+- id: DC-130
+  category: DECOY
+  subtype: hidden_menu
+  html: <div id="yWelTopMid"><div class="yWelTodayBook"><div class="btnTB prev"><a href="#" class="bgYUI">이전 오늘의 책 보기</a></div></div></div>
+  css: '#yWelTopMid .yWelTodayBook .btnTB { display: none; position: absolute; z-index: 10; width: 34px; height: 38px; }
+
+    #yWelTopMid .yWelTodayBook .btnTB.prev { left: -1px; top: 155px; }'
+  evidence_text: 이전 오늘의 책 보기
+  expected_location: a.bgYUI
+  is_positive: false
+  extra_finding: null
+  source: 예스24 | https://www.yes24.com/Main/default.aspx
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://image.yes24.com/sysimage/yesUI/welcome/yesWelcomeN4.css?v=20250902, https://image.yes24.com/sysimage/yesUI/yesCom.css?v=20260720).
+    조각 렌더링으로 재현 확인'
+- id: DC-131
+  category: DECOY
+  subtype: hidden_menu
+  html: <div class="_fnctWrap wrap-pop"><div class="inner"><button type="button" class="empty-close">팝업창 닫기</button></div></div>
+  css: '.wrap-pop .empty-close { display: none; }
+
+    button { font-family: ppr, sans-serif; background-color: transparent; overflow: visible; border: 0px; }'
+  evidence_text: 팝업창 닫기
+  expected_location: button.empty-close
+  is_positive: false
+  extra_finding: null
+  source: 연세대학교 | https://www.yonsei.ac.kr/sc/index.do
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.yonsei.ac.kr/Web-home/fnct/imageSlide/Yon_imagesSlide_popup/css/style.css, https://www.yonsei.ac.kr/sites/guide/style/css/w_reset.css).
+    조각 렌더링으로 재현 확인'
+- id: DC-132
+  category: DECOY
+  subtype: hidden_menu
+  html: '<div class="family-site"><ul style="display: none;"><li><a href="https://www.gg.go.kr/contents/contents.do?ciIdx=1015&amp;menuId=2698" target="_blank">120 경기도콜센터</a></li></ul></div>'
+  css: '.ft-group .family-site ul { background: rgb(255, 255, 255); position: absolute; bottom: 40px; width: calc(100% - 1rem); padding: 10px 0px; display: none; border: 1px solid rgb(221, 221, 221); }'
+  evidence_text: 120 경기도콜센터
+  expected_location: a
+  is_positive: false
+  extra_finding: null
+  source: 자주묻는질문 < 자료마당 | 정부민원안내콜센터 | https://www.110.go.kr/data/counselView.do?num=A01_659891
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.110.go.kr/css/egovframework/gcall/main_new/base.css, https://www.110.go.kr/css/egovframework/gcall/main_new/common.css).
+    조각 렌더링으로 재현 확인'
+- id: DC-133
+  category: DECOY
+  subtype: hidden_menu
+  html: <div class="select_list popup-full" id="Search-Target-List" style="display:none;"><ul><li><button type="button" role="option" data-target="All">통합검색</button></li></ul></div>
+  css: '.search_field_area .option_selectbox .select_list { width: 165px; padding: 15px 0px; box-sizing: border-box; background-color: rgb(255, 255, 255); border: 1px solid rgb(60, 75, 168); border-radius:
+    15px; position: absolute; top: 58px; z-index: 9900; }'
+  evidence_text: 통합검색
+  expected_location: button
+  is_positive: false
+  extra_finding: null
+  source: 알라딘 | https://www.aladin.co.kr/home/welcome.aspx
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.aladin.co.kr/ucl_editor/css/header_2011.css?dummy=20261003). 조각 렌더링으로 재현 확인'
+- id: DC-134
+  category: DECOY
+  subtype: hidden_menu
+  html: <section><article class="article_h"><header><h2 style="display:none;">페이지만족도</h2></header></article></section>
+  css: 'h1, h2, h3, h4, h5, h6 { font-size: 1em; }'
+  evidence_text: 페이지만족도
+  expected_location: h2
+  is_positive: false
+  extra_finding: null
+  source: '부산소개 : 부산의 인물 : 향토수호(충신) : 부산광역시 | https://www.busan.go.kr/bhloyalists'
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.busan.go.kr/humanframe/global/assets/css/global.css?v=202211171452, https://www.busan.go.kr/humanframe/theme/busan22/assets/css/common.css?v=2025-09-02-1024).
+    조각 렌더링으로 재현 확인'
+- id: DC-135
+  category: DECOY
+  subtype: hidden_menu
+  html: '<div class="depth2" style="display: none;"><ul class="sub-menu"><li class=" pc_hide M0114"><a href="/songhak-m/M0114/">학업성취도평가</a></li></ul></div>'
+  css: '#usm-menu-wrap-id > ul > li > .depth2 > ul > li.pc_hide { display: none; }'
+  evidence_text: 학업성취도평가
+  expected_location: a
+  is_positive: false
+  extra_finding: null
+  source: 학부모 연수<학부모마당<송학중학교 | https://school.cbe.go.kr/songhak-m/MABBABD/view/5467182
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://school.cbe.go.kr/www/css/style.css, https://school.cbe.go.kr/www/tpl/tpl028/css/default.css). 조각 렌더링으로
+    재현 확인'
+- id: DC-136
+  category: DECOY
+  subtype: hidden_menu
+  html: <header id="header" class="lineBanner"><div class="header"><div class="aside"><a href="/event/newsList.do" class="counsel" onclick="trackGnbClick('후원자 참여공간');">후원자 참여공간</a></div></div></header>
+  css: 'header .aside a { display: block; }
+
+    header .aside .counsel { position: relative; display: block; height: 100px; line-height: 100px; font-size: 18px; font-weight: 500; color: rgb(102, 102, 102); padding-right: 20px; margin-right: 30px;
+    background: none; transition: 0.3s ease-in-out; }
+
+    header .aside .counsel { display: none; }'
+  evidence_text: 후원자 참여공간
+  expected_location: a.counsel
+  is_positive: false
+  extra_finding: null
+  source: 초록우산 | 아동복지전문기관 | https://www.chorogusan.or.kr/main.do
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.chorogusan.or.kr/resources/css/layout.css?bust=20260813). 조각 렌더링으로 재현 확인'
+- id: DC-137
+  category: DECOY
+  subtype: hidden_menu
+  html: '<div id="cntntsView"><div class="box" id="box-6" style="display: none;"><ul class="list_st1"><li>살아있는 동물(반려견 등)</li></ul></div></div>'
+  css: ''
+  evidence_text: 살아있는 동물(반려견 등)
+  expected_location: li
+  is_positive: false
+  extra_finding: null
+  source: 인천공항본부세관 | https://www.customs.go.kr/incheon_airport/cm/cntnts/cntntsView.do?mi=12546&cntntsId=6689
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.customs.go.kr/css/common/common_v1.css?20261003034710). 조각 렌더링으로 재현 확인'
+- id: DC-138
+  category: DECOY
+  subtype: hidden_menu
+  html: <div id="wrap"><div id="footer2023"><div class="skip_top"><a href="#wrap"><span class="sprh_com"></span>TOP</a></div></div></div>
+  css: '.skip_top { bottom: 190px; right: 50%; text-align: center; margin-right: -700px; position: fixed !important; }
+
+    .skip_top { right: 0px; top: auto; text-align: center; margin-right: 0px; width: 36px; }
+
+    #footer2023 .skip_top { display: none; }'
+  evidence_text: TOP
+  expected_location: a
+  is_positive: false
+  extra_finding: null
+  source: 대구광역시 | https://www.daegu.go.kr/index.do
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.daegu.go.kr/cmsh/daegu.go.kr/css/base.css?ver=20250421, https://www.daegu.go.kr/cmsh/daegu.go.kr/css/common.css?ver=2025_v3,
+    https://www.daegu.go.kr/cmsh/daegu.go.kr/css/main_2023.css?ver=20260814). 조각 렌더링으로 재현 확인'
+- id: DC-139
+  category: DECOY
+  subtype: hidden_menu
+  html: <div class="mylawList" id="none1"><div class="bot_btn"><button><span class="normal_b">기본보기 &gt;</span></button></div></div>
+  css: 'body, * { font-size: 13px; line-height: 160%; color: rgb(96, 96, 96); font-family: "Malgun Gothic", "맑은 고딕", Dotum, 돋움, 돋움체, sans-serif; }
+
+    div.mylawList .bot_btn button span { font-size: 12px; color: rgb(100, 170, 224); font-weight: 400; }
+
+    div.mylawList .bot_btn button span.normal_b { display: none; }
+
+    body, * { font-weight: 400; color: rgb(96, 96, 96); font-size: 13px; line-height: 160%; font-family: NotoSans, "Malgun Gothic", "맑은 고딕", Dotum, 돋움, 돋움체, AppleGothic, UnDotum, Arial, Tahoma, Verdana,
+    sans-serif; }'
+  evidence_text: 기본보기 >
+  expected_location: span.normal_b
+  is_positive: false
+  extra_finding: null
+  source: 인터넷 불법이용 규제 > 불법사이트 등 규제 > 불법사이트의 개설 및 이용 금지 > 불법 사이트 발견 시 대 | https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=901&ccfNo=3&cciNo=1&cnpClsNo=3
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://easylaw.go.kr/CSP/css/common.css?v250626, https://easylaw.go.kr/CSP/css/index.css?v230728). 조각 렌더링으로
+    재현 확인'
+- id: DC-140
+  category: DECOY
+  subtype: hidden_menu
+  html: <div class="search-auto-wrap" style="display:none"><div class="auto-word"><div class="left-element"><a href="javascript:getAutoComplete('s')">첫 단어 보기</a></div></div></div>
+  css: '.wrapper .top-head .search-wrap .search-auto-wrap { position: absolute; left: 0px; top: 39px; right: 0px; border: 1px solid rgb(221, 221, 221); background-color: rgb(255, 255, 255); box-shadow:
+    rgba(0, 0, 0, 0.1) 0px 5px 10px; z-index: 1000; border-radius: 10px; }'
+  evidence_text: 첫 단어 보기
+  expected_location: a
+  is_positive: false
+  extra_finding: null
+  source: 금융위원회 | https://www.fsc.go.kr/index
+  notes: '실측 2026-10-03. 숨김 원인 display:none (display/visibility). css 는 브라우저 CSSOM 직렬화 규칙(원 시트: https://www.fsc.go.kr/humanframe/theme/fscmain/assets/style/base.css, https://www.fsc.go.kr/humanframe/theme/fscmain/assets/style/layout.css).
+    조각 렌더링으로 재현 확인'
+- id: DC-141
+  category: DECOY
+  subtype: policy_text
+  html: <div class="ovDivbox1"><div id="ovDiv" style="width:754px;"><div class="ovDivbox"><div id="div901.3.1.3.5939195" class="plv3a" style="text-align:justify;"> 방송미디어통신심의위원회는 불법·유해정보신고를 운영하여 인터넷 도박,
+    자살, 폭발물, 불법 복제 유통 사이트와 같이 불법정보를 제공하는 사이트에 대한 신고 및 심의신청을 받고 있습니다.</div></div></div></div>
+  css: ''
+  evidence_text: 방송미디어통신심의위원회는 불법·유해정보신고를 운영하여 인터넷 도박, 자살, 폭발물, 불법 복제 유통 사이트와 같이 불법정보를 제공하는 사이트에 대한 신고 및 심의신청을 받고 있습니다.
+  expected_location: div.plv3a
+  is_positive: false
+  extra_finding: null
+  source: 인터넷 불법이용 규제 > 불법사이트 등 규제 > 불법사이트의 개설 및 이용 금지 > 불법 사이트 발견 시 대 | https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=901&ccfNo=3&cciNo=1&cnpClsNo=3
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-142
+  category: DECOY
+  subtype: policy_text
+  html: <div class="ovDivbox1"><div id="ovDiv" style="width:754px;"><div class="ovDivbox"><div id="div901.3.1.3.5939217" class="plv3a" style="text-align:justify;"> 도박으로 인해 본인, 가족을 비롯한 대인관계에 갈등이 생기고, 재정적·법적으로
+    문제가 발생함에도 불구하고 자신의 의지로 도박행위를 조절하지 못하고 지속적으로 도박을 한다면 도박중독을 의심해야 합니다.</div></div></div></div>
+  css: ''
+  evidence_text: 도박으로 인해 본인, 가족을 비롯한 대인관계에 갈등이 생기고, 재정적·법적으로 문제가 발생함에도 불구하고 자신의 의지로 도박행위를 조절하지 못하고 지속적으로 도박을 한다면 도박중독을 의심해야 합니다.
+  expected_location: div.plv3a
+  is_positive: false
+  extra_finding: null
+  source: 인터넷 불법이용 규제 > 불법사이트 등 규제 > 불법사이트의 개설 및 이용 금지 > 불법 사이트 발견 시 대 | https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=901&ccfNo=3&cciNo=1&cnpClsNo=3
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-143
+  category: DECOY
+  subtype: policy_text
+  html: <tbody><tr><td class="tch-ctnt usm-editor-view" colspan="6"><p>2025년 청소년 도박문제 예방주간 운영 교육자료 안내해 드립니다.</p></td></tr></tbody>
+  css: ''
+  evidence_text: 2025년 청소년 도박문제 예방주간 운영 교육자료 안내해 드립니다.
+  expected_location: p
+  is_positive: false
+  extra_finding: null
+  source: 학부모 연수<학부모마당<송학중학교 | https://school.cbe.go.kr/songhak-m/MABBABD/view/5467182
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-144
+  category: DECOY
+  subtype: policy_text
+  html: <div id="wrap" style="width:100%; height:100%;"><div name="titleDiv"><div class="title_wrap"><span class="txt_desc">불법사행행위 신고는 밝은 사회의 희망을 지키고, 가정의 행복을 키우는 첫걸음입니다.</span></div></div></div>
+  css: ''
+  evidence_text: 불법사행행위 신고는 밝은 사회의 희망을 지키고, 가정의 행복을 키우는 첫걸음입니다.
+  expected_location: span.txt_desc
+  is_positive: false
+  extra_finding: null
+  source: 신고대상 | 사행산업통합감독위원회 불법사행산업감시신고센터 | https://singo.ngcc.go.kr/singo/portal/guide/guide_02.do
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-145
+  category: DECOY
+  subtype: policy_text
+  html: "<ul class=\"notify_list\"><li><div><p class=\"txt\">\n\t\t\t\t\t\t\t\t정보통신망(컴퓨터 시스템)을 통하여 영리의 목적으로\n\t\t\t\t\t\t\t\t도박사이트를 개설하여 도박행위를 하게하는 경우, 사이트\n\t\t\t\t\t\t\t\t및 그 운영자에 관한 정보 등이 신고대상에 해당\n\t\
+    \t\t\t\t\t\t</p></div></li></ul>"
+  css: ''
+  evidence_text: "정보통신망(컴퓨터 시스템)을 통하여 영리의 목적으로\n\t\t\t\t\t\t\t\t도박사이트를 개설하여 도박행위를 하게하는 경우, 사이트\n\t\t\t\t\t\t\t\t및 그 운영자에 관한 정보 등이 신고대상에 해당"
+  expected_location: p.txt
+  is_positive: false
+  extra_finding: null
+  source: 신고대상 | 사행산업통합감독위원회 불법사행산업감시신고센터 | https://singo.ngcc.go.kr/singo/portal/guide/guide_02.do
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-146
+  category: DECOY
+  subtype: policy_text
+  html: <div class="list_thumb mT40"><div class="noneThumb"><div class="cont"><p>이에 경찰은 지난해 입건·송치한 도박혐의 소년사건에 대한 분석 결과를 바탕으로 2024년도 청소년 도박 예방 및 재범방지 계획을 수립했고, 국민이 실질적으로 체감할 수 있도록 강력한 단속도 실시할 예정이다.&nbsp;</p></div></div></div>
+  css: ''
+  evidence_text: 이에 경찰은 지난해 입건·송치한 도박혐의 소년사건에 대한 분석 결과를 바탕으로 2024년도 청소년 도박 예방 및 재범방지 계획을 수립했고, 국민이 실질적으로 체감할 수 있도록 강력한 단속도 실시할 예정이다.
+  expected_location: p
+  is_positive: false
+  extra_finding: null
+  source: 복지뉴스 | https://www.bokjiro.go.kr/ssis-tbu/cms/pc/news/news/1306580_1114.html
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-147
+  category: DECOY
+  subtype: policy_text
+  html: <div class="list_thumb mT40"><div class="noneThumb"><div class="cont"><p>아울러 최근 급증하는 청소년 도박문제에 더 적극적으로 대응하기 위해 5월 ‘청소년의 달’부터 청소년 도박 예방 활동을 집중적으로 추진할 방침이다.&nbsp;</p></div></div></div>
+  css: ''
+  evidence_text: 아울러 최근 급증하는 청소년 도박문제에 더 적극적으로 대응하기 위해 5월 ‘청소년의 달’부터 청소년 도박 예방 활동을 집중적으로 추진할 방침이다.
+  expected_location: p
+  is_positive: false
+  extra_finding: null
+  source: 복지뉴스 | https://www.bokjiro.go.kr/ssis-tbu/cms/pc/news/news/1306580_1114.html
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-148
+  category: DECOY
+  subtype: policy_text
+  html: <div class="ovDivbox1"><div id="ovDiv" style="width:754px;"><div class="ovDivbox"><div id="div2858.2.2.2.5906242" class="plv3a" style="text-align:justify;"> <a href="http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=&amp;lsNm=%EA%B2%8C%EC%9E%84%EC%82%B0%EC%97%85%EC%A7%84%ED%9D%A5%EC%97%90+%EA%B4%80%ED%95%9C+%EB%B2%95%EB%A5%A0&amp;joNo=&amp;languageType=KO&amp;paras=1"
+    title="새창으로 열림" target="_blank">「게임산업진흥에 관한 법률」</a>에 따른 사행성게임물, 사행성 유기기구, 사행성 게임장 등을 사행산업통합감독위원회에 신고한 사람은 예산의 범위에서 2,000만원 이하의 포상금을 받을 수 있습니다(<a href="http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=JO&amp;lsNm=%EC%82%AC%ED%96%89%EC%82%B0%EC%97%85%ED%86%B5%ED%95%A9%EA%B0%90%EB%8F%85%EC%9C%84%EC%9B%90%ED%9A%8C%EB%B2%95&amp;joNo=001800002&amp;languageType=KO&amp;paras=1"
+    title="새창으로 열림" target="_blank">「사행산업통합감독위원회법」 제18조의2</a>제3항 및 <a href="http://www.law.go.kr/LSW/admRulLsInfoP.do?docType=JO&amp;admRulNm=%EB%B6%88%EB%B2%95%EC%82%AC%ED%96%89%EC%82%B0%EC%97%85+%EA%B0%90%EC%8B%9C%EC%8B%A0%EA%B3%A0%EC%84%BC%ED%84%B0+%EC%9A%B4%EC%98%81%EA%B7%9C%EC%B9%99&amp;joNo=002600000&amp;languageType=KO&amp;paras=1"
+    title="새창으로 열림" target="_blank">「불법사행산업 감시신고센터 운영규칙」 제26조</a>제1항제2호).</div></div></div></div>
+  css: ''
+  evidence_text: 에 따른 사행성게임물, 사행성 유기기구, 사행성 게임장 등을 사행산업통합감독위원회에 신고한 사람은 예산의 범위에서 2,000만원 이하의 포상금을 받을 수 있습니다(
+  expected_location: div.plv3a
+  is_positive: false
+  extra_finding: null
+  source: 온라인 게임 이용자 > 온라인 게임 이용하기 > 온라인 게임 이용 시 주의사항 > 사행성게임물과 웹보드 게임 | https://www.easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=2858&ccfNo=2&cciNo=2&cnpClsNo=2
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-149
+  category: DECOY
+  subtype: policy_text
+  html: <div class="ovDivbox1"><div id="ovDiv" style="width:754px;"><div class="ovDivbox"><div id="div2858.2.2.2.5906259" class="plv4a" style="text-align:justify;"> 인증을 받은 웹보드 게임은 이용자 보호·불법 환전 금지를 준수하고
+    있는지 모니터링을 통해 관리됩니다[게임이용자보호센터 홈페이지(<a href="https://gucc.or.kr/authentication/self_reg_intro.asp" target="_blank" title="새창으로 열림"><u>https://gucc.or.kr</u></a>)-인증제도-인증제도 안내 참조].</div></div></div></div>
+  css: ''
+  evidence_text: 인증을 받은 웹보드 게임은 이용자 보호·불법 환전 금지를 준수하고 있는지 모니터링을 통해 관리됩니다[게임이용자보호센터 홈페이지(
+  expected_location: div.plv4a
+  is_positive: false
+  extra_finding: null
+  source: 온라인 게임 이용자 > 온라인 게임 이용하기 > 온라인 게임 이용 시 주의사항 > 사행성게임물과 웹보드 게임 | https://www.easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=2858&ccfNo=2&cciNo=2&cnpClsNo=2
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-150
+  category: DECOY
+  subtype: policy_text
+  html: '<div class="view-detail"><div class="view_con"><p style="line-height: 200%; font-family: NanumGothic;"><span style="font-family: NanumGothic; font-size: 12pt;">문화체육관광부 소관 공공기관인 한국도박문제관리센터는 2009년
+    도박문제 예방교육 지역 센터가 운영된 이후 서비스 대상을 넓혀가며 도박문제예방에 힘쓰고 있습니다.</span></p></div></div>'
+  css: ''
+  evidence_text: 문화체육관광부 소관 공공기관인 한국도박문제관리센터는 2009년 도박문제 예방교육 지역 센터가 운영된 이후 서비스 대상을 넓혀가며 도박문제예방에 힘쓰고 있습니다.
+  expected_location: span
+  is_positive: false
+  extra_finding: null
+  source: 정책소통 - 대학생기자단 - 불법 도박 인식 제고를 돕는 <한국도박문제관리센터 ‘찾아가는 맞춤형 예방교육’> | https://www.mcst.go.kr/site/s_policy/comm/studentNews/studentNewsView.jsp?pSeq=5221
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-151
+  category: DECOY
+  subtype: policy_text
+  html: '<div class="view-detail"><div class="view_con"><p style="line-height: 200%; font-family: NanumGothic;"><span style="font-family: NanumGothic; font-size: 12pt;">도박 문제자와 가족의 치유와 재활을 돕는 단계적 치유프로그램입니다.
+    1단계(교육프로그램), 2단계(치유집단상담), 3단계(회복프로그램)으로 이루어져 있고, 이외에 대안 및 기타 프로그램도 있습니다. 전화 1336, 온라인채팅, 문자 #1336, 카카오톡 챗봇을 이용하여 상담 후 프로그램을 신청할 수 있습니다.</span></p></div></div>'
+  css: ''
+  evidence_text: '도박 문제자와 가족의 치유와 재활을 돕는 단계적 치유프로그램입니다. 1단계(교육프로그램), 2단계(치유집단상담), 3단계(회복프로그램)으로 이루어져 있고, 이외에 대안 및 기타 프로그램도 있습니다. 전화 1336, 온라인채팅, 문자 #1336, 카카오톡 챗봇을 이용하여 상담 후 프로그램을 신청할 수 있습니다.'
+  expected_location: span
+  is_positive: false
+  extra_finding: null
+  source: 정책소통 - 대학생기자단 - 불법 도박 인식 제고를 돕는 <한국도박문제관리센터 ‘찾아가는 맞춤형 예방교육’> | https://www.mcst.go.kr/site/s_policy/comm/studentNews/studentNewsView.jsp?pSeq=5221
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-152
+  category: DECOY
+  subtype: policy_text
+  html: '<div class="bv_content"><div class="bvc_txt"><p><span style="font-size: 12pt;">청소년 온라인 도박중독 관련 직무 전문성 강화를 통한 지역사회 내 중독문제 예방 및 조기 발견을 위해 「2024년 청소년 온라인 도박중독 실무자 역량강화 교육」 을 진행하오니&nbsp;</span></p></div></div>'
+  css: ''
+  evidence_text: 청소년 온라인 도박중독 관련 직무 전문성 강화를 통한 지역사회 내 중독문제 예방 및 조기 발견을 위해 「2024년 청소년 온라인 도박중독 실무자 역량강화 교육」 을 진행하오니
+  expected_location: span
+  is_positive: false
+  extra_finding: null
+  source: 자료실 > 의료부 자료실 > 「2024년 청소년 온라인 도박중독 실무자 역량강화 교육」 안내 | 국립정신건강 | https://www.ncmh.go.kr/ncmh/board/boardView.do?no=9822&fno=106&menu_cd=04_02_00_01&bn=newsView
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-153
+  category: DECOY
+  subtype: policy_text
+  html: "<div class=\"content-main\"><div class=\"police-plan-wrap\"><div class=\"police-plan\"><p class=\"plan-right\">\n\t\t\t\t\t\t\t사행산업통합감독위원회법 제16조에 따라 사행산업의 통합적 관리·감독 및 건전화, 불법도박 근절을 위해 5년마다\n\t\t\
+    \t\t\t\t\t「사행산업 건전발전 종합계획」수립 <br> <br>* 제1차(’09~’13, ’08.11월 발표),\n\t\t\t\t\t\t\t제2차(’14~’18, ’14.2월 발표), <br>* 제3차(’19~’23, ’18.11월 발표,\n\t\t\t\t\t\t\t’20.8월 수정계획 발표) <br> <br>제3차 종합계획(‘18~’23년)이 ‘23년\
+    \ 완료됨에\n\t\t\t\t\t\t\t따라, ‘24년부터 시작되는 「제4차 사행산업 건전발전 종합계획(‘24~’28년)」 수립\n\t\t\t\t\t\t</p></div></div></div>"
+  css: ''
+  evidence_text: "사행산업통합감독위원회법 제16조에 따라 사행산업의 통합적 관리·감독 및 건전화, 불법도박 근절을 위해 5년마다\n\t\t\t\t\t\t\t「사행산업 건전발전 종합계획」수립"
+  expected_location: p.plan-right
+  is_positive: false
+  extra_finding: null
+  source: 사행산업통합감독위원회건전발전 종합계획 | https://www.ngcc.go.kr/police/plan/5_1.do
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-154
+  category: DECOY
+  subtype: policy_text
+  html: <div class="lines-box mtp20"><div><ul class="num-text"><li><span>①</span> 누구든지 불법사행산업 또는 사행산업사업자의 과도한 사행심 유발행위나 준수사항 위반행위를 알게 된 경우에는 이를 위원회에 신고할 수 있다.</li></ul></div></div>
+  css: ''
+  evidence_text: 누구든지 불법사행산업 또는 사행산업사업자의 과도한 사행심 유발행위나 준수사항 위반행위를 알게 된 경우에는 이를 위원회에 신고할 수 있다.
+  expected_location: li
+  is_positive: false
+  extra_finding: null
+  source: 사행산업통합감독위원회불법사행산업감시신고 센터 | https://www.ngcc.go.kr/police/report.do
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-155
+  category: DECOY
+  subtype: policy_text
+  html: '<div class="police-about-wrap"><div class="npage-area"><ul class="ntxt-style"><li><span class="st">전화신고 : </span> 사행산업통합감독위원회 불법사행행위 신고전화(1855-0112)를 이용하여 신고</li></ul></div></div>'
+  css: ''
+  evidence_text: 사행산업통합감독위원회 불법사행행위 신고전화(1855-0112)를 이용하여 신고
+  expected_location: li
+  is_positive: false
+  extra_finding: null
+  source: 사행산업통합감독위원회불법사행산업감시신고 센터 | https://www.ngcc.go.kr/police/report.do
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-156
+  category: DECOY
+  subtype: policy_text
+  html: <div class="ovDivbox1"><div id="ovDiv" style="width:754px;"><div class="ovDivbox"><div id="div901.3.1.3.5939218" class="plv3a" style="text-align:justify;"> 본인 또는 지인이 인터넷 도박 등의 문제가 있는 것을 알게 되는 경우에는
+    한국도박문제예방치유원 홈페이지(<a href="http://www.kcgp.or.kr" target="_blank" title="새창으로 열림">www.kcgp.or.kr</a>) 또는 상담전화(☎ 1336)를 통해 상담신청을 하시면 도움을 받으실 수 있습니다.</div></div></div></div>
+  css: ''
+  evidence_text: 본인 또는 지인이 인터넷 도박 등의 문제가 있는 것을 알게 되는 경우에는 한국도박문제예방치유원 홈페이지(
+  expected_location: div.plv3a
+  is_positive: false
+  extra_finding: null
+  source: 인터넷 불법이용 규제 > 불법사이트 등 규제 > 불법사이트의 개설 및 이용 금지 > 불법 사이트 발견 시 대 | https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=901&ccfNo=3&cciNo=1&cnpClsNo=3
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-157
+  category: DECOY
+  subtype: policy_text
+  html: "<ul class=\"notify_list\"><li><div><p class=\"txt\">\n\t\t\t\t\t\t\t\t사행성 게임물은 게임결과에 따라 금전이나 경품이 제공되는\n\t\t\t\t\t\t\t\t게임이 신고 대상에 해당\n\t\t\t\t\t\t\t</p></div></li></ul>"
+  css: ''
+  evidence_text: "사행성 게임물은 게임결과에 따라 금전이나 경품이 제공되는\n\t\t\t\t\t\t\t\t게임이 신고 대상에 해당"
+  expected_location: p.txt
+  is_positive: false
+  extra_finding: null
+  source: 신고대상 | 사행산업통합감독위원회 불법사행산업감시신고센터 | https://singo.ngcc.go.kr/singo/portal/guide/guide_02.do
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-158
+  category: DECOY
+  subtype: policy_text
+  html: '<div class="contents"><div class="info_box05"><ul class="list_type04"><li>심의요청 대상 : 신고대상이 불법 사행행위의 혐의가 있고, 증거가 충분하다고 판단되는 신고 건(사이트가 활성화 상태, 최초 신고 건)</li></ul></div></div>'
+  css: ''
+  evidence_text: '심의요청 대상 : 신고대상이 불법 사행행위의 혐의가 있고, 증거가 충분하다고 판단되는 신고 건(사이트가 활성화 상태, 최초 신고 건)'
+  expected_location: li
+  is_positive: false
+  extra_finding: null
+  source: 신고처리절차 | 사행산업통합감독위원회 불법사행산업감시신고센터 | https://singo.ngcc.go.kr/singo/portal/guide/guide_03.do
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-159
+  category: DECOY
+  subtype: policy_text
+  html: <div class="tableView"><ul class="prev-next-wrap"><li><a tabindex="43" onmouseover="fn_mouseOver('A01_65988943','')" onmouseout="fn_mouseOut('A01_65988943')" href="/data/counselView.do?num=A01_659889&amp;curPage=1&amp;scType=&amp;scText=&amp;scIntt=&amp;scCate1=&amp;scCate2=">불법사행행위
+    신고했는데도 불구하고 여전히 영업중입니다.</a></li></ul></div>
+  css: ''
+  evidence_text: 불법사행행위 신고했는데도 불구하고 여전히 영업중입니다.
+  expected_location: a
+  is_positive: false
+  extra_finding: null
+  source: 자주묻는질문 < 자료마당 | 정부민원안내콜센터 | https://www.110.go.kr/data/counselView.do?num=A01_659891
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-160
+  category: DECOY
+  subtype: policy_text
+  html: <section id="contents"><div class="list_thumb mT40"><h4 id="titleFocus" tabindex="0" style="outline:none;">도박혐의 소년범 평균 16.1세…경찰청, 맞춤형 예방 활동 강화</h4></div></section>
+  css: ''
+  evidence_text: 도박혐의 소년범 평균 16.1세…경찰청, 맞춤형 예방 활동 강화
+  expected_location: h4#titleFocus
+  is_positive: false
+  extra_finding: null
+  source: 복지뉴스 | https://www.bokjiro.go.kr/ssis-tbu/cms/pc/news/news/1306580_1114.html
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-161
+  category: DECOY
+  subtype: policy_text
+  html: <div class="list_thumb mT40"><div class="noneThumb"><div class="cont"><p>먼저 이번 분석내용을 바탕으로 수립한 2024년도 청소년 도박 예방 및 재범방지 계획에 따라 불법도박 위험군 청소년 대상 맞춤형 특별예방 활동을 강화한다.&nbsp;</p></div></div></div>
+  css: ''
+  evidence_text: 먼저 이번 분석내용을 바탕으로 수립한 2024년도 청소년 도박 예방 및 재범방지 계획에 따라 불법도박 위험군 청소년 대상 맞춤형 특별예방 활동을 강화한다.
+  expected_location: p
+  is_positive: false
+  extra_finding: null
+  source: 복지뉴스 | https://www.bokjiro.go.kr/ssis-tbu/cms/pc/news/news/1306580_1114.html
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-162
+  category: DECOY
+  subtype: policy_text
+  html: <div class="list_thumb mT40"><div class="noneThumb"><div class="cont"><p>가정 내에서도 개인용 컴퓨터나 스마트폰을 이용해 도박사이트에 접속하는 사례가 많은 만큼, 학부모를 상대로 청소년 도박범죄의 심각성을 알리고 예방에 관심을 촉구하는 교육자료도 제작·배포한다.&nbsp;</p></div></div></div>
+  css: ''
+  evidence_text: 가정 내에서도 개인용 컴퓨터나 스마트폰을 이용해 도박사이트에 접속하는 사례가 많은 만큼, 학부모를 상대로 청소년 도박범죄의 심각성을 알리고 예방에 관심을 촉구하는 교육자료도 제작·배포한다.
+  expected_location: p
+  is_positive: false
+  extra_finding: null
+  source: 복지뉴스 | https://www.bokjiro.go.kr/ssis-tbu/cms/pc/news/news/1306580_1114.html
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-163
+  category: DECOY
+  subtype: policy_text
+  html: <div class="ovDivbox1"><div id="ovDiv" style="width:754px;"><div class="ovDivbox"><div id="div2858.2.2.2.5906232" class="plv3a" style="text-align:justify;"> 사행성게임물에 해당되어 등급분류가 거부된 게임물을 유통시키거나 이용에
+    제공하는 행위 또는 유통·이용제공의 목적으로 진열·보관하는 행위는 불법게임물의 유통 행위로서 금지됩니다(<a href="#" onclick="openBtrCard('010196', '0032001');return false;" title="규제등록카드 새창 열기"></a><a href="http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=JO&amp;lsNm=%EA%B2%8C%EC%9E%84%EC%82%B0%EC%97%85%EC%A7%84%ED%9D%A5%EC%97%90+%EA%B4%80%ED%95%9C+%EB%B2%95%EB%A5%A0&amp;joNo=003200000&amp;languageType=KO&amp;paras=1"
+    title="새창으로 열림" target="_blank">「게임산업진흥에 관한 법률」 제32조</a>제1항제4호).</div></div></div></div>
+  css: ''
+  evidence_text: 사행성게임물에 해당되어 등급분류가 거부된 게임물을 유통시키거나 이용에 제공하는 행위 또는 유통·이용제공의 목적으로 진열·보관하는 행위는 불법게임물의 유통 행위로서 금지됩니다(
+  expected_location: div.plv3a
+  is_positive: false
+  extra_finding: null
+  source: 온라인 게임 이용자 > 온라인 게임 이용하기 > 온라인 게임 이용 시 주의사항 > 사행성게임물과 웹보드 게임 | https://www.easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=2858&ccfNo=2&cciNo=2&cnpClsNo=2
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-164
+  category: DECOY
+  subtype: policy_text
+  html: <div class="ovDivbox"><div class="tplv4"><div class="highlightBDiv"><div id="div2858.2.2.2.5906241" class="tplv2d" style="text-align:justify;">√ 사행성게임물의 신고 방법에 대한 자세한 내용은 불법사행산업감시신고센터 홈페이지(<a href="https://singo.ngcc.go.kr/singo/portal/main.do"
+    target="_blank" title="새창으로 열림"><u>https://singo.ngcc.go.kr)</u></a>를 통해 확인할 수 있습니다.</div></div></div></div>
+  css: ''
+  evidence_text: √ 사행성게임물의 신고 방법에 대한 자세한 내용은 불법사행산업감시신고센터 홈페이지(
+  expected_location: div.tplv2d
+  is_positive: false
+  extra_finding: null
+  source: 온라인 게임 이용자 > 온라인 게임 이용하기 > 온라인 게임 이용 시 주의사항 > 사행성게임물과 웹보드 게임 | https://www.easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=2858&ccfNo=2&cciNo=2&cnpClsNo=2
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-165
+  category: DECOY
+  subtype: policy_text
+  html: <div class="contents"><div class="contentWrap" data-brl-use="PH"><div class="view-detail"><h3 class="view_title" data-brl-use="PH/H2">불법 도박 인식 제고를 돕는 &lt;한국도박문제관리센터 ‘찾아가는 맞춤형 예방교육’&gt;</h3></div></div></div>
+  css: ''
+  evidence_text: 불법 도박 인식 제고를 돕는 <한국도박문제관리센터 ‘찾아가는 맞춤형 예방교육’>
+  expected_location: h3.view_title
+  is_positive: false
+  extra_finding: null
+  source: 정책소통 - 대학생기자단 - 불법 도박 인식 제고를 돕는 <한국도박문제관리센터 ‘찾아가는 맞춤형 예방교육’> | https://www.mcst.go.kr/site/s_policy/comm/studentNews/studentNewsView.jsp?pSeq=5221
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-166
+  category: DECOY
+  subtype: policy_text
+  html: '<div class="view-detail"><div class="view_con"><p style="line-height: 200%; font-family: NanumGothic;"><span style="font-family: NanumGothic; font-size: 12pt;">한국도박문제관리센터에서는 &lt;찾아가는 맞춤형 예방교육&gt;
+    사업을 실시, 청소년/대학생/직장인/학부모 등 생애주기별로 나눠 도박에 대한 올바른 이해를 돕고 및 도박문제의 위험에 대한 인식 제고를 돕고 있습니다.</span></p></div></div>'
+  css: ''
+  evidence_text: 한국도박문제관리센터에서는 <찾아가는 맞춤형 예방교육> 사업을 실시, 청소년/대학생/직장인/학부모 등 생애주기별로 나눠 도박에 대한 올바른 이해를 돕고 및 도박문제의 위험에 대한 인식 제고를 돕고 있습니다.
+  expected_location: span
+  is_positive: false
+  extra_finding: null
+  source: 정책소통 - 대학생기자단 - 불법 도박 인식 제고를 돕는 <한국도박문제관리센터 ‘찾아가는 맞춤형 예방교육’> | https://www.mcst.go.kr/site/s_policy/comm/studentNews/studentNewsView.jsp?pSeq=5221
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-167
+  category: DECOY
+  subtype: policy_text
+  html: <div class="board_view"><div class="bv_top"><div class="bv_ttl"><h4>「2024년 청소년 온라인 도박중독 실무자 역량강화 교육」 안내 </h4></div></div></div>
+  css: ''
+  evidence_text: 「2024년 청소년 온라인 도박중독 실무자 역량강화 교육」 안내
+  expected_location: h4
+  is_positive: false
+  extra_finding: null
+  source: 자료실 > 의료부 자료실 > 「2024년 청소년 온라인 도박중독 실무자 역량강화 교육」 안내 | 국립정신건강 | https://www.ncmh.go.kr/ncmh/board/boardView.do?no=9822&fno=106&menu_cd=04_02_00_01&bn=newsView
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-168
+  category: DECOY
+  subtype: policy_text
+  html: "<div class=\"police-plan-wrap\"><div class=\"police-center1\"><ul class=\"text-list1\"><li>사행산업 광고 심의 본연의 목적인 광고의 건전성 보장과 광고윤리 확립을 통해 과도한 사행심 조장\n\t\t\t\t\t\t\t\t광고를 사전 예방하는 기조 유지 및 활성화</li></ul></div></div>"
+  css: ''
+  evidence_text: "사행산업 광고 심의 본연의 목적인 광고의 건전성 보장과 광고윤리 확립을 통해 과도한 사행심 조장\n\t\t\t\t\t\t\t\t광고를 사전 예방하는 기조 유지 및 활성화"
+  expected_location: li
+  is_positive: false
+  extra_finding: null
+  source: 사행산업통합감독위원회건전발전 종합계획 | https://www.ngcc.go.kr/police/plan/5_1.do
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-169
+  category: DECOY
+  subtype: policy_text
+  html: '<div class="police-about-wrap"><div class="npage-area"><ul class="ntxt-style"><li><span class="st">우편신고 : </span> 불법사행행위 신고서를 작성하고 증빙자료를 첨부하여 사행산업통합감독위원회 불법사행산업감시신고센터로 발송<br><span class="r-txt">※
+    주소 : 경기도 과천시 관문로 47(중앙동) 정부과천청사 5동 6층 사행산업통합감독위원회</span></li></ul></div></div>'
+  css: ''
+  evidence_text: 불법사행행위 신고서를 작성하고 증빙자료를 첨부하여 사행산업통합감독위원회 불법사행산업감시신고센터로 발송
+  expected_location: li
+  is_positive: false
+  extra_finding: null
+  source: 사행산업통합감독위원회불법사행산업감시신고 센터 | https://www.ngcc.go.kr/police/report.do
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-170
+  category: DECOY
+  subtype: policy_text
+  html: <div class="police-about-wrap"><div class="npage-area"><ul class="ntxt-style"><li>불법사행행위 신고에 대하여 소관 행정기관 및 관련기관에 조치의뢰 한 이후 형사입건 등 실질적인 조치가 이뤄지는 경우 사행행위 신고대상 및 포상금 지급기준에 따라 포상금을 지급</li></ul></div></div>
+  css: ''
+  evidence_text: 불법사행행위 신고에 대하여 소관 행정기관 및 관련기관에 조치의뢰 한 이후 형사입건 등 실질적인 조치가 이뤄지는 경우 사행행위 신고대상 및 포상금 지급기준에 따라 포상금을 지급
+  expected_location: li
+  is_positive: false
+  extra_finding: null
+  source: 사행산업통합감독위원회불법사행산업감시신고 센터 | https://www.ngcc.go.kr/police/report.do
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-171
+  category: DECOY
+  subtype: risky_word_normal
+  html: <div id="article-view"><section class="article-view-content"><article id="article-view-content-div" class="article-veiw-body view-page font-size17" itemprop="articleBody"><p>2025년 1월, 인센티브가 충전액의
+    20%가 지급된다는 점을 가장 큰 이용 혜택으로 꼽을 수 있겠다. (최대 100만 원 충전 시 20만 원 인센티브 지급, 현금과 동일하게 사용 가능) 뿐만 아니라 연말정산 소득공제 30% 혜택도 받을 수 있어 더욱 유용한 정책이다. 소득공제의 경우 별도 신청이 필요 없어 간편하다. 카드 연회비도 따로 없다.&nbsp;</p></article></section></div>
+  css: ''
+  evidence_text: 2025년 1월, 인센티브가 충전액의 20%가 지급된다는 점을 가장 큰 이용 혜택으로 꼽을 수 있겠다. (최대 100만 원 충전 시 20만 원 인센티브 지급, 현금과 동일하게 사용 가능) 뿐만 아니라 연말정산 소득공제 30% 혜택도 받을 수 있어 더욱 유용한 정책이다. 소득공제의 경우 별도 신청이 필요 없어 간편하다. 카드 연회비도
+    따로 없다.
+  expected_location: p
+  is_positive: false
+  extra_finding: null
+  source: 광명사랑화폐 인센티브 20% 지급! 더 커진 시민 혜택 누리기 < 시민홍보기자단 < 시민톡톡 < 기사본문 - | http://news.gm.go.kr/news/articleView.html?idxno=22044
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-172
+  category: DECOY
+  subtype: risky_word_normal
+  html: <tbody class="p-table--th-left"><tr class="p-table__subject"><td colspan="2"><span class="p-table__subject_text">수원페이 인센티브 지급시간 변경 안내 (2025. 3월 부터)</span></td></tr></tbody>
+  css: ''
+  evidence_text: 수원페이 인센티브 지급시간 변경 안내 (2025. 3월 부터)
+  expected_location: span.p-table__subject_text
+  is_positive: false
+  extra_finding: null
+  source: '공지사항(상세) : HOME > 분야별정보 > 경제·기업 > 수원시 지역화폐 > 공지사항 | https://www.suwon.go.kr/web/board/BD_board.view.do?bbsCd=1399&seq=20250220104911124'
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-173
+  category: DECOY
+  subtype: risky_word_normal
+  html: <div class="tm_grp mgt40"><h3 class="tm_txt"><em class="tit_txt"><strong>YES포인트 2,000원 추가적립 안내</strong></em></h3></div>
+  css: ''
+  evidence_text: YES포인트 2,000원 추가적립 안내
+  expected_location: strong
+  is_positive: false
+  extra_finding: null
+  source: 무료배송+추가적립 | 서비스/혜택 - 예스24 | https://www.yes24.com/notice/FirstClass/InfoFreeDlv.aspx
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-174
+  category: DECOY
+  subtype: risky_word_normal
+  html: "<section id=\"newsTabpanel01\" role=\"tabpanel\" aria-labelledby=\"newsTab01\" class=\"tab-conts active\"><ul class=\"news-tbl-list\"><li><a href=\"/nhis/together/wbhaea01000m01.do?mode=view&amp;articleNo=11013820\"\
+    \ class=\"tit\">\n\t\t\t\t2026년 하반기 자동이체 경품행사 운영 안내\n\t\t\t</a></li></ul></section>"
+  css: ''
+  evidence_text: 2026년 하반기 자동이체 경품행사 운영 안내
+  expected_location: a.tit
+  is_positive: false
+  extra_finding: null
+  source: 국민건강보험 | https://www.nhis.or.kr/nhis/index.do
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-175
+  category: DECOY
+  subtype: risky_word_normal
+  html: <ul class="w-300 mx-auto grid grid-cols-2 py-5"><li class="relative flex items-center px-5 after:absolute after:right-0 after:top-1/2 after:h-2 after:w-[1px] after:-translate-y-1/2 after:bg-gray-400
+    first:pl-0 last:after:hidden"><div class="flex flex-1 items-center justify-between gap-1"><a draggable="false" class="fz-14 notice_link line-clamp-1 flex-1 hover:underline" aria-disabled="false" href="https://event.kyobobook.co.kr/winner/detail/1007996"
+    aria-label="[공통]2026 추석 기획전 - 보름달 소원 책방 당첨자 발표">[공통]2026 추석 기획전 - 보름달 소원 책방 당첨자 발표</a></div></li></ul>
+  css: ''
+  evidence_text: '[공통]2026 추석 기획전 - 보름달 소원 책방 당첨자 발표'
+  expected_location: a.fz-14.notice_link.line-clamp-1
+  is_positive: false
+  extra_finding: null
+  source: undefined | 공지사항 | 고객센터 - 교보문고 | https://www.kyobobook.co.kr/cscenter/notice/undefined
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-176
+  category: DECOY
+  subtype: risky_word_normal
+  html: <ul class="list"><li class="ic3"><a href="https://obank.kbstar.com/quics?page=C043954"><span class="tit">챗봇/채팅/이메일상담(24시간)</span></a></li></ul>
+  css: ''
+  evidence_text: 챗봇/채팅/이메일상담(24시간)
+  expected_location: span.tit
+  is_positive: false
+  extra_finding: null
+  source: KB국민은행 | https://www.kbstar.com/
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-177
+  category: DECOY
+  subtype: risky_word_normal
+  html: <ul class="lst"><li><a href="https://call.nts.go.kr/call/main.do" target="_blank" title="국세상담센터 바로가기(새창)" rel="noopener noreferrer"><span class="mid">국세관련 모든 상담은 국번없이 126<br>전국 어디서나 편리하게 상담받으세요.</span></a></li></ul>
+  css: ''
+  evidence_text: 국세관련 모든 상담은 국번없이 126
+  expected_location: span.mid
+  is_positive: false
+  extra_finding: null
+  source: 국세청 | https://www.nts.go.kr/
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-178
+  category: DECOY
+  subtype: risky_word_normal
+  html: <div class="inner"><ul class="ft_menu"><li class="green"><a href="/303">해킹·스팸개인정보침해 상담은 118</a></li></ul></div>
+  css: ''
+  evidence_text: 해킹·스팸개인정보침해 상담은 118
+  expected_location: a
+  is_positive: false
+  extra_finding: null
+  source: KISA 한국인터넷진흥원>알림마당>채용정보 | https://www.kisa.or.kr/404
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-179
+  category: DECOY
+  subtype: risky_word_normal
+  html: '<div class="item" style="width: 100%; display: inline-block;"><a href="/00025.web?gcode=1172&amp;idx=2594518&amp;amode=view" tabindex="-1"><div class="tg1"><span class="t1">김해탄소중립체험관, 개관 2주년 기념
+    시민참여 이벤트 개최</span></div></a></div>'
+  css: ''
+  evidence_text: 김해탄소중립체험관, 개관 2주년 기념 시민참여 이벤트 개최
+  expected_location: span.t1
+  is_positive: false
+  extra_finding: null
+  source: 김해시 | https://www.gimhae.go.kr/main.web
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-180
+  category: DECOY
+  subtype: risky_word_normal
+  html: "<tbody><tr><td data-table=\"subject\" class=\"bbs_tit\"><a href=\"javascript:;\" data-id=\"1355091\" title=\"세금포인트로 떠나는 게임과 바닷속 여행!\" class=\"nttInfoBtn\">\n\t\t\t\t\t\t\t\t\t\t\t세금포인트로 떠나는 게임과\
+    \ 바닷속 여행!</a></td></tr></tbody>"
+  css: ''
+  evidence_text: 세금포인트로 떠나는 게임과 바닷속 여행!
+  expected_location: a.nttInfoBtn
+  is_positive: false
+  extra_finding: null
+  source: 국세청>알림·소식>보도자료 | https://www.nts.go.kr/nts/na/ntt/selectNttList.do?mi=2201&bbsId=1028
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-181
+  category: DECOY
+  subtype: risky_word_normal
+  html: <div class="subCntBody clearfix"><div><div id="cntntsView"><p class="bu_st1 cmgl30">거주자나 비거주자가 미화 1만불 이하의 지급수단(대외지급수단, 내국통화, 원화표시 자기앞수표를 말함)을 수출하는 경우에는 신고가 필요없습니다. 또한, 비거주자가 최근 입국시 휴대하여 입국한 범위내의
+    대외지급수단을 휴대출국하는 경우에도 신고가 필요없으며, 해외에서 송금받거나 해외에서 발행된 신용카드로 인출, 또는 대외계정에서 인출한 경우로서 외국환은행장의 확인을 받은 경우(확인증 지참)에도 신고가 필요없습니다. 또한, 국민인 거주자가 일반해외여행경비로 미화 1만불을 초과하는 지급수단(대외지급수단, 내국통화, 원화표시 자기앞수표)을 휴대 수출할 경우
+    관할세관장에게 신고하면 직접 가지고 출국할 수 있습니다.</p></div></div></div>
+  css: ''
+  evidence_text: 거주자나 비거주자가 미화 1만불 이하의 지급수단(대외지급수단, 내국통화, 원화표시 자기앞수표를 말함)을 수출하는 경우에는 신고가 필요없습니다. 또한, 비거주자가 최근 입국시 휴대하여 입국한 범위내의 대외지급수단을 휴대출국하는 경우에도 신고가 필요없으며, 해외에서 송금받거나 해외에서 발행된 신용카드로 인출, 또는 대외계정에서 인출한
+    경우로서 외국환은행장의 확인을 받은 경우(확인증 지참)에도 신고가 필요없습니다. 또한, 국민인 거주자가 일반해외여행경비로 미화 1만불을 초과하는 지급수단(대외지급수단, 내국통화, 원화표시 자기앞수표)을 휴대 수출할 경우 관할세관장에게 신고하면 직접 가지고 출국할 수 있습니다.
+  expected_location: p.bu_st1.cmgl30
+  is_positive: false
+  extra_finding: null
+  source: 관세청-출·입국 외환신고 | https://www.customs.go.kr/kcs/cm/cntnts/cntntsView.do?mi=8458&cntntsId=2808
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-182
+  category: DECOY
+  subtype: risky_word_normal
+  html: '<div class="imageWrap"><figure class="center" style="width: 800px; -ms-word-break: break-all;"><figcaption class="captions" style="font-size: 12pt;"><b>서울 시내 환전소 모습 (ⓒ뉴스1, 무단 전재-재배포 금지)</b></figcaption></figure></div>'
+  css: ''
+  evidence_text: 서울 시내 환전소 모습 (ⓒ뉴스1, 무단 전재-재배포 금지)
+  expected_location: b
+  is_positive: false
+  extra_finding: null
+  source: 외화 휴대 밀반출입 증가 조짐…공항만 현장 단속 강화 - 정책뉴스 | 뉴스 | 대한민국 정책브리핑 | https://www.korea.kr/news/policyNewsView.do?newsId=148930500
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-183
+  category: DECOY
+  subtype: risky_word_normal
+  html: <div class="ovDivbox1"><div id="ovDiv" style="width:754px;"><div class="ovDivbox"><div id="div2858.2.2.2.5906263" class="plv3a" style="text-align:justify;"> 누구든지 웹보드 게임을 통해 획득한 점수, 경품, 게임 내에서 사용되는
+    가상의 화폐로서 다음의 어느 하나에 해당하는 게임머니 및 게임아이템 등을 환전 또는 환전 알선하거나 재매입을 업으로 하면 안 됩니다(<a href="#" onclick="openBtrCard('010196', '0032001');return false;" title="규제등록카드 새창 열기"></a><a href="http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=JO&amp;lsNm=%EA%B2%8C%EC%9E%84%EC%82%B0%EC%97%85%EC%A7%84%ED%9D%A5%EC%97%90+%EA%B4%80%ED%95%9C+%EB%B2%95%EB%A5%A0&amp;joNo=003200000&amp;languageType=KO&amp;paras=1"
+    title="새창으로 열림" target="_blank">「게임산업진흥에 관한 법률」 제32조</a>제1항제7호 및 <a href="http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=JO&amp;lsNm=%EA%B2%8C%EC%9E%84%EC%82%B0%EC%97%85%EC%A7%84%ED%9D%A5%EC%97%90+%EA%B4%80%ED%95%9C+%EB%B2%95%EB%A5%A0+%EC%8B%9C%ED%96%89%EB%A0%B9&amp;joNo=001800004&amp;languageType=KO&amp;paras=1"
+    title="새창으로 열림" target="_blank">「게임산업진흥에 관한 법률 시행령」 제18조의4</a>).</div></div></div></div>
+  css: ''
+  evidence_text: 누구든지 웹보드 게임을 통해 획득한 점수, 경품, 게임 내에서 사용되는 가상의 화폐로서 다음의 어느 하나에 해당하는 게임머니 및 게임아이템 등을 환전 또는 환전 알선하거나 재매입을 업으로 하면 안 됩니다(
+  expected_location: div.plv3a
+  is_positive: false
+  extra_finding: null
+  source: 온라인 게임 이용자 > 온라인 게임 이용하기 > 온라인 게임 이용 시 주의사항 > 사행성게임물과 웹보드 게임 | https://www.easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=2858&ccfNo=2&cciNo=2&cnpClsNo=2
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-184
+  category: DECOY
+  subtype: risky_word_normal
+  html: "<div class=\"subCon\"><div class=\"subCon_list\"><ul><li> 구매한도 : 월 50만원(50만원 초과충전 분 인센티브 미지급)\n\t            <p>* 인센티브 및 구매한도는 정책 방향에 따라 변동될 수 있음 </p></li></ul></div></div>"
+  css: ''
+  evidence_text: '구매한도 : 월 50만원(50만원 초과충전 분 인센티브 미지급)'
+  expected_location: li
+  is_positive: false
+  extra_finding: null
+  source: 화성특례시청 > 행정정보 > 알림정보 > 희망화성지역화폐 > 지역화폐 소개 | https://www.hscity.go.kr/www/information/ntcnInfo/hhcLocal/localInfo.jsp
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-185
+  category: DECOY
+  subtype: risky_word_normal
+  html: '<div id="chatbotIconRealBtn" class="slide_btn_wrap"><div class="bot_button"><div class="slide-button-info"><div class="txt">챗봇상담: 24시 채팅상담: 9시~18시</div></div></div></div>'
+  css: ''
+  evidence_text: '챗봇상담: 24시 채팅상담: 9시~18시'
+  expected_location: div.txt
+  is_positive: false
+  extra_finding: null
+  source: 한국장학재단 | https://www.kosaf.go.kr/ko/main.do
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-186
+  category: DECOY
+  subtype: risky_word_normal
+  html: <div class="container"><div id="step1"><div class="hg1"><p class="t1">신청 후 지급 알림톡 수신까지 약 2~3일이 소요될 수 있습니다.</p></div></div></div>
+  css: ''
+  evidence_text: 신청 후 지급 알림톡 수신까지 약 2~3일이 소요될 수 있습니다.
+  expected_location: p.t1
+  is_positive: false
+  extra_finding: null
+  source: 김해시민 민생회복지원금 | https://www.gimhae.go.kr/minsaeng/
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-187
+  category: DECOY
+  subtype: risky_word_normal
+  html: "<div id=\"noticeList01\" style=\"display: block;\"><p class=\"topList\"><a href=\"/home/board/B0052.cs?act=read&amp;articleId=196976\"><span class=\"txt\">\n                                지류형\
+    \ 진도아리랑상품권 10% 특별할인 판매가 예산소진으로 종료되었음을 알려드립니다. ※ 카드·모바일상품권 17% 후캐시백 유지(2026. 9. 1. 부터 예산소진 시까지) ○ 할인율 - 지류 : 5% 선할인 - 카드·모바일 : 17% 후캐시백 (결제시 적립) ※ 카드·모바일상품권의 경우 상품권 충전시가 아닌 결제 시의 할인율이 적용됩니다. ※ 문의전화 :\
+    \ 경제에너지과 ☎ 061-540-6422</span></a></p></div>"
+  css: ''
+  evidence_text: '지류형 진도아리랑상품권 10% 특별할인 판매가 예산소진으로 종료되었음을 알려드립니다. ※ 카드·모바일상품권 17% 후캐시백 유지(2026. 9. 1. 부터 예산소진 시까지) ○ 할인율 - 지류 : 5% 선할인 - 카드·모바일 : 17% 후캐시백 (결제시 적립) ※ 카드·모바일상품권의 경우 상품권 충전시가 아닌 결제 시의 할인율이
+    적용됩니다. ※ 문의전화 : 경제에너지과 ☎ 061-540-6422'
+  expected_location: span.txt
+  is_positive: false
+  extra_finding: null
+  source: 진도군청 | https://www.jindo.go.kr/home/main.cs
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-188
+  category: DECOY
+  subtype: risky_word_normal
+  html: "<div class=\"slick-slide\" data-slick-index=\"12\" aria-hidden=\"true\" tabindex=\"-1\"><div><div class=\"item\" style=\"width: 100%; display: inline-block;\"><a href=\"https://www.gwanghwamoon1st.go.kr\"\
+    \ target=\"_blank\" title=\"새창\" tabindex=\"-1\">\n                    협업 매칭 플랫폼 반짝 이벤트</a></div></div></div>"
+  css: ''
+  evidence_text: 협업 매칭 플랫폼 반짝 이벤트
+  expected_location: a
+  is_positive: false
+  extra_finding: null
+  source: 진도군청 | https://www.jindo.go.kr/home/main.cs
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-189
+  category: DECOY
+  subtype: risky_word_normal
+  html: <div class="appform-wholewrap"><div class="page-wrap"><div class="page-Groups"><p class="note">※ 장학금 신청 시 국가장학금 Ⅰ·Ⅱ유형, 다자녀 국가장학금, 지역인재 장학금 일괄 신청되며 개별 장학금의 수혜 자격 요건 충족 시 해당 장학금을 지급받을 수 있습니다.</p></div></div></div>
+  css: ''
+  evidence_text: ※ 장학금 신청 시 국가장학금 Ⅰ·Ⅱ유형, 다자녀 국가장학금, 지역인재 장학금 일괄 신청되며 개별 장학금의 수혜 자격 요건 충족 시 해당 장학금을 지급받을 수 있습니다.
+  expected_location: p.note
+  is_positive: false
+  extra_finding: null
+  source: 소득연계형 국가장학금 | 장학금 | 한국장학재단 | https://www.kosaf.go.kr/ko/scholar.do?pg=scholarship_submain01&naviParam=JH,02,00,00
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-190
+  category: DECOY
+  subtype: risky_word_normal
+  html: "<section id=\"newsTabpanel01\" role=\"tabpanel\" aria-labelledby=\"newsTab01\" class=\"tab-conts active\"><ul class=\"news-tbl-list\"><li><a href=\"/nhis/together/wbhaea01000m01.do?mode=view&amp;articleNo=11013795\"\
+    \ class=\"tit\">\n\t\t\t\t2026년 10월 요양급여비용 지급예정일 안내\n\t\t\t</a></li></ul></section>"
+  css: ''
+  evidence_text: 2026년 10월 요양급여비용 지급예정일 안내
+  expected_location: a.tit
+  is_positive: false
+  extra_finding: null
+  source: 국민건강보험 | https://www.nhis.or.kr/nhis/index.do
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-191
+  category: DECOY
+  subtype: risky_word_normal
+  html: <div class="container"><div class="footInfo"><address><a target="_blank" title="상담전화 이용안내 새창열림" href="https://call.nts.go.kr/call/cm/cntnts/cntntsView.do?mi=2074&amp;cntntsId=7041" rel="noopener
+    noreferrer">국세청 대표 상담전화는 전국 어디서나 국번 없이 126번(유료)</a></address></div></div>
+  css: ''
+  evidence_text: 국세청 대표 상담전화는 전국 어디서나 국번 없이 126번(유료)
+  expected_location: a
+  is_positive: false
+  extra_finding: null
+  source: 국세청 | https://www.nts.go.kr/
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-192
+  category: DECOY
+  subtype: risky_word_normal
+  html: "<div id=\"comSub_bot\" class=\"com_sBot clearfix\"><div class=\"com_subRgt\"><div class=\"tm_desc\"><p class=\"desc_p\">\n\t\t\t\t\t예스24에서는 도서 15,000원 이상 구매 시 배송비 무료 정책을 시행하고 있습니다.<br>\n\t\t\t\t\
+    \t또한, 도서(eBook), CD/LP, DVD/Blu-ray, 문구/GIFT, 중고상품 5만원 이상 주문 시 2,000원을 추가 적립해 드립니다.<br>\n\t\t\t\t\t단, 추가 적립은 국내도서(eBook포함)만 주문 시 제외, 외국도서(eBook포함), 잡지, CD/LP, DVD/Blu-ray, 문구/GIFT, 중고상품 2,000원 이상 포함된\
+    \ 주문만 적용. (2014년 11월 21일부터 시행)\n\t\t\t\t\t</p></div></div></div>"
+  css: ''
+  evidence_text: 예스24에서는 도서 15,000원 이상 구매 시 배송비 무료 정책을 시행하고 있습니다.
+  expected_location: p.desc_p
+  is_positive: false
+  extra_finding: null
+  source: 무료배송+추가적립 | 서비스/혜택 - 예스24 | https://www.yes24.com/notice/FirstClass/InfoFreeDlv.aspx
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-193
+  category: DECOY
+  subtype: risky_word_normal
+  html: <div class="com_subRgt"><div class="tm_desc"><ul class="yesAlertLi"><li><em class="bl_dot bgYUI">&nbsp;</em>상품 구매에 따라 상품별로 적립 받습니다. 상품마다 가격 할인 쿠폰 외에 YES포인트도 지급합니다.                                                                           </li></ul></div></div>
+  css: ''
+  evidence_text: 상품 구매에 따라 상품별로 적립 받습니다. 상품마다 가격 할인 쿠폰 외에 YES포인트도 지급합니다.
+  expected_location: li
+  is_positive: false
+  extra_finding: null
+  source: 영원한 YES포인트 | 서비스/혜택 - 예스24 | https://www.yes24.com/notice/FirstClass/InfoYespoint.aspx
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-194
+  category: DECOY
+  subtype: risky_word_normal
+  html: <div class="com_subRgt"><div class="tm_desc"><ul class="yesAlertLi"><li><em class="bl_dot bgYUI">&nbsp;</em>YES마니아 회원에게는 회원 등급별로 상품금액의 1~3%를 더 적립해 드립니다. <br>(단, 개정 도서정가제에 따라 국내도서, eBook 상품은 제외)                               </li></ul></div></div>
+  css: ''
+  evidence_text: YES마니아 회원에게는 회원 등급별로 상품금액의 1~3%를 더 적립해 드립니다.
+  expected_location: li
+  is_positive: false
+  extra_finding: null
+  source: 영원한 YES포인트 | 서비스/혜택 - 예스24 | https://www.yes24.com/notice/FirstClass/InfoYespoint.aspx
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-195
+  category: DECOY
+  subtype: risky_word_normal
+  html: <div id="article-view"><header class="article-view-header"><div class="float-center" style="max-width:1200px"><h3 class="heading">광명사랑화폐 인센티브 20% 지급! 더 커진 시민 혜택 누리기</h3></div></header></div>
+  css: ''
+  evidence_text: 광명사랑화폐 인센티브 20% 지급! 더 커진 시민 혜택 누리기
+  expected_location: h3.heading
+  is_positive: false
+  extra_finding: null
+  source: 광명사랑화폐 인센티브 20% 지급! 더 커진 시민 혜택 누리기 < 시민홍보기자단 < 시민톡톡 < 기사본문 - | http://news.gm.go.kr/news/articleView.html?idxno=22044
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-196
+  category: DECOY
+  subtype: risky_word_normal
+  html: <div class="subCntBody clearfix"><div><div id="cntntsView"><p class="bu_st1">미화 1만불 이내의 지급수단등을 수입하는 경우에는 허가 및 신고가 필요없습니다. 또한 약속어음, 신용장, 환어음을 수입하는 경우에도 신고나 허가가 필요없습니다. 그러나 모두 합하여 미화로 1만 불에 상당하는 금액을
+    초과하는 외화, 원화, 수표 등의 지급수단을 휴대하여 입국하는 경우에는 세관에 신고하여야 합니다. 원화표시 자기앞 수표도 마찬가지 입니다.</p></div></div></div>
+  css: ''
+  evidence_text: 미화 1만불 이내의 지급수단등을 수입하는 경우에는 허가 및 신고가 필요없습니다. 또한 약속어음, 신용장, 환어음을 수입하는 경우에도 신고나 허가가 필요없습니다. 그러나 모두 합하여 미화로 1만 불에 상당하는 금액을 초과하는 외화, 원화, 수표 등의 지급수단을 휴대하여 입국하는 경우에는 세관에 신고하여야 합니다. 원화표시 자기앞 수표도
+    마찬가지 입니다.
+  expected_location: p.bu_st1
+  is_positive: false
+  extra_finding: null
+  source: 관세청-출·입국 외환신고 | https://www.customs.go.kr/kcs/cm/cntnts/cntntsView.do?mi=8458&cntntsId=2808
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-197
+  category: DECOY
+  subtype: risky_word_normal
+  html: <div class="ovDivbox1"><div id="ovDiv" style="width:754px;"><div class="ovDivbox"><div id="div2858.2.2.2.5906271" class="plv5d" style="text-align:justify;">※ 게임머니 및 게임아이템을 환전 또는 환전 알선하거나 재매입을 업으로
+    한 자는 5년 이하의 징역 또는 5천만원 이하의 벌금에 처해집니다(<a href="http://www.law.go.kr/LSW/LsiJoLinkP.do?docType=JO&amp;lsNm=%EA%B2%8C%EC%9E%84%EC%82%B0%EC%97%85%EC%A7%84%ED%9D%A5%EC%97%90+%EA%B4%80%ED%95%9C+%EB%B2%95%EB%A5%A0&amp;joNo=004400000&amp;languageType=KO&amp;paras=1"
+    title="새창으로 열림" target="_blank">「게임산업진흥에 관한 법률」 제44조</a>제1항제2호).</div></div></div></div>
+  css: ''
+  evidence_text: ※ 게임머니 및 게임아이템을 환전 또는 환전 알선하거나 재매입을 업으로 한 자는 5년 이하의 징역 또는 5천만원 이하의 벌금에 처해집니다(
+  expected_location: div.plv5d
+  is_positive: false
+  extra_finding: null
+  source: 온라인 게임 이용자 > 온라인 게임 이용하기 > 온라인 게임 이용 시 주의사항 > 사행성게임물과 웹보드 게임 | https://www.easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=2858&ccfNo=2&cciNo=2&cnpClsNo=2
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-198
+  category: DECOY
+  subtype: risky_word_normal
+  html: <div class="container"><div class="article_body"><div class="view_cont" itemprop="articleBody"><p>특히 가상자산 구입 자금을 여행경비로 가장하는 거짓신고는 집중 검증하는데, 출입국 시 1만 달러 초과 외화 등 지급수단을 휴대 반출입할 경우 세관 신고 필수는 물론 규정 무지로
+    신고하지 않는 경우도 제재 대상이다.&nbsp;</p></div></div></div>
+  css: ''
+  evidence_text: 특히 가상자산 구입 자금을 여행경비로 가장하는 거짓신고는 집중 검증하는데, 출입국 시 1만 달러 초과 외화 등 지급수단을 휴대 반출입할 경우 세관 신고 필수는 물론 규정 무지로 신고하지 않는 경우도 제재 대상이다.
+  expected_location: p
+  is_positive: false
+  extra_finding: null
+  source: 외화 휴대 밀반출입 증가 조짐…공항만 현장 단속 강화 - 정책뉴스 | 뉴스 | 대한민국 정책브리핑 | https://www.korea.kr/news/policyNewsView.do?newsId=148930500
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-199
+  category: DECOY
+  subtype: risky_word_normal
+  html: <tr><td colspan="2" title="내용" class="p-table__content fulltext"><span style="font-size:24px;"><strong>&lt;수원페이 인센티브 지급시간 변경 안내&gt;</strong></span></td></tr>
+  css: ''
+  evidence_text: <수원페이 인센티브 지급시간 변경 안내>
+  expected_location: strong
+  is_positive: false
+  extra_finding: null
+  source: '공지사항(상세) : HOME > 분야별정보 > 경제·기업 > 수원시 지역화폐 > 공지사항 | https://www.suwon.go.kr/web/board/BD_board.view.do?bbsCd=1399&seq=20250220104911124'
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-200
+  category: DECOY
+  subtype: risky_word_normal
+  html: <td colspan="2" title="내용" class="p-table__content fulltext"><strong><span style="color:#3300ff;"><u> 09:00 이후 충전 즉시 지급</u></span></strong></td>
+  css: ''
+  evidence_text: 09:00 이후 충전 즉시 지급
+  expected_location: u
+  is_positive: false
+  extra_finding: null
+  source: '공지사항(상세) : HOME > 분야별정보 > 경제·기업 > 수원시 지역화폐 > 공지사항 | https://www.suwon.go.kr/web/board/BD_board.view.do?bbsCd=1399&seq=20250220104911124'
+  notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
