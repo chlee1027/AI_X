@@ -206,6 +206,22 @@
 - 조합 204개 중 53개는 4종 코드가 없어 `answer_result_extra.json` 에만 들어간다. 이 53개는 적격평가 점수에 기여하지 않는다.
 - **적격평가 4종 중 TRANSPARENT·OFFSCREEN 은 실측 정답이 0건이다.** 이 둘의 재현율은 생성 데이터로만 잴 수 있다.
 
+## 채점기 (`tests/scorer.py`)
+
+```
+python tests/scorer.py 제출.json 정답.json                   # 브라우저로 같은 요소인지 확인 (기본)
+python tests/scorer.py 제출.json 정답.json --resolve string  # 페이지 없이 선택자 문자열로 비교
+python tests/scorer.py 제출_extra.json 정답_extra.json --extra
+python -m pytest tests/test_scorer.py -q                    # 채점기 자체 테스트
+```
+
+- 출력: 정답·제출·정답 검출 건수, 정밀도·재현율·F1, 기법별 tp/fp/fn, 30분 상한 판정. `--report` 를 주면 FP·FN 목록을 JSON 으로 남긴다.
+- 요강대로 옮긴 규칙: 세 필드(url · location · technique) 일치, URL 비교 규칙(끝 `/`·http/https·`#` 무시, 쿼리 순서 무시), 같은 요소면 표기가 달라도 정답, 두 곳 이상 가리키면 오답, 같은 항목 복수 제출은 1건, 파일 파싱 불가는 0점. iframe 은 `iframe[src="절대주소"] >>> 선택자` 를 프레임마다 따라가고, src 가 상대 경로인 iframe 도 절대 주소로 맞춘다.
+- 요강이 정하지 않아 채점기가 정한 것: 스키마 미준수 항목은 오답으로 셈(붙임2 와 붙임4 가 다르다, `--schema-miss exclude` 로 바꿈) · `is_violation: false` 는 제출 건수에 넣고 정답으로 치지 않음 · BOM 은 0점 · 「참고 점수」는 45 x 재현율, 35 x 정밀도라는 가정 · 시간 20점은 상한 판정만.
+- 브라우저 방식은 `--allow-host`(기본 127.0.0.1, localhost)의 페이지만 연다. 실제 사이트에는 요청하지 않는다.
+
+**지금 정답셋으로 돌리면 생기는 일.** `data/answers/answer_result.json` 155건이 채점기 안에서 81건으로 합쳐진다. 같은 페이지의 댓글 여러 개가 모두 `p.txt` 같은 조각 선택자를 써서 url · location · technique 가 겹치기 때문이다(채점기가 경고로 알린다). 조각 단위 정답셋으로는 페이지 단위 채점을 할 수 없다는 뜻이고, mocksite 에 조각을 하나씩 심어 페이지 주소와 페이지 안 유일 선택자를 새로 매기면 풀린다.
+
 ## 폴더
 
 총계획서 §3.4 저장소 구조 가운데 **역할 C 몫**(`tests/mocksite/`, `tests/scorer.py`, `data/patterns/`)을 같은 자리에 맞춰 둔 작업 공간이다. 라벨·생성 로직은 B 에게 공개하지 않고, B 는 채점기 점수만 본다(§9.3).
@@ -213,7 +229,8 @@
 ```
 tests/
   mocksite/             (아직 비어 있음) generate.py · labels.json 자리 — SPEC 60쪽, 4기법 x 25, decoy 40/30/15/10
-  scorer.py             (아직 없음) 요강 붙임4 「평가 참고사항」을 재현하는 채점기 자리
+  scorer.py             요강 붙임4 「평가 참고사항」을 재현하는 채점기 (아래 「채점기」 절)
+  test_scorer.py        채점기 테스트 24개 (요강 예시 URL·iframe·중복·스키마 규칙)
 data/
   samples/              decoy.yaml · etc.yaml · combo_real.yaml  (실측 라벨 원본, 위 「결과」 표)
   answers/              요강 붙임4 스키마 정답셋 (to_answer.py 가 만든다, 위 절)
