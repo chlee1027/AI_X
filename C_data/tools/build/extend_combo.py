@@ -18,7 +18,12 @@ import yaml
 
 
 def host(x: dict) -> str:
-    return re.search(r"https?://([^/ ]+)", x["source"]).group(1)
+    # www.·m.·en. 만 다른 주소는 같은 사이트로 센다 (nebuah.com 과 www.nebuah.com)
+    return re.sub(r"^(www|m|en)\.", "", re.search(r"https?://([^/ ]+)", x["source"]).group(1))
+
+
+# 도박 홍보 사이트 자체(스팸이 올라온 정상 사이트가 아님). 2026-10-04 사이트 이름 「온라인 홀덤사이트 - 인디고게임」 확인 후 제외
+GAMBLING_SITES = {"magino.co.kr"}
 
 
 def key(x: dict) -> tuple:
@@ -28,14 +33,14 @@ def key(x: dict) -> tuple:
 
 
 def main(existing: str, cand: str, out: str, target: str, new_cap: str = "5", big: str = "20") -> None:
-    old = yaml.safe_load(Path(existing).read_text(encoding="utf-8"))
+    old = [x for x in yaml.safe_load(Path(existing).read_text(encoding="utf-8")) if host(x) not in GAMBLING_SITES]
     cands = yaml.safe_load(Path(cand).read_text(encoding="utf-8"))
     have = {key(x) for x in old}
     per_old = Counter(host(x) for x in old)
     groups = defaultdict(list)
     for x in cands:
         k = key(x)
-        if k in have or per_old[k[0]] >= int(big):
+        if k in have or per_old[k[0]] >= int(big) or k[0] in GAMBLING_SITES:
             continue
         have.add(k)
         groups[k[0]].append(x)

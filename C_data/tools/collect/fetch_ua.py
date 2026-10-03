@@ -33,7 +33,13 @@ INTERVAL = 1.5
 _robots: dict[str, urllib.robotparser.RobotFileParser | None] = {}
 
 
+# 도박 홍보 사이트 자체로 확인된 곳은 요청하지 않는다 (2026-10-04, magino.co.kr = 「온라인 홀덤사이트 - 인디고게임」)
+BLOCKED_HOSTS = {"magino.co.kr"}
+
+
 def robots_ok(url: str) -> bool:
+    if (urlsplit(url).hostname or "").removeprefix("www.") in BLOCKED_HOSTS:
+        return False
     p = urlsplit(url)
     origin = f"{p.scheme}://{p.netloc}"
     if origin not in _robots:
