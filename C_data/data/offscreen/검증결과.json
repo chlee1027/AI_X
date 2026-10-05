@@ -1,0 +1,109 @@
+{
+  "status": "passed",
+  "human_review_rows": 102,
+  "approved_originals": 100,
+  "reference_only": 2,
+  "quotas": {
+    "font_left_display": 45,
+    "visibility_hidden": 15,
+    "clip": 15,
+    "text_indent": 10,
+    "transform_outside": 15
+  },
+  "approved_original_counts": {
+    "font_left_display": 45,
+    "text_indent": 10,
+    "clip": 15,
+    "transform_outside": 15,
+    "visibility_hidden": 15
+  },
+  "original_quota_completed": true,
+  "source_publisher_cap_passed": true,
+  "known_campaign_and_exact_destination_uniqueness_passed": true,
+  "source_excerpt_and_provenance_preserved": 100,
+  "library_rule_exact_source_slices": 141,
+  "fixture_count": 100,
+  "visible_controls": 7,
+  "viewport_runs": 214,
+  "unique_selector_and_exact_text_checks": 214,
+  "positive_fixture_rendering_passed": 200,
+  "negative_controls_visible_passed": 14,
+  "tiny_font_positive_fixtures": 12,
+  "network_requests": 0,
+  "page_errors": [],
+  "unicode_version": "17.0.0",
+  "review_file_sha256": "62b64f30b53a6548a1cd016cc11ea1b8e42987346f21ed6fc93cae636f08a566",
+  "previous_21_original_yaml_unchanged": true,
+  "caveats": [
+    "Historical originals verified by published code and human review; full historical victim page rendering not verified.",
+    "Ranum redacted terms preserved; historical merchant identities are not reconstructed.",
+    "Fixture rendering is tested in Chromium, two viewports, DPR1; does not imply all browser/zoom settings."
+  ],
+  "sample_schema_alignment": {
+    "status": "passed",
+    "reference": "데이터수집_계획_카테고리별_배정.pdf page 3",
+    "fields": [
+      "id",
+      "category",
+      "subtype",
+      "html",
+      "css",
+      "evidence_text",
+      "expected_location",
+      "is_positive",
+      "extra_finding",
+      "source",
+      "notes"
+    ],
+    "positive_samples": 100,
+    "existing_controls": 7,
+    "added_samples": 0,
+    "ids": "OF-001 through OF-107",
+    "sample_field_and_type_checks": 107,
+    "unique_deepest_selector_checks": 107,
+    "html_css_semantics_preserved": true,
+    "evidence_text_source_and_labels_unchanged": true,
+    "previous_rendering_observations_preserved": 214,
+    "extra_sample_metadata_preserved_in_existing_review_file": true
+  },
+  "original_sample_schema_alignment": {
+    "status": "passed",
+    "reference": "PDF page 3",
+    "fields": [
+      "id",
+      "category",
+      "subtype",
+      "html",
+      "css",
+      "evidence_text",
+      "expected_location",
+      "is_positive",
+      "extra_finding",
+      "source",
+      "notes"
+    ],
+    "existing_originals": 100,
+    "added_samples": 0,
+    "ids": "OF-108 through OF-207",
+    "unique_deepest_excerpt_selectors": 100,
+    "html_and_css_unchanged": 100,
+    "source_and_user_labels_preserved": 100,
+    "whole_original_records_preserved_in_existing_metadata": true,
+    "evidence_text_corrected_to_literal_html": [
+      {
+        "previous_id": "OF-EX-011",
+        "id": "OF-134",
+        "before": "pay off payday loans",
+        "original_html_text": "no payday loans"
+      },
+      {
+        "previous_id": "OF-HIST-023",
+        "id": "OF-178",
+        "before": "ACD Systems Canvas 11 with GIS Plus",
+        "original_html_text": "ACD  Systems Canvas 11 with GIS Plus"
+      }
+    ],
+    "network_requests": 0,
+    "verification_scope": "Schema and excerpt DOM matching; no new historical full-page rendering claim."
+  }
+}

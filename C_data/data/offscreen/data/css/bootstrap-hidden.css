@@ -1,0 +1,831 @@
+/* Extracted from Bootstrap; original source files and notices retained in bundle. */
+/* CSS-001 data/raw/bootstrap-5.3.8/bootstrap.css:482 */
+[list]:not([type=date]):not([type=datetime-local]):not([type=month]):not([type=week]):not([type=time])::-webkit-calendar-picker-indicator {
+  display: none !important;
+}
+
+/* CSS-002 data/raw/bootstrap-5.3.8/bootstrap.css:598 */
+[hidden] {
+  display: none !important;
+}
+
+/* CSS-003 data/raw/bootstrap-5.3.8/bootstrap.css:2490 */
+.btn-check {
+  position: absolute;
+  clip: rect(0, 0, 0, 0);
+  pointer-events: none;
+}
+
+/* CSS-004 data/raw/bootstrap-5.3.8/bootstrap.css:2661 */
+.form-floating > textarea:focus ~ label::after,
+.form-floating > textarea:not(:placeholder-shown) ~ label::after {
+  position: absolute;
+  inset: 1rem 0.375rem;
+  z-index: -1;
+  height: 1.5em;
+  content: "";
+  background-color: var(--bs-body-bg);
+  border-radius: var(--bs-border-radius);
+}
+
+/* CSS-005 data/raw/bootstrap-5.3.8/bootstrap.css:2773 */
+.valid-feedback {
+  display: none;
+  width: 100%;
+  margin-top: 0.25rem;
+  font-size: 0.875em;
+  color: var(--bs-form-valid-color);
+}
+
+/* CSS-006 data/raw/bootstrap-5.3.8/bootstrap.css:2781 */
+.valid-tooltip {
+  position: absolute;
+  top: 100%;
+  z-index: 5;
+  display: none;
+  max-width: 100%;
+  padding: 0.25rem 0.5rem;
+  margin-top: 0.1rem;
+  font-size: 0.875rem;
+  color: #fff;
+  background-color: var(--bs-success);
+  border-radius: var(--bs-border-radius);
+}
+
+/* CSS-007 data/raw/bootstrap-5.3.8/bootstrap.css:2863 */
+.invalid-feedback {
+  display: none;
+  width: 100%;
+  margin-top: 0.25rem;
+  font-size: 0.875em;
+  color: var(--bs-form-invalid-color);
+}
+
+/* CSS-008 data/raw/bootstrap-5.3.8/bootstrap.css:2871 */
+.invalid-tooltip {
+  position: absolute;
+  top: 100%;
+  z-index: 5;
+  display: none;
+  max-width: 100%;
+  padding: 0.25rem 0.5rem;
+  margin-top: 0.1rem;
+  font-size: 0.875rem;
+  color: #fff;
+  background-color: var(--bs-danger);
+  border-radius: var(--bs-border-radius);
+}
+
+/* CSS-009 data/raw/bootstrap-5.3.8/bootstrap.css:3354 */
+.collapse:not(.show) {
+  display: none;
+}
+
+/* CSS-010 data/raw/bootstrap-5.3.8/bootstrap.css:3405 */
+.dropdown-menu {
+  --bs-dropdown-zindex: 1000;
+  --bs-dropdown-min-width: 10rem;
+  --bs-dropdown-padding-x: 0;
+  --bs-dropdown-padding-y: 0.5rem;
+  --bs-dropdown-spacer: 0.125rem;
+  --bs-dropdown-font-size: 1rem;
+  --bs-dropdown-color: var(--bs-body-color);
+  --bs-dropdown-bg: var(--bs-body-bg);
+  --bs-dropdown-border-color: var(--bs-border-color-translucent);
+  --bs-dropdown-border-radius: var(--bs-border-radius);
+  --bs-dropdown-border-width: var(--bs-border-width);
+  --bs-dropdown-inner-border-radius: calc(var(--bs-border-radius) - var(--bs-border-width));
+  --bs-dropdown-divider-bg: var(--bs-border-color-translucent);
+  --bs-dropdown-divider-margin-y: 0.5rem;
+  --bs-dropdown-box-shadow: var(--bs-box-shadow);
+  --bs-dropdown-link-color: var(--bs-body-color);
+  --bs-dropdown-link-hover-color: var(--bs-body-color);
+  --bs-dropdown-link-hover-bg: var(--bs-tertiary-bg);
+  --bs-dropdown-link-active-color: #fff;
+  --bs-dropdown-link-active-bg: #0d6efd;
+  --bs-dropdown-link-disabled-color: var(--bs-tertiary-color);
+  --bs-dropdown-item-padding-x: 1rem;
+  --bs-dropdown-item-padding-y: 0.25rem;
+  --bs-dropdown-header-color: #6c757d;
+  --bs-dropdown-header-padding-x: 1rem;
+  --bs-dropdown-header-padding-y: 0.5rem;
+  position: absolute;
+  z-index: var(--bs-dropdown-zindex);
+  display: none;
+  min-width: var(--bs-dropdown-min-width);
+  padding: var(--bs-dropdown-padding-y) var(--bs-dropdown-padding-x);
+  margin: 0;
+  font-size: var(--bs-dropdown-font-size);
+  color: var(--bs-dropdown-color);
+  text-align: left;
+  list-style: none;
+  background-color: var(--bs-dropdown-bg);
+  background-clip: padding-box;
+  border: var(--bs-dropdown-border-width) solid var(--bs-dropdown-border-color);
+  border-radius: var(--bs-dropdown-border-radius);
+}
+
+/* CSS-011 data/raw/bootstrap-5.3.8/bootstrap.css:3606 */
+.dropstart .dropdown-toggle::after {
+  display: none;
+}
+
+/* CSS-012 data/raw/bootstrap-5.3.8/bootstrap.css:3925 */
+.tab-content > .tab-pane {
+  display: none;
+}
+
+/* CSS-013 data/raw/bootstrap-5.3.8/bootstrap.css:3928 */
+.tab-content > .active {
+  display: block;
+}
+
+/* CSS-014 data/raw/bootstrap-5.3.8/bootstrap.css:4084 */
+@media (min-width: 576px) {
+.navbar-expand-sm .navbar-toggler {
+    display: none;
+  }
+}
+
+/* CSS-015 data/raw/bootstrap-5.3.8/bootstrap.css:4099 */
+@media (min-width: 576px) {
+.navbar-expand-sm .offcanvas .offcanvas-header {
+    display: none;
+  }
+}
+
+/* CSS-016 data/raw/bootstrap-5.3.8/bootstrap.css:4131 */
+@media (min-width: 768px) {
+.navbar-expand-md .navbar-toggler {
+    display: none;
+  }
+}
+
+/* CSS-017 data/raw/bootstrap-5.3.8/bootstrap.css:4146 */
+@media (min-width: 768px) {
+.navbar-expand-md .offcanvas .offcanvas-header {
+    display: none;
+  }
+}
+
+/* CSS-018 data/raw/bootstrap-5.3.8/bootstrap.css:4178 */
+@media (min-width: 992px) {
+.navbar-expand-lg .navbar-toggler {
+    display: none;
+  }
+}
+
+/* CSS-019 data/raw/bootstrap-5.3.8/bootstrap.css:4193 */
+@media (min-width: 992px) {
+.navbar-expand-lg .offcanvas .offcanvas-header {
+    display: none;
+  }
+}
+
+/* CSS-020 data/raw/bootstrap-5.3.8/bootstrap.css:4225 */
+@media (min-width: 1200px) {
+.navbar-expand-xl .navbar-toggler {
+    display: none;
+  }
+}
+
+/* CSS-021 data/raw/bootstrap-5.3.8/bootstrap.css:4240 */
+@media (min-width: 1200px) {
+.navbar-expand-xl .offcanvas .offcanvas-header {
+    display: none;
+  }
+}
+
+/* CSS-022 data/raw/bootstrap-5.3.8/bootstrap.css:4272 */
+@media (min-width: 1400px) {
+.navbar-expand-xxl .navbar-toggler {
+    display: none;
+  }
+}
+
+/* CSS-023 data/raw/bootstrap-5.3.8/bootstrap.css:4287 */
+@media (min-width: 1400px) {
+.navbar-expand-xxl .offcanvas .offcanvas-header {
+    display: none;
+  }
+}
+
+/* CSS-024 data/raw/bootstrap-5.3.8/bootstrap.css:4318 */
+.navbar-expand .navbar-toggler {
+  display: none;
+}
+
+/* CSS-025 data/raw/bootstrap-5.3.8/bootstrap.css:4333 */
+.navbar-expand .offcanvas .offcanvas-header {
+  display: none;
+}
+
+/* CSS-026 data/raw/bootstrap-5.3.8/bootstrap.css:4827 */
+.badge:empty {
+  display: none;
+}
+
+/* CSS-027 data/raw/bootstrap-5.3.8/bootstrap.css:5416 */
+.toast:not(.show) {
+  display: none;
+}
+
+/* CSS-028 data/raw/bootstrap-5.3.8/bootstrap.css:5455 */
+.modal {
+  --bs-modal-zindex: 1055;
+  --bs-modal-width: 500px;
+  --bs-modal-padding: 1rem;
+  --bs-modal-margin: 0.5rem;
+  --bs-modal-color: var(--bs-body-color);
+  --bs-modal-bg: var(--bs-body-bg);
+  --bs-modal-border-color: var(--bs-border-color-translucent);
+  --bs-modal-border-width: var(--bs-border-width);
+  --bs-modal-border-radius: var(--bs-border-radius-lg);
+  --bs-modal-box-shadow: var(--bs-box-shadow-sm);
+  --bs-modal-inner-border-radius: calc(var(--bs-border-radius-lg) - (var(--bs-border-width)));
+  --bs-modal-header-padding-x: 1rem;
+  --bs-modal-header-padding-y: 1rem;
+  --bs-modal-header-padding: 1rem 1rem;
+  --bs-modal-header-border-color: var(--bs-border-color);
+  --bs-modal-header-border-width: var(--bs-border-width);
+  --bs-modal-title-line-height: 1.5;
+  --bs-modal-footer-gap: 0.5rem;
+  --bs-modal-footer-bg: ;
+  --bs-modal-footer-border-color: var(--bs-border-color);
+  --bs-modal-footer-border-width: var(--bs-border-width);
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: var(--bs-modal-zindex);
+  display: none;
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+  overflow-y: auto;
+  outline: 0;
+}
+
+/* CSS-029 data/raw/bootstrap-5.3.8/bootstrap.css:5998 */
+.popover-header:empty {
+  display: none;
+}
+
+/* CSS-030 data/raw/bootstrap-5.3.8/bootstrap.css:6026 */
+.carousel-item {
+  position: relative;
+  display: none;
+  float: left;
+  width: 100%;
+  margin-right: -100%;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  transition: transform 0.6s ease-in-out;
+}
+
+/* CSS-031 data/raw/bootstrap-5.3.8/bootstrap.css:6042 */
+.carousel-item.active,
+.carousel-item-next,
+.carousel-item-prev {
+  display: block;
+}
+
+/* CSS-032 data/raw/bootstrap-5.3.8/bootstrap.css:6155 */
+.carousel-indicators [data-bs-target] {
+  box-sizing: content-box;
+  flex: 0 1 auto;
+  width: 30px;
+  height: 3px;
+  padding: 0;
+  margin-right: 3px;
+  margin-left: 3px;
+  text-indent: -999px;
+  cursor: pointer;
+  background-color: var(--bs-carousel-indicator-active-bg);
+  background-clip: padding-box;
+  border: 0;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+  opacity: 0.5;
+  transition: opacity 0.6s ease;
+}
+
+/* CSS-033 data/raw/bootstrap-5.3.8/bootstrap.css:6291 */
+@media (max-width: 575.98px) {
+.offcanvas-sm {
+    position: fixed;
+    bottom: 0;
+    z-index: var(--bs-offcanvas-zindex);
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+    color: var(--bs-offcanvas-color);
+    visibility: hidden;
+    background-color: var(--bs-offcanvas-bg);
+    background-clip: padding-box;
+    outline: 0;
+    transition: var(--bs-offcanvas-transition);
+  }
+}
+
+/* CSS-034 data/raw/bootstrap-5.3.8/bootstrap.css:6356 */
+@media (min-width: 576px) {
+.offcanvas-sm .offcanvas-header {
+    display: none;
+  }
+}
+
+/* CSS-035 data/raw/bootstrap-5.3.8/bootstrap.css:6369 */
+@media (max-width: 767.98px) {
+.offcanvas-md {
+    position: fixed;
+    bottom: 0;
+    z-index: var(--bs-offcanvas-zindex);
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+    color: var(--bs-offcanvas-color);
+    visibility: hidden;
+    background-color: var(--bs-offcanvas-bg);
+    background-clip: padding-box;
+    outline: 0;
+    transition: var(--bs-offcanvas-transition);
+  }
+}
+
+/* CSS-036 data/raw/bootstrap-5.3.8/bootstrap.css:6434 */
+@media (min-width: 768px) {
+.offcanvas-md .offcanvas-header {
+    display: none;
+  }
+}
+
+/* CSS-037 data/raw/bootstrap-5.3.8/bootstrap.css:6447 */
+@media (max-width: 991.98px) {
+.offcanvas-lg {
+    position: fixed;
+    bottom: 0;
+    z-index: var(--bs-offcanvas-zindex);
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+    color: var(--bs-offcanvas-color);
+    visibility: hidden;
+    background-color: var(--bs-offcanvas-bg);
+    background-clip: padding-box;
+    outline: 0;
+    transition: var(--bs-offcanvas-transition);
+  }
+}
+
+/* CSS-038 data/raw/bootstrap-5.3.8/bootstrap.css:6512 */
+@media (min-width: 992px) {
+.offcanvas-lg .offcanvas-header {
+    display: none;
+  }
+}
+
+/* CSS-039 data/raw/bootstrap-5.3.8/bootstrap.css:6525 */
+@media (max-width: 1199.98px) {
+.offcanvas-xl {
+    position: fixed;
+    bottom: 0;
+    z-index: var(--bs-offcanvas-zindex);
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+    color: var(--bs-offcanvas-color);
+    visibility: hidden;
+    background-color: var(--bs-offcanvas-bg);
+    background-clip: padding-box;
+    outline: 0;
+    transition: var(--bs-offcanvas-transition);
+  }
+}
+
+/* CSS-040 data/raw/bootstrap-5.3.8/bootstrap.css:6590 */
+@media (min-width: 1200px) {
+.offcanvas-xl .offcanvas-header {
+    display: none;
+  }
+}
+
+/* CSS-041 data/raw/bootstrap-5.3.8/bootstrap.css:6603 */
+@media (max-width: 1399.98px) {
+.offcanvas-xxl {
+    position: fixed;
+    bottom: 0;
+    z-index: var(--bs-offcanvas-zindex);
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+    color: var(--bs-offcanvas-color);
+    visibility: hidden;
+    background-color: var(--bs-offcanvas-bg);
+    background-clip: padding-box;
+    outline: 0;
+    transition: var(--bs-offcanvas-transition);
+  }
+}
+
+/* CSS-042 data/raw/bootstrap-5.3.8/bootstrap.css:6668 */
+@media (min-width: 1400px) {
+.offcanvas-xxl .offcanvas-header {
+    display: none;
+  }
+}
+
+/* CSS-043 data/raw/bootstrap-5.3.8/bootstrap.css:6680 */
+.offcanvas {
+  position: fixed;
+  bottom: 0;
+  z-index: var(--bs-offcanvas-zindex);
+  display: flex;
+  flex-direction: column;
+  max-width: 100%;
+  color: var(--bs-offcanvas-color);
+  visibility: hidden;
+  background-color: var(--bs-offcanvas-bg);
+  background-clip: padding-box;
+  outline: 0;
+  transition: var(--bs-offcanvas-transition);
+}
+
+/* CSS-044 data/raw/bootstrap-5.3.8/bootstrap.css:7149 */
+.visually-hidden,
+.visually-hidden-focusable:not(:focus):not(:focus-within) {
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+}
+
+/* CSS-045 data/raw/bootstrap-5.3.8/bootstrap.css:7160 */
+.visually-hidden:not(caption),
+.visually-hidden-focusable:not(:focus):not(:focus-within):not(caption) {
+  position: absolute !important;
+}
+
+/* CSS-046 data/raw/bootstrap-5.3.8/bootstrap.css:7164 */
+.visually-hidden *,
+.visually-hidden-focusable:not(:focus):not(:focus-within) * {
+  overflow: hidden !important;
+}
+
+/* CSS-047 data/raw/bootstrap-5.3.8/bootstrap.css:7363 */
+.d-none {
+  display: none !important;
+}
+
+/* CSS-048 data/raw/bootstrap-5.3.8/bootstrap.css:9169 */
+.invisible {
+  visibility: hidden !important;
+}
+
+/* CSS-049 data/raw/bootstrap-5.3.8/bootstrap.css:9253 */
+@media (min-width: 576px) {
+.d-sm-none {
+    display: none !important;
+  }
+}
+
+/* CSS-050 data/raw/bootstrap-5.3.8/bootstrap.css:9814 */
+@media (min-width: 768px) {
+.d-md-none {
+    display: none !important;
+  }
+}
+
+/* CSS-051 data/raw/bootstrap-5.3.8/bootstrap.css:10375 */
+@media (min-width: 992px) {
+.d-lg-none {
+    display: none !important;
+  }
+}
+
+/* CSS-052 data/raw/bootstrap-5.3.8/bootstrap.css:10936 */
+@media (min-width: 1200px) {
+.d-xl-none {
+    display: none !important;
+  }
+}
+
+/* CSS-053 data/raw/bootstrap-5.3.8/bootstrap.css:11497 */
+@media (min-width: 1400px) {
+.d-xxl-none {
+    display: none !important;
+  }
+}
+
+/* CSS-054 data/raw/bootstrap-5.3.8/bootstrap.css:12043 */
+@media print {
+.d-print-none {
+    display: none !important;
+  }
+}
+
+/* CSS-055 data/raw/bootstrap-4.6.2/bootstrap.css:348 */
+template {
+  display: none;
+}
+
+/* CSS-056 data/raw/bootstrap-4.6.2/bootstrap.css:352 */
+[hidden] {
+  display: none !important;
+}
+
+/* CSS-057 data/raw/bootstrap-4.6.2/bootstrap.css:2219 */
+.valid-feedback {
+  display: none;
+  width: 100%;
+  margin-top: 0.25rem;
+  font-size: 0.875em;
+  color: #28a745;
+}
+
+/* CSS-058 data/raw/bootstrap-4.6.2/bootstrap.css:2227 */
+.valid-tooltip {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 5;
+  display: none;
+  max-width: 100%;
+  padding: 0.25rem 0.5rem;
+  margin-top: .1rem;
+  font-size: 0.875rem;
+  line-height: 1.5;
+  color: #fff;
+  background-color: rgba(40, 167, 69, 0.9);
+  border-radius: 0.25rem;
+}
+
+/* CSS-059 data/raw/bootstrap-4.6.2/bootstrap.css:2330 */
+.invalid-feedback {
+  display: none;
+  width: 100%;
+  margin-top: 0.25rem;
+  font-size: 0.875em;
+  color: #dc3545;
+}
+
+/* CSS-060 data/raw/bootstrap-4.6.2/bootstrap.css:2338 */
+.invalid-tooltip {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 5;
+  display: none;
+  max-width: 100%;
+  padding: 0.25rem 0.5rem;
+  margin-top: .1rem;
+  font-size: 0.875rem;
+  line-height: 1.5;
+  color: #fff;
+  background-color: rgba(220, 53, 69, 0.9);
+  border-radius: 0.25rem;
+}
+
+/* CSS-061 data/raw/bootstrap-4.6.2/bootstrap.css:3179 */
+.collapse:not(.show) {
+  display: none;
+}
+
+/* CSS-062 data/raw/bootstrap-4.6.2/bootstrap.css:3234 */
+.dropdown-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 1000;
+  display: none;
+  float: left;
+  min-width: 10rem;
+  padding: 0.5rem 0;
+  margin: 0.125rem 0 0;
+  font-size: 1rem;
+  color: #212529;
+  text-align: left;
+  list-style: none;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  border-radius: 0.25rem;
+}
+
+/* CSS-063 data/raw/bootstrap-4.6.2/bootstrap.css:3372 */
+.dropleft .dropdown-toggle::after {
+  display: none;
+}
+
+/* CSS-064 data/raw/bootstrap-4.6.2/bootstrap.css:3574 */
+.btn-group-toggle > .btn input[type="radio"],
+.btn-group-toggle > .btn input[type="checkbox"],
+.btn-group-toggle > .btn-group > .btn input[type="radio"],
+.btn-group-toggle > .btn-group > .btn input[type="checkbox"] {
+  position: absolute;
+  clip: rect(0, 0, 0, 0);
+  pointer-events: none;
+}
+
+/* CSS-065 data/raw/bootstrap-4.6.2/bootstrap.css:3991 */
+.custom-select::-ms-expand {
+  display: none;
+}
+
+/* CSS-066 data/raw/bootstrap-4.6.2/bootstrap.css:4352 */
+.tab-content > .tab-pane {
+  display: none;
+}
+
+/* CSS-067 data/raw/bootstrap-4.6.2/bootstrap.css:4356 */
+.tab-content > .active {
+  display: block;
+}
+
+/* CSS-068 data/raw/bootstrap-4.6.2/bootstrap.css:4501 */
+@media (min-width: 576px) {
+.navbar-expand-sm .navbar-toggler {
+    display: none;
+  }
+}
+
+/* CSS-069 data/raw/bootstrap-4.6.2/bootstrap.css:4546 */
+@media (min-width: 768px) {
+.navbar-expand-md .navbar-toggler {
+    display: none;
+  }
+}
+
+/* CSS-070 data/raw/bootstrap-4.6.2/bootstrap.css:4591 */
+@media (min-width: 992px) {
+.navbar-expand-lg .navbar-toggler {
+    display: none;
+  }
+}
+
+/* CSS-071 data/raw/bootstrap-4.6.2/bootstrap.css:4636 */
+@media (min-width: 1200px) {
+.navbar-expand-xl .navbar-toggler {
+    display: none;
+  }
+}
+
+/* CSS-072 data/raw/bootstrap-4.6.2/bootstrap.css:4685 */
+.navbar-expand .navbar-toggler {
+  display: none;
+}
+
+/* CSS-073 data/raw/bootstrap-4.6.2/bootstrap.css:5179 */
+.badge:empty {
+  display: none;
+}
+
+/* CSS-074 data/raw/bootstrap-4.6.2/bootstrap.css:5949 */
+.toast.hide {
+  display: none;
+}
+
+/* CSS-075 data/raw/bootstrap-4.6.2/bootstrap.css:5980 */
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1050;
+  display: none;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  outline: 0;
+}
+
+/* CSS-076 data/raw/bootstrap-4.6.2/bootstrap.css:6159 */
+.modal-scrollbar-measure {
+  position: absolute;
+  top: -9999px;
+  width: 50px;
+  height: 50px;
+  overflow: scroll;
+}
+
+/* CSS-077 data/raw/bootstrap-4.6.2/bootstrap.css:6468 */
+.popover-header:empty {
+  display: none;
+}
+
+/* CSS-078 data/raw/bootstrap-4.6.2/bootstrap.css:6498 */
+.carousel-item {
+  position: relative;
+  display: none;
+  float: left;
+  width: 100%;
+  margin-right: -100%;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  transition: -webkit-transform 0.6s ease-in-out;
+  transition: transform 0.6s ease-in-out;
+  transition: transform 0.6s ease-in-out, -webkit-transform 0.6s ease-in-out;
+}
+
+/* CSS-079 data/raw/bootstrap-4.6.2/bootstrap.css:6517 */
+.carousel-item.active,
+.carousel-item-next,
+.carousel-item-prev {
+  display: block;
+}
+
+/* CSS-080 data/raw/bootstrap-4.6.2/bootstrap.css:6641 */
+.carousel-indicators li {
+  box-sizing: content-box;
+  -ms-flex: 0 1 auto;
+  flex: 0 1 auto;
+  width: 30px;
+  height: 3px;
+  margin-right: 3px;
+  margin-left: 3px;
+  text-indent: -999px;
+  cursor: pointer;
+  background-color: #fff;
+  background-clip: padding-box;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+  opacity: .5;
+  transition: opacity 0.6s ease;
+}
+
+/* CSS-081 data/raw/bootstrap-4.6.2/bootstrap.css:7000 */
+.d-none {
+  display: none !important;
+}
+
+/* CSS-082 data/raw/bootstrap-4.6.2/bootstrap.css:7039 */
+@media (min-width: 576px) {
+.d-sm-none {
+    display: none !important;
+  }
+}
+
+/* CSS-083 data/raw/bootstrap-4.6.2/bootstrap.css:7071 */
+@media (min-width: 768px) {
+.d-md-none {
+    display: none !important;
+  }
+}
+
+/* CSS-084 data/raw/bootstrap-4.6.2/bootstrap.css:7103 */
+@media (min-width: 992px) {
+.d-lg-none {
+    display: none !important;
+  }
+}
+
+/* CSS-085 data/raw/bootstrap-4.6.2/bootstrap.css:7135 */
+@media (min-width: 1200px) {
+.d-xl-none {
+    display: none !important;
+  }
+}
+
+/* CSS-086 data/raw/bootstrap-4.6.2/bootstrap.css:7167 */
+@media print {
+.d-print-none {
+    display: none !important;
+  }
+}
+
+/* CSS-087 data/raw/bootstrap-4.6.2/bootstrap.css:8101 */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* CSS-088 data/raw/bootstrap-4.6.2/bootstrap.css:8113 */
+.sr-only-focusable:active, .sr-only-focusable:focus {
+  position: static;
+  width: auto;
+  height: auto;
+  overflow: visible;
+  clip: auto;
+  white-space: normal;
+}
+
+/* CSS-089 data/raw/bootstrap-4.6.2/bootstrap.css:10253 */
+.invisible {
+  visibility: hidden !important;
+}
+
+/* CSS-090 data/raw/bootstrap-4.6.2/bootstrap.css:10301 */
+@media print {
+.navbar {
+    display: none;
+  }
+}

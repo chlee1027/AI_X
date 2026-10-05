@@ -1,0 +1,37 @@
+/* Extracted from HTML5 Boilerplate main.css; original source files and notices retained in bundle. */
+/* CSS-091 data/raw/html5bp-main-3.0.0/main.css:93 */
+.hidden,
+[hidden] {
+  display: none !important;
+}
+
+/* CSS-092 data/raw/html5bp-main-3.0.0/main.css:107 */
+.visually-hidden {
+  border: 0;
+  clip: rect(0, 0, 0, 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+  /* 1 */
+}
+
+/* CSS-093 data/raw/html5bp-main-3.0.0/main.css:126 */
+.visually-hidden.focusable:active,
+.visually-hidden.focusable:focus {
+  clip: auto;
+  height: auto;
+  margin: 0;
+  overflow: visible;
+  position: static;
+  white-space: inherit;
+  width: auto;
+}
+
+/* CSS-094 data/raw/html5bp-main-3.0.0/main.css:141 */
+.invisible {
+  visibility: hidden;
+}

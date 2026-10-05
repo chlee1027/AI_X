@@ -1,0 +1,231 @@
+[
+  {
+    "id": "OF-KO-099",
+    "category": "OFFSCREEN",
+    "subtype": "overflow_zero_box",
+    "language": "ko",
+    "evidence_text": "인터넷가입",
+    "html": "<a href=\"http://ktinterstore.co.kr\">인터넷가입</a>",
+    "css": "height:0px;width:0px;overflow:hidden\nletter-spacing:-21em;color:#FFFFFF;height:0px;width:0px;overflow:hidden;",
+    "css_evidence": [
+      {
+        "open_tag_original": "<div style=\"height:0px;width:0px;overflow:hidden\">",
+        "inline_style_original": "height:0px;width:0px;overflow:hidden",
+        "source_line": 255
+      },
+      {
+        "open_tag_original": "<span style=\"letter-spacing:-21em;color:#FFFFFF;height:0px;width:0px;overflow:hidden;\">",
+        "inline_style_original": "letter-spacing:-21em;color:#FFFFFF;height:0px;width:0px;overflow:hidden;",
+        "source_line": 256
+      }
+    ],
+    "source": "https://skyrex.co.kr/sub/sub05_02.php?boardid=qna&category=&idx=1167&mNum=5&mode=view&sNum=2",
+    "source_host": "skyrex.co.kr",
+    "source_publisher": "휴먼씨티앤에스 제품문의",
+    "ad_href": "http://ktinterstore.co.kr",
+    "resolved_ad_href": "http://ktinterstore.co.kr",
+    "expected_location": "#contentArea > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(2) > div > div > div > div > span > a",
+    "hide_label": "width:0; height:0; overflow:hidden",
+    "review_group": "일반 홍보 · 대상 여부 검수",
+    "focused_review": false,
+    "advertisement_nature": "제품 문의 본문에 포함된 외부 홍보 링크",
+    "is_positive": true,
+    "review_status": "user_accepted_native_original",
+    "notes": "제품 문의 본문에 포함된 외부 홍보 링크. 원문 자체의 숨김 CSS를 수집했으며 라이브러리 CSS를 새로 적용하지 않았음. 공모전 사용 여부·광고 의미·실제 페이지의 스크롤/Tab 후 상태는 최종 확인 대기. 법적 불법성을 자동 확정하지 않음. 일반 상품/서비스 홍보: 불법광고 양성 수량에 자동 포함하지 않음. 사용자 CSV에서 화면 안 보임·홍보 맞음·과제 사용 확인. 법적 불법성을 확정하는 표시는 아님. 2026-10-05 최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함.",
+    "machine_observation": "저장 원문의 데스크톱·모바일 재현에서 요소 각 1개 매칭. width:0; height:0; overflow:hidden. 실제 페이지 최종 확인 대기.",
+    "provenance": {
+      "snapshot": "ko3_21_skyrex",
+      "source": "https://skyrex.co.kr/sub/sub05_02.php?boardid=qna&category=&idx=1167&mNum=5&mode=view&sNum=2",
+      "publisher": "휴먼씨티앤에스 제품문의",
+      "domestic_basis": "페이지 하단의 서울 금천구 사무실·국내 통신판매 신고 안내",
+      "page_sha256": "742b6603e2076a530e606bce42da228f29cf7c00ac9864192bb25b3b45424baf",
+      "fetched_at_utc": "2026-10-04T18:31:48.264314+00:00",
+      "source_encoding": "utf-8",
+      "blocked_stylesheets": [
+        "https://skyrex.co.kr/css/basic.css",
+        "https://skyrex.co.kr/css/layout.css",
+        "https://skyrex.co.kr/css/board.css",
+        "https://skyrex.co.kr/css/doc.css"
+      ],
+      "limitation": "Static archived snapshot only; dynamic DOM, unloaded images/fonts and final live page not verified.",
+      "snippet_format": "exact decoded substring of archived original HTML, not generated or DOM serialization",
+      "source_line": 258,
+      "snippet_sha256_utf8": "3863bf475311c3c4a0143ee3d6c7f1aeba5c51dd5617006e2c221be68d21d6f6",
+      "css_applied_by_collector": false
+    },
+    "browser_evidence": {
+      "desktop": {
+        "selector_matches": 1,
+        "computed": {
+          "fontSize": "16px",
+          "display": "inline",
+          "visibility": "visible",
+          "clip": "auto",
+          "clipPath": "none",
+          "textIndent": "0px",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "backgroundColor": "rgba(0, 0, 0, 0)"
+        },
+        "rectangle": {
+          "x": 8,
+          "y": 1812.125,
+          "width": 0,
+          "height": 19
+        },
+        "signals": [
+          {
+            "technique": "overflow_zero_box_pending",
+            "value": {
+              "overflowX": "hidden",
+              "overflowY": "hidden",
+              "width": 0,
+              "height": 0
+            },
+            "applied_to": "#contentArea > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(2) > div > div > div > div"
+          }
+        ],
+        "ui_context": false
+      },
+      "mobile": {
+        "selector_matches": 1,
+        "computed": {
+          "fontSize": "16px",
+          "display": "inline",
+          "visibility": "visible",
+          "clip": "auto",
+          "clipPath": "none",
+          "textIndent": "0px",
+          "transform": "none",
+          "color": "rgb(0, 0, 238)",
+          "backgroundColor": "rgba(0, 0, 0, 0)"
+        },
+        "rectangle": {
+          "x": 8,
+          "y": 1831.125,
+          "width": 0,
+          "height": 19
+        },
+        "signals": [
+          {
+            "technique": "overflow_zero_box_pending",
+            "value": {
+              "overflowX": "hidden",
+              "overflowY": "hidden",
+              "width": 0,
+              "height": 0
+            },
+            "applied_to": "#contentArea > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(2) > div > div > div > div"
+          }
+        ],
+        "ui_context": false
+      }
+    },
+    "campaign_key": "host:ktinterstore.co.kr",
+    "deduplication_basis": "같은 목적지 사이트의 키워드·문구·경로 변형을 하나로 묶음",
+    "quota_type": null,
+    "human_review": {
+      "visual": "안 보임",
+      "advertisement": "홍보 맞음",
+      "suitability": "사용",
+      "same_ad_visible": "없음",
+      "historical_source": "해당 없음",
+      "historical_hiding": "해당 없음",
+      "duplicate": "중복 없음",
+      "memo": ""
+    },
+    "review_provenance": {
+      "file_name": "실제광고_국내외_과거포함_검수결과.csv",
+      "file_sha256": "62b64f30b53a6548a1cd016cc11ea1b8e42987346f21ed6fc93cae636f08a566",
+      "matching_fields": [
+        "id",
+        "source",
+        "evidence_text",
+        "hide_method",
+        "evidence_basis"
+      ]
+    },
+    "extra_finding": null,
+    "new_visual_policy_review": "pending_image_duplicate_check",
+    "evidence_basis": "native_page_snapshot",
+    "previous_campaign_key": "host:ktinterstore.co.kr",
+    "original_advertiser_identity_verified": false,
+    "sequence": 21,
+    "original": true,
+    "css_applied_by_collector": false,
+    "native_live_positive": true,
+    "victim_full_page_rendering_verified": "human_reviewed"
+  },
+  {
+    "id": "OF-HIST-034",
+    "category": "OFFSCREEN",
+    "subtype": "visibility_hidden",
+    "language": "und",
+    "evidence_text": "hacklink",
+    "html": "ink.pw\" title=\"hacklink\">hacklink</a>",
+    "css": "position:absolute;left:-9999px;top:-9999px;visibility:hidden;height:0;",
+    "source": "https://mysites.guru/blog/astroid-framework-security-vulnerability/",
+    "source_host": "mysites.guru",
+    "source_publisher": "mySites.guru 실제 피해 조사",
+    "source_publisher_key": "mySites.guru 실제 피해 조사",
+    "ad_href": "https://hacklink.pw/",
+    "resolved_ad_href": null,
+    "destination_current_status": "not_required_for_historical_ad_identity",
+    "campaign_key": "original-destination:hacklink.pw",
+    "quota_type": null,
+    "hide_label": "position:absolute;left:-9999px;top:-9999px;visibility:hidden;height:0;",
+    "review_status": "user_accepted_historical_copied_original",
+    "is_positive": true,
+    "focused_review": true,
+    "extra_finding": null,
+    "human_review": {
+      "visual": "해당 없음 — 과거 공개 사본",
+      "advertisement": "홍보 맞음",
+      "suitability": "사용",
+      "same_ad_visible": "피해 전체 화면 확인 불가",
+      "historical_source": "공개된 피해 원문 확인",
+      "historical_hiding": "원래 숨김 설정 확인",
+      "duplicate": "중복 없음",
+      "memo": ""
+    },
+    "css_applied_by_collector": false,
+    "notes": "실제 피해 코드라고 명시하여 공개한 1차 자료의 원문 발췌. 공개 보고서에서 코드가 글자로 보이는 것은 피해 당시 광고 표시 판정과 별개임. 현재 피해 페이지의 상태로 과거 숨김을 판단하지 말 것. 광고 연결 페이지가 현재 없어도 원문과 홍보 근거를 검수할 수 있음. 실제 피해 코드로 공개한 이미지에서 보이는 부분만 옮김. 이미지 줄바꿈은 코드 줄바꿈과 다를 수 있음. 전체 피해 페이지와 동일 광고의 이미지 중복 여부는 재검증 불가. 이미지에서 잘린 실제 코드 조각임. href 전체와 시작 태그 끝부분은 복원하지 않음. 검수 링크의 도메인은 보고서 설명에서 확인한 참고 값. 같은 hacklink.pw 경로 변형은 한 건만 선정. 잘린 코드 조각이므로 유형별 최소 원문 개수에는 포함하지 않는 별도 참고 자료임. 2026-10-05 최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함.",
+    "evidence_basis": "historical_copied_original",
+    "review_group": "과거 피해 원문 공개 자료 — 최종 검수 대기",
+    "expected_location": "",
+    "original_container_opening_tag": "",
+    "historical_publication_date": "2026",
+    "reported_original_site": null,
+    "reported_original_site_known": false,
+    "historical_source_review": "미확인",
+    "provenance": {
+      "css_applied_by_collector": false,
+      "snippet_format": "manual transcription of visible original-code image; compare retained image; no missing tags reconstructed",
+      "report_url": "https://mysites.guru/blog/astroid-framework-security-vulnerability/",
+      "limitation": "실제 피해 코드로 공개한 이미지에서 보이는 부분만 옮김. 이미지 줄바꿈은 코드 줄바꿈과 다를 수 있음. 전체 피해 페이지와 동일 광고의 이미지 중복 여부는 재검증 불가. 이미지에서 잘린 실제 코드 조각임. href 전체와 시작 태그 끝부분은 복원하지 않음. 검수 링크의 도메인은 보고서 설명에서 확인한 참고 값. 같은 hacklink.pw 경로 변형은 한 건만 선정.",
+      "live_original_dom_selector_available": false,
+      "victim_full_page_rendering_verified": false,
+      "code_image_snapshot": "ex09_02_mysites_cache",
+      "code_image_sha256": "a2232d0d4875e9b0eab5271b17a471b8980a6653b50f70015742d58f7df86685",
+      "ad_href_is_derived_report_reference": true
+    },
+    "evidence_image": "근거이미지/OF-HIST-034.webp",
+    "quota_exclusion_reason": "cropped code fragment; original complete anchor unavailable",
+    "original_advertiser_identity_verified": false,
+    "sequence": 83,
+    "review_provenance": {
+      "file_name": "실제광고_국내외_과거포함_검수결과.csv",
+      "file_sha256": "62b64f30b53a6548a1cd016cc11ea1b8e42987346f21ed6fc93cae636f08a566",
+      "matching_fields": [
+        "id",
+        "source",
+        "evidence_text",
+        "hide_method",
+        "evidence_basis"
+      ]
+    },
+    "original": true,
+    "native_live_positive": false,
+    "victim_full_page_rendering_verified": false
+  }
+]

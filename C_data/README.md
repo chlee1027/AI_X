@@ -2,13 +2,13 @@
 
 행정안전부·NIA 「공공 웹사이트 불법광고 탐지 도구 개발 공모전」(접수 마감 2026-10-23 18시)의 데이터·평가 몫이다. 요강 원문은 `공공 웹사이트 불법광고 탐지 도구 개발 공모전 모집요강.pdf`(18쪽), 팀 설계는 `총계획서_최종_공공웹사이트_불법광고_탐지도구.md` 이다.
 
-## DECOY · ETC · 난독화 조합 · JAMO · 사전 — 실측 수집 결과
+## DECOY · ETC · 난독화 조합 · JAMO · OFFSCREEN · 사전 — 실측 수집 결과
 
-수집일 2026-10-03(토)~10-05(월). 10-04 에 DECOY·ETC 를 200개로, 조합을 250개로 늘렸다. DECOY·ETC·조합은 사람 1(역할 C) 담당분이고, JAMO·사전은 사람 4 담당분을 10-05 에 역할 C 가 점검·수정해 넣었다.
+수집일 2026-10-03(토)~10-05(월). 10-04 에 DECOY·ETC 를 200개로, 조합을 250개로 늘렸다. DECOY·ETC·조합은 사람 1(역할 C) 담당분이다. JAMO·사전은 사람 4 담당분을 10-05 에 역할 C 가 점검·수정해 넣었고, 10-06 에 사람 4 추가분 JAMO 5건을 붙였다. OFFSCREEN 은 사람 3 담당분을 10-05 에 역할 C 가 점검·수정하고 10-06 에 visibility_hidden 원문 7개를 보충해 넣었다(`data/offscreen/`).
 
 **사람 1 의 DECOY·ETC·조합 샘플과 그 수집·생성·선별 로직(`tools/`)은 탐지기(B) 담당에게 공개하지 않는다.** B 는 채점기 점수만 본다. JAMO 샘플과 사전(`data/lexicon/seed.yaml`)은 정규화·탐지에 쓰는 재료라 B 가 써도 된다(데이터 수집 계획 「정보 차단」 규칙 범위).
 
-**샘플 파일(decoy·etc·combo_real·jamo)은 모두 실제 웹페이지에서 찾아 잘라 낸 것만 담았다. 생성한 샘플은 없다.** 생성 데이터는 별도로 만든다. 사전의 어휘도 모두 실측 원문이나 규제기관 문서에서 확인한 것이다.
+**샘플 파일(decoy·etc·combo_real·jamo)과 OFFSCREEN 원문 100개는 모두 실제 웹페이지나 피해 코드 공개 자료에서 찾아 잘라 낸 것이다.** 생성 데이터는 별도로 만든다. OFFSCREEN 의 CSS 시험용 100개만은 실측 광고 문구에 라이브러리 숨김 CSS 를 건 파생 자료이고, 원문 개수에 더하지 않는다. 사전의 어휘도 모두 실측 원문이나 규제기관 문서에서 확인한 것이다.
 
 ## 결과
 
@@ -17,12 +17,15 @@
 | `data/samples/decoy.yaml` | **200** | a11y_sr_only 80 · hidden_menu 60 · policy_text 30 · risky_word_normal 30 | 오류 0. 53개 기관·업체 사이트 실측 |
 | `data/samples/etc.yaml` | **200** | zero_width 99 · link_cloaking 41 · encoding 40 · meta_cloaking 20 · css_content 0 | 오류 0. 40개 사이트. css_content 만 쿼터(20)에 못 미친다 |
 | `data/samples/combo_real.yaml` | **250** | 한 요소에 회피 수법 2~5개가 겹친 실제 광고 | 오류 0. 44개 사이트. 194번부터는 「안 쏠리게」 규칙으로 덧붙인 것(아래 「덧붙이기」) |
-| `data/samples/jamo.yaml` | **142** | 사람 4 몫 JAMO 실측 (compat_full 12 · partial_mix 58 · conjoining_u1100 20 · mixed_technique 52) | 2026-10-05 역할 C 점검·수정. `data/JAMO_LEXICON_변경요약_20261005.md` 참고 |
+| `data/samples/jamo.yaml` | **147** | 사람 4 몫 JAMO 실측 (compat_full 17 · partial_mix 58 · conjoining_u1100 20 · mixed_technique 52) | 2026-10-05 역할 C 점검·수정, 10-06 사람 4 추가분 5건(JM-143~147). `data/JAMO_LEXICON_변경요약_20261005.md` 참고 |
+| `data/offscreen/data/originals/offscreen_originals.yaml` | **100** | 사람 3 몫 OFFSCREEN 광고 원문 (font_left_display 45 · visibility_hidden 15 · clip 15 · text_indent 10 · transform_outside 15) | 계획서 쿼터 충족. 100개 모두 html·css 만 띄워 숨김 확인(`tools/validate/check_offscreen.py`). `data/offscreen/변경요약_20261005.md` 참고 |
+| `data/offscreen/data/samples/offscreen.yaml` | **100** + 대조군 7 | 위 원문 문구에 Bootstrap·Tailwind·HTML5BP·전자정부 숨김 CSS 를 건 시험용(분류별 개수 원문과 같음), 보여야 하는 대조군 7 | 시험용 100 숨김 · 대조군 7 보임 확인. 화면은 `data/offscreen/fixtures/` |
 | `data/lexicon/seed.yaml` | **624** | 사람 4 몫 사전: gambling_core·lure·contact·adult 각 100, whitelist 130, gambling_weak 94 | 모두 `reviewed: true`. 바뀐 401개 목록 `data/lexicon/review_20261005.csv` |
 
 검증 명령은 아래 둘이다.
 - `python tools/validate/validate_samples.py data/samples/decoy.yaml data/samples/etc.yaml`
 - `python tools/validate/validate_combo.py data/samples/combo_real.yaml`
+- `python tools/validate/check_offscreen.py data/offscreen/data/originals/offscreen_originals.yaml out.json` (시험용·대조군도 같은 명령에 파일만 바꿈)
 
 **ETC 하위 유형 비율이 쿼터와 다른 이유.** 실제 웹에 있는 비율이 그렇다. 받은 원문 2,654페이지와 그 사이트들의 자체 CSS 파일 621개를 전부 훑은 결과다. 쿼터를 맞추려고 생성분을 섞지 않았다.
 - **zero_width 가 많은 이유:** 「KC7979.COM」 업자 캠페인이 `토­토`, `카­지노`, `먹­튀`처럼 음절마다 소프트 하이픈을 넣은 글을 여러 사이트에 대량으로 올리고 있기 때문이다.
@@ -80,6 +83,20 @@
 - **200개 맞추기(`tools/build/trim_etc.py`):** 넘친 만큼을 가장 흔한 zero_width 에서, 항목이 가장 많은 사이트부터 하나씩 뺐다. 192개 판은 `data/raw/etc/etc_192_backup.yaml` 에 있다.
 - **목적지:** 도박 목적지는 한 번도 접속하지 않았다.
 - **도박 사이트 자체 제외(10-04):** `magino.co.kr` 은 스팸이 올라온 정상 사이트로 알고 받았는데, 사이트 이름이 「온라인 홀덤사이트 - 인디고게임」인 도박 홍보 사이트 자체였다(r12 에 검색 결과 글 1쪽을 받음). 여기서 나온 ETC 8개·조합 8개를 뺐고, 빈자리는 같은 규칙으로 다시 채웠다(ETC 는 trim 전 후보에서, 조합은 덧붙이기로). 수집 도구(`fetch_ua.py`·`crawl_board.py`)는 이 호스트를 요청하지 않도록 막았다.
+
+### OFFSCREEN 원문 100 · 시험용 100 (사람 3, `data/offscreen/`)
+
+사람 3 이 낸 묶음을 역할 C 가 점검·수정한 판이다. 묶음 안 `README.md` 본문은 사람 3 이 처음 낸 판 기준이고, 지금 숫자와 바뀐 내용은 `data/offscreen/변경요약_20261005.md` 에 있다.
+- **원문 100:** 공개 웹페이지 실측과, 실제 피해 HTML·CSS 를 공개한 보고서·포럼 글의 사본이다. 한국어 광고는 19개이고 나머지는 외국어다.
+- **10-05 점검·수정 (`tools/build/fix_offscreen.py`):**
+  - 상품명이 점(.)으로 가려져 광고 내용이 없는 Ranum 사본 7개와 그 시험용 7개를 뺐다.
+  - html·css 만으로는 숨김이 재현되지 않던 원문 45개를 고쳤다. 방법은 원래 부모 태그 복원 10, 원래 선언을 건 감싸는 요소 재구성 34, 공백 정리 1 이다.
+  - subtype 을 계획서 5종으로 통일했다.
+- **10-06 visibility_hidden 보충 (`tools/build/add_offscreen.py`):**
+  - SitePoint 포럼의 피해자 공개 코드 게시글에서 원문 7개(OF-208~214)와 시험용 7개(OF-215~221)를 넣어 15/15 를 채웠다.
+  - visibility_hidden 15개 중 11개가 같은 `hideMeya` 캠페인이다(WordPress Stack Exchange 4 · SitePoint 7). 공개 보고서·포럼·블로그·GitHub 이슈를 훑었지만, 업자가 `visibility:hidden` 으로 광고 링크를 숨긴 다른 원문은 나오지 않았다.
+- **목록 화면:** `data/offscreen/시작.html` 이다. 시험용 화면은 외부 요청과 JS 없이 열린다.
+- **라이선스:** 시험용에 쓴 라이브러리 CSS 의 라이선스 원문은 `data/offscreen/licenses/`, 출처는 `THIRD_PARTY.md` 에 있다.
 
 ### 난독화 조합 250
 
@@ -210,7 +227,7 @@
 - 검출 1건 = `(url + location + technique)`. 한 요소에 기법이 겹치면 기법마다 객체를 따로 만들었다(요강 붙임4). `id` 는 `샘플id_기법`(예: `CB-003_HOMOGLYPH`).
 - `url` 은 샘플을 잘라 온 실제 페이지 주소, `location` 은 잘라 낸 조각(`html`) 안의 유일 선택자다. 그래서 지금은 **조각 단위 채점**만 된다. 페이지 단위 채점은 mocksite 에 조각을 심은 뒤 그 주소로 다시 만든다.
 - 조합 250개 중 70개는 4종 코드가 없어 `answer_result_extra.json` 에만 들어간다. 이 70개는 적격평가 점수에 기여하지 않는다.
-- **적격평가 4종 중 TRANSPARENT·OFFSCREEN 은 실측 정답이 0건이다.** 이 둘의 재현율은 생성 데이터로만 잴 수 있다.
+- **적격평가 4종 중 TRANSPARENT 는 실측 정답이 0건이다.** 재현율은 생성 데이터로만 잴 수 있다. OFFSCREEN 은 실측 원문 100개가 `data/offscreen/` 에 있지만 `to_answer.py` 가 아직 읽지 않아 위 표에서 0건이다(아래 「남은 일」).
 
 ## 채점기 (`tests/scorer.py`)
 
@@ -228,15 +245,15 @@ python -m pytest tests/test_scorer.py -q                    # 채점기 자체 �
 
 **지금 정답셋으로 돌리면 생기는 일.** `data/answers/answer_result.json` 의 건수가 채점기 안에서 크게 줄어든다(155건 판에서 81건). 같은 페이지의 댓글 여러 개가 모두 `p.txt` 같은 조각 선택자를 써서 url · location · technique 가 겹치기 때문이다(채점기가 경고로 알린다). 조각 단위 정답셋으로는 페이지 단위 채점을 할 수 없다는 뜻이고, mocksite 에 조각을 하나씩 심어 페이지 주소와 페이지 안 유일 선택자를 새로 매기면 풀린다.
 
-## 남은 일 (10-05 기준)
+## 남은 일 (10-06 기준)
 
 1. **생성 데이터:** 실측으로 못 채운 몫이다.
-   - JAMO 호환자모 전체 분해 28 (실측 12/40. 공개 게시판 원문 3,638쪽에서 실례 0건)
+   - JAMO 호환자모 전체 분해 23 (실측 17/40. 10-06 사람 4 추가분 5건 포함, 공개 게시판 원문 3,638쪽에서는 실례 0건)
    - css_content 20
    - encoding 의 엔티티·Base64 형태
    - 숨김+난독화 조합
-   - 적격평가 4종 중 TRANSPARENT·OFFSCREEN 정답
-2. **JAMO 를 정답셋에 넣기:** `tools/build/to_answer.py` 는 아직 decoy·etc·combo_real 만 읽는다. 적격평가 4종인 JAMO 정답(`data/samples/jamo.yaml` 142건)을 `data/answers/answer_result.json` 에 넣어야 한다.
+   - 적격평가 4종 중 TRANSPARENT 정답
+2. **JAMO·OFFSCREEN 을 정답셋에 넣기:** `tools/build/to_answer.py` 는 아직 decoy·etc·combo_real 만 읽는다. 적격평가 4종인 JAMO 정답(`data/samples/jamo.yaml` 147건)과 OFFSCREEN 원문(`data/offscreen/data/originals/offscreen_originals.yaml` 100건)을 `data/answers/answer_result.json` 에 넣어야 한다.
 3. **mocksite:** `tests/mocksite/` 에 조각을 심어 페이지 단위 정답셋을 만든다. 지금 정답셋은 조각 단위라 같은 선택자가 겹쳐 합쳐진다.
 4. **팀 결정:** 위 「결정이 필요한 것」의 도메인 가명화·encoding 인정 여부. (git 원격은 10-04 에 비공개로 돌렸다.)
 5. **일정:** 10-09 F1 0.85 게이트, 10-16 클린 VM, 10-21 풀런 3회, 10-22 제출.
@@ -255,6 +272,8 @@ data/
   lexicon/              seed.yaml(사람 4 사전 624개) · review_20261005.csv(바뀐 어휘 검수 목록)
   JAMO_LEXICON_작업노트.md         사람 4 작업 노트 원문 + 끝에 「2026-10-05 점검 뒤 고친 것」
   JAMO_LEXICON_변경요약_20261005.md  JAMO·LEXICON 을 무엇을 왜 바꿨는지 한눈에 보는 표
+  offscreen/            사람 3 OFFSCREEN 묶음: data/originals(원문 100) · data/samples(시험용 100 · 대조군 7) · fixtures(시험용 화면 107)
+                        · data/css·catalog·unicode(라이브러리 숨김 규칙·변형 목록·유니코드 표) · licenses · 시작.html(목록) · 변경요약_20261005.md
   answers/              요강 붙임4 스키마 정답셋 (to_answer.py 가 만든다, 위 절)
   patterns/             (아직 비어 있음) catalog.yaml 자리 — 실측 은닉 패턴, 탐지 규칙 근거이자 mocksite 입력
   collection_log.csv    요청 5,269건의 대상·일시·결과
@@ -287,9 +306,13 @@ tools/
     combo_round.py        조합 덧붙이기 한 회차 (새 회차 분석 → 후보 → 덧붙이기)
     to_answer.py          samples → data/answers (요강 붙임4 스키마)
     fix_jamo.py · fix_lexicon.py   JAMO·LEXICON 점검 결과 고치기 (2026-10-05)
+    add_jamo.py           JAMO 덧붙이기, 기존 id 유지 (2026-10-06)
+    fix_offscreen.py      사람 3 OFFSCREEN 점검 결과 고치기 (2026-10-05)
+    add_offscreen.py      OFFSCREEN 원문·시험용 덧붙이기 (2026-10-06)
   validate/
     validate_samples.py   DECOY·ETC 양식·렌더링 검증                         ← 게이트 산출물 "양식 검증 스크립트"
     validate_combo.py     조합 검증
+    check_offscreen.py    OFFSCREEN 원문·시험용·대조군 렌더링 검증(선택자 유일, 숨김 여부와 이유)
   archive/
     gen_etc.py            (이번 결과물에는 안 씀. 예전 생성분 백업: data/raw/etc/etc_with_generated_backup.yaml)
 ```

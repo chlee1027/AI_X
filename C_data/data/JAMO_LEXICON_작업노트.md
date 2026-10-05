@@ -104,7 +104,7 @@ python3 scripts/validate_observed_lexicon.py
 
 ## 2026-10-05 점검 뒤 고친 것 (역할 C 점검·수정)
 
-> 저장소에서는 이 노트 위쪽의 경로(`data/samples/jamo_dataset.csv`, `scripts/…`)가 아니라 다음이 정본이다: `C_data/data/samples/jamo.yaml`, `C_data/data/lexicon/seed.yaml`. 위쪽 내용과 숫자(JAMO 130 · 사전 500)는 고치기 전 기준이다. 아래에서 말하는 `tools/` 스크립트는 저장소의 `C_data/tools/{collect,analyze,build}/` 에 있다.
+> 저장소에서는 이 노트 위쪽의 경로(`data/samples/jamo_dataset.csv`, `scripts/…`)가 아니라 다음이 정본이다: `C_data/data/samples/jamo.yaml`, `C_data/data/lexicon/seed.yaml`. 위쪽 내용과 숫자(JAMO 130 · 사전 500)는 고치기 전 기준이다. 10-06 에 사람 4 추가분 compat_full 5건을 붙여 JAMO 는 147건이다(맨 끝 「2026-10-06 추가」). 아래에서 말하는 `tools/` 스크립트는 저장소의 `C_data/tools/{collect,analyze,build}/` 에 있다.
 
 원본은 `_backup_20261005/` 에 그대로 두었다. 고친 스크립트는 `tools/` 에 있다(`fix_jamo.py`, `fix_lexicon.py`, `find_jamo.py`, `mine_terms.py`, `build_corpus.py`).
 새로 찾은 근거는 역할 C 가 polite 모드로 받은 공개 게시판 원문 3,638쪽(도박 홍보 사이트 자체·토토 커뮤니티 제외)과, 실측 출처가 붙은 JAMO·조합 샘플 문장이다.
@@ -123,7 +123,7 @@ python3 scripts/validate_observed_lexicon.py
 - 분류별: compat_full 12 · partial_mix 58 · conjoining_u1100 20 · mixed_technique 52.
 - 쏠림 완화(2026-10-05): 지금 JAMO 에 없는 15개 사이트에서 실측 1건씩 추가(`tools/find_jamo_diverse.py`). mixed_technique 중 `탤ㄹH` 비중 98% -> 77%, 출처 20곳 -> 35곳.
 - 출처 확인(2026-10-05): commu-test.com 은 사이트 이름 「슬롯커뮤니티」(메뉴 먹튀정보·먹튀 신고)인 도박 커뮤니티라 그 1건을 뺐다. 유자공주이야기(xn--ob0b690cvjar2c.com, 쇼핑몰)·올로아(oloa36.com, 뷰티 브랜드)는 정상 사이트다.
-- **호환자모 전체 분해는 여전히 12/40 이다.** 원문 3,638쪽에서 낱말 전체가 호환자모로 풀린 광고(`ㅂㅏㅋㅏㄹㅏ` 꼴)는 공백·기호가 낀 꼴까지 0건이었다. 최근 스팸은 `ㄲㅏ톡` 처럼 한 음절만 푼다. 이 28건은 웹 검색으로 더 찾거나 생성으로 채워야 한다.
+- **(10-05 기준) 호환자모 전체 분해는 여전히 12/40 이다.** 10-06 추가 5건으로 17/40 이 되었다. 원문 3,638쪽에서 낱말 전체가 호환자모로 풀린 광고(`ㅂㅏㅋㅏㄹㅏ` 꼴)는 공백·기호가 낀 꼴까지 0건이었다. 최근 스팸은 `ㄲㅏ톡` 처럼 한 음절만 푼다. 이 28건은 웹 검색으로 더 찾거나 생성으로 채워야 한다.
 - 조합자모 20건 중 18건은 ygen.kr 한 곳이고, ygen.kr 원문을 다시 받아 확인해 보니 원문 자체가 글 전체 NFD 였다(수집 과정에서 생긴 것이 아님).
 
 ### LEXICON (`lexicon/seed.yaml`)
@@ -144,3 +144,11 @@ python3 scripts/validate_observed_lexicon.py
 
 - 확인: 고친 사전의 강한 어휘(weight 0.6 이상)를 역할 C 의 정상 DECOY 200개(정부·은행·대학 숨김 요소, 계도문, 위험 어휘가 든 정상 글)에 대 보니 걸린 수가 55 -> 0 이 되었다.
 - 바뀌거나 새로 들어간 어휘 401개는 2026-10-05 사용자 검수를 마쳐 모두 `reviewed: true` 다(`review_note` 에 기록. `lexicon/review_20261005.csv` 의 항목별 O/X 칸은 비어 있다).
+
+## 2026-10-06 추가 (역할 C 확인)
+
+사람 4 가 보낸 추가분은 10-05 이전 판 130건에 compat_full 5건을 덧붙인 135건이었다. 위 10-05 수정이 빠진 판이라 파일을 바꾸지 않고, 새 5건만 기존 142건 뒤에 JM-143~147 로 붙였다(`tools/build/add_jamo.py`).
+- 5건은 모두 dcinside 게시글이다: `ㅌㅔㄹㄹㅔ`·`ㄹㅏㅇㅣㄴ`·`ㅌㅔㄹ ㄹㅔ`·`ㅋㅗㄷㅡ`·`ㅋㅏㅈㅣㄴㅗ`.
+- 원문을 다시 열어 자모 부분이 그대로 있음을 확인했다. JM-146 은 축약된 evidence 를 원문 구간으로 바로잡았다.
+- 분류별: compat_full 17 · partial_mix 58 · conjoining_u1100 20 · mixed_technique 52, 합계 147. 호환자모 전체 분해는 17/40 이고, 23건이 남는다.
+- 함께 온 사전은 10-05 에 받은 원본과 같아 바꾸지 않았다.

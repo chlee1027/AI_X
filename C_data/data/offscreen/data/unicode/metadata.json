@@ -1,0 +1,40 @@
+{
+  "data_version": "17.0.0",
+  "license": "Unicode-3.0",
+  "license_file": "../../licenses/Unicode-LICENSE.txt",
+  "files": [
+    {
+      "name": "confusables",
+      "version": "17.0.0",
+      "path": "data/unicode/confusables.txt",
+      "url": "https://www.unicode.org/Public/17.0.0/security/confusables.txt",
+      "final_url": "https://www.unicode.org/Public/17.0.0/security/confusables.txt",
+      "downloaded_at_utc": "2026-10-04T08:13:33.911136+00:00",
+      "bytes": 745683,
+      "sha256": "091c7f82fc39ef208faf8f94d29c244de99254675e09de163160c810d13ef22a",
+      "data_rows": 6565
+    },
+    {
+      "name": "Scripts",
+      "version": "17.0.0",
+      "path": "data/unicode/Scripts.txt",
+      "url": "https://www.unicode.org/Public/17.0.0/ucd/Scripts.txt",
+      "final_url": "https://www.unicode.org/Public/17.0.0/ucd/Scripts.txt",
+      "downloaded_at_utc": "2026-10-04T08:13:35.637683+00:00",
+      "bytes": 192460,
+      "sha256": "9f5e50d3abaee7d6ce09480f325c706f485ae3240912527e651954d2d6b035bf",
+      "data_rows": 2287
+    },
+    {
+      "name": "IdentifierType",
+      "version": "17.0.0",
+      "path": "data/unicode/IdentifierType.txt",
+      "url": "https://www.unicode.org/Public/17.0.0/security/IdentifierType.txt",
+      "final_url": "https://www.unicode.org/Public/17.0.0/security/IdentifierType.txt",
+      "downloaded_at_utc": "2026-10-04T08:13:36.911914+00:00",
+      "bytes": 527366,
+      "sha256": "924ac63faa97ed73420d6ac48d08279d90968c7da0502ab701e08bfbb9683c22",
+      "data_rows": 5104
+    }
+  ]
+}
