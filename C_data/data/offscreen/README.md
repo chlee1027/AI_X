@@ -22,7 +22,7 @@
 | 가시 대조군 | 7개 | 자손 visibility 복원 3개, 스크롤로 확인 가능한 이동 4개 | [대조군](data/samples/offscreen_controls.json) |
 | 라이브러리 CSS 규칙 | 141개 규칙 | Bootstrap·Tailwind·HTML5BP·전자정부의 숨김 및 복원 규칙, 원문 위치·조건 | [추출 규칙](data/css/hidden_rules.json) |
 | 변형 조합 목록 | 100개 조합 | font-size·음수 left·display·visibility·clip·text-indent·transform 조합 | [조합 목록](data/catalog/offscreen_variations.csv) |
-| Unicode 데이터 | 3개 파일 | confusables.txt·Scripts.txt·IdentifierType.txt, 버전 17.0.0 | [출처·버전](data/unicode/README.md) |
+| Unicode 데이터 | 3개 파일 | confusables.txt·Scripts.txt·IdentifierType.txt, 버전 17.0.0 | [출처·버전](../unicode/README.md) (10-06 `C_data/data/unicode/` 로 옮김) |
 | 라이선스 원문 | 6개 파일 | Bootstrap 2버전·Tailwind·HTML5BP·전자정부·Unicode의 라이선스 | [출처·라이선스 초안](THIRD_PARTY.md) |
 
 **독립적으로 수집·승인한 광고 원문은 100개입니다.** 시험용 100개는 이 원문으로 만든 파생 자료이므로 광고 원문을 200개 수집한 것으로 합산하지 않습니다. YAML과 JSON은 동일한 샘플을 다른 형식으로 저장한 것이며, `fixtures/`의 HTML 107개도 시험용 100개와 대조군 7개에 대응합니다. 변형 목록 100개와 CSS 규칙 141개 역시 광고 원문 개수에 포함하지 않습니다.
@@ -88,7 +88,7 @@ ZIP을 풀고 `시작.html`을 열면 목록과 시험용 화면을 볼 수 있�
 - `fixtures/`: 외부 네트워크 및 JavaScript 없이 실행하는 시험용 화면 107개. 링크는 로컬 fragment입니다.
 - `data/review/`: 사용자 CSV 원본과 가져오기 결과. 사용자 판정과 자동 렌더링 관찰을 구분합니다.
 - `data/css/`, `data/raw/`, `licenses/`, `THIRD_PARTY.md`: 라이브러리 규칙 원문·출처 위치·라이선스. Tailwind 정적 JS 정의를 CSS로 기계 변환한 것은 배포 CSS 원문과 구분했습니다.
-- `data/unicode/`: Unicode 17.0.0 confusables.txt, Scripts.txt, IdentifierType.txt 및 출처 해시.
+- `data/unicode/`(10-06 `C_data/data/unicode/` 로 옮김): Unicode 17.0.0 confusables.txt, Scripts.txt, IdentifierType.txt 및 출처 해시.
 - `로컬_게시판_실행기록.md`: 사용자가 전자정부 표준FW 로그인, 게시판 생성, 글 등록·내용 조회를 직접 확인한 기록.
 
 Bootstrap·Tailwind·HTML5BP·전자정부 CSS 추출, 변형 목록, Unicode 출처·라이선스, CSS 원문 복사 자료, THIRD_PARTY 초안, 로컬 게시판 실행, 원문 수집 및 최종 사람 검수는 완료했습니다. 시험용 CSS는 라이브러리 원문 또는 명시한 파생 변형입니다. 원래 대조군 7개는 별도 보존하고, positive 시험용에는 숨겨지는 변형을 사용했습니다. 원문 부족을 변형으로 채우지 않았습니다.

@@ -1,6 +1,6 @@
 # 제3자 자료 출처·라이선스 — 사람 3 인계용 초안
 
-확인일: 2026-10-04. 원본 파일은 `data/raw/`, 실제 사용한 Unicode 데이터는 `data/unicode/`, 라이선스 원문은 `licenses/`에 보관했습니다. 다운로드 URL·일시·크기·SHA-256은 [source_manifest.json](data/source_manifest.json)에, 추출한 CSS 파일의 해시는 [source_files.json](data/css/source_files.json)에 있습니다.
+확인일: 2026-10-04. 원본 파일은 `data/raw/`, 실제 사용한 Unicode 데이터는 `data/unicode/`(2026-10-06 저장소의 `C_data/data/unicode/` 로 옮김), 라이선스 원문은 `licenses/`에 보관했습니다. 다운로드 URL·일시·크기·SHA-256은 [source_manifest.json](data/source_manifest.json)에, 추출한 CSS 파일의 해시는 [source_files.json](data/css/source_files.json)에 있습니다.
 
 | 구성 요소 | 고정 버전 | 라이선스 | 포함한 라이선스 파일 |
 |---|---|---|---|

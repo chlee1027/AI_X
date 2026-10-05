@@ -309,7 +309,8 @@ data/
   JAMO_LEXICON_작업노트.md         사람 4 작업 노트 원문 + 끝에 「2026-10-05 점검 뒤 고친 것」
   JAMO_LEXICON_변경요약_20261005.md  JAMO·LEXICON 을 무엇을 왜 바꿨는지 한눈에 보는 표
   offscreen/            사람 3 OFFSCREEN 묶음: data/originals(원문 100) · data/samples(시험용 100 · 대조군 7) · fixtures(시험용 화면 107)
-                        · data/css·catalog·unicode(라이브러리 숨김 규칙·변형 목록·유니코드 표) · licenses · 시작.html(목록) · 변경요약_20261005.md
+                        · data/css·catalog(라이브러리 숨김 규칙·변형 목록) · licenses · 시작.html(목록) · 변경요약_20261005.md
+  unicode/              Unicode 17.0.0 confusables.txt · Scripts.txt · IdentifierType.txt (사람 3 번들, 10-06 offscreen 묶음에서 옮김) · 라이선스
   answers/              요강 붙임4 스키마 정답셋 (to_answer.py 가 만든다, 위 절)
   patterns/             (아직 비어 있음) catalog.yaml 자리 — 실측 은닉 패턴, 탐지 규칙 근거이자 mocksite 입력
   collection_log.csv    요청 5,269건의 대상·일시·결과
