@@ -15,6 +15,7 @@
 | `data/samples/decoy.yaml` | **200** | a11y_sr_only 80 · hidden_menu 60 · policy_text 30 · risky_word_normal 30 | 오류 0. 53개 기관·업체 사이트 실측 |
 | `data/samples/etc.yaml` | **200** | zero_width 99 · link_cloaking 41 · encoding 40 · meta_cloaking 20 · css_content 0 | 오류 0. 40개 사이트. css_content 만 쿼터(20)에 못 미친다 |
 | `data/samples/combo_real.yaml` | **250** | 한 요소에 회피 수법 2~5개가 겹친 실제 광고 | 오류 0. 44개 사이트. 194번부터는 「안 쏠리게」 규칙으로 덧붙인 것(아래 「덧붙이기」) |
+| `data/samples/jamo.yaml` | **142** | 사람 4 몫 JAMO 실측 (compat_full 12 · partial_mix 58 · conjoining_u1100 20 · mixed_technique 52) | 2026-10-05 역할 C 점검·수정. `person4/` 참고 |
 
 검증 명령은 아래 둘이다.
 - `python tools/validate/validate_samples.py data/samples/decoy.yaml data/samples/etc.yaml`

@@ -1,0 +1,4576 @@
+- term: 도박
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: 한국청소년상담복지개발원 2020 청소년 온라인 도박문제 개입을 위한 매뉴얼 개발
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 불법도박
+  category: gambling_weak
+  weight: 0.1
+  pattern: null
+  source: 한국청소년상담복지개발원 2021 청소년상담 이슈페이퍼 「온라인 도박, 청소년 놀이문화가 되다」
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 온라인 도박
+  category: gambling_weak
+  weight: 0.1
+  pattern: null
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 사설 카지노
+  category: gambling_weak
+  weight: 0.1
+  pattern: null
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 불법 하우스
+  category: gambling_weak
+  weight: 0.1
+  pattern: null
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 불법 사행성 게임장
+  category: gambling_weak
+  weight: 0.1
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 불법 스포츠 도박
+  category: gambling_weak
+  weight: 0.1
+  pattern: null
+  source: 한국청소년상담복지개발원 2021 청소년상담 이슈페이퍼 「온라인 도박, 청소년 놀이문화가 되다」
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 온라인 즉석 및 실시간 게임
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 불법 웹보드 게임
+  category: gambling_weak
+  weight: 0.1
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 불법 경마
+  category: gambling_weak
+  weight: 0.1
+  pattern: null
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 불법 경륜
+  category: gambling_weak
+  weight: 0.1
+  pattern: null
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 불법 경정
+  category: gambling_weak
+  weight: 0.1
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 불법 소싸움
+  category: gambling_weak
+  weight: 0.1
+  pattern: null
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 불법 복권
+  category: gambling_weak
+  weight: 0.1
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 홀덤펍
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: 사행산업통합감독위원회 2024 사행산업 이용실태 조사
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 온라인/라이브 카지노
+  category: gambling_weak
+  weight: 0.1
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 사설FX마진거래
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 확률형 아이템
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: 한국청소년상담복지개발원 2021 청소년상담 이슈페이퍼 「온라인 도박, 청소년 놀이문화가 되다」
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: P2E
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 가상화폐
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 전자복권
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 화투
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 장기
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 바둑
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 골패
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 주사위
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 트럼프
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 체스
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 마작
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 경품
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 오락
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: 한국청소년상담복지개발원 2020 청소년 온라인 도박문제 개입을 위한 매뉴얼 개발
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 바다이야기
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 스크린 경마
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 파친코
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 복권
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: 사행산업통합감독위원회 2024 사행산업 이용실태 조사
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 로또
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: 한국청소년상담복지개발원 2021 청소년상담 이슈페이퍼 「온라인 도박, 청소년 놀이문화가 되다」
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 경마
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 경륜
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 경정
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 체육진흥투표권
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: 사행산업통합감독위원회 2024 사행산업 이용실태 조사
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 프로토
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 소싸움
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 사기도박
+  category: gambling_weak
+  weight: 0.1
+  pattern: null
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 온라인 불법도박
+  category: gambling_weak
+  weight: 0.1
+  pattern: null
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 사행산업
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: 사행산업통합감독위원회 2024 사행산업 이용실태 조사
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 불법 온라인 카지노
+  category: gambling_weak
+  weight: 0.1
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 카지노
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 슬롯머신
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 토토
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: 한국청소년상담복지개발원 2020 청소년 온라인 도박문제 개입을 위한 매뉴얼 개발
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 베팅
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: 한국청소년상담복지개발원 2021 청소년상담 이슈페이퍼 「온라인 도박, 청소년 놀이문화가 되다」
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 사설 토토
+  category: gambling_weak
+  weight: 0.1
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 사다리게임
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: 한국청소년상담복지개발원 2020 청소년 온라인 도박문제 개입을 위한 매뉴얼 개발
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 홀짝
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: 한국청소년상담복지개발원 2020 청소년 온라인 도박문제 개입을 위한 매뉴얼 개발
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 파워볼 게임
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: FX마진거래
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: 한국청소년상담복지개발원 2021 청소년상담 이슈페이퍼 「온라인 도박, 청소년 놀이문화가 되다」
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 돈내기 게임
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: 한국청소년상담복지개발원 2021 청소년상담 이슈페이퍼 「온라인 도박, 청소년 놀이문화가 되다」
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 불법 인터넷 도박
+  category: gambling_weak
+  weight: 0.1
+  pattern: null
+  source: 한국청소년상담복지개발원 2021 청소년상담 이슈페이퍼 「온라인 도박, 청소년 놀이문화가 되다」
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 온라인 도박 사이트
+  category: gambling_weak
+  weight: 0.1
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 사행성 게임
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 불법 카지노
+  category: gambling_weak
+  weight: 0.1
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 사행성게임물
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 체육진흥투표권 발매
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 스포츠 토토
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 소셜그래프게임
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: 한국청소년상담복지개발원 2020 청소년 온라인 도박문제 개입을 위한 매뉴얼 개발
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 달팽이게임
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: 한국청소년상담복지개발원 2020 청소년 온라인 도박문제 개입을 위한 매뉴얼 개발
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 사설 도박
+  category: gambling_weak
+  weight: 0.1
+  pattern: null
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 온라인 카지노
+  category: gambling_weak
+  weight: 0.1
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 불법 온라인 도박
+  category: gambling_weak
+  weight: 0.1
+  pattern: null
+  source: 한국청소년상담복지개발원 2020 청소년 온라인 도박문제 개입을 위한 매뉴얼 개발
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 인터넷 도박
+  category: gambling_weak
+  weight: 0.1
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 스포츠도박
+  category: gambling_weak
+  weight: 0.1
+  pattern: null
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 온라인 스포츠 도박
+  category: gambling_weak
+  weight: 0.1
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 웹보드게임
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: 한국청소년상담복지개발원 2020 청소년 온라인 도박문제 개입을 위한 매뉴얼 개발
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 불법도박 사이트
+  category: gambling_weak
+  weight: 0.1
+  pattern: null
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 불법 사행산업
+  category: gambling_weak
+  weight: 0.1
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 카지노사이트
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=9&mod=document&uid=45155
+  reviewed: true
+- term: 카지노솔루션
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=7&mod=document&uid=45178
+  reviewed: true
+- term: 카지노게임
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=2&mod=document&uid=45250
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 카지노주소
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=4&mod=document&uid=45224
+  reviewed: true
+- term: 카지노알
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=68&mod=document&uid=44261
+  reviewed: true
+- term: 카지노창업
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=3&mod=document&uid=45244
+  reviewed: true
+- term: 카지노사이트제작
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=26&mod=document&uid=44895
+  reviewed: true
+- term: 카지노밴더사
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=26&mod=document&uid=44895
+  reviewed: true
+- term: 카지노API연동
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=14&mod=document&uid=45075
+  reviewed: true
+- term: 카지노솔루션임대
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=26&mod=document&uid=44895
+  reviewed: true
+- term: 카지노api
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=68&mod=document&uid=44261
+  reviewed: true
+- term: 카지노제작
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=8&mod=document&uid=45171
+  reviewed: true
+- term: 에볼루션카지노
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=2&mod=document&uid=45250
+  reviewed: true
+- term: 에볼루션카지노게임
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=2&mod=document&uid=45250
+  reviewed: true
+- term: 바카라
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=26&mod=document&uid=44895
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 바카라슬롯
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=26&mod=document&uid=44895
+  reviewed: true
+- term: 슬롯
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=2&mod=document&uid=45250
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 슬롯게임
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=23&mod=document&uid=44942
+  reviewed: true
+  change_note: '2026-10-05: 정상 문서(합법 사행산업·규제 문서·놀이 낱말)에도 나와 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 슬롯사이트
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=56&mod=document&uid=44451
+  reviewed: true
+- term: 슬롯솔루션
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=7&mod=document&uid=45178
+  reviewed: true
+- term: 슬롯SOLUTION
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=7&mod=document&uid=45183
+  reviewed: true
+- term: 슬롯API
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=18&mod=document&uid=45021
+  reviewed: true
+- term: 슬롯알본사
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=18&mod=document&uid=45021
+  reviewed: true
+- term: 슬롯알공급
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=18&mod=document&uid=45021
+  reviewed: true
+- term: 정품슬롯
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=4&mod=document&uid=45224
+  reviewed: true
+- term: 신규
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: 한국청소년상담복지개발원 2020 청소년 온라인 도박문제 개입을 위한 매뉴얼 개발
+  reviewed: true
+  change_note: '2026-10-05: 일반 광고·안내 문구에도 쓰여 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 첫충
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: 한국청소년상담복지개발원 2021 청소년상담 이슈페이퍼 「온라인 도박, 청소년 놀이문화가 되다」
+  reviewed: true
+- term: 루틴
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: 한국청소년상담복지개발원 2020 청소년 온라인 도박문제 개입을 위한 매뉴얼 개발
+  reviewed: true
+  change_note: '2026-10-05: 일반 광고·안내 문구에도 쓰여 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 마틴
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: 한국청소년상담복지개발원 2020 청소년 온라인 도박문제 개입을 위한 매뉴얼 개발
+  reviewed: true
+- term: 매충
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: 한국청소년상담복지개발원 2021 청소년상담 이슈페이퍼 「온라인 도박, 청소년 놀이문화가 되다」
+  reviewed: true
+- term: 콤프
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+- term: 입금 보너스
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 다양한 이벤트
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+  change_note: '2026-10-05: 일반 광고·안내 문구에도 쓰여 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 이벤트 제공
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+  change_note: '2026-10-05: 일반 광고·안내 문구에도 쓰여 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 신규 회원
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+  change_note: '2026-10-05: 일반 광고·안내 문구에도 쓰여 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 검증된
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: 한국청소년상담복지개발원 2020 청소년 온라인 도박문제 개입을 위한 매뉴얼 개발
+  reviewed: true
+  change_note: '2026-10-05: 일반 광고·안내 문구에도 쓰여 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 꽁머니
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: 한국청소년상담복지개발원 2021 청소년상담 이슈페이퍼 「온라인 도박, 청소년 놀이문화가 되다」
+  reviewed: true
+- term: 회원 모집
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+  change_note: '2026-10-05: 일반 광고·안내 문구에도 쓰여 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 총판
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: 한국청소년상담복지개발원 2020 청소년 온라인 도박문제 개입을 위한 매뉴얼 개발
+  reviewed: true
+- term: 빠른 입출금
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 돌발
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 매충20%
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://gonggam.zieo.net/bbs/board.php?bo_table=free&wr_id=1847122
+  reviewed: true
+  change_note: '2026-10-05: 출처가 토토 커뮤니티(ttcs-1.com, 불법 사이트)라 실측 공개 게시판 원문으로 출처 교체'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 제재없음
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://dkhrainbow.com/article/상품-qa/6/6435/
+  reviewed: true
+  change_note: '2026-10-05: 출처가 토토 커뮤니티(ttcs-1.com, 불법 사이트)라 실측 공개 게시판 원문으로 출처 교체'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 가입코드
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://insystems.co.kr/24/?bmode=view&idx=169732357
+  reviewed: true
+  change_note: '2026-10-05: 출처가 토토 커뮤니티(ttcs-1.com, 불법 사이트)라 실측 공개 게시판 원문으로 출처 교체'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 스포츠 단폴
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://blog.tanagement.co.kr/releasenote/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172401778&t=board
+  reviewed: true
+  change_note: '2026-10-05: 출처가 토토 커뮤니티(ttcs-1.com, 불법 사이트)라 실측 공개 게시판 원문으로 출처 교체'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 입플
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://insystems.co.kr/24/?bmode=view&idx=169732357
+  reviewed: true
+  change_note: '2026-10-05: 출처가 토토 커뮤니티(ttcs-1.com, 불법 사이트)라 실측 공개 게시판 원문으로 출처 교체'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 매충 5%
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://keynkids.com/Notice/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173195482&t=board
+  reviewed: true
+  change_note: '2026-10-05: 출처가 토토 커뮤니티(ttcs-1.com, 불법 사이트)라 실측 공개 게시판 원문으로 출처 교체'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 신규 첫충
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=2&mod=document&uid=45261
+  reviewed: true
+- term: 모든 게임 무제재
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=2&mod=document&uid=45261
+  reviewed: true
+- term: 무제재
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=2&mod=document&uid=45261
+  reviewed: true
+- term: 신규 입플
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=2&mod=document&uid=45259
+  reviewed: true
+- term: 무한 매충
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=2&mod=document&uid=45259
+  reviewed: true
+- term: 국내 최초
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=3&mod=document&uid=45239
+  reviewed: true
+  change_note: '2026-10-05: 일반 광고·안내 문구에도 쓰여 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 콤프 최대
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=3&mod=document&uid=45239
+  reviewed: true
+- term: 업계 최고
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=4&mod=document&uid=45230
+  reviewed: true
+  change_note: '2026-10-05: 일반 광고·안내 문구에도 쓰여 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 고배당
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=4&mod=document&uid=45230
+  reviewed: true
+  change_note: '2026-10-05: 일반 광고·안내 문구에도 쓰여 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 신규 쿠폰
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=4&mod=document&uid=45220
+  reviewed: true
+- term: 쿠폰
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=4&mod=document&uid=45220
+  reviewed: true
+  change_note: '2026-10-05: 일반 광고·안내 문구에도 쓰여 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 실시간 콤프
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=4&mod=document&uid=45220
+  reviewed: true
+- term: 실시간 루징
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=4&mod=document&uid=45220
+  reviewed: true
+- term: 최대 콤프
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=5&mod=document&uid=45209
+  reviewed: true
+- term: 루징
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=3&mod=document&uid=45246
+  reviewed: true
+- term: 무제한 환전
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=6&mod=document&uid=45193
+  reviewed: true
+- term: 가입 첫충
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=6&mod=document&uid=45187
+  reviewed: true
+- term: 이벤트 진행
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=6&mod=document&uid=45187
+  reviewed: true
+  change_note: '2026-10-05: 일반 광고·안내 문구에도 쓰여 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 신속한 충환전
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=6&mod=document&uid=45187
+  reviewed: true
+- term: 무한 돌발
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=7&mod=document&uid=45174
+  reviewed: true
+- term: 승인 전화 없습니다
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=13&mod=document&uid=45083
+  reviewed: true
+- term: 매충 한도 무제한
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=14&mod=document&uid=45070
+  reviewed: true
+- term: 수시 돌발
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=14&mod=document&uid=45070
+  reviewed: true
+- term: 첫입금 최대
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=22&mod=document&uid=44953
+  reviewed: true
+- term: 슬롯 첫충
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=22&mod=document&uid=44953
+  reviewed: true
+- term: 주간 루징
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=22&mod=document&uid=44953
+  reviewed: true
+- term: 신규가입
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=21&mod=document&uid=44970
+  reviewed: true
+  change_note: '2026-10-05: 일반 광고·안내 문구에도 쓰여 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 크로스가능
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=21&mod=document&uid=44970
+  reviewed: true
+- term: 대한민국 대표
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=22&mod=document&uid=44950
+  reviewed: true
+  change_note: '2026-10-05: 일반 광고·안내 문구에도 쓰여 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 명품 사이트
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=22&mod=document&uid=44950
+  reviewed: true
+  change_note: '2026-10-05: 일반 광고·안내 문구에도 쓰여 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 국내 최고 배당
+  category: gambling_weak
+  weight: 0.2
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=32&mod=document&uid=44806
+  reviewed: true
+  change_note: '2026-10-05: 일반 광고·안내 문구에도 쓰여 단독 판정하면 오탐 -> gambling_weak'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 빠른 충&환
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=3&mod=document&uid=45246
+  reviewed: true
+- term: 도박문제 전문상담 서비스
+  category: whitelist
+  weight: 0.0
+  pattern: 도박문제\s+전문상담\s+서비스
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+  change_note: '2026-10-05: 공공기관 상담 안내 문구라 광고 연락 수단이 아님 -> contact 에서 whitelist 로'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 전화상담
+  category: whitelist
+  weight: 0.0
+  pattern: 전화상담
+  source: 한국청소년상담복지개발원 2020 청소년 온라인 도박문제 개입을 위한 매뉴얼 개발
+  reviewed: true
+  change_note: '2026-10-05: 공공기관 상담 안내 문구라 광고 연락 수단이 아님 -> contact 에서 whitelist 로'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 헬프라인 1336
+  category: whitelist
+  weight: 0.0
+  pattern: 헬프라인\s+1336
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+  change_note: '2026-10-05: 공공기관 상담 안내 문구라 광고 연락 수단이 아님 -> contact 에서 whitelist 로'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 온라인 상담
+  category: whitelist
+  weight: 0.0
+  pattern: 온라인\s+상담
+  source: 한국청소년상담복지개발원 2020 청소년 온라인 도박문제 개입을 위한 매뉴얼 개발
+  reviewed: true
+  change_note: '2026-10-05: 공공기관 상담 안내 문구라 광고 연락 수단이 아님 -> contact 에서 whitelist 로'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 문자정보 제공
+  category: whitelist
+  weight: 0.0
+  pattern: 문자정보\s+제공
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+  change_note: '2026-10-05: 공공기관 상담 안내 문구라 광고 연락 수단이 아님 -> contact 에서 whitelist 로'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 카카오톡 챗봇
+  category: whitelist
+  weight: 0.0
+  pattern: 카카오톡\s+챗봇
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+  change_note: '2026-10-05: 공공기관 상담 안내 문구라 광고 연락 수단이 아님 -> contact 에서 whitelist 로'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 상담사 개별 연락
+  category: whitelist
+  weight: 0.0
+  pattern: 상담사\s+개별\s+연락
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+  change_note: '2026-10-05: 공공기관 상담 안내 문구라 광고 연락 수단이 아님 -> contact 에서 whitelist 로'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 헬프라인, 넷라인
+  category: whitelist
+  weight: 0.0
+  pattern: 헬프라인,\s+넷라인
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+  change_note: '2026-10-05: 공공기관 상담 안내 문구라 광고 연락 수단이 아님 -> contact 에서 whitelist 로'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 상담기관 배정
+  category: whitelist
+  weight: 0.0
+  pattern: 상담기관\s+배정
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+  change_note: '2026-10-05: 공공기관 상담 안내 문구라 광고 연락 수단이 아님 -> contact 에서 whitelist 로'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 상담신청
+  category: whitelist
+  weight: 0.0
+  pattern: 상담신청
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+  change_note: '2026-10-05: 공공기관 상담 안내 문구라 광고 연락 수단이 아님 -> contact 에서 whitelist 로'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 상담기관
+  category: whitelist
+  weight: 0.0
+  pattern: 상담기관
+  source: 한국청소년상담복지개발원 2020 청소년 온라인 도박문제 개입을 위한 매뉴얼 개발
+  reviewed: true
+  change_note: '2026-10-05: 공공기관 상담 안내 문구라 광고 연락 수단이 아님 -> contact 에서 whitelist 로'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 상담사 배정
+  category: whitelist
+  weight: 0.0
+  pattern: 상담사\s+배정
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+  change_note: '2026-10-05: 공공기관 상담 안내 문구라 광고 연락 수단이 아님 -> contact 에서 whitelist 로'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 헬프라인(1336)
+  category: whitelist
+  weight: 0.0
+  pattern: 헬프라인\(1336\)
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+  change_note: '2026-10-05: 공공기관 상담 안내 문구라 광고 연락 수단이 아님 -> contact 에서 whitelist 로'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 넷라인
+  category: whitelist
+  weight: 0.0
+  pattern: 넷라인
+  source: 한국청소년상담복지개발원 2021 청소년상담 이슈페이퍼 「온라인 도박, 청소년 놀이문화가 되다」
+  reviewed: true
+  change_note: '2026-10-05: 공공기관 상담 안내 문구라 광고 연락 수단이 아님 -> contact 에서 whitelist 로'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 전화상담 국번없이 1336
+  category: whitelist
+  weight: 0.0
+  pattern: 전화상담\s+국번없이\s+1336
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+  change_note: '2026-10-05: 공공기관 상담 안내 문구라 광고 연락 수단이 아님 -> contact 에서 whitelist 로'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 소비자민원상담센터
+  category: whitelist
+  weight: 0.0
+  pattern: 소비자민원상담센터
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+  change_note: '2026-10-05: 공공기관 상담 안내 문구라 광고 연락 수단이 아님 -> contact 에서 whitelist 로'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 무료 상담
+  category: whitelist
+  weight: 0.0
+  pattern: 무료\s+상담
+  source: 한국청소년상담복지개발원 2020 청소년 온라인 도박문제 개입을 위한 매뉴얼 개발
+  reviewed: true
+  change_note: '2026-10-05: 공공기관 상담 안내 문구라 광고 연락 수단이 아님 -> contact 에서 whitelist 로'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 상담 예약
+  category: whitelist
+  weight: 0.0
+  pattern: 상담\s+예약
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+  change_note: '2026-10-05: 공공기관 상담 안내 문구라 광고 연락 수단이 아님 -> contact 에서 whitelist 로'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 신용상담보고서
+  category: whitelist
+  weight: 0.0
+  pattern: 신용상담보고서
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+  change_note: '2026-10-05: 공공기관 상담 안내 문구라 광고 연락 수단이 아님 -> contact 에서 whitelist 로'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 무료 법률상담
+  category: whitelist
+  weight: 0.0
+  pattern: 무료\s+법률상담
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+  change_note: '2026-10-05: 공공기관 상담 안내 문구라 광고 연락 수단이 아님 -> contact 에서 whitelist 로'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 국번 없이 132
+  category: whitelist
+  weight: 0.0
+  pattern: 국번\s+없이\s+132
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+  change_note: '2026-10-05: 공공기관 상담 안내 문구라 광고 연락 수단이 아님 -> contact 에서 whitelist 로'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 사이버 상담실
+  category: whitelist
+  weight: 0.0
+  pattern: 사이버\s+상담실
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+  change_note: '2026-10-05: 공공기관 상담 안내 문구라 광고 연락 수단이 아님 -> contact 에서 whitelist 로'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 사이버상담
+  category: whitelist
+  weight: 0.0
+  pattern: 사이버상담
+  source: 한국청소년상담복지개발원 2021 청소년상담 이슈페이퍼 「온라인 도박, 청소년 놀이문화가 되다」
+  reviewed: true
+  change_note: '2026-10-05: 공공기관 상담 안내 문구라 광고 연락 수단이 아님 -> contact 에서 whitelist 로'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 서신상담
+  category: whitelist
+  weight: 0.0
+  pattern: 서신상담
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+  change_note: '2026-10-05: 공공기관 상담 안내 문구라 광고 연락 수단이 아님 -> contact 에서 whitelist 로'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 야간상담
+  category: whitelist
+  weight: 0.0
+  pattern: 야간상담
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+  change_note: '2026-10-05: 공공기관 상담 안내 문구라 광고 연락 수단이 아님 -> contact 에서 whitelist 로'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 청소년전화 1388
+  category: whitelist
+  weight: 0.0
+  pattern: 청소년전화\s+1388
+  source: 한국청소년상담복지개발원 2021 청소년상담 이슈페이퍼 「온라인 도박, 청소년 놀이문화가 되다」
+  reviewed: true
+  change_note: '2026-10-05: 공공기관 상담 안내 문구라 광고 연락 수단이 아님 -> contact 에서 whitelist 로'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 청소년 사이버상담센터
+  category: whitelist
+  weight: 0.0
+  pattern: 청소년\s+사이버상담센터
+  source: 한국청소년상담복지개발원 2021 청소년상담 이슈페이퍼 「온라인 도박, 청소년 놀이문화가 되다」
+  reviewed: true
+  change_note: '2026-10-05: 공공기관 상담 안내 문구라 광고 연락 수단이 아님 -> contact 에서 whitelist 로'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 채팅상담실
+  category: whitelist
+  weight: 0.0
+  pattern: 채팅상담실
+  source: 한국청소년상담복지개발원 2021 청소년상담 이슈페이퍼 「온라인 도박, 청소년 놀이문화가 되다」
+  reviewed: true
+  change_note: '2026-10-05: 공공기관 상담 안내 문구라 광고 연락 수단이 아님 -> contact 에서 whitelist 로'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 초기접수 상담
+  category: whitelist
+  weight: 0.0
+  pattern: 초기접수\s+상담
+  source: 한국청소년상담복지개발원 2021 청소년상담 이슈페이퍼 「온라인 도박, 청소년 놀이문화가 되다」
+  reviewed: true
+  change_note: '2026-10-05: 공공기관 상담 안내 문구라 광고 연락 수단이 아님 -> contact 에서 whitelist 로'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 위기대응 상담
+  category: whitelist
+  weight: 0.0
+  pattern: 위기대응\s+상담
+  source: 한국청소년상담복지개발원 2021 청소년상담 이슈페이퍼 「온라인 도박, 청소년 놀이문화가 되다」
+  reviewed: true
+  change_note: '2026-10-05: 공공기관 상담 안내 문구라 광고 연락 수단이 아님 -> contact 에서 whitelist 로'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 조건만남
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 콜걸
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 티켓다방
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 커피배달
+  category: adult
+  weight: 0.3
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+  notes: 정상 업종·일반어. 단독 출현으로 판정 금지, 다른 성인 어휘와 함께 나올 때만
+  change_note: '2026-10-05: 정상 업종·일반어라 weight 1.0 -> 0.3'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 다방아줌마
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 마사지
+  category: adult
+  weight: 0.3
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+  notes: 정상 업종·일반어. 단독 출현으로 판정 금지, 다른 성인 어휘와 함께 나올 때만
+  change_note: '2026-10-05: 정상 업종·일반어라 weight 1.0 -> 0.3'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 다방티켓가격
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 모텔출장
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 지역모텔전문수송업체
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 골목다방
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 스웨디시
+  category: adult
+  weight: 0.3
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+  notes: 정상 업종·일반어. 단독 출현으로 판정 금지, 다른 성인 어휘와 함께 나올 때만
+  change_note: '2026-10-05: 정상 업종·일반어라 weight 1.0 -> 0.3'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 안마
+  category: adult
+  weight: 0.3
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+  notes: 정상 업종·일반어. 단독 출현으로 판정 금지, 다른 성인 어휘와 함께 나올 때만
+  change_note: '2026-10-05: 정상 업종·일반어라 weight 1.0 -> 0.3'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 섹파
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 다방레지
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 모텔콜걸
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 다방아가씨
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 립까페
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 떡다방
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 키스방
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 성인쉼터
+  category: adult
+  weight: 0.3
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+  notes: 정상 업종·일반어. 단독 출현으로 판정 금지, 다른 성인 어휘와 함께 나올 때만
+  change_note: '2026-10-05: 정상 업종·일반어라 weight 1.0 -> 0.3'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 모텔아가씨
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 출장전문업체
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 1:1출장서비스
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 콜걸전문업체
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 출장만남
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 출장-마사지
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 출장샵
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 감성스웨디시
+  category: adult
+  weight: 0.3
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+  notes: 정상 업종·일반어. 단독 출현으로 판정 금지, 다른 성인 어휘와 함께 나올 때만
+  change_note: '2026-10-05: 정상 업종·일반어라 weight 1.0 -> 0.3'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 스포츠건마
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 출장-안마
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 섹파알선
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 모텔전문수송업체
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 룸싸롱
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=47&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 유흥
+  category: adult
+  weight: 0.3
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=49&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+  notes: 정상 업종·일반어. 단독 출현으로 판정 금지, 다른 성인 어휘와 함께 나올 때만
+  change_note: '2026-10-05: 정상 업종·일반어라 weight 1.0 -> 0.3'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 출장안마
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=49&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 수위무제한
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=50&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 애인대행
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=47&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 콜걸샵
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=50&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 폐이만남
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=49&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 돌싱만남
+  category: adult
+  weight: 0.3
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=47&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+  notes: 정상 업종·일반어. 단독 출현으로 판정 금지, 다른 성인 어휘와 함께 나올 때만
+  change_note: '2026-10-05: 정상 업종·일반어라 weight 1.0 -> 0.3'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 다방매니저
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=49&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 외국인출장
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=47&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 유흥업소
+  category: adult
+  weight: 0.3
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=49&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+  notes: 정상 업종·일반어. 단독 출현으로 판정 금지, 다른 성인 어휘와 함께 나올 때만
+  change_note: '2026-10-05: 정상 업종·일반어라 weight 1.0 -> 0.3'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 다방티켓 후기
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 모텔/자택가능
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 와꾸보장
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 키-스-방
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 24시커피배달
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 출장서비스
+  category: adult
+  weight: 0.3
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+  notes: 정상 업종·일반어. 단독 출현으로 판정 금지, 다른 성인 어휘와 함께 나올 때만
+  change_note: '2026-10-05: 정상 업종·일반어라 weight 1.0 -> 0.3'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 아가씨-출장
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 다방콜걸
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=47&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 다방티켓가격문의
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=49&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 티켓후기
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=47&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 유흥주점
+  category: adult
+  weight: 0.3
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=2&mod=document&uid=45248
+  reviewed: true
+  notes: 정상 업종·일반어. 단독 출현으로 판정 금지, 다른 성인 어휘와 함께 나올 때만
+  change_note: '2026-10-05: 정상 업종·일반어라 weight 1.0 -> 0.3'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 업소추천
+  category: adult
+  weight: 0.3
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=2&mod=document&uid=45248
+  reviewed: true
+  notes: 정상 업종·일반어. 단독 출현으로 판정 금지, 다른 성인 어휘와 함께 나올 때만
+  change_note: '2026-10-05: 정상 업종·일반어라 weight 1.0 -> 0.3'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 왁싱샵
+  category: adult
+  weight: 0.3
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=2&mod=document&uid=45248
+  reviewed: true
+  notes: 정상 업종·일반어. 단독 출현으로 판정 금지, 다른 성인 어휘와 함께 나올 때만
+  change_note: '2026-10-05: 정상 업종·일반어라 weight 1.0 -> 0.3'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 부킹만남
+  category: adult
+  weight: 0.3
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=2&mod=document&uid=45248
+  reviewed: true
+  notes: 정상 업종·일반어. 단독 출현으로 판정 금지, 다른 성인 어휘와 함께 나올 때만
+  change_note: '2026-10-05: 정상 업종·일반어라 weight 1.0 -> 0.3'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 주중년채팅
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=2&mod=document&uid=45248
+  reviewed: true
+- term: 번개만남
+  category: adult
+  weight: 0.3
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=2&mod=document&uid=45248
+  reviewed: true
+  notes: 정상 업종·일반어. 단독 출현으로 판정 금지, 다른 성인 어휘와 함께 나올 때만
+  change_note: '2026-10-05: 정상 업종·일반어라 weight 1.0 -> 0.3'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 20대후불가능
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=2&mod=document&uid=45248
+  reviewed: true
+- term: 풀싸롱
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=2&mod=document&uid=45258
+  reviewed: true
+- term: 쓰리노
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=9&mod=document&uid=45152
+  reviewed: true
+- term: 셔츠룸
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=9&mod=document&uid=45152
+  reviewed: true
+- term: 3NO
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=9&mod=document&uid=45152
+  reviewed: true
+- term: 노래방
+  category: adult
+  weight: 0.3
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=9&mod=document&uid=45152
+  reviewed: true
+  notes: 정상 업종·일반어. 단독 출현으로 판정 금지, 다른 성인 어휘와 함께 나올 때만
+  change_note: '2026-10-05: 정상 업종·일반어라 weight 1.0 -> 0.3'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 출장아가씨
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=14&mod=document&uid=45080
+  reviewed: true
+- term: 원나잇출장
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=14&mod=document&uid=45080
+  reviewed: true
+- term: 바로출장
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=14&mod=document&uid=45080
+  reviewed: true
+- term: 솔로탈출
+  category: adult
+  weight: 0.3
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=14&mod=document&uid=45080
+  reviewed: true
+  notes: 정상 업종·일반어. 단독 출현으로 판정 금지, 다른 성인 어휘와 함께 나올 때만
+  change_note: '2026-10-05: 정상 업종·일반어라 weight 1.0 -> 0.3'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 휴게텔
+  category: adult
+  weight: 0.3
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=20&mod=document&uid=44990
+  reviewed: true
+  notes: 정상 업종·일반어. 단독 출현으로 판정 금지, 다른 성인 어휘와 함께 나올 때만
+  change_note: '2026-10-05: 정상 업종·일반어라 weight 1.0 -> 0.3'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 오피op
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=20&mod=document&uid=44990
+  reviewed: true
+- term: 아가씨알선
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=31&mod=document&uid=44819
+  reviewed: true
+- term: 일본여성출장만남
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=31&mod=document&uid=44819
+  reviewed: true
+- term: 노콘출장
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=32&mod=document&uid=44809
+  reviewed: true
+- term: 출장파트너
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=32&mod=document&uid=44809
+  reviewed: true
+- term: 변녀만남
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=32&mod=document&uid=44809
+  reviewed: true
+- term: 하드쩜오
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=38&mod=document&uid=44716
+  reviewed: true
+- term: 마사지샵
+  category: adult
+  weight: 0.3
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=42&mod=document&uid=44657
+  reviewed: true
+  notes: 정상 업종·일반어. 단독 출현으로 판정 금지, 다른 성인 어휘와 함께 나올 때만
+  change_note: '2026-10-05: 정상 업종·일반어라 weight 1.0 -> 0.3'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 여대생출장
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=44&mod=document&uid=44626
+  reviewed: true
+- term: 풀살롱
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=57&mod=document&uid=44423
+  reviewed: true
+- term: 텐카페
+  category: adult
+  weight: 0.3
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=52&mod=document&uid=44498
+  reviewed: true
+  notes: 정상 업종·일반어. 단독 출현으로 판정 금지, 다른 성인 어휘와 함께 나올 때만
+  change_note: '2026-10-05: 정상 업종·일반어라 weight 1.0 -> 0.3'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 고구려
+  category: adult
+  weight: 0.3
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=52&mod=document&uid=44498
+  reviewed: true
+  notes: 정상 업종·일반어. 단독 출현으로 판정 금지, 다른 성인 어휘와 함께 나올 때만
+  change_note: '2026-10-05: 정상 업종·일반어라 weight 1.0 -> 0.3'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 내국인출장
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=55&mod=document&uid=44460
+  reviewed: true
+- term: 만남앱
+  category: adult
+  weight: 0.3
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=62&mod=document&uid=44361
+  reviewed: true
+  notes: 정상 업종·일반어. 단독 출현으로 판정 금지, 다른 성인 어휘와 함께 나올 때만
+  change_note: '2026-10-05: 정상 업종·일반어라 weight 1.0 -> 0.3'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 싱글만남
+  category: adult
+  weight: 0.3
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=62&mod=document&uid=44361
+  reviewed: true
+  notes: 정상 업종·일반어. 단독 출현으로 판정 금지, 다른 성인 어휘와 함께 나올 때만
+  change_note: '2026-10-05: 정상 업종·일반어라 weight 1.0 -> 0.3'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 이성만남
+  category: adult
+  weight: 0.3
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=66&mod=document&uid=44289
+  reviewed: true
+  notes: 정상 업종·일반어. 단독 출현으로 판정 금지, 다른 성인 어휘와 함께 나올 때만
+  change_note: '2026-10-05: 정상 업종·일반어라 weight 1.0 -> 0.3'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 만남어플
+  category: adult
+  weight: 0.3
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=66&mod=document&uid=44289
+  reviewed: true
+  notes: 정상 업종·일반어. 단독 출현으로 판정 금지, 다른 성인 어휘와 함께 나올 때만
+  change_note: '2026-10-05: 정상 업종·일반어라 weight 1.0 -> 0.3'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 출장마사지
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=100&mod=document&uid=43791
+  reviewed: true
+- term: 아로마마사지
+  category: adult
+  weight: 0.3
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=70&mod=document&uid=44227
+  reviewed: true
+  notes: 정상 업종·일반어. 단독 출현으로 판정 금지, 다른 성인 어휘와 함께 나올 때만
+  change_note: '2026-10-05: 정상 업종·일반어라 weight 1.0 -> 0.3'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 대딸방
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=70&mod=document&uid=44227
+  reviewed: true
+- term: 토닥이
+  category: adult
+  weight: 0.3
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=89&mod=document&uid=43956
+  reviewed: true
+  notes: 정상 업종·일반어. 단독 출현으로 판정 금지, 다른 성인 어휘와 함께 나올 때만
+  change_note: '2026-10-05: 정상 업종·일반어라 weight 1.0 -> 0.3'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 여성전용마사지
+  category: adult
+  weight: 0.3
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=89&mod=document&uid=43956
+  reviewed: true
+  notes: 정상 업종·일반어. 단독 출현으로 판정 금지, 다른 성인 어휘와 함께 나올 때만
+  change_note: '2026-10-05: 정상 업종·일반어라 weight 1.0 -> 0.3'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 여성전용안마
+  category: adult
+  weight: 0.3
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=89&mod=document&uid=43956
+  reviewed: true
+  notes: 정상 업종·일반어. 단독 출현으로 판정 금지, 다른 성인 어휘와 함께 나올 때만
+  change_note: '2026-10-05: 정상 업종·일반어라 weight 1.0 -> 0.3'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 노래빠
+  category: adult
+  weight: 0.3
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=163&mod=document&uid=42836
+  reviewed: true
+  notes: 정상 업종·일반어. 단독 출현으로 판정 금지, 다른 성인 어휘와 함께 나올 때만
+  change_note: '2026-10-05: 정상 업종·일반어라 weight 1.0 -> 0.3'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 출장노예녀
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=311&mod=document&uid=40622
+  reviewed: true
+- term: 출장업소추천
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=362&mod=document&uid=39861
+  reviewed: true
+- term: 콜걸만남
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=362&mod=document&uid=39861
+  reviewed: true
+- term: 변녀마사지
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=362&mod=document&uid=39861
+  reviewed: true
+- term: 다방배달아가씨
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=311&mod=document&uid=40622
+  reviewed: true
+- term: 모텔다방
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=311&mod=document&uid=40622
+  reviewed: true
+- term: 도박중독 대응
+  category: whitelist
+  weight: 0.0
+  pattern: 도박중독\s+대응
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 도박중독 상담
+  category: whitelist
+  weight: 0.0
+  pattern: 도박중독\s+상담
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 도박중독 예방
+  category: whitelist
+  weight: 0.0
+  pattern: 도박중독\s+예방
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 도박중독 치유
+  category: whitelist
+  weight: 0.0
+  pattern: 도박중독\s+치유
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 복합중독 대응
+  category: whitelist
+  weight: 0.0
+  pattern: 복합중독\s+대응
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 감시
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+감시
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 규제
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+규제
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 근절
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+근절
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 단속
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+단속
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 대응
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+대응
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 예방
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+예방
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 차단
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+차단
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 사행산업 규제
+  category: whitelist
+  weight: 0.0
+  pattern: 사행산업\s+규제
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 온라인도박 단속
+  category: whitelist
+  weight: 0.0
+  pattern: 온라인도박\s+단속
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 중독 상담 정보
+  category: whitelist
+  weight: 0.0
+  pattern: 중독\s+상담\s+정보
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 중독 예방 교육
+  category: whitelist
+  weight: 0.0
+  pattern: 중독\s+예방\s+교육
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 중독자 가족 지원
+  category: whitelist
+  weight: 0.0
+  pattern: 중독자\s+가족\s+지원
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 중독자 상담·재활
+  category: whitelist
+  weight: 0.0
+  pattern: 중독자\s+상담·재활
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 청소년 도박 예방
+  category: whitelist
+  weight: 0.0
+  pattern: 청소년\s+도박\s+예방
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 청소년 도박 치유
+  category: whitelist
+  weight: 0.0
+  pattern: 청소년\s+도박\s+치유
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 도박문제 상담·치유
+  category: whitelist
+  weight: 0.0
+  pattern: 도박문제\s+상담·치유
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 도박문제 예방·치유
+  category: whitelist
+  weight: 0.0
+  pattern: 도박문제\s+예방·치유
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 도박중독 상담 관련
+  category: whitelist
+  weight: 0.0
+  pattern: 도박중독\s+상담\s+관련
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 도박중독 예방 교육
+  category: whitelist
+  weight: 0.0
+  pattern: 도박중독\s+예방\s+교육
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 도박중독 치유 과정
+  category: whitelist
+  weight: 0.0
+  pattern: 도박중독\s+치유\s+과정
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 도박중독 치유 관련
+  category: whitelist
+  weight: 0.0
+  pattern: 도박중독\s+치유\s+관련
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 관련 상담
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+관련\s+상담
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 광고·홍보
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+광고·홍보
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 단속 실태
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+단속\s+실태
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 단속 역량
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+단속\s+역량
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 단속 현황
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+단속\s+현황
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 대응 관련
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+대응\s+관련
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 대응 협력
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+대응\s+협력
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 문제 예방
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+문제\s+예방
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 예방 교육
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+예방\s+교육
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 예방 기금
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+예방\s+기금
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 예방 정책
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+예방\s+정책
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 예방·단속
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+예방·단속
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 예방·대응
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+예방·대응
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 유입 차단
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+유입\s+차단
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 정책 대응
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+정책\s+대응
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 탐지·차단
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+탐지·차단
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 온라인도박 차단체계
+  category: whitelist
+  weight: 0.0
+  pattern: 온라인도박\s+차단체계
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 중독 상담 프로그램
+  category: whitelist
+  weight: 0.0
+  pattern: 중독\s+상담\s+프로그램
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 중독 예방 및 치료
+  category: whitelist
+  weight: 0.0
+  pattern: 중독\s+예방\s+및\s+치료
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 청소년 도박상담센터
+  category: whitelist
+  weight: 0.0
+  pattern: 청소년\s+도박상담센터
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 청소년 도박예방센터
+  category: whitelist
+  weight: 0.0
+  pattern: 청소년\s+도박예방센터
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 도박 광고 행위 처벌
+  category: whitelist
+  weight: 0.0
+  pattern: 도박\s+광고\s+행위\s+처벌
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 도박사이트 전체 차단
+  category: whitelist
+  weight: 0.0
+  pattern: 도박사이트\s+전체\s+차단
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 도박중독 대응 정책
+  category: whitelist
+  weight: 0.0
+  pattern: 도박중독\s+대응\s+정책
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 도박중독의 예방·치유
+  category: whitelist
+  weight: 0.0
+  pattern: 도박중독의\s+예방·치유
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 범정부 불법도박 대응
+  category: whitelist
+  weight: 0.0
+  pattern: 범정부\s+불법도박\s+대응
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법 온라인도박 단속
+  category: whitelist
+  weight: 0.0
+  pattern: 불법\s+온라인도박\s+단속
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 광고와 홍보
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+광고와\s+홍보
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 규제 동향
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+규제\s+동향
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 규제기관
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+규제기관
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 기술적 차단
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+기술적\s+차단
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 단속과 처벌
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+단속과\s+처벌
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 대응 정책
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+대응\s+정책
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 대응 체계
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+대응\s+체계
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 대응 협의회
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+대응\s+협의회
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 사이트 신고
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+사이트\s+신고
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 사이트 홍보
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+사이트\s+홍보
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 운영자 처벌
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+운영자\s+처벌
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 피해 예방
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+피해\s+예방
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 피해자 지원
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+피해자\s+지원
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박행위 집중단속
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박행위\s+집중단속
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 사행산업에 대한 규제
+  category: whitelist
+  weight: 0.0
+  pattern: 사행산업에\s+대한\s+규제
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 온라인도박 결제 차단
+  category: whitelist
+  weight: 0.0
+  pattern: 온라인도박\s+결제\s+차단
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 이용자 보호 및 중독 예방
+  category: whitelist
+  weight: 0.0
+  pattern: 이용자\s+보호\s+및\s+중독\s+예방
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 중독 및 과몰입 예방
+  category: whitelist
+  weight: 0.0
+  pattern: 중독\s+및\s+과몰입\s+예방
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 중독 상담 정보 명시
+  category: whitelist
+  weight: 0.0
+  pattern: 중독\s+상담\s+정보\s+명시
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 중독 예방 교육 자료
+  category: whitelist
+  weight: 0.0
+  pattern: 중독\s+예방\s+교육\s+자료
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 중독 치료 프로그램
+  category: whitelist
+  weight: 0.0
+  pattern: 중독\s+치료\s+프로그램
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 청소년 도박 예방교육
+  category: whitelist
+  weight: 0.0
+  pattern: 청소년\s+도박\s+예방교육
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 도박중독 대응 거버넌스
+  category: whitelist
+  weight: 0.0
+  pattern: 도박중독\s+대응\s+거버넌스
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 도박중독 대응 네트워크
+  category: whitelist
+  weight: 0.0
+  pattern: 도박중독\s+대응\s+네트워크
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 도박중독 예방 및 홍보
+  category: whitelist
+  weight: 0.0
+  pattern: 도박중독\s+예방\s+및\s+홍보
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 도박중독 전담상담센터
+  category: whitelist
+  weight: 0.0
+  pattern: 도박중독\s+전담상담센터
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 도박중독 치유 및 회복
+  category: whitelist
+  weight: 0.0
+  pattern: 도박중독\s+치유\s+및\s+회복
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 도박중독자의 치료·재활
+  category: whitelist
+  weight: 0.0
+  pattern: 도박중독자의\s+치료·재활
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 범죄 및 복합중독 대응
+  category: whitelist
+  weight: 0.0
+  pattern: 범죄\s+및\s+복합중독\s+대응
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법 온라인도박 대응
+  category: whitelist
+  weight: 0.0
+  pattern: 불법\s+온라인도박\s+대응
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 감시 및 단속
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+감시\s+및\s+단속
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 관련 결제차단
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+관련\s+결제차단
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 단속 및 운영
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+단속\s+및\s+운영
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 대응 및 예방
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+대응\s+및\s+예방
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 대응 협력체계
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+대응\s+협력체계
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 대응 형사정책
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+대응\s+형사정책
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 중독 예방과 치유
+  category: whitelist
+  weight: 0.0
+  pattern: 중독\s+예방과\s+치유
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 중독 예방과 단속
+  category: whitelist
+  weight: 0.0
+  pattern: 중독\s+예방과\s+단속
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 예방 캠페인
+  category: whitelist
+  weight: 0.0
+  pattern: 예방\s+캠페인
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 위험 경고
+  category: whitelist
+  weight: 0.0
+  pattern: 위험\s+경고
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 책임도박
+  category: whitelist
+  weight: 0.0
+  pattern: 책임도박
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 이용자 보호
+  category: whitelist
+  weight: 0.0
+  pattern: 이용자\s+보호
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 치유·재활
+  category: whitelist
+  weight: 0.0
+  pattern: 치유·재활
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 사회적 회복
+  category: whitelist
+  weight: 0.0
+  pattern: 사회적\s+회복
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 사전 예방
+  category: whitelist
+  weight: 0.0
+  pattern: 사전\s+예방
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 조기개입
+  category: whitelist
+  weight: 0.0
+  pattern: 조기개입
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 치료연계 시스템
+  category: whitelist
+  weight: 0.0
+  pattern: 치료연계\s+시스템
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 텔레그램 + 아이디
+  category: contact
+  weight: 0.8
+  pattern: 텔[\s.,\-·_]{0,2}레[\s.,\-·_]{0,2}그[\s.,\-·_]{0,2}램\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: http://pizzabrothers.co.kr/box/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=47853438&t=board
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 텔레 + 아이디
+  category: contact
+  weight: 0.8
+  pattern: 텔[\s.,\-·_]{0,2}레\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://uisp.ikw.ac.kr/bbs/board.php?bo_table=qa&wr_id=134
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 텔 + 아이디
+  category: contact
+  weight: 0.8
+  pattern: 텔\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://jnbburi.or.kr/bbs/board.php?bo_table=notice&wr_id=12835
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 탤 + 아이디
+  category: contact
+  weight: 0.8
+  pattern: 탤\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://koreawax.com/article/%EC%83%81%ED%92%88-qa/6/30465/
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 탤레 + 아이디
+  category: contact
+  weight: 0.8
+  pattern: 탤[\s.,\-·_]{0,2}레\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://www.cnpgroup.net/3-4/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173427009&t=board
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 탤래 + 아이디
+  category: contact
+  weight: 0.8
+  pattern: 탤[\s.,\-·_]{0,2}래\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://bienworks.co.kr/board/product/read.html?no=145074&board_no=6
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 텔래 + 아이디
+  category: contact
+  weight: 0.8
+  pattern: 텔[\s.,\-·_]{0,2}래\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://www.cnpgroup.net/3-4/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173422612&t=board
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 텔래그램 + 아이디
+  category: contact
+  weight: 0.8
+  pattern: 텔[\s.,\-·_]{0,2}래[\s.,\-·_]{0,2}그[\s.,\-·_]{0,2}램\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: http://www.sandblastmc.com/bbs/board.php?bo_table=qna&wr_id=19324
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 탤그 + 아이디
+  category: contact
+  weight: 0.8
+  pattern: 탤[\s.,\-·_]{0,2}그\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://bienworks.co.kr/board/product/read.html?no=145046&board_no=6
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 텔ㄹㅔ그램 + 아이디
+  category: contact
+  weight: 0.8
+  pattern: 텔[\s.,\-·_]{0,2}ㄹ[\s.,\-·_]{0,2}ㅔ[\s.,\-·_]{0,2}그[\s.,\-·_]{0,2}램\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://jirisanpapas.com/?mod=document&page_id=1323&uid=7685
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 텔ㄹㅔ + 아이디
+  category: contact
+  weight: 0.8
+  pattern: 텔[\s.,\-·_]{0,2}ㄹ[\s.,\-·_]{0,2}ㅔ\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://yewonpub.co.kr/board/product/read.html?no=387450&board_no=6
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 텔ㄹ + 아이디
+  category: contact
+  weight: 0.8
+  pattern: 텔[\s.,\-·_]{0,2}ㄹ\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://www.dspremiumlounge.com/24/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172016651&t=board
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 탤ㄹㅔ + 아이디
+  category: contact
+  weight: 0.8
+  pattern: 탤[\s.,\-·_]{0,2}ㄹ[\s.,\-·_]{0,2}ㅔ\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://vestmall.co.kr/article/%EC%83%81%ED%92%88-%EC%82%AC%EC%9A%A9%ED%9B%84%EA%B8%B0/4/4305559/
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: ㅌ레 + 아이디
+  category: contact
+  weight: 0.8
+  pattern: ㅌ[\s.,\-·_]{0,2}레\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://aptgogi.co.kr/35/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=174892160&t=board
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: ㅌㄹ + 아이디
+  category: contact
+  weight: 0.8
+  pattern: ㅌ[\s.,\-·_]{0,2}ㄹ\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://shesga.com/article/%EC%83%81%ED%92%88-qa/6/6858859
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 텔.레 + 아이디
+  category: contact
+  weight: 0.8
+  pattern: 텔[\s.,\-·_]{0,2}\.[\s.,\-·_]{0,2}레\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://www.cnpgroup.net/3-4/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173433911&t=board
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 텔,레 + 아이디
+  category: contact
+  weight: 0.8
+  pattern: 텔[\s.,\-·_]{0,2},[\s.,\-·_]{0,2}레\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: http://www.sandblastmc.com/bbs/board.php?bo_table=qna&wr_id=14516
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 텔레ID + 아이디
+  category: contact
+  weight: 0.8
+  pattern: 텔[\s.,\-·_]{0,2}레[\s.,\-·_]{0,2}I[\s.,\-·_]{0,2}D\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=338&mod=document&uid=40209
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 텔레문의 + 아이디
+  category: contact
+  weight: 0.8
+  pattern: 텔[\s.,\-·_]{0,2}레[\s.,\-·_]{0,2}문[\s.,\-·_]{0,2}의\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://nebuah.com/bbs/board.php?bo_table=polls&wr_id=13419
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 텔문의 + 아이디
+  category: contact
+  weight: 0.8
+  pattern: 텔[\s.,\-·_]{0,2}문[\s.,\-·_]{0,2}의\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://www.cnpgroup.net/3-4/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173422612&t=board
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 텔레그램문의 + 아이디
+  category: contact
+  weight: 0.8
+  pattern: 텔[\s.,\-·_]{0,2}레[\s.,\-·_]{0,2}그[\s.,\-·_]{0,2}램[\s.,\-·_]{0,2}문[\s.,\-·_]{0,2}의\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://ypcd.or.kr/bbs/board.php?bo_table=notice4&wr_id=14964
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 텔레상담 + 아이디
+  category: contact
+  weight: 0.8
+  pattern: 텔[\s.,\-·_]{0,2}레[\s.,\-·_]{0,2}상[\s.,\-·_]{0,2}담\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://jangpanmart.com/article/ìƒ�í’ˆ-qa/6/355388/page/2/
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 광고문의텔 + 아이디
+  category: contact
+  weight: 0.8
+  pattern: 광[\s.,\-·_]{0,2}고[\s.,\-·_]{0,2}문[\s.,\-·_]{0,2}의[\s.,\-·_]{0,2}텔\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://jnbburi.or.kr/bbs/board.php?bo_table=notice&wr_id=12835
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 광고텔레 + 아이디
+  category: contact
+  weight: 0.8
+  pattern: 광[\s.,\-·_]{0,2}고[\s.,\-·_]{0,2}텔[\s.,\-·_]{0,2}레\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://m.medijewelry.com/article/qa/6/9308/
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: Tele + 아이디
+  category: contact
+  weight: 0.8
+  pattern: T[\s.,\-·_]{0,2}e[\s.,\-·_]{0,2}l[\s.,\-·_]{0,2}e\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: http://kmc1958.or.kr/bbs/board.php?bo_table=sub01_03&wr_id=420
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: TELE + 아이디
+  category: contact
+  weight: 0.8
+  pattern: T[\s.,\-·_]{0,2}E[\s.,\-·_]{0,2}L[\s.,\-·_]{0,2}E\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: http://pizzabrothers.co.kr/box/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=47852488&t=board
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: Telegram + 아이디
+  category: contact
+  weight: 0.8
+  pattern: T[\s.,\-·_]{0,2}e[\s.,\-·_]{0,2}l[\s.,\-·_]{0,2}e[\s.,\-·_]{0,2}g[\s.,\-·_]{0,2}r[\s.,\-·_]{0,2}a[\s.,\-·_]{0,2}m\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: http://kmc1958.or.kr/bbs/board.php?bo_table=sub01_03&wr_id=420
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: TG + 아이디
+  category: contact
+  weight: 0.8
+  pattern: T[\s.,\-·_]{0,2}G\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://ypcd.or.kr/bbs/board.php?bo_table=notice4&wr_id=14964
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 카톡 + 아이디
+  category: contact
+  weight: 0.8
+  pattern: 카[\s.,\-·_]{0,2}톡\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://www.young-tech.co.kr/notice/?q=YToyOntzOjQ6InBhZ2UiO2k6MztzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172703723&t=board
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 카카오톡 + 아이디
+  category: contact
+  weight: 0.8
+  pattern: 카[\s.,\-·_]{0,2}카[\s.,\-·_]{0,2}오[\s.,\-·_]{0,2}톡\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://bienworks.co.kr/board/product/read.html?no=145050&board_no=6
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 카톡ID + 아이디
+  category: contact
+  weight: 0.8
+  pattern: 카[\s.,\-·_]{0,2}톡[\s.,\-·_]{0,2}I[\s.,\-·_]{0,2}D\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://dkhrainbow.com/article/상품-qa/6/6437/
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 카톡문의 + 아이디
+  category: contact
+  weight: 0.8
+  pattern: 카[\s.,\-·_]{0,2}톡[\s.,\-·_]{0,2}문[\s.,\-·_]{0,2}의\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: http://www.sandblastmc.com/bbs/board.php?bo_table=qna&wr_id=19324
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 캬톡 + 아이디
+  category: contact
+  weight: 0.8
+  pattern: 캬[\s.,\-·_]{0,2}톡\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://ypcd.or.kr/bbs/board.php?bo_table=notice4&wr_id=1047984
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 까톡 + 아이디
+  category: contact
+  weight: 0.8
+  pattern: 까[\s.,\-·_]{0,2}톡\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://jirisanpapas.com/?mod=document&page_id=1323&uid=7685
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 깨똑 + 아이디
+  category: contact
+  weight: 0.8
+  pattern: 깨[\s.,\-·_]{0,2}똑\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://jinsansports.co.kr/board/product/read.html?no=958&board_no=6
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 카턱 + 아이디
+  category: contact
+  weight: 0.8
+  pattern: 카[\s.,\-·_]{0,2}턱\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://lovelyall.com/article/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/5/172826/
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 카 ,턱 + 아이디
+  category: contact
+  weight: 0.8
+  pattern: 카[\s.,\-·_]{0,2},[\s.,\-·_]{0,2}턱\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=9&mod=document&uid=45144
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 턱.텔.레 + 아이디
+  category: contact
+  weight: 0.8
+  pattern: 턱[\s.,\-·_]{0,2}\.[\s.,\-·_]{0,2}텔[\s.,\-·_]{0,2}\.[\s.,\-·_]{0,2}레\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://annaprez.com/board/free/read.html?no=195274&board_no=5
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 카턱.텔.레 + 아이디
+  category: contact
+  weight: 0.8
+  pattern: 카[\s.,\-·_]{0,2}턱[\s.,\-·_]{0,2}\.[\s.,\-·_]{0,2}텔[\s.,\-·_]{0,2}\.[\s.,\-·_]{0,2}레\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://annaprez.com/board/free/read.html?no=195274&board_no=5
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 카·톡 + 아이디
+  category: contact
+  weight: 0.8
+  pattern: 카[\s.,\-·_]{0,2}·[\s.,\-·_]{0,2}톡\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://www.kusta.or.kr/bbs/board.php?bo_table=mypage&wr_id=300959
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 캬-톡 + 아이디
+  category: contact
+  weight: 0.8
+  pattern: 캬[\s.,\-·_]{0,2}\-[\s.,\-·_]{0,2}톡\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://ypcd.or.kr/bbs/board.php?bo_table=notice4&wr_id=1047984
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 카-툭 + 아이디
+  category: contact
+  weight: 0.8
+  pattern: 카[\s.,\-·_]{0,2}\-[\s.,\-·_]{0,2}툭\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://ypcd.or.kr/bbs/board.php?bo_table=notice4&wr_id=1047985
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 카툭 + 아이디
+  category: contact
+  weight: 0.8
+  pattern: 카[\s.,\-·_]{0,2}툭\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://ypcd.or.kr/bbs/board.php?bo_table=notice4&wr_id=1047985
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: ㅋ톡 + 아이디
+  category: contact
+  weight: 0.8
+  pattern: ㅋ[\s.,\-·_]{0,2}톡\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://ggalsekorea.uriweb.kr/37/?bmode=view&idx=170678068
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: ㅋr톡 + 아이디
+  category: contact
+  weight: 0.8
+  pattern: ㅋ[\s.,\-·_]{0,2}r[\s.,\-·_]{0,2}톡\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://annaprez.com/board/free/read.html?no=195144&board_no=5
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: ㅋㅏ톡 + 아이디
+  category: contact
+  weight: 0.8
+  pattern: ㅋ[\s.,\-·_]{0,2}ㅏ[\s.,\-·_]{0,2}톡\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://politics.mokpo.ac.kr/bbs/economy/254/262610/artclView.do
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: ㅋㅏ_톡 + 아이디
+  category: contact
+  weight: 0.8
+  pattern: ㅋ[\s.,\-·_]{0,2}ㅏ[\s.,\-·_]{0,2}_[\s.,\-·_]{0,2}톡\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?mod=document&uid=45276
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: ㅋㅌ + 아이디
+  category: contact
+  weight: 0.8
+  pattern: ㅋ[\s.,\-·_]{0,2}ㅌ\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://bizk.co.kr/board_new/new_read.php?sno=82476
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 문의톡 + 아이디
+  category: contact
+  weight: 0.8
+  pattern: 문[\s.,\-·_]{0,2}의[\s.,\-·_]{0,2}톡\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 상담톡 + 아이디
+  category: contact
+  weight: 0.8
+  pattern: 상[\s.,\-·_]{0,2}담[\s.,\-·_]{0,2}톡\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 에약톡 + 아이디
+  category: contact
+  weight: 0.8
+  pattern: 에[\s.,\-·_]{0,2}약[\s.,\-·_]{0,2}톡\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 라인ID + 아이디
+  category: contact
+  weight: 0.8
+  pattern: 라[\s.,\-·_]{0,2}인[\s.,\-·_]{0,2}I[\s.,\-·_]{0,2}D\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://signblue.co.kr/board/product/read.html?no=321387&board_no=6
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 위챗 + 아이디
+  category: contact
+  weight: 0.8
+  pattern: 위[\s.,\-·_]{0,2}챗\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=8&mod=document&uid=45158
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 텔레/카톡 + 아이디
+  category: contact
+  weight: 0.8
+  pattern: 텔[\s.,\-·_]{0,2}레[\s.,\-·_]{0,2}/[\s.,\-·_]{0,2}카[\s.,\-·_]{0,2}톡\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://dkhrainbow.com/article/상품-qa/6/6426/page/2/
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 카톡 텔레 + 아이디
+  category: contact
+  weight: 0.8
+  pattern: 카[\s.,\-·_]{0,2}톡[\s.,\-·_]{0,2}텔[\s.,\-·_]{0,2}레\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://www.young-tech.co.kr/notice/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172715728&t=board
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: ㅋㅏ톡/텔ㄹㅔ + 아이디
+  category: contact
+  weight: 0.8
+  pattern: ㅋ[\s.,\-·_]{0,2}ㅏ[\s.,\-·_]{0,2}톡[\s.,\-·_]{0,2}/[\s.,\-·_]{0,2}텔[\s.,\-·_]{0,2}ㄹ[\s.,\-·_]{0,2}ㅔ\s{0,2}[:：;=]?\s{0,2}@?\s{0,2}[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=246&mod=document&uid=41593
+  reviewed: true
+  change_note: '2026-10-05: 연락 수단 표기 변형과 뒤따르는 아이디를 함께 잡는 정규식으로 새로 만듦. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 010 공백·점 구분 번호
+  category: contact
+  weight: 0.8
+  pattern: (?<!\d)010[\s.\-]{1,3}\d{3,4}[\s.\-]{1,3}\d{4}(?!\d)
+  source: https://ypcd.or.kr/bbs/board.php?bo_table=notice4&wr_id=1047985
+  reviewed: true
+  change_note: '2026-10-05: 광고에 쓰인 변형 전화번호 꼴. 실측 원문에서 일치 확인(번호 자체는 저장하지 않음)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: o1o·O1O 영문 o 치환 번호
+  category: contact
+  weight: 0.8
+  pattern: (?<![A-Za-z0-9])[oO][1lI][oO][\s.\-ㅡ=+~]{0,3}[\dX]{3,4}[\s.\-ㅡ=+~]{0,3}[\dX]{4}
+  source: https://www.uninoble.co.kr/37/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173698121&t=board
+  reviewed: true
+  change_note: '2026-10-05: 광고에 쓰인 변형 전화번호 꼴. 실측 원문에서 일치 확인(번호 자체는 저장하지 않음)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 0l0·OlO 영문 l 치환 번호
+  category: contact
+  weight: 0.8
+  pattern: (?<![A-Za-z0-9])[0oO][lI][0oO][\s.\-ㅡ=+~]{0,3}[\dX]{3,4}[\s.\-ㅡ=+~]{0,3}[\dX]{4}
+  source: https://www.cnpgroup.net/3-4/?q=YToyOntzOjQ6InBhZ2UiO2k6NDtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172762197&t=board
+  reviewed: true
+  change_note: '2026-10-05: 광고에 쓰인 변형 전화번호 꼴. 실측 원문에서 일치 확인(번호 자체는 저장하지 않음)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 전각 숫자 번호
+  category: contact
+  weight: 0.8
+  pattern: '[０0][１1][０0][\s.\-ㅡ=]{0,3}[０-９\dX]{3,4}[\s.\-ㅡ=]{0,3}[０-９\dX]{4}'
+  source: https://ypcd.or.kr/bbs/board.php?bo_table=notice4&wr_id=1047985
+  reviewed: true
+  change_note: '2026-10-05: 광고에 쓰인 변형 전화번호 꼴. 실측 원문에서 일치 확인(번호 자체는 저장하지 않음)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 원 문자 숫자 번호
+  category: contact
+  weight: 0.8
+  pattern: '[ⓞ⓪0][①1][ⓞ⓪0][\s.\-ㅡ]{0,3}[①-⑨⓪\dX]{3,4}[\s.\-ㅡ]{0,3}[①-⑨⓪\dX]{4}'
+  source: https://ypcd.or.kr/bbs/board.php?bo_table=notice4&wr_id=1047985
+  reviewed: true
+  change_note: '2026-10-05: 광고에 쓰인 변형 전화번호 꼴. 실측 원문에서 일치 확인(번호 자체는 저장하지 않음)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 자모 ㅡ 구분 번호
+  category: contact
+  weight: 0.8
+  pattern: '[0oO０][1lI１][0oO０]ㅡ[\d０-９X]{3,4}ㅡ[\d０-９X]{4}'
+  source: https://newbain.co.kr/article/상품-qa/6/96316/page/3/
+  reviewed: true
+  change_note: '2026-10-05: 광고에 쓰인 변형 전화번호 꼴. 실측 원문에서 일치 확인(번호 자체는 저장하지 않음)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 기호 구분 번호(➖·〓·◆·▶)
+  category: contact
+  weight: 0.8
+  pattern: '[0oO０][1lI１][0oO０][\s]?[➖〓◆▶↕⸺―﹣‒=]{1,2}[\s]?[\d０-９X]{3,4}[\s]?[➖〓◆▶↕⸺―﹣‒=]{1,2}[\s]?[\d０-９X]{4}'
+  source: https://newbain.co.kr/article/상품-qa/6/96343/
+  reviewed: true
+  change_note: '2026-10-05: 광고에 쓰인 변형 전화번호 꼴. 실측 원문에서 일치 확인(번호 자체는 저장하지 않음)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 숫자 낱자 띄어 쓴 번호
+  category: contact
+  weight: 0.8
+  pattern: (?<!\d)[0oO] ?[1lI] ?[0oO] ?[\-.]? ?(?:\d ?){3,4}[\-.]? ?(?:\d ?){4}
+  source: https://ypcd.or.kr/bbs/board.php?bo_table=notice4&wr_id=1047985
+  reviewed: true
+  change_note: '2026-10-05: 광고에 쓰인 변형 전화번호 꼴. 실측 원문에서 일치 확인(번호 자체는 저장하지 않음)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 텔레그램 t.me 링크
+  category: contact
+  weight: 0.8
+  pattern: t\.me/[A-Za-z0-9_]{3,}
+  source: https://uisp.ikw.ac.kr/bbs/board.php?bo_table=qa&wr_id=134
+  reviewed: true
+  change_note: '2026-10-05: 광고에 쓰인 연락 수단 링크·표기 꼴. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: ID·아이디 표기 + 아이디
+  category: contact
+  weight: 0.8
+  pattern: (?:ID|Id|id|아이디)\s{0,2}[:：]\s{0,2}@?[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://signblue.co.kr/board/product/read.html?no=321387&board_no=6
+  reviewed: true
+  change_note: '2026-10-05: 광고에 쓰인 연락 수단 링크·표기 꼴. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 문의·상담·연락 + @아이디
+  category: contact
+  weight: 0.8
+  pattern: (?:문의|상담|연락|채널)\s{0,2}[:：]?\s{0,2}@[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://ypcd.or.kr/bbs/board.php?bo_table=notice4&wr_id=14964
+  reviewed: true
+  change_note: '2026-10-05: 광고에 쓰인 연락 수단 링크·표기 꼴. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 010 하이픈 번호
+  category: contact
+  weight: 0.8
+  pattern: (?<!\d)010-\d{3,4}-\d{4}(?!\d)
+  source: https://www.young-tech.co.kr/notice/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172715728&t=board
+  reviewed: true
+  change_note: '2026-10-05: 광고에 쓰인 연락 수단 링크·표기 꼴. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 010 붙여 쓴 번호
+  category: contact
+  weight: 0.8
+  pattern: (?<!\d)010\d{8}(?!\d)
+  source: https://koreawax.com/board/product/read.html?no=30778&board_no=6
+  reviewed: true
+  change_note: '2026-10-05: 광고에 쓰인 연락 수단 링크·표기 꼴. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 쉼표 구분 번호
+  category: contact
+  weight: 0.8
+  pattern: '[0oO][1lI][0oO][,，]\s?\d{3,4}[,，]\s?\d{4}'
+  source: https://jinsansports.co.kr/board/product/read.html?no=958&board_no=6
+  reviewed: true
+  change_note: '2026-10-05: 광고에 쓰인 연락 수단 링크·표기 꼴. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 슬래시 구분 번호
+  category: contact
+  weight: 0.8
+  pattern: '[0oO][1lI][0oO]/\d{3,4}/\d{4}'
+  source: https://ypcd.or.kr/bbs/board.php?bo_table=notice4&wr_id=1054425
+  reviewed: true
+  change_note: '2026-10-05: 광고에 쓰인 연락 수단 링크·표기 꼴. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: '# 끼운 번호'
+  category: contact
+  weight: 0.8
+  pattern: '[0oO]\W{0,2}[1lI!]\W{0,2}[0oO]\W{0,3}#\s?\d{4}\s?#\s?\d{4}'
+  source: https://annaprez.com/board/free/read.html?no=195290&board_no=5
+  reviewed: true
+  change_note: '2026-10-05: 광고에 쓰인 연락 수단 링크·표기 꼴. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 괄호·대괄호 번호
+  category: contact
+  weight: 0.8
+  pattern: '[\[(（]\s?[0oO０][1lI１][0oO０]\s?[\])）]\s?[\d０-９X]{3,4}'
+  source: https://ypcd.or.kr/bbs/board.php?bo_table=notice4&wr_id=1054426
+  reviewed: true
+  change_note: '2026-10-05: 광고에 쓰인 연락 수단 링크·표기 꼴. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 한글 숫자 섞은 번호(이0 등)
+  category: contact
+  weight: 0.8
+  pattern: (?:이|공|영)[0oO]\.?\s?\d\s?\d{3},\s?\d{2}\s?\d{2}
+  source: http://www.dhtndus1004.woobi.co.kr/g5/bbs/board.php?bo_table=freeboard&wr_id=169320
+  reviewed: true
+  change_note: '2026-10-05: 광고에 쓰인 연락 수단 링크·표기 꼴. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 닮은꼴 쌍점(꞉ː∶﹕) + 아이디
+  category: contact
+  weight: 0.8
+  pattern: '[꞉ː∶﹕︰]\s{0,2}@?[A-Za-z][A-Za-z0-9_]{3,15}'
+  source: https://h-codi.co.kr/article/자료실/7/209830/page/2/
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸의 연락 표기 꼴. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 라인 + 영문숫자 아이디
+  category: contact
+  weight: 0.8
+  pattern: 라인\s{0,2}[:：#＃]?\s{0,2}[A-Za-z]{2,}\d{2,}
+  source: https://ypcd.or.kr/bbs/board.php?bo_table=notice4&wr_id=129318
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸의 연락 표기 꼴. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 초성 ㅌ + @아이디
+  category: contact
+  weight: 0.8
+  pattern: ㅌ\s{0,2}@[A-Za-z][A-Za-z0-9_]{3,15}
+  source: https://ypcd.or.kr/bbs/board.php?bo_table=notice4&wr_id=1054430
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸의 연락 표기 꼴. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 텔레&라인 병기
+  category: contact
+  weight: 0.8
+  pattern: 텔레\s?[&＆/]\s?라인
+  source: https://uisp.ikw.ac.kr/bbs/board.php?bo_table=qa&wr_id=39281
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸의 연락 표기 꼴. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 상담텔 + 아이디
+  category: contact
+  weight: 0.8
+  pattern: 상담\s?텔\W{0,2}[A-Za-z]{2,}\d{2,}
+  source: https://ypcd.or.kr/bbs/board.php?bo_table=notice4&wr_id=1047980
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸의 연락 표기 꼴. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 카카오톡 낱자 띄움
+  category: contact
+  weight: 0.8
+  pattern: 카\s카\s오\s톡
+  source: https://bienworks.co.kr/board/product/read.html?no=145050&board_no=6
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸의 연락 표기 꼴. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 탤ㄹH (표기 단독)
+  category: contact
+  weight: 0.8
+  pattern: 탤[\s.,\-·_]{0,2}ㄹ[\s.,\-·_]{0,2}H
+  source: https://m.skeye.co.kr/board/free/read.html?no=556234&board_no=1002
+  reviewed: true
+  change_note: '2026-10-05: 정상 글에 나오지 않는 메신저 이름 변형 표기. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 탤ㄹh (표기 단독)
+  category: contact
+  weight: 0.8
+  pattern: 탤[\s.,\-·_]{0,2}ㄹ[\s.,\-·_]{0,2}h
+  source: https://gilbertkoo.cafe24.com/article/%EC%83%81%ED%92%88-qa/6/272149/
+  reviewed: true
+  change_note: '2026-10-05: 정상 글에 나오지 않는 메신저 이름 변형 표기. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: ㄲㅏ톡 (표기 단독)
+  category: contact
+  weight: 0.8
+  pattern: ㄲ[\s.,\-·_]{0,2}ㅏ[\s.,\-·_]{0,2}톡
+  source: https://vestmall.co.kr/article/%EC%83%81%ED%92%88-%EC%82%AC%EC%9A%A9%ED%9B%84%EA%B8%B0/4/4305559/
+  reviewed: true
+  change_note: '2026-10-05: 정상 글에 나오지 않는 메신저 이름 변형 표기. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 예약상담-톡
+  category: contact
+  weight: 0.8
+  pattern: 예[\s.,\-·_]{0,2}약[\s.,\-·_]{0,2}상[\s.,\-·_]{0,2}담[\s.,\-·_]{0,2}\-[\s.,\-·_]{0,2}톡
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+  change_note: '2026-10-05: 광고 전용 연락 문구라 contact 에 남김. 낱말 사이 공백·기호를 허용하는 정규식으로 바꿈'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 오픈채팅
+  category: contact
+  weight: 0.8
+  pattern: 오[\s.,\-·_]{0,2}픈[\s.,\-·_]{0,2}채[\s.,\-·_]{0,2}팅
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?mod=document&uid=45276
+  reviewed: true
+  change_note: '2026-10-05: 광고 전용 연락 문구라 contact 에 남김. 낱말 사이 공백·기호를 허용하는 정규식으로 바꿈'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 텔레채널그룹
+  category: contact
+  weight: 0.8
+  pattern: 텔[\s.,\-·_]{0,2}레[\s.,\-·_]{0,2}채[\s.,\-·_]{0,2}널[\s.,\-·_]{0,2}그[\s.,\-·_]{0,2}룹
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?mod=document&uid=45276
+  reviewed: true
+  change_note: '2026-10-05: 광고 전용 연락 문구라 contact 에 남김. 낱말 사이 공백·기호를 허용하는 정규식으로 바꿈'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 텔레채널/그룹
+  category: contact
+  weight: 0.8
+  pattern: 텔[\s.,\-·_]{0,2}레[\s.,\-·_]{0,2}채[\s.,\-·_]{0,2}널[\s.,\-·_]{0,2}/[\s.,\-·_]{0,2}그[\s.,\-·_]{0,2}룹
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?mod=document&uid=45270
+  reviewed: true
+  change_note: '2026-10-05: 광고 전용 연락 문구라 contact 에 남김. 낱말 사이 공백·기호를 허용하는 정규식으로 바꿈'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 구입상담문의
+  category: contact
+  weight: 0.8
+  pattern: 구[\s.,\-·_]{0,2}입[\s.,\-·_]{0,2}상[\s.,\-·_]{0,2}담[\s.,\-·_]{0,2}문[\s.,\-·_]{0,2}의
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=39&mod=document&uid=44697
+  reviewed: true
+  change_note: '2026-10-05: 광고 전용 연락 문구라 contact 에 남김. 낱말 사이 공백·기호를 허용하는 정규식으로 바꿈'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 돈믹싱문의
+  category: contact
+  weight: 0.8
+  pattern: 돈[\s.,\-·_]{0,2}믹[\s.,\-·_]{0,2}싱[\s.,\-·_]{0,2}문[\s.,\-·_]{0,2}의
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=18&mod=document&uid=45007
+  reviewed: true
+  change_note: '2026-10-05: 광고 전용 연락 문구라 contact 에 남김. 낱말 사이 공백·기호를 허용하는 정규식으로 바꿈'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 유심칩매입문의
+  category: contact
+  weight: 0.8
+  pattern: 유[\s.,\-·_]{0,2}심[\s.,\-·_]{0,2}칩[\s.,\-·_]{0,2}매[\s.,\-·_]{0,2}입[\s.,\-·_]{0,2}문[\s.,\-·_]{0,2}의
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=199&mod=document&uid=42294
+  reviewed: true
+  change_note: '2026-10-05: 광고 전용 연락 문구라 contact 에 남김. 낱말 사이 공백·기호를 허용하는 정규식으로 바꿈'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 선불유심매입문의
+  category: contact
+  weight: 0.8
+  pattern: 선[\s.,\-·_]{0,2}불[\s.,\-·_]{0,2}유[\s.,\-·_]{0,2}심[\s.,\-·_]{0,2}매[\s.,\-·_]{0,2}입[\s.,\-·_]{0,2}문[\s.,\-·_]{0,2}의
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=224&mod=document&uid=41927
+  reviewed: true
+  change_note: '2026-10-05: 광고 전용 연락 문구라 contact 에 남김. 낱말 사이 공백·기호를 허용하는 정규식으로 바꿈'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 비대면가전내구제문의
+  category: contact
+  weight: 0.8
+  pattern: 비[\s.,\-·_]{0,2}대[\s.,\-·_]{0,2}면[\s.,\-·_]{0,2}가[\s.,\-·_]{0,2}전[\s.,\-·_]{0,2}내[\s.,\-·_]{0,2}구[\s.,\-·_]{0,2}제[\s.,\-·_]{0,2}문[\s.,\-·_]{0,2}의
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=405&mod=document&uid=39209
+  reviewed: true
+  change_note: '2026-10-05: 광고 전용 연락 문구라 contact 에 남김. 낱말 사이 공백·기호를 허용하는 정규식으로 바꿈'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 인터넷회선내구제문의
+  category: contact
+  weight: 0.8
+  pattern: 인[\s.,\-·_]{0,2}터[\s.,\-·_]{0,2}넷[\s.,\-·_]{0,2}회[\s.,\-·_]{0,2}선[\s.,\-·_]{0,2}내[\s.,\-·_]{0,2}구[\s.,\-·_]{0,2}제[\s.,\-·_]{0,2}문[\s.,\-·_]{0,2}의
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=247&mod=document&uid=41574
+  reviewed: true
+  change_note: '2026-10-05: 광고 전용 연락 문구라 contact 에 남김. 낱말 사이 공백·기호를 허용하는 정규식으로 바꿈'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 신불자급전내구제문의
+  category: contact
+  weight: 0.8
+  pattern: 신[\s.,\-·_]{0,2}불[\s.,\-·_]{0,2}자[\s.,\-·_]{0,2}급[\s.,\-·_]{0,2}전[\s.,\-·_]{0,2}내[\s.,\-·_]{0,2}구[\s.,\-·_]{0,2}제[\s.,\-·_]{0,2}문[\s.,\-·_]{0,2}의
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=266&mod=document&uid=41289
+  reviewed: true
+  change_note: '2026-10-05: 광고 전용 연락 문구라 contact 에 남김. 낱말 사이 공백·기호를 허용하는 정규식으로 바꿈'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 법인소액작업대출문의
+  category: contact
+  weight: 0.8
+  pattern: 법[\s.,\-·_]{0,2}인[\s.,\-·_]{0,2}소[\s.,\-·_]{0,2}액[\s.,\-·_]{0,2}작[\s.,\-·_]{0,2}업[\s.,\-·_]{0,2}대[\s.,\-·_]{0,2}출[\s.,\-·_]{0,2}문[\s.,\-·_]{0,2}의
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=268&mod=document&uid=41269
+  reviewed: true
+  change_note: '2026-10-05: 광고 전용 연락 문구라 contact 에 남김. 낱말 사이 공백·기호를 허용하는 정규식으로 바꿈'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 후불폰유심매입문의
+  category: contact
+  weight: 0.8
+  pattern: 후[\s.,\-·_]{0,2}불[\s.,\-·_]{0,2}폰[\s.,\-·_]{0,2}유[\s.,\-·_]{0,2}심[\s.,\-·_]{0,2}매[\s.,\-·_]{0,2}입[\s.,\-·_]{0,2}문[\s.,\-·_]{0,2}의
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=281&mod=document&uid=41068
+  reviewed: true
+  change_note: '2026-10-05: 광고 전용 연락 문구라 contact 에 남김. 낱말 사이 공백·기호를 허용하는 정규식으로 바꿈'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 핸드폰가전내구제방법문의
+  category: contact
+  weight: 0.8
+  pattern: 핸[\s.,\-·_]{0,2}드[\s.,\-·_]{0,2}폰[\s.,\-·_]{0,2}가[\s.,\-·_]{0,2}전[\s.,\-·_]{0,2}내[\s.,\-·_]{0,2}구[\s.,\-·_]{0,2}제[\s.,\-·_]{0,2}방[\s.,\-·_]{0,2}법[\s.,\-·_]{0,2}문[\s.,\-·_]{0,2}의
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=286&mod=document&uid=40988
+  reviewed: true
+  change_note: '2026-10-05: 광고 전용 연락 문구라 contact 에 남김. 낱말 사이 공백·기호를 허용하는 정규식으로 바꿈'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 오픈채팅방
+  category: contact
+  weight: 0.8
+  pattern: 오픈\s?채팅\s?방
+  source: http://pizzabrothers.co.kr/box/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=47853438&t=board
+  reviewed: true
+  change_note: '2026-10-05: 단체방·채널 참여를 부르는 연락 문구. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 단톡방
+  category: contact
+  weight: 0.8
+  pattern: 단톡\s?방
+  source: http://www.dhtndus1004.woobi.co.kr/g5/bbs/board.php?bo_table=freeboard&wr_id=169379
+  reviewed: true
+  change_note: '2026-10-05: 단체방·채널 참여를 부르는 연락 문구. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 텔방·텔레방
+  category: contact
+  weight: 0.8
+  pattern: 텔레?\s?방
+  source: https://aptgogi.co.kr/35/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=174892160&t=board
+  reviewed: true
+  change_note: '2026-10-05: 단체방·채널 참여를 부르는 연락 문구. 실측 원문에서 일치 확인'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 바카라사이트
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://cbmc.or.kr/bbs/board.php?bo_table=cbmc2022&wr_id=78
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 305쪽·사이트 43곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 토토사이트
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://kbcabarber.or.kr/page/?play=%EC%95%88%EC%A0%84%ED%95%9C+%ED%86%A0%ED%86%A0%EC%82%AC%EC%9D%B4%ED%8A%B8
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 172쪽·사이트 34곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 바둑이게임
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://www.young-tech.co.kr/notice/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172721852&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 423쪽·사이트 29곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 홀덤게임
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://bienworks.co.kr/board/product/read.html?no=145050&board_no=6
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 310쪽·사이트 29곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 먹튀검증
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://kbcabarber.or.kr/page/?play=%EC%95%88%EC%A0%84%ED%95%9C+%ED%86%A0%ED%86%A0%EC%82%AC%EC%9D%B4%ED%8A%B8
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 132쪽·사이트 22곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 홀덤사이트
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://www.cnpgroup.net/3-4/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173456052&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 164쪽·사이트 21곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 토지노솔루션
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://www.deu.ac.kr/efood/sub08_01.do?mode=view&articleNo=88503&article.offset=1800&articleLimit=10
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 155쪽·사이트 21곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 카지노가입
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://insystems.co.kr/24/?bmode=view&idx=169732357
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 183쪽·사이트 20곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 안전카지노사이트
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://insystems.co.kr/24/?bmode=view&idx=169732357
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 137쪽·사이트 20곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 온라인카지노사이트
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://insystems.co.kr/24/?bmode=view&idx=169732357
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 157쪽·사이트 19곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 블랙잭사이트
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://insystems.co.kr/24/?bmode=view&idx=169732357
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 133쪽·사이트 19곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 메이저카지노사이트
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://insystems.co.kr/24/?bmode=view&idx=169732357
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 133쪽·사이트 19곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 포커사이트
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://insystems.co.kr/24/?bmode=view&idx=169732357
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 130쪽·사이트 19곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 룰렛사이트
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://insystems.co.kr/24/?bmode=view&idx=169732357
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 154쪽·사이트 18곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 맞고게임
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: http://m.tsgasul.co.kr/community/board02/?method=view&no=1163
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 83쪽·사이트 18곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 홀덤솔루션
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://uisp.ikw.ac.kr/bbs/board.php?bo_table=gallery&wr_id=294
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 135쪽·사이트 17곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 메이저슬롯사이트
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://insystems.co.kr/24/?bmode=view&idx=169732357
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 130쪽·사이트 17곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 홀덤주소
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://www.cnpgroup.net/3-4/?q=YToyOntzOjQ6InBhZ2UiO2k6NDtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172762197&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 63쪽·사이트 17곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 온라인카지노순위
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://insystems.co.kr/24/?bmode=view&idx=169732357
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 124쪽·사이트 16곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 에볼루션사이트
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://www.cnpgroup.net/3-4/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173428877&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 67쪽·사이트 16곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 토토솔루션
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://www.deu.ac.kr/efood/sub08_01.do?mode=view&articleNo=88503&article.offset=1800&articleLimit=10
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 62쪽·사이트 16곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 해외카지노사이트
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://insystems.co.kr/24/?bmode=view&idx=169732357
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 137쪽·사이트 15곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 바둑이매장
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://www.young-tech.co.kr/notice/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172715728&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 77쪽·사이트 15곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 바둑이사이트
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://www.cnpgroup.net/3-4/?q=YToyOntzOjQ6InBhZ2UiO2k6MztzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172767629&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 66쪽·사이트 15곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 모바일바둑이게임
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://co-o-zam.co.kr/article/%EC%83%81%ED%92%88-qa/6/7877/
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 30쪽·사이트 15곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 포커게임
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://english.mokpo.ac.kr/bbs/economy/254/262183/artclView.do
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 83쪽·사이트 14곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 슬롯제작
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://www.cnpgroup.net/3-4/?q=YToyOntzOjQ6InBhZ2UiO2k6MztzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173416615&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 58쪽·사이트 14곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 토토제작
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://www.cnpgroup.net/3-4/?q=YToyOntzOjQ6InBhZ2UiO2k6MztzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173416615&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 49쪽·사이트 14곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 바카라api
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://www.cnpgroup.net/3-4/?q=YToyOntzOjQ6InBhZ2UiO2k6MztzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173416615&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 42쪽·사이트 14곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 토지노사이트
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://blog.tanagement.co.kr/releasenote/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172401749&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 77쪽·사이트 13곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 카지노분양
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://www.cnpgroup.net/3-4/?q=YToyOntzOjQ6InBhZ2UiO2k6MztzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173416615&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 53쪽·사이트 13곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 홀덤매장
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://bienworks.co.kr/board/product/read.html?no=145046&board_no=6
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 52쪽·사이트 13곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 슬롯분양
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://www.cnpgroup.net/3-4/?q=YToyOntzOjQ6InBhZ2UiO2k6MztzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173416615&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 43쪽·사이트 13곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 에볼루션알
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://ypcd.or.kr/bbs/board.php?bo_table=notice4&wr_id=1047978
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 64쪽·사이트 12곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 홀덤API
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://www.cnpgroup.net/3-4/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173456052&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 60쪽·사이트 12곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 슬롯알
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://www.cnpgroup.net/3-4/?q=YToyOntzOjQ6InBhZ2UiO2k6MztzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173416615&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 56쪽·사이트 12곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 슬롯추천
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://blog.tanagement.co.kr/releasenote/?q=YToyOntzOjQ6InBhZ2UiO2k6MztzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172401602&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 36쪽·사이트 12곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 카지노커뮤니티
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://englishedu.cau.ac.kr/home.html
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 25쪽·사이트 12곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 에볼루션게임
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://bienworks.co.kr/board/product/read.html?no=145072&board_no=6
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 75쪽·사이트 11곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 파워볼솔루션
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://www.deu.ac.kr/efood/sub08_01.do?mode=view&articleNo=88503&article.offset=1800&articleLimit=10
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 82쪽·사이트 10곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 바둑이주소
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: http://m.tsgasul.co.kr/community/board02/?method=view&no=1163
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 55쪽·사이트 10곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 바카라게임
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://insystems.co.kr/24/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=169732344&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 43쪽·사이트 10곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 바카라알
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://www.cnpgroup.net/3-4/?q=YToyOntzOjQ6InBhZ2UiO2k6MztzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173416615&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 36쪽·사이트 10곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 바둑이총판
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://codedesign.kr/25/?q=YToyOntzOjQ6InBhZ2UiO2k6MztzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=142746304&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 25쪽·사이트 10곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 온라인홀덤게임
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://www.young-tech.co.kr/notice/?q=YToyOntzOjQ6InBhZ2UiO2k6MztzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172712187&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 21쪽·사이트 10곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 카지노추천
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://blog.tanagement.co.kr/releasenote/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172401749&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 20쪽·사이트 10곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 홀덤추천
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: http://m.tsgasul.co.kr/community/board02/?method=view&no=1163
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 38쪽·사이트 9곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 바카라제작
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://www.cnpgroup.net/3-4/?q=YToyOntzOjQ6InBhZ2UiO2k6MztzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173416615&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 36쪽·사이트 9곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 안전홀덤게임
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://co-o-zam.co.kr/article/%EC%83%81%ED%92%88-qa/6/7877/
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 29쪽·사이트 9곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 사설토토사이트
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://blog.tanagement.co.kr/releasenote/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172401749&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 57쪽·사이트 8곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 온라인카지노게임
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://www.cnpgroup.net/3-4/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173424941&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 23쪽·사이트 8곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 카지노검증
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://blog.tanagement.co.kr/releasenote/?q=YToyOntzOjQ6InBhZ2UiO2k6MztzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172401602&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 50쪽·사이트 7곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 토토커뮤니티
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://englishedu.cau.ac.kr/home.html
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 27쪽·사이트 7곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 슬롯매장
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://annaprez.com/board/free/read.html?no=195283&board_no=5
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 23쪽·사이트 7곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 온라인홀덤추천
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://ypcd.or.kr/bbs/board.php?bo_table=notice4&wr_id=1054435
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 12쪽·사이트 7곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 맞고사이트
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://co-o-zam.co.kr/article/%EC%83%81%ED%92%88-qa/6/7877/
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 90쪽·사이트 6곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 스포츠토토사이트
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://blog.tanagement.co.kr/releasenote/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172401749&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 43쪽·사이트 6곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 모바일슬롯사이트
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://blog.tanagement.co.kr/releasenote/?q=YToyOntzOjQ6InBhZ2UiO2k6MztzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172401651&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 42쪽·사이트 6곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 바카라솔루션
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://www.deu.ac.kr/efood/sub08_01.do?mode=view&articleNo=88503&article.offset=1800&articleLimit=10
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 40쪽·사이트 6곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 홀덤총판
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://www.cnpgroup.net/3-4/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173456052&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 38쪽·사이트 6곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 바둑이추천
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://annaprez.com/board/free/read.html?no=195283&board_no=5
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 25쪽·사이트 6곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 슬롯주소
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: http://www.dhtndus1004.woobi.co.kr/g5/bbs/board.php?bo_table=freeboard&wr_id=169418
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 10쪽·사이트 6곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 바둑이api
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://www.young-tech.co.kr/notice/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172721852&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 57쪽·사이트 5곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 라이브카지노사이트
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://blog.tanagement.co.kr/releasenote/?q=YToyOntzOjQ6InBhZ2UiO2k6MztzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172401651&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 42쪽·사이트 5곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 라이브바카라사이트
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://blog.tanagement.co.kr/releasenote/?q=YToyOntzOjQ6InBhZ2UiO2k6MztzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172401602&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 31쪽·사이트 5곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 홀덤분양
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://www.cnpgroup.net/3-4/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173456052&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 26쪽·사이트 5곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 파워볼사이트
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://www.kusta.or.kr/bbs/board.php?bo_table=mypage&wr_id=30633
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 24쪽·사이트 5곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 안전바둑이게임
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://co-o-zam.co.kr/article/%EC%83%81%ED%92%88-qa/6/7877/
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 12쪽·사이트 5곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 메이저바카라사이트
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://keynkids.com/Notice/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173195482&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 11쪽·사이트 5곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 홀덤순위
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://bienworks.co.kr/board/product/read.html?no=145046&board_no=6
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 10쪽·사이트 5곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 맞고주소
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://annaprez.com/board/free/read.html?no=195292&board_no=5
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 10쪽·사이트 5곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 모바일홀덤추천
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://annaprez.com/board/free/read.html?no=195265&board_no=5
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 8쪽·사이트 5곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 토토가입
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://blog.tanagement.co.kr/releasenote/?q=YToyOntzOjQ6InBhZ2UiO2k6MztzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172401602&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 52쪽·사이트 4곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 온라인바카라사이트
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://blog.tanagement.co.kr/releasenote/?q=YToyOntzOjQ6InBhZ2UiO2k6MztzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172401651&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 42쪽·사이트 4곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 메이저토토사이트
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://blog.tanagement.co.kr/releasenote/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172401749&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 32쪽·사이트 4곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 온라인슬롯사이트
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://blog.tanagement.co.kr/releasenote/?q=YToyOntzOjQ6InBhZ2UiO2k6MztzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172401651&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 30쪽·사이트 4곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 맞고매장
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://annaprez.com/board/free/read.html?no=195268&board_no=5
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 24쪽·사이트 4곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 카지노임대
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://www.cnpgroup.net/3-4/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173456052&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 22쪽·사이트 4곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 토지노api
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://www.cnpgroup.net/3-4/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173428877&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 도박 광고 복합어 (실측 페이지 16쪽·사이트 4곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 롤링
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://jnbburi.or.kr/bbs/board.php?bo_table=notice&wr_id=638869
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구 (실측 페이지 247쪽·사이트 32곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 매충 10%
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://insystems.co.kr/24/?bmode=view&idx=169732357
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구 (실측 페이지 143쪽·사이트 19곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 보너스 3만
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://insystems.co.kr/24/?bmode=view&idx=169732357
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구 (실측 페이지 125쪽·사이트 16곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 페이백 10%
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://insystems.co.kr/24/?bmode=view&idx=169732357
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구 (실측 페이지 153쪽·사이트 15곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 페이백 5%
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://insystems.co.kr/24/?bmode=view&idx=169732357
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구 (실측 페이지 122쪽·사이트 15곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 매일첫충
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://insystems.co.kr/24/?bmode=view&idx=169732357
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구 (실측 페이지 122쪽·사이트 15곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 페이백
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://blog.tanagement.co.kr/releasenote/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172401749&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구 (실측 페이지 33쪽·사이트 12곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 가입쿠폰 3만
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://total-oa.kr/16/?bmode=view&idx=169275261&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구 (실측 페이지 88쪽·사이트 11곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 쿠폰 3만
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://total-oa.kr/16/?bmode=view&idx=169275261&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구 (실측 페이지 64쪽·사이트 10곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 최대 롤링
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://blog.tanagement.co.kr/releasenote/?q=YToyOntzOjQ6InBhZ2UiO2k6NDtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=170665562&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구 (실측 페이지 45쪽·사이트 10곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 가입쿠폰 3만원
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://total-oa.kr/16/?bmode=view&idx=169275261&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구 (실측 페이지 30쪽·사이트 6곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 먹튀없는
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: http://pizzabrothers.co.kr/box/?q=YToyOntzOjQ6InBhZ2UiO2k6MztzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=47839216&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구 (실측 페이지 12쪽·사이트 5곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 가입머니
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://keynkids.com/Notice/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173195482&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구 (실측 페이지 19쪽·사이트 3곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 무제한 콤프
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://keynkids.com/Notice/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173195482&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구 (실측 페이지 18쪽·사이트 3곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 첫충 15%
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://keynkids.com/Notice/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173195482&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구 (실측 페이지 18쪽·사이트 3곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 주간 페이백 이벤트
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://keynkids.com/Notice/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173195482&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구 (실측 페이지 18쪽·사이트 3곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 첫충 이벤트
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://blog.tanagement.co.kr/releasenote/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172401749&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구 (실측 페이지 10쪽·사이트 3곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 첫충 100%
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://blog.tanagement.co.kr/releasenote/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172401749&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구 (실측 페이지 4쪽·사이트 3곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 쿠폰 3만원
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://total-oa.kr/16/?q=YToyOntzOjQ6InBhZ2UiO2k6MztzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=169275244&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구 (실측 페이지 7쪽·사이트 2곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 가입보너스 이벤트
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://insystems.co.kr/24/?q=YToyOntzOjQ6InBhZ2UiO2k6MztzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=169732256&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구 (실측 페이지 5쪽·사이트 2곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 입플 이벤트
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://blog.tanagement.co.kr/releasenote/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172401795&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구 (실측 페이지 3쪽·사이트 2곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 매일 출석
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://keynkids.com/Notice/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173589297&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구 (실측 페이지 3쪽·사이트 2곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 첫충10%
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://www.dspremiumlounge.com/24/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=169813279&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구 (실측 페이지 2쪽·사이트 2곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 첫 충전 10%
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://www.dspremiumlounge.com/24/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=169813279&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구 (실측 페이지 2쪽·사이트 2곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 첫 입금 100%
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://insystems.co.kr/24/?bmode=view&idx=169732357
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구(입출금·보너스 꼴) (실측 페이지 121쪽·사이트 14곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 승인전화없는
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: http://pizzabrothers.co.kr/box/?q=YToyOntzOjQ6InBhZ2UiO2k6MztzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=47839216&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구(입출금·보너스 꼴) (실측 페이지 17쪽·사이트 4곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 먹튀 걱정 없는
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://keynkids.com/Notice/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173589297&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구(입출금·보너스 꼴) (실측 페이지 7쪽·사이트 4곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 첫충전 이벤트
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://keynkids.com/Notice/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173195482&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구(입출금·보너스 꼴) (실측 페이지 18쪽·사이트 3곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 즉시 출금보장
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://lovelyall.com/article/자유게시판/5/174232/
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구(입출금·보너스 꼴) (실측 페이지 3쪽·사이트 3곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 실시간배팅
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://blog.tanagement.co.kr/releasenote/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172401749&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구(입출금·보너스 꼴) (실측 페이지 33쪽·사이트 2곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 100% 출금
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://codedesign.kr/25/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=169646375&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구(입출금·보너스 꼴) (실측 페이지 4쪽·사이트 2곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 즉시지급 100%
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://dreamkio.web-dream.co.kr/32/?bmode=view&idx=165734064
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구(입출금·보너스 꼴) (실측 페이지 2쪽·사이트 2곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 가입 첫충 50%
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://blog.tanagement.co.kr/releasenote/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172401749&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구(한 사이트 여러 글) (실측 페이지 31쪽·사이트 1곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 쿠폰 50%
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://www.uninoble.co.kr/37/?q=YToyOntzOjQ6InBhZ2UiO2k6MztzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173684829&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구(한 사이트 여러 글) (실측 페이지 14쪽·사이트 1곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 출석이벤트
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://dkhrainbow.com/article/상품-qa/6/6435/
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구(한 사이트 여러 글) (실측 페이지 12쪽·사이트 1곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 매일 첫충 10%
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://dreamkio.web-dream.co.kr/32/?bmode=view&idx=165734064
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구(한 사이트 여러 글) (실측 페이지 9쪽·사이트 1곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 매일 루징
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://dreamkio.web-dream.co.kr/32/?bmode=view&idx=165734064
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구(한 사이트 여러 글) (실측 페이지 9쪽·사이트 1곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 첫충40%
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://gonggam.zieo.net/bbs/board.php?bo_table=free&wr_id=1847122
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구(한 사이트 여러 글) (실측 페이지 9쪽·사이트 1곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 실시간 환전
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://gonggam.zieo.net/bbs/board.php?bo_table=free&wr_id=1847122
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구(한 사이트 여러 글) (실측 페이지 3쪽·사이트 1곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 모든 환전
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://gonggam.zieo.net/bbs/board.php?bo_table=free&wr_id=1847127
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구(한 사이트 여러 글) (실측 페이지 3쪽·사이트 1곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 가입꽁머니
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://dkhrainbow.com/article/상품-qa/6/6426/page/2/
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구(한 사이트 여러 글) (실측 페이지 3쪽·사이트 1곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 꽁머니 2만
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://dkhrainbow.com/article/상품-qa/6/6426/page/2/
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구(한 사이트 여러 글) (실측 페이지 3쪽·사이트 1곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 꽁머니 2만원
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://dkhrainbow.com/article/상품-qa/6/6423/page/2/
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구(한 사이트 여러 글) (실측 페이지 3쪽·사이트 1곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 첫충 50%
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://insystems.co.kr/24/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=169799256&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구(한 사이트 여러 글) (실측 페이지 2쪽·사이트 1곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 무한 환전
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://insystems.co.kr/24/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=169799256&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구(한 사이트 여러 글) (실측 페이지 2쪽·사이트 1곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 환전 보장
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://blog.tanagement.co.kr/releasenote/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172401731&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구(한 사이트 여러 글) (실측 페이지 2쪽·사이트 1곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 충전가능
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ymhitech.hdib.gethompy.com/bbs/board.php?bo_table=0301&wr_id=3855
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구(한 사이트 여러 글) (실측 페이지 2쪽·사이트 1곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 실시간 먹튀검증
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://navidcook.co.kr/article/%EA%B0%A4%EB%9F%AC%EB%A6%AC/8/7238/
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구(한 사이트 여러 글) (실측 페이지 2쪽·사이트 1곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 실시간베팅
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://dkhrainbow.com/article/상품-qa/6/6435/
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구(한 사이트 여러 글) (실측 페이지 12쪽·사이트 1곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 승인전화 없음
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://dkhrainbow.com/article/상품-qa/6/6426/page/2/
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구(한 사이트 여러 글) (실측 페이지 8쪽·사이트 1곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 첫충전 40%
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://gonggam.zieo.net/bbs/board.php?bo_table=free&wr_id=1847122
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구(한 사이트 여러 글) (실측 페이지 3쪽·사이트 1곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 실시간 환전 OK
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://gonggam.zieo.net/bbs/board.php?bo_table=free&wr_id=1847122
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구(한 사이트 여러 글) (실측 페이지 3쪽·사이트 1곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 무한지급
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://insystems.co.kr/24/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=169799256&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구(한 사이트 여러 글) (실측 페이지 2쪽·사이트 1곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 당일환전
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://insystems.co.kr/24/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=169799256&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구(한 사이트 여러 글) (실측 페이지 2쪽·사이트 1곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 빠른 환전 보장
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://blog.tanagement.co.kr/releasenote/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172401731&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구(한 사이트 여러 글) (실측 페이지 2쪽·사이트 1곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 매일포인트지급
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: http://ilshinsanimall.com/NOTICE/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=174128719&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구(한 사이트 여러 글) (실측 페이지 2쪽·사이트 1곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 롤링이벤트
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://uisp.ikw.ac.kr/bbs/board.php?bo_table=gallery&wr_id=389485
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구(실측 1회) (실측 페이지 1쪽·사이트 1곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 쿠폰 12%
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://www.uninoble.co.kr/37/?q=YToyOntzOjQ6InBhZ2UiO2k6MztzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173664321&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구(실측 1회) (실측 페이지 1쪽·사이트 1곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 최대 보증금
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: http://pizzabrothers.co.kr/box/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=47852488&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구(실측 1회) (실측 페이지 1쪽·사이트 1곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 쿠폰 3%
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://www.uninoble.co.kr/37/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173734613&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구(실측 1회) (실측 페이지 1쪽·사이트 1곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 쿠폰 75%
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://www.uninoble.co.kr/37/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173722111&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구(실측 1회) (실측 페이지 1쪽·사이트 1곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
+- term: 쿠폰 14%
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://biam.co.kr/info-6/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=174806632&t=board
+  reviewed: true
+  change_note: '2026-10-05: 실측 스팸에서 뽑은 유인 문구(실측 1회) (실측 페이지 1쪽·사이트 1곳)'
+  review_note: 2026-10-05 사용자 검수 완료(사용자 확인. review_20261005.csv 의 항목별 O/X 는 기재되지 않음)
