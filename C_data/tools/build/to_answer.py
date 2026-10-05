@@ -1,4 +1,7 @@
-"""data/samples 의 실측 라벨 -> 요강 붙임4 스키마 정답셋 (data/answers/).
+"""실측 라벨 -> 요강 붙임4 스키마 정답셋 (data/answers/).
+
+읽는 파일: data/samples 의 decoy·etc·combo_real·jamo, data/offscreen 의 OFFSCREEN 원문(offscreen_originals.yaml).
+OFFSCREEN 의 CSS 시험용·가시 대조군은 실측이 아니라 파생 자료라 넣지 않는다.
 
 요강 기준으로 나눈다.
   answer_result.json        적격평가 대상 '주요 탐지 유형' 4종 (HOMOGLYPH·JAMO·TRANSPARENT·OFFSCREEN)
@@ -30,6 +33,9 @@ def load(name):
     return yaml.safe_load((SAMPLES / name).read_text(encoding="utf-8"))
 
 
+OFFSCREEN_ORIG = ROOT / "data" / "offscreen" / "data" / "originals" / "offscreen_originals.yaml"
+
+
 def page_url(item):
     m = URL_RE.search(item["source"])
     if not m:
@@ -56,9 +62,16 @@ def doc(source_files, findings, key="findings"):
 
 
 def main():
-    decoy, etc, combo = load("decoy.yaml"), load("etc.yaml"), load("combo_real.yaml")
+    decoy, etc, combo, jamo = load("decoy.yaml"), load("etc.yaml"), load("combo_real.yaml"), load("jamo.yaml")
+    offscreen = yaml.safe_load(OFFSCREEN_ORIG.read_text(encoding="utf-8"))
 
     main4 = [finding(i, code) for i in combo for code in i["label_codes"]]
+    # 조합에 같은 페이지·같은 글이 이미 JAMO 라벨로 있으면(같은 요소) JAMO 샘플 쪽은 정답에 다시 넣지 않는다
+    norm = lambda t: re.sub(r"\s+", "", t)  # noqa: E731
+    combo_jamo = {(page_url(i), norm(i["evidence_text"])) for i in combo if "JAMO" in i["label_codes"]}
+    jamo_dup = [i["id"] for i in jamo if (page_url(i), norm(i["evidence_text"])) in combo_jamo]
+    main4 += [finding(i, "JAMO") for i in jamo if i["is_positive"] and i["id"] not in jamo_dup]
+    main4 += [finding(i, "OFFSCREEN") for i in offscreen if i["is_positive"]]
     extra = [finding(i, "ETC", i["extra_finding"]) for i in etc]
     extra += [finding(i, "ETC", name) for i in combo for name in i["extra_findings"]]
     neg = [{"id": i["id"], "url": page_url(i), "location": i["expected_location"],
@@ -72,7 +85,7 @@ def main():
 
     OUT.mkdir(exist_ok=True)
     out = {
-        "answer_result.json": doc(["combo_real.yaml"], main4),
+        "answer_result.json": doc(["combo_real.yaml", "jamo.yaml", "offscreen/data/originals/offscreen_originals.yaml"], main4),
         "answer_result_extra.json": doc(["etc.yaml", "combo_real.yaml"], extra),
         "negatives.json": doc(["decoy.yaml"], neg, key="negatives"),
     }
@@ -87,6 +100,9 @@ def main():
     print("negatives.json           ", len(neg), dict(Counter(f["subtype"] for f in neg)))
     only_extra = sum(1 for i in combo if not i["label_codes"])
     print(f"combo {len(combo)} 중 4종 코드가 없어 result_extra 에만 들어간 요소 {only_extra}")
+    print(f"jamo.yaml 중 조합과 같은 요소라 정답에서 뺀 것 {jamo_dup}")
+    key = Counter((f["url"], f["location"], f["technique"]) for f in main4)
+    print(f"answer_result.json 중 url·location·technique 가 겹쳐 채점기에서 합쳐지는 건수 {sum(v - 1 for v in key.values() if v > 1)}")
 
 
 if __name__ == "__main__":

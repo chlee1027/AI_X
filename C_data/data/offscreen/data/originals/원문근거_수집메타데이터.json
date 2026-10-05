@@ -24213,7 +24213,8 @@
       },
       "expected_location_scope": "original_html_excerpt",
       "excerpt_selector_match_count": 1,
-      "excerpt_deepest_text_element": true
+      "excerpt_deepest_text_element": true,
+      "role_c_status": "2026-10-05 역할 C 점검에서 삭제(상품명이 점으로 가려져 광고 내용이 없음). 기록용으로 남김"
     },
     "OF-162": {
       "previous_record": {
@@ -24288,7 +24289,8 @@
       },
       "expected_location_scope": "original_html_excerpt",
       "excerpt_selector_match_count": 1,
-      "excerpt_deepest_text_element": true
+      "excerpt_deepest_text_element": true,
+      "role_c_status": "2026-10-05 역할 C 점검에서 삭제(상품명이 점으로 가려져 광고 내용이 없음). 기록용으로 남김"
     },
     "OF-163": {
       "previous_record": {
@@ -24363,7 +24365,8 @@
       },
       "expected_location_scope": "original_html_excerpt",
       "excerpt_selector_match_count": 1,
-      "excerpt_deepest_text_element": true
+      "excerpt_deepest_text_element": true,
+      "role_c_status": "2026-10-05 역할 C 점검에서 삭제(상품명이 점으로 가려져 광고 내용이 없음). 기록용으로 남김"
     },
     "OF-164": {
       "previous_record": {
@@ -24438,7 +24441,8 @@
       },
       "expected_location_scope": "original_html_excerpt",
       "excerpt_selector_match_count": 1,
-      "excerpt_deepest_text_element": true
+      "excerpt_deepest_text_element": true,
+      "role_c_status": "2026-10-05 역할 C 점검에서 삭제(상품명이 점으로 가려져 광고 내용이 없음). 기록용으로 남김"
     },
     "OF-165": {
       "previous_record": {
@@ -24588,7 +24592,8 @@
       },
       "expected_location_scope": "original_html_excerpt",
       "excerpt_selector_match_count": 1,
-      "excerpt_deepest_text_element": true
+      "excerpt_deepest_text_element": true,
+      "role_c_status": "2026-10-05 역할 C 점검에서 삭제(상품명이 점으로 가려져 광고 내용이 없음). 기록용으로 남김"
     },
     "OF-167": {
       "previous_record": {
@@ -24663,7 +24668,8 @@
       },
       "expected_location_scope": "original_html_excerpt",
       "excerpt_selector_match_count": 1,
-      "excerpt_deepest_text_element": true
+      "excerpt_deepest_text_element": true,
+      "role_c_status": "2026-10-05 역할 C 점검에서 삭제(상품명이 점으로 가려져 광고 내용이 없음). 기록용으로 남김"
     },
     "OF-168": {
       "previous_record": {
@@ -24738,7 +24744,8 @@
       },
       "expected_location_scope": "original_html_excerpt",
       "excerpt_selector_match_count": 1,
-      "excerpt_deepest_text_element": true
+      "excerpt_deepest_text_element": true,
+      "role_c_status": "2026-10-05 역할 C 점검에서 삭제(상품명이 점으로 가려져 광고 내용이 없음). 기록용으로 남김"
     },
     "OF-169": {
       "previous_record": {
@@ -27675,6 +27682,160 @@
       "expected_location_scope": "original_html_excerpt",
       "excerpt_selector_match_count": 1,
       "excerpt_deepest_text_element": true
+    },
+    "OF-208": {
+      "previous_record": {
+        "id": "OF-208",
+        "category": "OFFSCREEN",
+        "subtype": "visibility_hidden",
+        "evidence_text": "pay day loan online",
+        "html": "<div id=\"hideMeya\" style=\"visibility:hidden; display:none\"><a href=\"http://cashadvance7online.com/\" title=\"pay day loan online\">pay day loan online</a></div>",
+        "source": "https://www.sitepoint.com/community/t/div-id-hidemeya-added-to-the-source-code-of-my-website/39004",
+        "source_host": "www.sitepoint.com",
+        "source_publisher": "SitePoint 포럼 피해자 공개 코드",
+        "source_publisher_key": "SitePoint 포럼 피해자 공개 코드",
+        "ad_href": "http://cashadvance7online.com/",
+        "evidence_basis": "historical_copied_original",
+        "review_status": "role_c_added_historical_copied_original",
+        "is_positive": true,
+        "collected_on": "2026-10-06",
+        "added_by": "역할 C (2026-10-06 visibility_hidden 보충)",
+        "notes": "피해자가 자기 사이트 소스에서 발견했다고 공개한 주입 코드의 원문 발췌(SitePoint 포럼 2014-02-18 게시글). 피해 사이트 URL 및 전체 화면은 미공개. 원문은 div#hideMeya 안에 광고 링크 약 40개를 두고, 끝의 script 가 document.getElementById('hideMeya').style.visibility = 'hidden' 과 style.display = 'none' 을 설정해 숨김. 그 선언을 감싸는 요소의 inline style 로 옮겨 재구성함(감싸는 태그의 style 은 원문이 아님, OF-199~202 와 같은 방식). 포럼이 따옴표를 둥근 따옴표로 바꿔 보여 주므로 곧은 따옴표로 되돌림. expected_location은 이 html 발췌 기준. OF-199~202(WordPress Stack Exchange)와 같은 hideMeya 캠페인이며 출처와 광고 문구·연결 대상은 서로 다름. 7개 모두 한 게시글에서 나옴 / 2026-10-06: visibility_hidden 보충(8 -> 15)으로 추가"
+      },
+      "expected_location_scope": "html 발췌 기준",
+      "excerpt_selector_match_count": 1
+    },
+    "OF-209": {
+      "previous_record": {
+        "id": "OF-209",
+        "category": "OFFSCREEN",
+        "subtype": "visibility_hidden",
+        "evidence_text": "viagra coupon pfizer",
+        "html": "<div id=\"hideMeya\" style=\"visibility:hidden; display:none\"><a href=\"http://www10450.b2viagra10.com/\" title=\"viagra coupon pfizer\">viagra coupon pfizer</a></div>",
+        "source": "https://www.sitepoint.com/community/t/div-id-hidemeya-added-to-the-source-code-of-my-website/39004",
+        "source_host": "www.sitepoint.com",
+        "source_publisher": "SitePoint 포럼 피해자 공개 코드",
+        "source_publisher_key": "SitePoint 포럼 피해자 공개 코드",
+        "ad_href": "http://www10450.b2viagra10.com/",
+        "evidence_basis": "historical_copied_original",
+        "review_status": "role_c_added_historical_copied_original",
+        "is_positive": true,
+        "collected_on": "2026-10-06",
+        "added_by": "역할 C (2026-10-06 visibility_hidden 보충)",
+        "notes": "피해자가 자기 사이트 소스에서 발견했다고 공개한 주입 코드의 원문 발췌(SitePoint 포럼 2014-02-18 게시글). 피해 사이트 URL 및 전체 화면은 미공개. 원문은 div#hideMeya 안에 광고 링크 약 40개를 두고, 끝의 script 가 document.getElementById('hideMeya').style.visibility = 'hidden' 과 style.display = 'none' 을 설정해 숨김. 그 선언을 감싸는 요소의 inline style 로 옮겨 재구성함(감싸는 태그의 style 은 원문이 아님, OF-199~202 와 같은 방식). 포럼이 따옴표를 둥근 따옴표로 바꿔 보여 주므로 곧은 따옴표로 되돌림. expected_location은 이 html 발췌 기준. OF-199~202(WordPress Stack Exchange)와 같은 hideMeya 캠페인이며 출처와 광고 문구·연결 대상은 서로 다름. 7개 모두 한 게시글에서 나옴 / 2026-10-06: visibility_hidden 보충(8 -> 15)으로 추가"
+      },
+      "expected_location_scope": "html 발췌 기준",
+      "excerpt_selector_match_count": 1
+    },
+    "OF-210": {
+      "previous_record": {
+        "id": "OF-210",
+        "category": "OFFSCREEN",
+        "subtype": "visibility_hidden",
+        "evidence_text": "order viagras online",
+        "html": "<div id=\"hideMeya\" style=\"visibility:hidden; display:none\"><a href=\"http://order2auviagraonline.com/\" title=\"order viagras online\">order viagras online</a></div>",
+        "source": "https://www.sitepoint.com/community/t/div-id-hidemeya-added-to-the-source-code-of-my-website/39004",
+        "source_host": "www.sitepoint.com",
+        "source_publisher": "SitePoint 포럼 피해자 공개 코드",
+        "source_publisher_key": "SitePoint 포럼 피해자 공개 코드",
+        "ad_href": "http://order2auviagraonline.com/",
+        "evidence_basis": "historical_copied_original",
+        "review_status": "role_c_added_historical_copied_original",
+        "is_positive": true,
+        "collected_on": "2026-10-06",
+        "added_by": "역할 C (2026-10-06 visibility_hidden 보충)",
+        "notes": "피해자가 자기 사이트 소스에서 발견했다고 공개한 주입 코드의 원문 발췌(SitePoint 포럼 2014-02-18 게시글). 피해 사이트 URL 및 전체 화면은 미공개. 원문은 div#hideMeya 안에 광고 링크 약 40개를 두고, 끝의 script 가 document.getElementById('hideMeya').style.visibility = 'hidden' 과 style.display = 'none' 을 설정해 숨김. 그 선언을 감싸는 요소의 inline style 로 옮겨 재구성함(감싸는 태그의 style 은 원문이 아님, OF-199~202 와 같은 방식). 포럼이 따옴표를 둥근 따옴표로 바꿔 보여 주므로 곧은 따옴표로 되돌림. expected_location은 이 html 발췌 기준. OF-199~202(WordPress Stack Exchange)와 같은 hideMeya 캠페인이며 출처와 광고 문구·연결 대상은 서로 다름. 7개 모두 한 게시글에서 나옴 / 2026-10-06: visibility_hidden 보충(8 -> 15)으로 추가"
+      },
+      "expected_location_scope": "html 발췌 기준",
+      "excerpt_selector_match_count": 1
+    },
+    "OF-211": {
+      "previous_record": {
+        "id": "OF-211",
+        "category": "OFFSCREEN",
+        "subtype": "visibility_hidden",
+        "evidence_text": "levitra coupon",
+        "html": "<div id=\"hideMeya\" style=\"visibility:hidden; display:none\"><a href=\"http://levitra-online2.com/\" title=\"levitra coupon\">levitra coupon</a></div>",
+        "source": "https://www.sitepoint.com/community/t/div-id-hidemeya-added-to-the-source-code-of-my-website/39004",
+        "source_host": "www.sitepoint.com",
+        "source_publisher": "SitePoint 포럼 피해자 공개 코드",
+        "source_publisher_key": "SitePoint 포럼 피해자 공개 코드",
+        "ad_href": "http://levitra-online2.com/",
+        "evidence_basis": "historical_copied_original",
+        "review_status": "role_c_added_historical_copied_original",
+        "is_positive": true,
+        "collected_on": "2026-10-06",
+        "added_by": "역할 C (2026-10-06 visibility_hidden 보충)",
+        "notes": "피해자가 자기 사이트 소스에서 발견했다고 공개한 주입 코드의 원문 발췌(SitePoint 포럼 2014-02-18 게시글). 피해 사이트 URL 및 전체 화면은 미공개. 원문은 div#hideMeya 안에 광고 링크 약 40개를 두고, 끝의 script 가 document.getElementById('hideMeya').style.visibility = 'hidden' 과 style.display = 'none' 을 설정해 숨김. 그 선언을 감싸는 요소의 inline style 로 옮겨 재구성함(감싸는 태그의 style 은 원문이 아님, OF-199~202 와 같은 방식). 포럼이 따옴표를 둥근 따옴표로 바꿔 보여 주므로 곧은 따옴표로 되돌림. expected_location은 이 html 발췌 기준. OF-199~202(WordPress Stack Exchange)와 같은 hideMeya 캠페인이며 출처와 광고 문구·연결 대상은 서로 다름. 7개 모두 한 게시글에서 나옴 / 2026-10-06: visibility_hidden 보충(8 -> 15)으로 추가"
+      },
+      "expected_location_scope": "html 발췌 기준",
+      "excerpt_selector_match_count": 1
+    },
+    "OF-212": {
+      "previous_record": {
+        "id": "OF-212",
+        "category": "OFFSCREEN",
+        "subtype": "visibility_hidden",
+        "evidence_text": "cialis cheapest price",
+        "html": "<div id=\"hideMeya\" style=\"visibility:hidden; display:none\"><a href=\"http://www10616.40cialis10.com/\" title=\"cialis cheapest price\">cialis cheapest price</a></div>",
+        "source": "https://www.sitepoint.com/community/t/div-id-hidemeya-added-to-the-source-code-of-my-website/39004",
+        "source_host": "www.sitepoint.com",
+        "source_publisher": "SitePoint 포럼 피해자 공개 코드",
+        "source_publisher_key": "SitePoint 포럼 피해자 공개 코드",
+        "ad_href": "http://www10616.40cialis10.com/",
+        "evidence_basis": "historical_copied_original",
+        "review_status": "role_c_added_historical_copied_original",
+        "is_positive": true,
+        "collected_on": "2026-10-06",
+        "added_by": "역할 C (2026-10-06 visibility_hidden 보충)",
+        "notes": "피해자가 자기 사이트 소스에서 발견했다고 공개한 주입 코드의 원문 발췌(SitePoint 포럼 2014-02-18 게시글). 피해 사이트 URL 및 전체 화면은 미공개. 원문은 div#hideMeya 안에 광고 링크 약 40개를 두고, 끝의 script 가 document.getElementById('hideMeya').style.visibility = 'hidden' 과 style.display = 'none' 을 설정해 숨김. 그 선언을 감싸는 요소의 inline style 로 옮겨 재구성함(감싸는 태그의 style 은 원문이 아님, OF-199~202 와 같은 방식). 포럼이 따옴표를 둥근 따옴표로 바꿔 보여 주므로 곧은 따옴표로 되돌림. expected_location은 이 html 발췌 기준. OF-199~202(WordPress Stack Exchange)와 같은 hideMeya 캠페인이며 출처와 광고 문구·연결 대상은 서로 다름. 7개 모두 한 게시글에서 나옴 / 2026-10-06: visibility_hidden 보충(8 -> 15)으로 추가"
+      },
+      "expected_location_scope": "html 발췌 기준",
+      "excerpt_selector_match_count": 1
+    },
+    "OF-213": {
+      "previous_record": {
+        "id": "OF-213",
+        "category": "OFFSCREEN",
+        "subtype": "visibility_hidden",
+        "evidence_text": "viagra food",
+        "html": "<div id=\"hideMeya\" style=\"visibility:hidden; display:none\"><a href=\"http://www10075.60viagra10.com/\" title=\"viagra food\">viagra food</a></div>",
+        "source": "https://www.sitepoint.com/community/t/div-id-hidemeya-added-to-the-source-code-of-my-website/39004",
+        "source_host": "www.sitepoint.com",
+        "source_publisher": "SitePoint 포럼 피해자 공개 코드",
+        "source_publisher_key": "SitePoint 포럼 피해자 공개 코드",
+        "ad_href": "http://www10075.60viagra10.com/",
+        "evidence_basis": "historical_copied_original",
+        "review_status": "role_c_added_historical_copied_original",
+        "is_positive": true,
+        "collected_on": "2026-10-06",
+        "added_by": "역할 C (2026-10-06 visibility_hidden 보충)",
+        "notes": "피해자가 자기 사이트 소스에서 발견했다고 공개한 주입 코드의 원문 발췌(SitePoint 포럼 2014-02-18 게시글). 피해 사이트 URL 및 전체 화면은 미공개. 원문은 div#hideMeya 안에 광고 링크 약 40개를 두고, 끝의 script 가 document.getElementById('hideMeya').style.visibility = 'hidden' 과 style.display = 'none' 을 설정해 숨김. 그 선언을 감싸는 요소의 inline style 로 옮겨 재구성함(감싸는 태그의 style 은 원문이 아님, OF-199~202 와 같은 방식). 포럼이 따옴표를 둥근 따옴표로 바꿔 보여 주므로 곧은 따옴표로 되돌림. expected_location은 이 html 발췌 기준. OF-199~202(WordPress Stack Exchange)와 같은 hideMeya 캠페인이며 출처와 광고 문구·연결 대상은 서로 다름. 7개 모두 한 게시글에서 나옴 / 2026-10-06: visibility_hidden 보충(8 -> 15)으로 추가"
+      },
+      "expected_location_scope": "html 발췌 기준",
+      "excerpt_selector_match_count": 1
+    },
+    "OF-214": {
+      "previous_record": {
+        "id": "OF-214",
+        "category": "OFFSCREEN",
+        "subtype": "visibility_hidden",
+        "evidence_text": "online cialis",
+        "html": "<div id=\"hideMeya\" style=\"visibility:hidden; display:none\"><a href=\"http://wwxcialiscom.com/\" title=\"online cialis\">online cialis</a></div>",
+        "source": "https://www.sitepoint.com/community/t/div-id-hidemeya-added-to-the-source-code-of-my-website/39004",
+        "source_host": "www.sitepoint.com",
+        "source_publisher": "SitePoint 포럼 피해자 공개 코드",
+        "source_publisher_key": "SitePoint 포럼 피해자 공개 코드",
+        "ad_href": "http://wwxcialiscom.com/",
+        "evidence_basis": "historical_copied_original",
+        "review_status": "role_c_added_historical_copied_original",
+        "is_positive": true,
+        "collected_on": "2026-10-06",
+        "added_by": "역할 C (2026-10-06 visibility_hidden 보충)",
+        "notes": "피해자가 자기 사이트 소스에서 발견했다고 공개한 주입 코드의 원문 발췌(SitePoint 포럼 2014-02-18 게시글). 피해 사이트 URL 및 전체 화면은 미공개. 원문은 div#hideMeya 안에 광고 링크 약 40개를 두고, 끝의 script 가 document.getElementById('hideMeya').style.visibility = 'hidden' 과 style.display = 'none' 을 설정해 숨김. 그 선언을 감싸는 요소의 inline style 로 옮겨 재구성함(감싸는 태그의 style 은 원문이 아님, OF-199~202 와 같은 방식). 포럼이 따옴표를 둥근 따옴표로 바꿔 보여 주므로 곧은 따옴표로 되돌림. expected_location은 이 html 발췌 기준. OF-199~202(WordPress Stack Exchange)와 같은 hideMeya 캠페인이며 출처와 광고 문구·연결 대상은 서로 다름. 7개 모두 한 게시글에서 나옴 / 2026-10-06: visibility_hidden 보충(8 -> 15)으로 추가"
+      },
+      "expected_location_scope": "html 발췌 기준",
+      "excerpt_selector_match_count": 1
     }
   }
 }

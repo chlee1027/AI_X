@@ -3,7 +3,9 @@
     "topic": "TOPIC",
     "kind": "answer",
     "source": [
-      "combo_real.yaml"
+      "combo_real.yaml",
+      "jamo.yaml",
+      "offscreen/data/originals/offscreen_originals.yaml"
     ]
   },
   "findings": [
@@ -320,35 +322,11 @@
       "technique": "JAMO"
     },
     {
-      "id": "CB-060_HOMOGLYPH",
-      "url": "http://kmc1958.or.kr/bbs/board.php?bo_table=sub01_03&wr_id=420",
-      "is_violation": true,
-      "location": "textarea#save_comment_2532",
-      "evidence_text": "https://e13.viuu.top\n\n비닉스Vinix: 2025년의 혁신적인 운영 체제\n\n비닉스Vinix란?\n비닉스의 주요 특징\n비닉스의 장점과 단점\n비닉스 사용자 경험\n비닉스의 미래 전망\n\n비닉스Vinix는 2025년에 주목받고 있는 새로운 유닉스 계열 운영 체제입니다. 이 오픈 소스 프로젝트는 안정성, 보안, 그리고 사용자 친화성을 목표로 개발되었습니다. 비닉스는 기존의 유닉스 시스템들과 호환성을 유지하면서도, 최신 하드웨어와 소프트웨어 기술을 지원합니다.\n비닉스의 주요 특징 중 하나는 그 모듈식 아키텍처입니다. 이를 통해 사용자는 필요한 컴포넌트만 선택하여 설치할 수 있습니다. 또한, 시스템 관리자가 쉽게 구성하고 관리할 수 있도록 직관적인 인터페이스를 제공합니다. 이러한 특징 덕분에 비닉서는 다양한 환경에서 활용될 수 있으며, 특히 서버 및 임베디드 시스템 분야에서 높은 평가를 받고 있습니다.\n비닉스의 장점으로는 다음과 같은 것들이 있습니다. 첫째, 뛰어난 성능과 효율성입니다. 둘째, 강력한 보안 기능이 내장되어 있어 데이터 보호에 효과적입니다. 셋째, 커뮤니티의 활발한 참여로 지속적인 업데이트와 개선이 이루어지고 있습니다. 그러나 모든 것이 완벽하지는 않습니다. 비닉스의 단점으로는 아직 초기 단계이기 때문에 일부 애플리케이션과의 호환성이 부족할 수 있다는 점, 그리고 대중적인 인지도가 낮아 자료나 도움말이 제한적일 수 있다는 점을 들 수 있습니다.\n실제로 비닉스를 사용해 본 사용자들의 피드백은 긍정적이었습니다. 많은 사람들이 시스템의 안정성과 속도, 그리고 사용 편의성에 만족한다고 말했습니다. 특히, IT 전문가들은 비닉스의 확장성과 맞춤형 설정 가능성을 높이 평가하였습니다. 하지만 일반 사용자들에게는 여전히 배우고 적응하는 과정이 필요하다는 의견도 있었습니다.\n앞으로 비닉스의 발전 방향은 더욱 넓은 범위의 사용자를 대상으로 하는 것입니다. 이를 위해 개발팀은 사용자 인터페이스를 개선하고, 더 많은 애플리케이션과의 호환성을 확보하기 위한 노력을 계속하고 있습니다. 또한, 클라우드 컴퓨팅, 인공지능, 사물인터넷IoT 등 최신 기술 트렌드와의 통합에도 주력하고 있습니다. 이러한 노력들 덕분에 비닉스는 2025년 이후에도 계속해서 진화하며, 다양한 산업 분야에서 중요한 역할을 할 것으로 예상됩니다.\n키워드: 비닉스, Vinix, 유닉스, 오픈소스, 운영체제, 보안, 성능, 호환성, 커뮤니티, 클라우드, 인공지능, IoT https://e13.viuu.top\n\n인기글 \n비아그라구매：믿을수있는정품에대한걱정없이구매하세요 https://e13.viuu.top/viagrasite/1\n\n청년 남성의 발기부전 원인 https://e13.viuu.top/tlrhfdirrnr/12\n\n비아그라팝니다 https://e13.viuu.top/k_via/409\n\n정품비아그라.site https://e13.viuu.top/vsite/1\n\n레비트라 파는곳 | 레비트라 구입 | 레비트라 구매 https://e13.viuu.top/viagrastore/2\n\n정품레비트라 https://e13.viuu.top/levitrakr/1\n\n비아그라 구입 https://e13.viuu.top/kviapang/2\n\n성性상식 제대로 알자. https://e13.viuu.top/zosel/3\n\n남성 건강 문제 해결: 최고의 비아그라 선택은 무엇인가요? https://e13.viuu.top/viagramall/36\n\n비아그라100mg 32정+32정 https://e13.viuu.top/via08/30",
-      "technique": "HOMOGLYPH"
-    },
-    {
-      "id": "CB-061_HOMOGLYPH",
-      "url": "http://kmc1958.or.kr/bbs/board.php?bo_table=sub01_03&wr_id=420",
-      "is_violation": true,
-      "location": "textarea#save_comment_827",
-      "evidence_text": "센트립구매/Sentrip구매-필름형비아그라센트립구매\nhttps://cm55.viyy.top\n\n센트립구매 Buy Sentrip센트립 1박스10매 + 센트립 1박스10매 149,000 원1+1 이벤트 적용 2박스20매\n\n 배송방법:최고 빠른 택배1~2일\n 유통기한:제조일로부터 36 개월\n 포장정보:1매/포, 10매1매/포 X 10\n 저장방법:기밀용기 , 습기 및 빛을 피하여 실온1∼30℃보관\n 제품명:센트립구강용해필름20mg타다라필센트립 Sentrip제품명 / 유효성분센트립구강용해필름20mg타다라필\nTadalafil　타다라필　20mg효능/효과발기부전과 조루를 돕는 ED 치료약입니다.\n센트립는 매우 인기 많는 필름형 발기부전치료제입니다.\n이 약이 효과적이려면, 성적자극sexual stimulation을 필요로 한다. 이 약은 여성에 의한 사용을 그 적응증으로 하지 않는다.용법/용량관계전 20분 복용합니다.\n지속시간은 4~6시간\n이 약은 개별 포장에서 꺼낸 직후에 바로 혀 위에 놓고, 녹여서 물 없이 복용한다.\n하루에 1매를 넘는 양의 복용은 위험하므로, 최대 하루 1매까지만 복용하세요.사용상주의19세 미만인 여성분께 사용하지 마세요.\n복용의 간격은 24시간 이상 필요합니다.\n질산제·일산화질소 공여제니트로·아질산아밀·질산이소솔비드 등와의 병용은 금지해 주십시오.\n협심증·심근경색·심부전 치료를 받고 계신 분, 부정맥·저혈압 또는 고혈압증 분, 심장질환자는 복용하지 마십시오.\n신장병·빈혈·백혈병·과도한 비만·당뇨병·전립선비대증 분은 사용 전에 반드시 단골 의사에게 상담해 주십시오.부작용두통,얼굴홍조,속쓰림,시력약화,코막힘,코물,근육통,매스거움,어지러움,알레르기 이상반응은 일반적으로 일시적이고 그 정도는 경증에서 중등도였다.포장단위 / 유통기한 / 저장방법1매/포, 10매1매/포 X 10\n제조일로부터 3년\n기밀용기 , 습기 및 빛을 피하여 실온1∼30℃보관기타㈜씨엘팜은 구강용해필름ODF을 의약품 및 기능성 식품으로 개발하는 글로벌 전문 제약 회사로서, 21세기 신제형 구강 용해 필름 제제 개발을 하는 기업입니다.알약이나 캡슐을 삼키기 어려운 분들을 위해 전 세계적으로 발기부전 현상으로 어려움을 겪고 있는 사람들의 각종 고통을 위해 새로운 개념의 의약품 복용 방법이 필요하다는 인식에서 출발하여 구강용해필름ODF 제형의 센트립Sentrip를 만들어내 빠르고 정확함 그리고 편리함을 경험하게 합니다. 제약사는 끊임없는 연구 개발을 하며 더 많은 발기부전 고민자들을 위해 공헌하고자 합니다.https://sentrip_shop.viyy.top\n\n까마그라 태국/인도 카마그라 | 발기부전 치료제  40년 역사를 자랑하는 인도 제약회사 아잔타의 100%정품 태국 발기부전 치료제파워맨 비아그라  시알리스 레비트라 흥분제비아맥스 | 비아그라구입 | 시알리스구매  100%정품 | 무료배송 | 간편한주문 | 1+1이벤트비아그라사이트  정품비아그라판매, 비아그라구매캔디약국  캔디약국사이트,시알리스효과,비아그라부작용,발기부전수술비용,조루치료,복용방법추천,구입,조루예방비아그라 구매  정품이 아니거나 효과 없을시 전액 환불처방전 필요없는 비아그라 구매 소개  비아그라 시알리스 구매 구입 방법 드리미뿌리는 비아그라   고객 만족도 1위!온라인약국  1+1+사은품 +당일  배송! 서비스 팍팍!!비아그라 구매 방법, 효과 및 부작용 - 비아그라 약국  비아그라 구매는 이제 더 이상 걱정하지 마세요 https://sentrip_shop.viyy.top",
-      "technique": "HOMOGLYPH"
-    },
-    {
       "id": "CB-062_HOMOGLYPH",
       "url": "http://kmc1958.or.kr/bbs/board.php?bo_table=sub01_03&wr_id=420",
       "is_violation": true,
-      "location": "textarea#save_comment_8667",
-      "evidence_text": "【전북콜걸24시1순위】 | 전북출장안마ㅣ전북출장마사지＃전북출장샵＃전북조건만남＃전북출장만남 ワ 전북애인대행 ワ 전북콜걸만남 ワ 전북마사지 ワ 전북모텔콜걸 Q 전북모텔??\n\n채팅후기: 최고의 채팅 앱 리뷰와 후기\n채팅후기에서 다양한 채팅 앱의 솔직한 리뷰와 사용자 경험을 확인하세요! 최고의 채팅 플랫폼을 찾기 위한 후기 모음\n채팅후기, 채팅 앱 리뷰, 채팅 플랫폼 후기\nhttps://nsq.coxldgnrl.top\n\n【전북콜걸24시1순위】 | 전북출장안마ㅣ전북출장마사지＃전북출장샵＃전북조건만남＃전북출장만남 ワ 전북애인대행 ワ 전북콜걸만남 ワ 전북마사지 ワ 전북모텔콜걸 Q 전북모텔??\n \n\n고흥출장샵100%후불제 | 고흥출장만남업체ㅣ고흥출장마사지ㅣ고흥조건만남ㅣ고흥간단만남ㅣ고흥출장업소ㅣ고흥1인샵ㅣ고흥콜걸샵ㅣ고흥페이만남ㅣ고흥출장여대생E고흥출장아가? \n구미출장안마1위추천 | 구미출장마사지500%후불제ㅣ구미출장만남ㅣ구미출장샵ㅣ구미조건만남후기ㅣ구미출장아가씨5구미출장여대생5구미페이만남5구미콜걸5구미콜걸만남20대5구미? \n군위출장안마1위추천 | 군위출장마사지500%후불제ㅣ군위출장만남ㅣ군위출장샵ㅣ군위조건만남후기ㅣ군위출장아가씨G군위출장여대생G군위페이만남G군위콜걸G군위콜걸만남20대G군위? \n순창출장샵100%후불제 | 순창출장만남업체ㅣ순창출장마사지ㅣ순창조건만남ㅣ순창간단만남ㅣ순창출장업소ㅣ순창1인샵ㅣ순창콜걸샵ㅣ순창페이만남ㅣ순창출장여대생M순창출장아가? \n화순출장샵100%후불제 | 화순출장만남업체ㅣ화순출장마사지ㅣ화순조건만남ㅣ화순간단만남ㅣ화순출장업소ㅣ화순1인샵ㅣ화순콜걸샵ㅣ화순페이만남ㅣ화순출장여대생I화순출장아가? \n【청양콜걸24시1순위】 | 청양출장안마ㅣ청양출장마사지＃청양출장샵＃청양조건만남＃청양출장만남 ラ 청양애인대행 ラ 청양콜걸만남 ラ 청양마사지 ラ 청양모텔콜걸 N 청양모텔?? \n태백출장업소1위업체 | 태백조건만남25시ㅣ태백출장샵후불제ㅣ태백콜걸ㅣ태백애인대행ㅣ태백안마ㅣ태백마사지ㅣ태백콜걸만남ㅣ태백유흥업소ㅣ태백모텔출장아가씨E태백출장샵E?? \n충남출장샵100%후불제 | 충남출장만남업체ㅣ충남출장마사지ㅣ충남조건만남ㅣ충남간단만남ㅣ충남출장업소ㅣ충남1인샵ㅣ충남콜걸샵ㅣ충남페이만남ㅣ충남출장여대생U충남출장아가? \n장흥출장안마1위추천 | 장흥출장마사지500%후불제ㅣ장흥출장만남ㅣ장흥출장샵ㅣ장흥조건만남후기ㅣ장흥출장아가씨5장흥출장여대생5장흥페이만남5장흥콜걸5장흥콜걸만남20대5장흥? \n장성출장샵100%후불제 | 장성출장만남업체ㅣ장성출장마사지ㅣ장성조건만남ㅣ장성간단만남ㅣ장성출장업소ㅣ장성1인샵ㅣ장성콜걸샵ㅣ장성페이만남ㅣ장성출장여대생Y장성출장아가? \n\n\ns.3",
-      "technique": "HOMOGLYPH"
-    },
-    {
-      "id": "CB-063_HOMOGLYPH",
-      "url": "http://kmc1958.or.kr/bbs/board.php?bo_table=sub01_03&wr_id=420",
-      "is_violation": true,
-      "location": "textarea#save_comment_6515",
-      "evidence_text": "비아그라 약국 비아그라만 취급! 시알리스 구입처 및 조루증치료제 구매방법비아그라 구매 구입 하는방법\n\n비아약국 - 온라인약국대행사이트비아약국\nhttps://viagradrugstore.qldkdirrnr.top\n\n[안동] 비아그라 구매 구입 하는방법\n조루증치료제, 바르는비아그라, 비아그라 구매, 비아그라복용법, 비아그라사이트, 비아그라약국, 비아그라지속시간, 비아그라처방전, 비아그라후기, 국산비아그라, 씨알리스효과, 구구정구매, 비닉스, 센트립, 자이데나구입방법, 프릴리지가격, 시알리스 구입처, 팔팔정구입처, 자이데나구입방법, 조루증치료제, 조루예방, 발기력 강화, 성기능제품, 정력강화제, 천연발기제, 여성작업용\n정품 비아그라 약국 1. 정품비아그라 구입법은?⬤ 1 - 1 바르는비아그라 종류별로 다른점\n⬤ 1 - 2 비아그라복용법 으로 부작용 예방하기\n⬤ 1 - 3 비아그라사이트 믿을 수 있는곳 찾는법\n⬤ 1 - 4 비아그라약국 어떤곳이 있을까요?\n⬤ 1 - 5 비아그라지속시간 높이는 방법\n⬤ 1 - 6 비아그라처방전 필요할까요?\n⬤ 1 - 7 비아그라후기 많은 이유는?\n⬤ 1 - 8 국산비아그라 제약사 종류2. 시알리스 구입처 종류⬤ 2 - 1 구구정구매 하는 방법\n⬤ 2 - 2 비닉스 실제후기\n⬤ 2 - 3 센트립 장점은 무엇일까?\n⬤ 2 - 4 자이데나구입방법 종류\n⬤ 2 - 5 프릴리지가격 인하\n⬤ 2 - 6 씨알리스 효과 높이는 법\n⬤ 2 - 7 팔팔정구입처 약값 비교3. 조루증치료제 사용법⬤ 3 - 1 조루예방법 무었이 일을까요?\n⬤ 3 - 2 발기력 강화에 좋은 방법\n⬤ 3 - 2 성기능제품 약값\n⬤ 3 - 3 정력강화제 천연제품\n⬤ 3 - 4 천연발기제 천연성분 함유\n⬤ 3 - 5 여성작업용 제품 효과\n비아그라 구매 방법: 안전하고 합법적인 방법 알아보기\n\n비아그라에 대한 이해\n비아그라를 구매하기 전 알아야 할 점들\n안전한 비아그라 구매 방법\n의사와 상담하는 중요성\n약물 사용 시 주의사항\n\n비아그라는 남성들의 성기능 장애 치료를 위해 널리 알려진 약물입니다. 이 글에서는 비아그라에 대해 기본적으로 알아보고, 이를 구매하는 적절한 방법과 관련된 정보들을 공유합니다.\n\n먼저, 비아그라에 대한 이해가 필요합니다. 비아그라는 일반적으로 발기부전을 개선하는데 도움을 줍니다. 하지만 모든 사람이 이 약물을 복용할 수 있는 것은 아닙니다. 특정 건강 상태나 다른 약물 복용 중인 경우, 의사와 상담하지 않고 복용하면 위험할 수 있습니다. 따라서, 비아그라를 처음으로 구매하려는 분들은 반드시 전문가의 조언을 청하는 것이 중요합니다.\n\n비아그라를 구매하기 전 알아야 할 몇 가지 중요한 사항들이 있습니다. 먼저, 정품 여부를 확인해야 합니다. 불법 판매처에서 판매되는 제품은 효과가 없거나 심지어 해로울 수도 있기 때문입니다. 또한, 개인의 건강 상태에 따라 적절한 용량이 달라질 수 있으므로, 의료진의 처방 없이는 복용을 피하는 것이 좋습니다.\n\n안전하게 비아그라를 구매하려면 어떻게 해야 할까요? 가장 확실한 방법은 병원이나 클리닉에서 의사의 진단을 받고 처방전을 받아 약국에서 구입하는 것입니다. 이렇게 하면 약물의 품질과 안전성을 보장받을 수 있으며, 필요한 지시사항도 함께 얻을 수 있습니다.\n\n의사와 상담하는 것은 단순히 약물만 구매하는 것 이상의 의미가 있습니다. 의사에게 자신의 건강 상태와 현재 복용 중인 다른 약물들에 대해 솔직하게 이야기하면, 가능한 부작용이나 위험성을 미리 파악하고 예방할 수 있습니다. 또한, 개인의 생활 습관이나 건강 상태에 맞는 최적의 치료 계획을 세울 수 있게 됩니다.\n\n마지막으로, 비아그라를 사용할 때 주의해야 할 사항들도 있습니다. 특히, 알코올 섭취나 특정 음식물(예: 포도。，，。\n\n，。，（）。，，。，，。\n\n，，，：\n\n마지막으로, 비아그라를 사용할 때 주의해야 할 사항들도 있습니다. 특히, 알코올 섭취나 특정 음식물(예: 포도) 섭취는 약물의 효과를 방해하거나 부작용을 증가시키는 가능성이 있습니다. 또한, 질산염 계열의 약물과 함께 복용하면 혈압이 위험하게 떨어질 수 있으므로 절대 같이 복용해서는 안 됩니다. 항상 의사의 지시대로 복용하시고, 만약 어떤 부정적인 반응이 나타난다면 즉시 의료 서비스를 이용하세요.\n\n키워드: 비아그라, 발기부전, 안전한 구매, 의사 상담, 부작용, 건강 상태, 처방약, 약물 상호작용, 알코올, 포도\n\n비아그라 효능--비아그라 복용법  하나약국   비아그라 카피약, 판매 인기 순위  [정품] 비아그라 구매 사이트, 온라인 약국, 비아그라구입  비아몰  슬기로운 性 생활  캔디약국  [정품] 비아그라 구매 사이트, 온라인 약국, 비아그라구입  비아그라 복용법  비아그라퀵배송  성인약국  비아탑  비아센터  맨케어  정력원  viao22  via32  viao25  viao13  via85  p2",
+      "location": "#c_8667 > p",
+      "evidence_text": "【전북콜걸24시1순위】 | 전북출장안마ㅣ전북출장마사지＃전북출장샵＃전북조건만남＃전북출장만남 ワ 전북애인대행 ワ 전북콜걸만남 ワ 전북마사지 ワ 전북모텔콜걸 Q 전북모텔??",
       "technique": "HOMOGLYPH"
     },
     {
@@ -1344,14 +1322,6 @@
       "technique": "HOMOGLYPH"
     },
     {
-      "id": "CB-220_HOMOGLYPH",
-      "url": "https://mi-art.co.kr/board/product/read.html?no=444607&board_no=6",
-      "is_violation": true,
-      "location": "p",
-      "evidence_text": "아이슬롯사이트 〃아이슬롯.COM〃아이 슬­롯머신 islotgame 공식!",
-      "technique": "HOMOGLYPH"
-    },
-    {
       "id": "CB-221_HOMOGLYPH",
       "url": "http://mobile--shop2.kitamall.cafe24.com/board/product/read.html?no=227491&board_no=6",
       "is_violation": true,
@@ -1389,14 +1359,6 @@
       "is_violation": true,
       "location": "a",
       "evidence_text": "인디고홀­덤주소, 인디고 (indigo) 안내., ＆ c지수+1% ~ +1.은 &39;무순위 청약&39;이에요.hgame.CO.KR ＆ 온라인홀­덤, 인디고바둑이 에볼루션바카라사이트",
-      "technique": "HOMOGLYPH"
-    },
-    {
-      "id": "CB-231_HOMOGLYPH",
-      "url": "https://mi-art.co.kr/board/product/read.html?no=444607&board_no=6",
-      "is_violation": true,
-      "location": "p",
-      "evidence_text": "에볼루션카지노게임 islotgame〃아이슬롯.COM〃카­지노 에볼루션 아이슬­롯 플레이텍",
       "technique": "HOMOGLYPH"
     },
     {
@@ -1502,6 +1464,1990 @@
       "location": "a",
       "evidence_text": "인디고홀덤커뮤니티 인디오 islotgame 바둑이게임 indigo니티❤️【아이슬롯 공식 최대잭팟 99억 주인공]❤와일드 무료 홀뎜토너먼트 인디go게이밍 - ⓿❶⓿。❼❹❻❺。❸❹❻❹ - 인디go홀뎜 - HOLD'EM",
       "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "CB-253_HOMOGLYPH",
+      "url": "https://yewonpub.co.kr/board/product/read.html?no=387584&board_no=6",
+      "is_violation": true,
+      "location": "p",
+      "evidence_text": "사설holdem 토너먼트 우승 와일드api 에볼루션 미니게임 슬롯사이트 텔 레 깨똑 : tst365 인디고 사이트\" BIBEGM。COM \"인디고holdem 토너먼트 우승 와일드api 에볼루션 미니게임 슬롯사이트 텔 레 깨똑 : tst365 맞고 포커 인디고바둑이",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "CB-255_HOMOGLYPH",
+      "url": "https://jinsansports.co.kr/board/product/read.html?no=964&board_no=6",
+      "is_violation": true,
+      "location": "p",
+      "evidence_text": "에볼루션 미니게임 슬롯사이트 텔 레 깨똑 : tst365 \" 블루게임。COM \" 온라인슬롯게임 안전검증게임에볼루션 미니게임 슬롯사이트 텔 레 깨똑 : 가장 위험한 지정학적 갈등 중 하나입니다.tst365 \" 블루게임。COM \" 온라인슬롯게임 안전검증게임",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "CB-257_HOMOGLYPH",
+      "url": "http://mobile--shop2.kitamall.cafe24.com/board/product/read.html?no=227667&board_no=6",
+      "is_violation": true,
+      "location": "h3",
+      "evidence_text": "홈카­ 보증업체 로얄클럽 에볼루션바카라사이트블루게­임 ０１ㅇ＇ 8 1 7 9＇5 2 7 4 블루바­두기게­임 와일드, 몰디브맞go",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "JM-001_JAMO",
+      "url": "http://blog.moneta.co.kr/blog.log.view.screen?blogId=cabin21&logId=5580732",
+      "is_violation": true,
+      "location": "#jm-001",
+      "evidence_text": "기서 차사고 집삿다 낙서판 2011/12/21 20:01 http://blog.moneta.co.kr/cabin21/5580732/4334393 온라인강원랜드(→ HTTP://HOYO77.COM ←)가입시50만지급 온라인강원랜드 회원가입시 50만증정, 출금가능머니 증정 안심통장운영, 미녀딜러와 함께 HD급 화질로 즐기는 ㅂㅏㅋㅏㄹㅏ. 라이센스 보유업체, 국내최대회원 보유, 엄청난 잭팟, 지금 바로 가입하세요. 술한번 드실돈으로 ㅂㅏㅋㅏㄹㅏ를!한번 배팅에 2배로 불리는 지상최대의 게임!라이브ㅂㅏㅋㅏㄹㅏ! 국내 최대 온라인강원랜드 ◈◈◈ HTTP://HOYO77.COM ◈◈◈HD화면으로 끊김없이 이용하실수 있습니다. 체험머니 지급과 함께 출금 가능한 실전머니도 지급해 드리고 있으며 각종 이벤트를 진행중이니 이벤트를 확인해주세요. 주제 : 재태크/경제 > 부동산 스크랩 0 인쇄 top ‘낙서판’ 카테고리의 다른글 목돈마련의 지름길 2011/12/21 난 여기서 차사고 집삿다 2011/12/21 1 Copyright ⓒ Paxnet. All Rights Reserved. Powered by Moneta.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-002_JAMO",
+      "url": "http://blog.moneta.co.kr/blog.log.view.screen?blogId=cabin21&logId=5580733",
+      "is_violation": true,
+      "location": "#jm-002",
+      "evidence_text": "목돈마련의 지름길 낙서판 2011/12/21 20:01 http://blog.moneta.co.kr/cabin21/5580733/4334393 온라인강원랜드(→ HTTP://HOYO77.COM ←)가입시50만지급 온라인강원랜드 회원가입시 50만증정, 출금가능머니 증정 안심통장운영, 미녀딜러와 함께 HD급 화질로 즐기는 ㅂㅏㅋㅏㄹㅏ. 라이센스 보유업체, 국내최대회원 보유, 엄청난 잭팟, 지금 바로 가입하세요. 술한번 드실돈으로 ㅂㅏㅋㅏㄹㅏ를!한번 배팅에 2배로 불리는 지상최대의 게임!라이브ㅂㅏㅋㅏㄹㅏ! 국내 최대 온라인강원랜드 ◈◈◈ HTTP://HOYO77.COM ◈◈◈HD화면으로 끊김없이 이용하실수 있습니다. 체험머니 지급과 함께 출금 가능한 실전머니도 지급해 드리고 있으며 각종 이벤트를 진행중이니 이벤트를 확인해주세요. 주제 : 재태크/경제 > 재테크 스크랩 0 인쇄 top ‘낙서판’ 카테고리의 다른글 목돈마련의 지름길 2011/12/21 난 여기서 차사고 집삿다 2011/12/21 1 Copyright ⓒ Paxnet. All Rights Reserved. Powered by Moneta.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-003_JAMO",
+      "url": "http://www.renews.co.kr/news/articleView.html?idxno=57828",
+      "is_violation": true,
+      "location": "#jm-003",
+      "evidence_text": "232) 2011-08-10 04:16:21 NAVER77.TOP.TO NAVER77.TOP.TO NAVER77.TOP.TO (112.XXX.XXX.232) 2011-08-10 00:19:03 NAVER77.TOP.TO NAVER77.TOP.TO 신진우 (112.XXX.XXX.209) 2011-08-09 07:28:37 ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ 홍서범 (112.XXX.XXX.209) 2011-08-08 16:50:18 ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ 홍서범 (112.XXX.XXX.209) 2011-08-08 13:25:49 ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-004_JAMO",
+      "url": "http://www.renews.co.kr/news/articleView.html?idxno=58123",
+      "is_violation": true,
+      "location": "#jm-004",
+      "evidence_text": ".232) 2011-08-10 04:16:12 NAVER77.TOP.TO NAVER77.TOP.TO NAVER77.TOP.TO (112.XXX.XXX.232) 2011-08-10 00:18:54 NAVER77.TOP.TO NAVER77.TOP.TO 신진우 (121.XXX.XXX.78) 2011-08-09 15:07:47 ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ 신진우 (121.XXX.XXX.56) 2011-08-09 11:38:07 ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ 신진우 (112.XXX.XXX.209) 2011-08-09 07:28:30 ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-005_JAMO",
+      "url": "https://daejeon.ekfem.or.kr/posts/92t431",
+      "is_violation": true,
+      "location": "#jm-005",
+      "evidence_text": "350캠페인 우리 동네 마을 환경 조사 회원소식 회원가게 회원토론장 회원정보수정 공유합니다 참여마당 정기후원 안내 정기후원하기 자원활동 신청 해피빈 환경자료실 온ㄹㅏ인 ㅅㅏ설토TO◈ ＷＷＷ．ＳＫ７７．ＣＯ２．ＩＮ ◈인ㅌㅓ넷 스포츠토TO 관리자 2010-04-04 215 환경자료실 여러분이 더 잘 아시는!! ㄴㅏ이트팔ㄹㅏ스 ㅂㅏㅋㅏㄹㅏ ＞＞ ＷＷＷ．ＳＫ７７．ＣＯ２．ＩＮ ＜＜ 통기계 버젼 그대로!!! 98%확률 제대로 터지는 온ㄹㅏ인 신천ㅈㅣ ＞＞ ＷＷＷ．ＳＫ７７．ＣＯ２．ＩＮ ＜＜ 드디어 나왔습니다!!! 온ㄹㅏ인 야 ㅁㅏ토3!!! ＞＞ ＷＷＷ．ＳＫ７７．ＣＯ２．ＩＮ ＜＜ 온ㄹㅏ인 ㅂㅏ다이야기 오프라인그대로~ 꿈을 이루세요~ ^^ ＞＞ ＷＷＷ．ＳＫ７７．ＣＯ２．ＩＮ ＜＜ 온ㄹㅏ인 ㅅㅏ설토TO!! 무ㅈㅔ한 ㅂㅔ팅~ 꿈을 이루세요~ ^^ ＞＞ ＷＷＷ．ＳＫ７７．ＣＯ２．ＩＮ ＜＜ ㅊㅔ리마스ㅌㅓ!! 온ㄹㅏ인 최고 슬◈롯머◈신~ 꿈을 이루세요~ ^^ ＞＞ ＷＷＷ．ＳＫ７７．ＣＯ２．ＩＮ ＜＜ ㄷㅐ박!!! 바로 그ㄱㅔ임!! 황◈금◈성!! ＞＞ ＷＷＷ．ＳＫ７７．ＣＯ２．ＩＮ ＜＜ 좋아요 페이스북 트위터 댓글 0 로그인하고 댓글을 남겨주세요. 목록으로 이전 글 다음 글 이용약관 개인정보처리방침 Fac",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-006_JAMO",
+      "url": "https://www.nongak.net/board/index.html?id=nca123&no=17513",
+      "is_violation": true,
+      "location": "#jm-006",
+      "evidence_text": "자유토론방 안전하게 즐기세요 - 매일 안전 계좌 변경 작성자: 아시안 본사 조회: 15507 등록일: 2014-10-22 ==============[★ 아시안 ㅋㅏㅈΙ노 본점 ★]=============== 아시안 본사 직영, 특별관리 도메인 보유 매일 실시간 안전 계좌 발급, 아시안 정식 라이센스 보유 ■ ㅋㅏㅈΙ노, ㅂㅏㅋㅏㄹㅏ ■ ▶▶▶ ＡＳＣ５ＯＯ 。ＣＯＭ ◀◀◀ 회원 ㄱㅏ입시 [[출]]가능한 현 금 coopon 발급 도메인 변경시 즉시 문자로 알려드립니다. 안심하고 즐기세요 ◆ H ＧＡＭＥ = ㅂㅏㅋㅏㄹㅏ 전문 ◆ ＶＩＰ는 관리자 통화로 특별 도메인 및 계좌로 개별 관리 ____________________________________________________________ 댓글 : 3 건 이전글 안전하게 즐기세요 - 매일 안전 계좌 변경 [3] 다음글 정치가 경제에 손 땔수록 나라는 발전하는법 [3] 번호 제목 작성자 조회 등록일 공지 암살자들 국민고발단 모집합니다 반달공주 287 2026-09-30 공지 시대유감 - 부끄러운 줄 알아야지 오대산 4163 2026-09-19 공지 ◆북한의 평양과 남한의 전라도 빨갱이 소탕 2322 2026-09-21 51",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-007_JAMO",
+      "url": "https://www.nongak.net/board/index.html?id=nca123&no=17929",
+      "is_violation": true,
+      "location": "#jm-007",
+      "evidence_text": "자유토론방 안전하게 즐기세요 - 매일 안전 계좌 변경 작성자: 아시안 본사 조회: 14739 등록일: 2014-10-23 ==============[★ 아시안 ㅋㅏㅈΙ노 본점 ★]=============== 아시안 본사 직영, 특별관리 도메인 보유 매일 실시간 안전 계좌 발급, 아시안 정식 라이센스 보유 ■ ㅋㅏㅈΙ노, ㅂㅏㅋㅏㄹㅏ ■ ▶▶▶ ＡＳＣ５ＯＯ 。ＣＯＭ ◀◀◀ 회원 ㄱㅏ입시 [[출]]가능한 현 금 coopon 발급 ★10월 특별 이벤트 = 신규가입시 10만 쿠 폰 진행★ 도메인 변경시 즉시 문자로 알려드립니다. 안심하고 즐기세요 ◆ H ＧＡＭＥ = ㅂㅏㅋㅏㄹㅏ 전문 ◆ ＶＩＰ는 관리자 통화로 특별 도메인 및 계좌로 개별 관리 ____________________________________________________________ 댓글 : 3 건 이전글 개쪽발이가 망했다. 뭘배우라는거야 [3] 다음글 안전하게 즐기세요 - 매일 안전 계좌 변경 [3] 번호 제목 작성자 조회 등록일 공지 암살자들 국민고발단 모집합니다 반달공주 287 2026-09-30 공지 시대유감 - 부끄러운 줄 알아야지 오대산 4163 2026-09-19 공지 ◆북한의 평양과 남한의 전라",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-008_JAMO",
+      "url": "https://gall.dcinside.com/board/view/?id=lotto_new2&no=4892247",
+      "is_violation": true,
+      "location": "#jm-008",
+      "evidence_text": "ㅈㅣㅇㅣㄴㅊㅜㅊㅓㄴ ㄱㅏㅇㅣㅂ 5ㅁㅏㄴㅇㅜㅓㄴ - 토토 갤러리 통합검색 바로가기 본문영역 바로가기 페이지 하단 게시물 리스트 바로가기 페이지 하단 로그인영역 바로가기 갤러리 검색 통합검색 검색 마이너갤 미니갤 인물갤 갤로그 디시게임 이벤트 디시콘 로그인 야간모드 야간 모드를 이용해 보세요 GNB 갤러리 게임 연예/방송 스포츠 교육/금융/IT 여행/음식/생물 취미/생활 마이너갤 미니갤 인물갤 갤로그 더보기 디시게임 이벤트 디시콘 어제 949,561개 게시글 등록 어제 2,588,228개 댓글 등록 총 갤러리 수 97,943개 디시 로터리 응모 최근 방문 즐겨찾기 레이어 열기 이전 다음 전체 최근 방문 즐겨찾기 전체 삭제 편집 즐겨찾기 갤러리 즐겨찾는 갤러리 리스트입니다. 갤러리명 클릭 시 해당 갤러리로 이동합니다. 추가 기타 국내 드라마 추가 멍멍이 취소 저장 즐겨찾기 레이어 닫기 토토 갤러리 설정 NEW 이용자 메모 NEW 차단 설정 자동 짤방 이미지 설정 머리말∙꼬리말 설정 AI 이미지 간편 등록 스포일러 경고 설정 외부 링크 이동 경고 NEW 신뢰할 수 있는 사이트 NEW 연관 갤러리(1/14) NEW 연관 갤러리 열기 갤주소 복사 이용안내 더보기 자동 짤방 이미지 내 자짤 (0) 전체 설정 갤러리별 설정 자동 짤방 이미지 개선 자동 짤방 이미지를 서버에 업로드하여 ‘내 자짤’에 보관합니다. 내 자짤에 등록한 이미지는 갤러리에서 간편하게 자동 짤방으로 설정할 수 있고, 글쓰기 시 새로 업로드하지 않아 모바일에서는 데이터가 절감됩니다. 고정닉으로 등록 시 고정닉 별로 자동 짤방 설정 이 가능하며, 공 가입시ㄱㅖ좌5만지인ㅊㅜ천입니다 닉네임으로 텔레친추 추천검색 추천 비추천 0 0 개념 추천 개념 비추천 0 실베추 펌 0 공유 스크랩 신고 댓글 영역 전체 댓글 0 개 등록순 최신순 답글순 답글 펼침 설정 본문 보기 댓글닫기 새로고침 닉네임 토갤러는 갤러리에서 권장하는 비회원 전용 갤닉네임입니다. (삭제 시 닉네임 등록 가능) 닫기 삭제 갤닉네임 사용 비밀번호 코드 입력 타인의 권리를 침해하거",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-009_JAMO",
+      "url": "https://m.dcinside.com/board/lotto/9168061",
+      "is_violation": true,
+      "location": "#jm-009",
+      "evidence_text": "ㅌㅗㅌㅗㅅㅏ이트 총ㅍㅏㄴ 모집합니다1 ㅋㅏㅌㅗㄱ : frog044 텔레그램 : frog04",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-010_JAMO",
+      "url": "https://m.dcinside.com/board/loan_new1/757139",
+      "is_violation": true,
+      "location": "#jm-010",
+      "evidence_text": "선착순 20 이용중인 토 싸 충 계 곳당 20 쳐드립니다. 장기간 거래 가실 실장님도 모십니다. 만들어오던 훔쳐오던 상관 없습니다. 오랫동안 보실분 오세요 하루 갯수 제한없이 가능. 우리.새마을.농협.신협.수협.기업.하나.각 지역은행 일에대해서 궁금하신분들도 연락주세요 ㅌㅔㄹㄹㅔ @Mc1004 - dc official App",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-011_JAMO",
+      "url": "https://m.dcinside.com/board/loan_new1/787984",
+      "is_violation": true,
+      "location": "#jm-011",
+      "evidence_text": "토싸충계 곳당20 이용중인 토 싸 충 계 곳당 20 쳐드립니다. 장기간 거래 가실 실장님도 모십니다. 오랫동안 보실분 오세요 하루 갯수 제한없이 가능. 우리.새마을.농협.신협.수협.기업.하나.각 지역은행 일에대해서 궁금하신분들도 연락주세요 ㅌㅔㄹㄹㅔ @Mc1004 - dc official App",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-012_JAMO",
+      "url": "https://m.dcinside.com/board/lotto_new2/5968288",
+      "is_violation": true,
+      "location": "#jm-012",
+      "evidence_text": "ㄷㅐㅊㅜㄹ 문의 급할때 커몬 @PT0720 @PT0720",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-013_JAMO",
+      "url": "https://bizk.co.kr/board_new/new_read.php?sno=63031",
+      "is_violation": true,
+      "location": "#jm-013",
+      "evidence_text": "선불유심내구제 텔ㄹㅔ@apc543 호동이통신 비대면유심개통문의",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-014_JAMO",
+      "url": "https://ggalsekorea.uriweb.kr/37/?bmode=view&idx=170678068",
+      "is_violation": true,
+      "location": "#jm-014",
+      "evidence_text": "중국명품도매 ㅋ톡 Edge0407 루이비통레플리카 광저우레플도매",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-015_JAMO",
+      "url": "https://ggalsekorea.uriweb.kr/37/?bmode=view&idx=172220577&q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6ODY7fQ%3D%3D&t=board",
+      "is_violation": true,
+      "location": "#jm-015",
+      "evidence_text": "광저우원도매 ㅋ톡 Edge0407 명품의류도매 롤렉스레플리카 명품레플리카샵",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-016_JAMO",
+      "url": "https://ggalsekorea.uriweb.kr/37/?bmode=view&idx=173831555&q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6MTU7fQ%3D%3D&t=board",
+      "is_violation": true,
+      "location": "#jm-016",
+      "evidence_text": "레플리카위탁배송 ㅋ톡 Edge0407 홍콩명품도매 ㅋ톡 Edge0407 짝퉁신발",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-017_JAMO",
+      "url": "https://ggalsekorea.uriweb.kr/37/?bmode=view&idx=173831584&q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6MTU7fQ%3D%3D&t=board",
+      "is_violation": true,
+      "location": "#jm-017",
+      "evidence_text": "광저우레플리카도매 ㅋ톡 Edge0407 광저우원도매 ㅋ톡 Edge0407 레플리카사이트추천",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-018_JAMO",
+      "url": "https://ggalsekorea.uriweb.kr/37/?bmode=view&idx=173831567&q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6MTU7fQ%3D%3D&t=board",
+      "is_violation": true,
+      "location": "#jm-018",
+      "evidence_text": "중국명품도매 ㅋ톡 Edge0407 광저우현지원도매 ㅋ톡 Edge0407 레플리카팝니다",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-019_JAMO",
+      "url": "https://harasports.net/article/%EA%B0%A4%EB%9F%AC%EB%A6%AC/8/9011/",
+      "is_violation": true,
+      "location": "#jm-019",
+      "evidence_text": "내구제 전문 정식업체 텔ㄹㄱ램 무직자50만원소액대출 누구나소액대출가능 비상금대출",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-020_JAMO",
+      "url": "https://harasports.net/article/%EA%B0%A4%EB%9F%AC%EB%A6%AC/8/9010/",
+      "is_violation": true,
+      "location": "#jm-020",
+      "evidence_text": "선불유심판매 ㅌ레그램 15만원급한돈드려요 선불유심매입 핸드폰연체자급전대출",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-021_JAMO",
+      "url": "https://toi-l.co.kr/board/product/read.html?no=729&board_no=6",
+      "is_violation": true,
+      "location": "#jm-021",
+      "evidence_text": "선불유심업체 텔ㄹㄱㄹ 연체자비상금대출 연체자소액급전대출",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-022_JAMO",
+      "url": "https://toi-l.co.kr/board/product/read.html?no=728&board_no=6",
+      "is_violation": true,
+      "location": "#jm-022",
+      "evidence_text": "선불유심내구제 정식업체 텔ㄹ그ㄹ 휴대폰테크소액내구제 10만원개인돈",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-023_JAMO",
+      "url": "https://toi-l.co.kr/board/product/read.html?no=727&board_no=6",
+      "is_violation": true,
+      "location": "#jm-023",
+      "evidence_text": "선불유심내구제 매입 텔레그ㄹ 급전대출드려요 급전땡기는방법 대포폰유심팝니다",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-024_JAMO",
+      "url": "https://toi-l.co.kr/board/product/read.html?no=726&board_no=6",
+      "is_violation": true,
+      "location": "#jm-024",
+      "evidence_text": "선불유심 내구제 텔ㄹㄱㄹ 단기연체자작업대출 대학생온라인비대면대출",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-025_JAMO",
+      "url": "https://toi-l.co.kr/board/product/read.html?no=724&board_no=6",
+      "is_violation": true,
+      "location": "#jm-025",
+      "evidence_text": "선불유심판매 ㅌ레그램 선불유심매입 연체자개인급전대출 연체자가능한소액당일대출",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-026_JAMO",
+      "url": "https://toi-l.co.kr/board/product/read.html?no=722&board_no=6",
+      "is_violation": true,
+      "location": "#jm-026",
+      "evidence_text": "선불유심판매 ㅌ레그램 폰테크정식업체후기 해외선불유심 핸드폰가전내구제비대면",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-027_JAMO",
+      "url": "https://toi-l.co.kr/board/product/read.html?no=720&board_no=6",
+      "is_violation": true,
+      "location": "#jm-027",
+      "evidence_text": "선불유심내구제 정식업체 텔ㄹ그ㄹ 주말소액급전대출 내구제소액10만원 개인선불폰유심팝니다",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-028_JAMO",
+      "url": "https://toi-l.co.kr/board/product/read.html?no=719&board_no=6",
+      "is_violation": true,
+      "location": "#jm-028",
+      "evidence_text": "선불유심업체 텔ㄹㄱㄹ 소액대출 대학생당일급전대출 폰소액내구제대출문의",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-029_JAMO",
+      "url": "https://toi-l.co.kr/board/product/read.html?no=668&board_no=6",
+      "is_violation": true,
+      "location": "#jm-029",
+      "evidence_text": "선불유심매입 텔레ㄱㄹ 8등급무직자소액대출 8등급연체자작업대출 9등급연체자작업대출",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-030_JAMO",
+      "url": "https://toi-l.co.kr/board/product/read.html?no=624&board_no=6",
+      "is_violation": true,
+      "location": "#jm-030",
+      "evidence_text": "내구제 전문 정식업체 텔ㄹㄱ램 회선초과자소액대출 유심재테크추천 24시소액급전대출",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-031_JAMO",
+      "url": "https://toi-l.co.kr/board/product/read.html?no=623&board_no=6",
+      "is_violation": true,
+      "location": "#jm-031",
+      "evidence_text": "선불유심삽니다 텔레ㄱㄹ 핸드폰유심가전내구제방법 회선당10만원선불유심내구제 선불유심매입합니다",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-032_JAMO",
+      "url": "https://fusidyne.com/article/qa/6/4662/",
+      "is_violation": true,
+      "location": "#jm-032",
+      "evidence_text": "선불유심담보대출 ㅌ레그램 작업대출 20만원급전빌리기 긴급생계대출지원",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-033_JAMO",
+      "url": "https://fusidyne.com/article/qa/6/4658/",
+      "is_violation": true,
+      "location": "#jm-033",
+      "evidence_text": "내구제 전문 정식업체 텔ㄹㄱ램 무서류당일소액대출 선불유심내구제 정식업체",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-034_JAMO",
+      "url": "https://fusidyne.com/article/qa/6/4656/",
+      "is_violation": true,
+      "location": "#jm-034",
+      "evidence_text": "내구제 전문 정식업체 텔ㄹㄱ램 선불폰유심팔아요 당일소액급전 대포폰유심삽니다",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-035_JAMO",
+      "url": "https://fusidyne.com/article/qa/6/4653/",
+      "is_violation": true,
+      "location": "#jm-035",
+      "evidence_text": "선불유심내구제 정식업체 텔ㄹ그ㄹ 모바일소액대출 생활긴급자금 기대출연체자소액대출",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-036_JAMO",
+      "url": "https://fusidyne.com/article/qa/6/4647/",
+      "is_violation": true,
+      "location": "#jm-036",
+      "evidence_text": "선불유심내구제 대출 텔ㄹ그램 대학생비상금대출 회선당20만원내구제 회선당8만원",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-037_JAMO",
+      "url": "https://fusidyne.com/article/qa/6/4646/",
+      "is_violation": true,
+      "location": "#jm-037",
+      "evidence_text": "선불유심담보대출 ㅌ레그램 선불유심후불유심 50만원소액급전내구제문의",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-038_JAMO",
+      "url": "https://fusidyne.com/article/qa/6/4645/",
+      "is_violation": true,
+      "location": "#jm-038",
+      "evidence_text": "선불 유심 내구제 텔ㄹ그ㄹ 급전땡기는방법 대포폰유심팝니다 막심삽니다 막심팝니다",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-039_JAMO",
+      "url": "https://fusidyne.com/article/qa/6/4644/",
+      "is_violation": true,
+      "location": "#jm-039",
+      "evidence_text": "비대면내구제 텔ㄹㄱ램 20만원급전빌리기 긴급생계대출지원 월변대출",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-040_JAMO",
+      "url": "https://fusidyne.com/article/qa/6/4640/",
+      "is_violation": true,
+      "location": "#jm-040",
+      "evidence_text": "유심 내구제 텔레그ㄹ 작업대출 20만원급전빌리기 긴급생계대출지원",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-041_JAMO",
+      "url": "https://fusidyne.com/article/qa/6/4639/",
+      "is_violation": true,
+      "location": "#jm-041",
+      "evidence_text": "내구제 텔레ㄱㄹ 당일생계비 유심칩매입문의 10만원개인돈 연체자대출해주는곳",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-042_JAMO",
+      "url": "https://daonsup.com/design/subpage/customer.asp?id=1955&mode=view&page=7&table=UT1464018726",
+      "is_violation": true,
+      "location": "#jm-042",
+      "evidence_text": "텔ㄹㄱ램 정심 매입 당일내구제대출 주말선불유심내구제 최대회선내구제방법 타인명의선불유심매입문의",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-043_JAMO",
+      "url": "https://sir.kr/boards/free/1727483",
+      "is_violation": true,
+      "location": "#jm-043",
+      "evidence_text": "텔레ㄱㄹ 선불유심 매입 유심내구제 무제한달심삽니다 선불유심매입합니다 당일 급전 인터넷회선내구제문의",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-044_JAMO",
+      "url": "https://molinarishop.co.kr/board/product/read.html?no=7931&board_no=6",
+      "is_violation": true,
+      "location": "#jm-044",
+      "evidence_text": "선불유심매입 텔레ㄱㄹ 대포폰유심팝니다 막심삽니다 막심팝니다 휴대폰내구제비대면",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-045_JAMO",
+      "url": "https://molinarishop.co.kr/board/product/read.html?no=7932&board_no=6",
+      "is_violation": true,
+      "location": "#jm-045",
+      "evidence_text": "내구제 전문 정식업체 텔ㄹㄱ램 즉시대출 핸드폰가전내구제비대면 당일급전",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-046_JAMO",
+      "url": "https://www.emk.kr/board/view.php?bdId=prd&sno=276",
+      "is_violation": true,
+      "location": "#jm-046",
+      "evidence_text": "탤ㄺ램 선불유심내구재 20만원급전빌리기 신불자가전내구제 내구제정식업체",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-047_JAMO",
+      "url": "https://www.emk.kr/board/view.php?bdId=prd&sno=274",
+      "is_violation": true,
+      "location": "#jm-047",
+      "evidence_text": "탤ㄺ램 10만원급전빌리기 신불자가전내구제 막심삽니다",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-048_JAMO",
+      "url": "https://www.emk.kr/board/view.php?bdId=prd&sno=271",
+      "is_violation": true,
+      "location": "#jm-048",
+      "evidence_text": "탤ㄺ램 모바일당일소액대출내구제 신불자가전내구제 개인선불유심삽니다",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-049_JAMO",
+      "url": "https://www.emk.kr/board/view.php?bdId=prd&sno=265",
+      "is_violation": true,
+      "location": "#jm-049",
+      "evidence_text": "탤ㄺ램 피해회복지원금긴급대출 신불자가전내구제 회선당9만원소액내구제",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-050_JAMO",
+      "url": "https://www.emk.kr/board/view.php?bdId=prd&sno=262",
+      "is_violation": true,
+      "location": "#jm-050",
+      "evidence_text": "탤ㄺ램 청년긴급생활안정자금 신불자가전내구제 선불유심내구제정식업체",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-051_JAMO",
+      "url": "https://www.emk.kr/board/view.php?bdId=prd&sno=256",
+      "is_violation": true,
+      "location": "#jm-051",
+      "evidence_text": "탤ㄺ램 급전빌리는곳추천 신불자가전내구제 선불폰유심개통방법",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-052_JAMO",
+      "url": "https://www.emk.kr/board/view.php?bdId=prd&sno=253",
+      "is_violation": true,
+      "location": "#jm-052",
+      "evidence_text": "탤ㄺ램 바로급전드려요 신불자가전내구제 선불폰삽니다",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-053_JAMO",
+      "url": "https://www.emk.kr/board/view.php?bdId=prd&sno=247",
+      "is_violation": true,
+      "location": "#jm-053",
+      "evidence_text": "탤ㄺ램 안전비대면소액급전 신불자가전내구제 휴대폰유심비대면내구제",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-054_JAMO",
+      "url": "https://www.emk.kr/board/view.php?bdId=prd&sno=243",
+      "is_violation": true,
+      "location": "#jm-054",
+      "evidence_text": "탤ㄺ램 정부긴급생활자금 신불자가전내구제 선불유심내구제",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-055_JAMO",
+      "url": "https://bizk.co.kr/board_new/new_read.php?sno=82476",
+      "is_violation": true,
+      "location": "#jm-055",
+      "evidence_text": "중국명품레플리카 ㅋㅌHellen5 명품가방현지도매",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-056_JAMO",
+      "url": "https://bizk.co.kr/board_new/new_read.php?sno=82475",
+      "is_violation": true,
+      "location": "#jm-056",
+      "evidence_text": "명품레플리카도매 ㅋㅌHellen5 커스텀급레플",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-057_JAMO",
+      "url": "https://bizk.co.kr/board_new/new_read.php?sno=82474",
+      "is_violation": true,
+      "location": "#jm-057",
+      "evidence_text": "광저우현지도매 ㅋㅌHellen5 미러급명품도매",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-058_JAMO",
+      "url": "https://bizk.co.kr/board_new/new_read.php?sno=82473",
+      "is_violation": true,
+      "location": "#jm-058",
+      "evidence_text": "광저우구매대행 ㅋㅌHellen5 광저우현지레플",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-059_JAMO",
+      "url": "https://bizk.co.kr/board_new/new_read.php?sno=82472",
+      "is_violation": true,
+      "location": "#jm-059",
+      "evidence_text": "광저우배대지 ㅋㅌHellen5 중국레플리카",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-060_JAMO",
+      "url": "https://bizk.co.kr/board_new/new_read.php?sno=82470",
+      "is_violation": true,
+      "location": "#jm-060",
+      "evidence_text": "광저우명품원도매 레플리카 ㅋㅌ:HOYA126",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-061_JAMO",
+      "url": "https://bizk.co.kr/board_new/new_read.php?sno=82460",
+      "is_violation": true,
+      "location": "#jm-061",
+      "evidence_text": "광저우짝퉁시장 ㅋㅌHellen5 명품도매",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-062_JAMO",
+      "url": "https://bizk.co.kr/board_new/new_read.php?sno=82446",
+      "is_violation": true,
+      "location": "#jm-062",
+      "evidence_text": "광저우레플리카 짠시루시장 ㅋㅌHellen5 광저우이미테이션",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-063_JAMO",
+      "url": "https://gall.dcinside.com/board/view/?id=luxury&no=722994&page=1",
+      "is_violation": true,
+      "location": "#jm-063",
+      "evidence_text": "명품 레플리카 전문점 렙플렉스입니다. 구경하시고 싶으신분들은 ㅋㅌ A2255 추가 하시고 연락 주세요.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-064_JAMO",
+      "url": "https://xn--ob0b690cvjar2c.com/board/free/read.html?no=4643&board_no=5",
+      "is_violation": true,
+      "location": "#jm-064",
+      "evidence_text": "피망 머니 거래할 때 ㅋㅌ MR56으로 먼저 연락하고 진행하는 게 가장 안전한 방법인 것 같아요.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-065_JAMO",
+      "url": "https://oloa36.com/article/qa/6/938/",
+      "is_violation": true,
+      "location": "#jm-065",
+      "evidence_text": "탑플레이어포커 머니 거래할 때 ㅋㅌ MR56으로 먼저 연락하고 진행하는 게 가장 안전한 방법인 것 같아요.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-066_JAMO",
+      "url": "https://taniexpress.com/article/%EC%83%81%ED%92%88-qa/6/163/",
+      "is_violation": true,
+      "location": "#jm-066",
+      "evidence_text": "탑플레이어포커 머니상 중에서 제일 괜찮은 곳은 ㅋㅌ MR56인 것 같아요.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-067_JAMO",
+      "url": "https://www.dspremiumlounge.com/24/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172016651&t=board",
+      "is_violation": true,
+      "location": "#jm-067",
+      "evidence_text": "비대면내구제 텔ㄹ @apc543 호동이통신 수급자소액당일대출 만18세급전 당일생계비",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-068_JAMO",
+      "url": "https://yewonpub.co.kr/board/product/read.html?no=387567&board_no=6",
+      "is_violation": true,
+      "location": "#jm-068",
+      "evidence_text": "인디고 (indigo) 콜센터. 본사직영입니다. spgm77.com 인디ㅗ바둑이 와일드게임 토너먼트Game",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-069_JAMO",
+      "url": "https://signblue.co.kr/article/%EC%83%81%ED%92%88-qa/6/49395/",
+      "is_violation": true,
+      "location": "#jm-069",
+      "evidence_text": "게임사이트종류, #카지노꽁머니사이트, #카지노무료쿠폰체험머니, #카지노슬롯머신게임규칙, #카지노슬롯머신하는법, #카지노에이전시온라인사이트, #카카오토토사이트, #ㅌㅌ사이트, #토스뱅크되는토토사이트, #토지노사이트, #토큰바카라카지노사이트, #토토검증업체사이트, #토토구인구직사이트, #토토꽁머니30000드리는곳, #토토꽁포드리는곳,",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-070_JAMO",
+      "url": "https://gilbertkoo.cafe24.com/article/%EC%83%81%ED%92%88-qa/6/272149/",
+      "is_violation": true,
+      "location": "#jm-070",
+      "evidence_text": "탤ㄹㄱ램 banonpi 타인명의유심칩매입문의 바넌피유심내구제 무기명유심 당일소액대출대부 단양군 20만원30만원 급한돈드려요 SQV",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-071_JAMO",
+      "url": "https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?mod=document&uid=45108",
+      "is_violation": true,
+      "location": "#jm-071",
+      "evidence_text": "★★ 카턱 텔 레 TST365 ★★ https://samba25.com 블루게임(바이브) 바둑이게임 맞고 슬롯 사이트",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-072_JAMO",
+      "url": "https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?mod=document&uid=45122",
+      "is_violation": true,
+      "location": "#jm-072",
+      "evidence_text": "holdem프라그마틱슬롯 사이트 와일드 홀덤 프라그마틱슬롯 사이트 홀덤 바둑이 최고% 총판 WILD바둑이 WILDGAME. 신규 회원부터 \"블루게임\" 인디언 (indigogame) 콜센터. 다양한 보너스와 혜택을 드립니다. 다양한 보너스와 함께 한층 더 즐거운 게임을 즐겨보세요! https://indio23.kr",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-073_JAMO",
+      "url": "https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=14&mod=document&uid=45075",
+      "is_violation": true,
+      "location": "#jm-073",
+      "evidence_text": "에볼루션정품알 ❤️{텔 : dreamfactory365}❤️ 카지노 밴더사 사이트 제작비용 카지노API연동 슬롯 API",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-074_JAMO",
+      "url": "https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=2&mod=document&uid=45250",
+      "is_violation": true,
+      "location": "#jm-074",
+      "evidence_text": "아이슬롯 {℡O!O. 7-4-6-5×3.4.6.4} 블루슬롯 에볼루션카지노게임 잭팟 슬롯이 등장했습니다.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-075_JAMO",
+      "url": "https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=23&mod=document&uid=44942",
+      "is_violation": true,
+      "location": "#jm-075",
+      "evidence_text": "프라그마틱 정품슬롯게임 ◆ 에볼루션 | 온라인 카지노 | baccarat 사이트",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-076_JAMO",
+      "url": "https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=26&mod=document&uid=44895",
+      "is_violation": true,
+      "location": "#jm-076",
+      "evidence_text": "카지노 정품알 ㅣ 카지노솔루션임대 ㅣ 카지노사이트제작 ㅣ 바카라슬롯 ㅣ 정품API알공급 ㅣ카지노밴더사",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-077_JAMO",
+      "url": "https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=3&mod=document&uid=45244",
+      "is_violation": true,
+      "location": "#jm-077",
+      "evidence_text": "온라인 카지노창업 슬롯GAME 사이트 ❤dreamfactory365❤ 오프라인 온라인 정품알100%",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-078_JAMO",
+      "url": "https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=5&mod=document&uid=45205",
+      "is_violation": true,
+      "location": "#jm-078",
+      "evidence_text": "토토솔루션/ 텔 레 문의 / @dreamfactory365 / 토지노솔루션 / 솔루션임대 / 정품 / API",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-079_JAMO",
+      "url": "https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=68&mod=document&uid=44261",
+      "is_violation": true,
+      "location": "#jm-079",
+      "evidence_text": "카지노알/카지노 알값/정품통합알/정품통합api/카지노api/슬롯api/홀덤API/가품알/카지노솔루션/슬롯솔루션/토",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-080_JAMO",
+      "url": "https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=9&mod=document&uid=45144",
+      "is_violation": true,
+      "location": "#jm-080",
+      "evidence_text": "와일드 게임 홀덤 토너먼트『 카 ,턱, 텔,레 TST365『 상금 받고! 재미도 잡고!",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-081_JAMO",
+      "url": "https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=10&mod=document&uid=45133",
+      "is_violation": true,
+      "location": "#jm-081",
+      "evidence_text": "바둑이 총판 인디언게임 홀덤 사이트 010/XXXX/XXXX",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-082_JAMO",
+      "url": "https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=14&mod=document&uid=45076",
+      "is_violation": true,
+      "location": "#jm-082",
+      "evidence_text": "모바일바둑이 bluegame【BLＧM 7.ＣＯM】 블루게임:홀덤|바둑이|맞고|슬롯|온라인|PC|모바일|게임|사이트|라이브|",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-083_JAMO",
+      "url": "https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=15&mod=document&uid=45065",
+      "is_violation": true,
+      "location": "#jm-083",
+      "evidence_text": "아이슬롯 바둑이 최고% 총판 0 1 0\" XXXX \"X X XX\" 블루게임 와일드홀덤 총판 최대요율%",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-084_JAMO",
+      "url": "https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=17&mod=document&uid=45036",
+      "is_violation": true,
+      "location": "#jm-084",
+      "evidence_text": "인디언홀덤 바둑이 O! O -⑧①⑦⑨-⑤②⑦④인디고게임 토너먼트 대회 우승상금",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-085_JAMO",
+      "url": "https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=20&mod=document&uid=44987",
+      "is_violation": true,
+      "location": "#jm-085",
+      "evidence_text": "카지노솔루션 | 토지노솔루션 | ★ 주소 : dream-ssolution.co.kr ★ 슬롯GAME SOLUTION",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-086_JAMO",
+      "url": "https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=21&mod=document&uid=44964",
+      "is_violation": true,
+      "location": "#jm-086",
+      "evidence_text": "토토사이트 솔루션·카지노 솔루션 개발·임대·분양 전문 드림팩토리 solution",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-087_JAMO",
+      "url": "https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=23&mod=document&uid=44936",
+      "is_violation": true,
+      "location": "#jm-087",
+      "evidence_text": "짜릿한 홀덤 게임 대회 승부 인디언홀덤 + 와일드 0 l 0 ,,XXXX,XXXX 무료토너먼트",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-088_JAMO",
+      "url": "https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=26&mod=document&uid=44887",
+      "is_violation": true,
+      "location": "#jm-088",
+      "evidence_text": "블루게임 OIO ▶XXXX,XXXX▶ 성피pc방바둑이 / 블루맞고 블루 카지너 블루슬롯",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-089_JAMO",
+      "url": "https://www.goodwebple.co.kr/cs/qna/?mod=document&uid=1733",
+      "is_violation": true,
+      "location": "#jm-089",
+      "evidence_text": "#CASINO솔루선 #슬롯솔루션 {텔 : dreamfactory365} 홀덤솔루션",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-090_JAMO",
+      "url": "https://www.goodwebple.co.kr/cs/qna/?mod=document&uid=1730",
+      "is_violation": true,
+      "location": "#jm-090",
+      "evidence_text": "성인피시방매장,성피pc방 ▶ 블루게임.ⓒⓞⓜ ▶ 인디안게임 가입 : 이0. X XXX, XX XX",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-091_JAMO",
+      "url": "https://molinarishop.co.kr/board/product/read.html?no=7930&board_no=6",
+      "is_violation": true,
+      "location": "#jm-091",
+      "evidence_text": "내1구1제 텔ㄹㄱ램 가전내1구1제",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-092_JAMO",
+      "url": "https://www.emk.kr/board/view.php?bdId=prd&sno=366",
+      "is_violation": true,
+      "location": "#jm-092",
+      "evidence_text": "탤ㄹH문의 홍콩명품쇼핑몰 정품동일급 미러급 레플리카 루이비통스피디30",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-093_JAMO",
+      "url": "https://www.emk.kr/board/view.php?bdId=prd&sno=365",
+      "is_violation": true,
+      "location": "#jm-093",
+      "evidence_text": "탤ㄹH상담 선불유심내구제 신불자휴대폰소액대출 직장인 소액즉시대출 후불폰유심삽니다",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-094_JAMO",
+      "url": "https://www.emk.kr/board/view.php?bdId=prd&sno=361",
+      "is_violation": true,
+      "location": "#jm-094",
+      "evidence_text": "탤ㄹH상담 대부소액대출업체 직장인 소액즉시대출 핸드폰유심가전내구제 모바일소액결제현금화",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-095_JAMO",
+      "url": "https://www.emk.kr/board/view.php?bdId=prd&sno=358",
+      "is_violation": true,
+      "location": "#jm-095",
+      "evidence_text": "탤ㄹH상담 개인소액대출 직장인 소액즉시대출 내구제시세리스트 핸드폰소액결제대출",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-096_JAMO",
+      "url": "https://www.emk.kr/board/view.php?bdId=prd&sno=357",
+      "is_violation": true,
+      "location": "#jm-096",
+      "evidence_text": "탤ㄹH문의 60대여성명품가방추천 레플리카에스라벨 최고퀄리티 미러급 레플리카 루이비통메신저백",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-097_JAMO",
+      "url": "https://www.emk.kr/board/view.php?bdId=prd&sno=353",
+      "is_violation": true,
+      "location": "#jm-097",
+      "evidence_text": "탤ㄹH상담 신불가능소액급전 직장인 소액즉시대출 무제한달심삽니다 피해회복지원금긴급대출",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-098_JAMO",
+      "url": "https://www.emk.kr/board/view.php?bdId=prd&sno=350",
+      "is_violation": true,
+      "location": "#jm-098",
+      "evidence_text": "탤ㄹH상담 신불자연체자대출 직장인 소액즉시대출 개인선불폰유심매입 안전비대면소액급전",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-099_JAMO",
+      "url": "https://www.emk.kr/board/view.php?bdId=prd&sno=347",
+      "is_violation": true,
+      "location": "#jm-099",
+      "evidence_text": "탤ㄹH문의 명품팔기사이트 최고급형레플리카 최고퀄리티 미러급 레플리카 프라다남자크로스백",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-100_JAMO",
+      "url": "https://www.emk.kr/board/view.php?bdId=prd&sno=345",
+      "is_violation": true,
+      "location": "#jm-100",
+      "evidence_text": "탤ㄹH문의 홍콩명품커스텀급 최고급형레플리카 최고퀄리티 미러급 레플리카 에르메스파우치",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-101_JAMO",
+      "url": "https://www.emk.kr/board/view.php?bdId=prd&sno=344",
+      "is_violation": true,
+      "location": "#jm-101",
+      "evidence_text": "탤ㄹH문의 100만원대명품가방추천 미러급사이트추천 최고퀄리티 미러급 레플리카 여행백팩",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-102_JAMO",
+      "url": "https://www.emk.kr/board/view.php?bdId=prd&sno=341",
+      "is_violation": true,
+      "location": "#jm-102",
+      "evidence_text": "탤ㄹH상담 생계자금지원 직장인 소액즉시대출 내구제소액20만원 긴급생활안정자금대출",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-103_JAMO",
+      "url": "https://www.emk.kr/board/view.php?bdId=prd&sno=340",
+      "is_violation": true,
+      "location": "#jm-103",
+      "evidence_text": "탤ㄹH문의 남자명품가방 고퀄리티주문제작 최고퀄리티 미러급 레플리카 디올크로스백",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-104_JAMO",
+      "url": "https://www.emk.kr/board/view.php?bdId=prd&sno=339",
+      "is_violation": true,
+      "location": "#jm-104",
+      "evidence_text": "탤ㄹH문의 명품백가격 미러급레플리카 최고퀄리티 미러급 레플리카 루이비통가방가격",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-105_JAMO",
+      "url": "https://www.emk.kr/board/view.php?bdId=prd&sno=337",
+      "is_violation": true,
+      "location": "#jm-105",
+      "evidence_text": "탤ㄹH상담 신불자연체자대출 직장인 소액즉시대출 회선당8만원선불유심내구제 내구제작업대출당일급전",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-106_JAMO",
+      "url": "https://www.emk.kr/board/view.php?bdId=prd&sno=332",
+      "is_violation": true,
+      "location": "#jm-106",
+      "evidence_text": "탤ㄹH상담 수급자소액당일대출 직장인 소액즉시대출 간단서류대출내구제 당일30만원급전지급",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-107_JAMO",
+      "url": "https://www.emk.kr/board/view.php?bdId=prd&sno=329",
+      "is_violation": true,
+      "location": "#jm-107",
+      "evidence_text": "탤ㄹH상담 무직신불자소액대출 직장인 소액즉시대출 선불폰유심삽니다 모바일소액결제현금화",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-108_JAMO",
+      "url": "https://www.emk.kr/board/view.php?bdId=prd&sno=326",
+      "is_violation": true,
+      "location": "#jm-108",
+      "evidence_text": "탤ㄹH문의 명품백가격 하이엔드급 최고퀄리티 미러급 레플리카 샤넬빈티지",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-109_JAMO",
+      "url": "https://www.emk.kr/board/view.php?bdId=prd&sno=325",
+      "is_violation": true,
+      "location": "#jm-109",
+      "evidence_text": "탤ㄹH상담 무직자통신연체자대출 직장인 소액즉시대출 가전제품내구제당일 모바일당일소액대출내구제",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-110_JAMO",
+      "url": "https://www.emk.kr/board/view.php?bdId=prd&sno=321",
+      "is_violation": true,
+      "location": "#jm-110",
+      "evidence_text": "탤ㄹH문의 홍콩명품구매대행 정품확인사이트 최고퀄리티 미러급 레플리카 대학생가방",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-111_JAMO",
+      "url": "https://www.emk.kr/board/view.php?bdId=prd&sno=315",
+      "is_violation": true,
+      "location": "#jm-111",
+      "evidence_text": "탤ㄹH문의 홍콩명품미러급 이미테이션사이트 최고퀄리티 미러급 레플리카 에르메스파우치",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-112_JAMO",
+      "url": "https://www.emk.kr/board/view.php?bdId=prd&sno=314",
+      "is_violation": true,
+      "location": "#jm-112",
+      "evidence_text": "탤ㄹH문의 명품가방할인 하이엔드ex급 최고퀄리티 미러급 레플리카 루이비통스피디",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-113_JAMO",
+      "url": "https://www.emk.kr/board/view.php?bdId=prd&sno=310",
+      "is_violation": true,
+      "location": "#jm-113",
+      "evidence_text": "탤ㄹH문의 남자명품지갑 정품가방검증방법 최고퀄리티 미러급 레플리카 프라다크로스백가격",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-114_JAMO",
+      "url": "https://www.emk.kr/board/view.php?bdId=prd&sno=308",
+      "is_violation": true,
+      "location": "#jm-114",
+      "evidence_text": "탤ㄹH문의 100만원대명품가방추천 하이엔드ex급 최고퀄리티 미러급 레플리카 프라다뜨개가방",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-115_JAMO",
+      "url": "https://www.emk.kr/board/view.php?bdId=prd&sno=298",
+      "is_violation": true,
+      "location": "#jm-115",
+      "evidence_text": "탤ㄹH문의 명품스타일쇼핑몰 정품가방검증방법 최고퀄리티 미러급 레플리카 디올가방",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-116_JAMO",
+      "url": "https://www.emk.kr/board/view.php?bdId=prd&sno=290",
+      "is_violation": true,
+      "location": "#jm-116",
+      "evidence_text": "탤ㄹH문의 명품명함지갑 레플리카쇼핑몰 최고퀄리티 미러급 레플리카 프라다메신저백",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-117_JAMO",
+      "url": "https://www.emk.kr/board/view.php?bdId=prd&sno=285",
+      "is_violation": true,
+      "location": "#jm-117",
+      "evidence_text": "탤ㄹh문의 p2p당일급전내구제대출 선불유심내구제8만원 무서류모바일당일급전대출 당일소액내구제추천",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-118_JAMO",
+      "url": "https://www.emk.kr/board/view.php?bdId=prd&sno=278",
+      "is_violation": true,
+      "location": "#jm-118",
+      "evidence_text": "탤ㄹh문의 비상금소액대출 막폰팝니다 무서류모바일당일급전대출 주말소액급전대출",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-119_JAMO",
+      "url": "https://www.emk.kr/board/view.php?bdId=prd&sno=275",
+      "is_violation": true,
+      "location": "#jm-119",
+      "evidence_text": "탤ㄹh문의 긴급생활안정자금대출 달심매입합니다 무서류모바일당일급전대출 무직자연체자소액대출",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-120_JAMO",
+      "url": "https://www.emk.kr/board/view.php?bdId=prd&sno=272",
+      "is_violation": true,
+      "location": "#jm-120",
+      "evidence_text": "탤ㄹh문의 토스소액급전대출내구제 대포폰유심삽니다 무서류모바일당일급전대출 백수당일급전내구제",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-121_JAMO",
+      "url": "https://www.emk.kr/board/view.php?bdId=prd&sno=268",
+      "is_violation": true,
+      "location": "#jm-121",
+      "evidence_text": "탤ㄹh문의 만19세소액작업대출 선불유심매입합니다 무서류모바일당일급전대출 신불자연체자대출",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-122_JAMO",
+      "url": "https://www.emk.kr/board/view.php?bdId=prd&sno=267",
+      "is_violation": true,
+      "location": "#jm-122",
+      "evidence_text": "탤ㄹh문의 급한자금문의 달림유심매입 무서류모바일당일급전대출 수급자소액당일대출",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-123_JAMO",
+      "url": "https://www.emk.kr/board/view.php?bdId=prd&sno=264",
+      "is_violation": true,
+      "location": "#jm-123",
+      "evidence_text": "탤ㄹh문의 50만원소액급전내구제 회선당10만원선불유심내구제 무서류모바일당일급전대출 비대면개인돈소액대출",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-124_JAMO",
+      "url": "https://www.emk.kr/board/view.php?bdId=prd&sno=259",
+      "is_violation": true,
+      "location": "#jm-124",
+      "evidence_text": "탤ㄹh문의 핸드폰소액결제대출 내구제소액10만원 무서류모바일당일급전대출 신용회복연체자소액대출",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-125_JAMO",
+      "url": "https://www.emk.kr/board/view.php?bdId=prd&sno=258",
+      "is_violation": true,
+      "location": "#jm-125",
+      "evidence_text": "탤ㄹh문의 카카오톡비상금대출 선불유심내구제 무서류모바일당일급전대출 기초수급자소액대출",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-126_JAMO",
+      "url": "https://www.emk.kr/board/view.php?bdId=prd&sno=255",
+      "is_violation": true,
+      "location": "#jm-126",
+      "evidence_text": "탤ㄹh문의 현역군인소액대출 가개통휴대폰내구제 무서류모바일당일급전대출 소액결제대출",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-127_JAMO",
+      "url": "https://www.emk.kr/board/view.php?bdId=prd&sno=254",
+      "is_violation": true,
+      "location": "#jm-127",
+      "evidence_text": "탤ㄹh문의 긴급생활비대출 휴대폰내구제비대면 무서류모바일당일급전대출 연체자작업대출",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-128_JAMO",
+      "url": "https://www.emk.kr/board/view.php?bdId=prd&sno=250",
+      "is_violation": true,
+      "location": "#jm-128",
+      "evidence_text": "탤ㄹh문의 kt소액급전내구제대출 휴대폰소액내구제후기 무서류모바일당일급전대출 연체자대출가능한곳",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-129_JAMO",
+      "url": "https://www.emk.kr/board/view.php?bdId=prd&sno=248",
+      "is_violation": true,
+      "location": "#jm-129",
+      "evidence_text": "탤ㄹh문의 30만원빌리기내구제 선불유심팔아요 무서류모바일당일급전대출 당일소액내구제추천",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-130_JAMO",
+      "url": "https://www.emk.kr/board/view.php?bdId=prd&sno=244",
+      "is_violation": true,
+      "location": "#jm-130",
+      "evidence_text": "탤ㄹh문의 긴급재난지원금대출 회선당10만원선불유심내구제 무서류모바일당일급전대출 무방문개인돈",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-131_JAMO",
+      "url": "https://www.emk.kr/board/view.php?bdId=prd&sno=240",
+      "is_violation": true,
+      "location": "#jm-131",
+      "evidence_text": "탤ㄹh문의 만19세비상금대출 대포폰유심삽니다 무서류모바일당일급전대출 연체신용불량자대출",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-132_JAMO",
+      "url": "https://aptgogi.co.kr/35/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=174892160&t=board",
+      "is_violation": true,
+      "location": "#jm-132",
+      "evidence_text": "평택티켓다방 평택콜걸만남【ㅌ레@MISI889】평택조건만남 ◁ 평택커피배달 평택다방콜걸 ◁ 평택다방아가씨 평택모텔방문 ◁ 평택페이만남 ◁ 남성전용",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-134_JAMO",
+      "url": "https://annaprez.com/board/free/read.html?no=195144&board_no=5",
+      "is_violation": true,
+      "location": "#jm-134",
+      "evidence_text": "인디언게임 슬롯사이트 슬롯인디어홀덤잭팟 무료 slot게임 불루바둑이 문의 : 01ㅇ，XXXX, XXXX ㅋr톡: oio365 / 텔ㄹㅔ그램 : oio365 365일 24시간 상담가능합니다.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-135_JAMO",
+      "url": "http://www.dhtndus1004.woobi.co.kr/g5/bbs/board.php?bo_table=freeboard&wr_id=169433",
+      "is_violation": true,
+      "location": "#jm-135",
+      "evidence_text": "인디언게임 메이­저놀­이터. holdemSITE.문의: ㅋㅏ톡 / 텔ㄹㅔ : T S T 3 6 5 > 공지사항 | 수연씨!~잘자요!~",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-136_JAMO",
+      "url": "http://sunjineng.net/bbs/board.php?bo_table=free&wr_id=73102",
+      "is_violation": true,
+      "location": "#jm-136",
+      "evidence_text": "다음글 선불유심내구제 ㅋㅏ툭 gusim8003 (인증업체)(급전문의)개인돈/소액대출/ 26.10.04",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-137_JAMO",
+      "url": "https://politics.mokpo.ac.kr/bbs/economy/254/262610/artclView.do",
+      "is_violation": true,
+      "location": "#jm-137",
+      "evidence_text": "무설치API 홀덤 업계1위 최고지원 ☎ ㅋ ㅏ톡 : zxzx1225 솔로몬솔루션 파워샷게임 바이브바둑이",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-138_JAMO",
+      "url": "http://www.sandblastmc.com/bbs/board.php?bo_table=qna&wr_id=19324",
+      "is_violation": true,
+      "location": "#jm-138",
+      "evidence_text": "오다집광고대행ｅㅌ레 https://viamallm.com 룸싸롱문서광고✦유흥상위작업 소액상위노출 술집상단노출❄비아샵",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-139_JAMO",
+      "url": "https://yellowpost.co.kr/article/qa/6/60779/",
+      "is_violation": true,
+      "location": "#jm-139",
+      "evidence_text": "\"인디오홀덤과 인디오바둑이 온라인홀덤 직영 매니저 : 최대지원 가이드\" 인디오게임 ↙카턱 ㅌ레 sk5775↙ 바이브게임 문의 최대지원 https://swtba3.com/ 인디오홀덤 & 온라인홀덤: 전략, 재미 Q&A - YELLOW POST",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-141_JAMO",
+      "url": "https://dkhrainbow.com/article/%EC%83%81%ED%92%88-qa/6/1803",
+      "is_violation": true,
+      "location": "#jm-141",
+      "evidence_text": "다음글 챔피언바둑이게임 싸이트 (카 ㅌ, 텔ㄹㅔ z x z x 1225 ) 프라그마틱슬롯싸이트 프라그마틱가입 (실전홀덤게임) 팬텀솔져주소 매장 참피언 프라그마틱",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-142_JAMO",
+      "url": "https://vestmall.co.kr/article/%EC%83%81%ED%92%88-%EC%82%AC%EC%9A%A9%ED%9B%84%EA%B8%B0/4/4305559/",
+      "is_violation": true,
+      "location": "#jm-142",
+      "evidence_text": "다음 홀덤 게임 하는곳◈ㄴㄲㅏ톡 탤ㄹㅔ sk5775 ◈바둑이홀덤보증사이트 #전국홀덤 #홀텍사스홀덤 #사이트추천 #모바일홀덤 #인터넷홀덤 홀덤 게임 하는곳∪ㄴㄲㅏ톡 탤ㄹㅔ sk5775 ¿ 바둑이",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-143_JAMO",
+      "url": "https://m.dcinside.com/board/baseball_new10/4815794",
+      "is_violation": true,
+      "location": "#jm-143",
+      "evidence_text": "구제 5 선착순 5 콩 구제 ㅌㅔㄹㄹㅔ @insa100",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-144_JAMO",
+      "url": "https://m.dcinside.com/board/loan/8735112",
+      "is_violation": true,
+      "location": "#jm-144",
+      "evidence_text": "요번에 어떤 어플 통해서 했는디 수수료5%만 띠고 현금으로 출금 가능하다 루트 궁금하면 ㄹㅏㅇㅣㄴkio992 연락주셈 내가 가져가는거 일체 없음 너네들이 하는거",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-145_JAMO",
+      "url": "https://m.dcinside.com/board/loan_new1/13824079",
+      "is_violation": true,
+      "location": "#jm-145",
+      "evidence_text": "내가 주는 건 아니고 니들이 영상 하나 보고 좋아요 누르면 입금해주는 곳 있음. 생각 있음 ㅌㅔㄹ ㄹㅔ아디 적어보셈.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-146_JAMO",
+      "url": "https://m.dcinside.com/board/lotto_new2/4159271",
+      "is_violation": true,
+      "location": "#jm-146",
+      "evidence_text": "지투지는 배당도 좋고 입금 및 환전도 빠르고 또 마인츠 경기있는 날이면 이벤도 있고 많이 놀러와 주십셔!체험가능한 돈 2만원도 지급 하고 있습니다!ㅋㅗㄷㅡ:AADD",
+      "technique": "JAMO"
+    },
+    {
+      "id": "JM-147_JAMO",
+      "url": "https://m.dcinside.com/board/loan_new1/2078140",
+      "is_violation": true,
+      "location": "#jm-147",
+      "evidence_text": "캐슬 뉴캐슬 리더 피쉬 브로 씨앤에스 킹 사용하시는 분들 연락주세요 ㅋㅏㅈㅣㄴㅗ복구도와드립니다 문의 zizi0617",
+      "technique": "JAMO"
+    },
+    {
+      "id": "OF-108_OFFSCREEN",
+      "url": "http://cwworld.co.kr/type6/board/board_view.php?code=16&view_no=6336",
+      "is_violation": true,
+      "location": "span",
+      "evidence_text": "롤배팅",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-109_OFFSCREEN",
+      "url": "http://cwworld.co.kr/type6/board/board_view.php?code=16&view_no=6336",
+      "is_violation": true,
+      "location": "span",
+      "evidence_text": "레드라인 먹튀",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-110_OFFSCREEN",
+      "url": "http://cwworld.co.kr/type6/board/board_view.php?code=16&view_no=6336",
+      "is_violation": true,
+      "location": "span",
+      "evidence_text": "무료웹툰 모음",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-111_OFFSCREEN",
+      "url": "http://cwworld.co.kr/type6/board/board_view.php?code=16&view_no=6336",
+      "is_violation": true,
+      "location": "span",
+      "evidence_text": "카지노솔루션",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-112_OFFSCREEN",
+      "url": "http://cwworld.co.kr/type6/board/board_view.php?code=16&view_no=6336",
+      "is_violation": true,
+      "location": "span",
+      "evidence_text": "카지노솔루션",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-113_OFFSCREEN",
+      "url": "http://cwworld.co.kr/type6/board/board_view.php?code=16&view_no=6336",
+      "is_violation": true,
+      "location": "span",
+      "evidence_text": "먹튀사이트 제작",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-114_OFFSCREEN",
+      "url": "http://cwworld.co.kr/type6/board/board_view.php?code=16&view_no=6336",
+      "is_violation": true,
+      "location": "span",
+      "evidence_text": "스포츠중계제작",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-115_OFFSCREEN",
+      "url": "http://cwworld.co.kr/type6/board/board_view.php?code=16&view_no=6336",
+      "is_violation": true,
+      "location": "span",
+      "evidence_text": "무료스포츠중계",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-116_OFFSCREEN",
+      "url": "http://cwworld.co.kr/type6/board/board_view.php?code=16&view_no=6338",
+      "is_violation": true,
+      "location": "span",
+      "evidence_text": "다낭 유흥",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-117_OFFSCREEN",
+      "url": "http://cwworld.co.kr/type6/board/board_view.php?code=16&view_no=6338",
+      "is_violation": true,
+      "location": "span",
+      "evidence_text": "카지노 알",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-118_OFFSCREEN",
+      "url": "https://lak.co.kr/customer/qna.php?id=9785&mode=read&page=42",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "닌자티비",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-119_OFFSCREEN",
+      "url": "https://lak.co.kr/customer/qna.php?id=9785&mode=read&page=42",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "엔포커머니상",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-120_OFFSCREEN",
+      "url": "https://lak.co.kr/customer/qna.php?id=9785&mode=read&page=42",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "무료스포츠중계사이트",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-121_OFFSCREEN",
+      "url": "https://lak.co.kr/customer/qna.php?id=9785&mode=read&page=42",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "토토",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-122_OFFSCREEN",
+      "url": "https://lak.co.kr/customer/qna.php?id=9785&mode=read&page=42",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "아이폰 팝콘티비",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-123_OFFSCREEN",
+      "url": "https://lak.co.kr/customer/qna.php?id=9785&mode=read&page=42",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "딜도",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-124_OFFSCREEN",
+      "url": "https://lak.co.kr/customer/qna.php?id=9785&mode=read&page=42",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "wpl",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-125_OFFSCREEN",
+      "url": "https://lak.co.kr/customer/qna.php?id=9785&mode=read&page=42",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "슬롯",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-126_OFFSCREEN",
+      "url": "https://lak.co.kr/customer/qna.php?id=9785&mode=read&page=42",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "문화상품권 현금화",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-127_OFFSCREEN",
+      "url": "https://lak.co.kr/customer/qna.php?id=9785&mode=read&page=42",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "스포츠중계",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-128_OFFSCREEN",
+      "url": "http://steelhouse.or.kr/service_center/community/info?tpf=board/view&board_code=47&code=977",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "buy levitra online",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-129_OFFSCREEN",
+      "url": "http://steelhouse.or.kr/service_center/community/info?tpf=board/view&board_code=47&code=977",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "walmart generic levitra",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-130_OFFSCREEN",
+      "url": "http://steelhouse.or.kr/service_center/community/info?tpf=board/view&board_code=47&code=977",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "negative effects of levitra",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-131_OFFSCREEN",
+      "url": "http://steelhouse.or.kr/service_center/community/info?tpf=board/view&board_code=47&code=977",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "brand levitra online pharmacy",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-132_OFFSCREEN",
+      "url": "http://steelhouse.or.kr/service_center/community/info?tpf=board/view&board_code=47&code=977",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "cialis price at target",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-133_OFFSCREEN",
+      "url": "http://steelhouse.or.kr/steelhouse/board?tpf=board/view&board_code=47&code=1033",
+      "is_violation": true,
+      "location": "div.anev > a:nth-of-type(2)",
+      "evidence_text": "payday loans",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-134_OFFSCREEN",
+      "url": "http://steelhouse.or.kr/steelhouse/board?tpf=board/view&board_code=47&code=1033",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "no payday loans",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-135_OFFSCREEN",
+      "url": "http://steelhouse.or.kr/steelhouse/board?tpf=board/view&board_code=47&code=1033",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "payday loan",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-136_OFFSCREEN",
+      "url": "http://steelhouse.or.kr/steelhouse/board?tpf=board/view&board_code=47&code=1033",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "buy cialis",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-137_OFFSCREEN",
+      "url": "http://steelhouse.or.kr/steelhouse/board?tpf=board/view&board_code=47&code=1033",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "generic viagra",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-138_OFFSCREEN",
+      "url": "https://lp.lucasfelix.com/",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "1Red Casino",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-139_OFFSCREEN",
+      "url": "https://lp.lucasfelix.com/",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "Starda Casino",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-140_OFFSCREEN",
+      "url": "https://lp.lucasfelix.com/",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "ToonieBet",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-141_OFFSCREEN",
+      "url": "https://lp.lucasfelix.com/",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "maxibet",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-142_OFFSCREEN",
+      "url": "https://lp.lucasfelix.com/",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "Bet On Red",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-143_OFFSCREEN",
+      "url": "https://lp.lucasfelix.com/",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "Holyluck",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-144_OFFSCREEN",
+      "url": "https://lp.lucasfelix.com/",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "Gransino",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-145_OFFSCREEN",
+      "url": "https://lp.lucasfelix.com/",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "https://bookyspinzcasinofr.com/",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-146_OFFSCREEN",
+      "url": "https://lp.lucasfelix.com/",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "brionis casino",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-147_OFFSCREEN",
+      "url": "https://lp.lucasfelix.com/",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "kod promocyjny twindoor",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-148_OFFSCREEN",
+      "url": "https://www.caita.org.tw/industry01?id=55",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "payday loans",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-149_OFFSCREEN",
+      "url": "https://underwoodmusic.org/mboard/mboard.asp?board_id=enter04&category=0&csno=&exe=view&group_name=church&idx_num=30&order_c=intVote&order_da=desc&page=1&search_category=&search_word=",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "payday loans richmond va",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-150_OFFSCREEN",
+      "url": "https://tiengnoichanly.com/display/DetailContent.aspx?CN=bvct&bv=146",
+      "is_violation": true,
+      "location": "h3",
+      "evidence_text": "female viagra review",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-151_OFFSCREEN",
+      "url": "https://tiengnoichanly.com/display/DetailContent.aspx?CN=bvct&bv=146",
+      "is_violation": true,
+      "location": "h3",
+      "evidence_text": "buy abortion pill uk",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-152_OFFSCREEN",
+      "url": "https://tiengnoichanly.com/display/DetailContent.aspx?CN=bvct&bv=146",
+      "is_violation": true,
+      "location": "h3",
+      "evidence_text": "acheter nifedipine",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-153_OFFSCREEN",
+      "url": "https://tiengnoichanly.com/display/DetailContent.aspx?CN=bvct&bv=146",
+      "is_violation": true,
+      "location": "h3",
+      "evidence_text": "motilium",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-154_OFFSCREEN",
+      "url": "https://tiengnoichanly.com/display/DetailContent.aspx?CN=bvct&bv=146",
+      "is_violation": true,
+      "location": "h3",
+      "evidence_text": "mobic",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-155_OFFSCREEN",
+      "url": "https://tiengnoichanly.com/display/DetailContent.aspx?CN=bvct&bv=146",
+      "is_violation": true,
+      "location": "h3",
+      "evidence_text": "metoclopramid 7 mg",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-156_OFFSCREEN",
+      "url": "https://tiengnoichanly.com/display/DetailContent.aspx?CN=bvct&bv=157",
+      "is_violation": true,
+      "location": "h3",
+      "evidence_text": "buy viagra uk",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-157_OFFSCREEN",
+      "url": "https://tiengnoichanly.com/display/DetailContent.aspx?CN=bvct&bv=157",
+      "is_violation": true,
+      "location": "h3",
+      "evidence_text": "buy accutane cream",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-158_OFFSCREEN",
+      "url": "https://tiengnoichanly.com/display/DetailContent.aspx?CN=bvct&bv=157",
+      "is_violation": true,
+      "location": "h3",
+      "evidence_text": "buy abortion pill online",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-159_OFFSCREEN",
+      "url": "https://tiengnoichanly.com/display/DetailContent.aspx?CN=bvct&bv=157",
+      "is_violation": true,
+      "location": "h3",
+      "evidence_text": "risperdal",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-160_OFFSCREEN",
+      "url": "https://www.ranum.com/security/computer_security/editorials/google-defacement/index.html",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "cheapest generic viagra",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-165_OFFSCREEN",
+      "url": "https://www.ranum.com/security/computer_security/editorials/google-defacement/index.html",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "levitra vs .",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-169_OFFSCREEN",
+      "url": "https://www.security.nl/abuse/400031",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "payday loans",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-170_OFFSCREEN",
+      "url": "https://www.security.nl/abuse/400031",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "payday loans",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-171_OFFSCREEN",
+      "url": "https://stackoverflow.com/questions/73931399/random-spam-code-found-while-inspecting-or-viewing-source-on-my-website",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "https://fancasinos.com/online-pokies/real-money/",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-172_OFFSCREEN",
+      "url": "https://stackoverflow.com/questions/65584301/wordpress-malware-top0-left-9999px-urls",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "download xiomi firmware",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-173_OFFSCREEN",
+      "url": "https://stackoverflow.com/questions/65584301/wordpress-malware-top0-left-9999px-urls",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "udemy free download",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-174_OFFSCREEN",
+      "url": "https://stackoverflow.com/questions/16382013/php-joomla-malware-hidden-links-remove",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "buy viagra in uk",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-175_OFFSCREEN",
+      "url": "https://stackoverflow.com/questions/17038315/script-attack-on-classic-asp",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "payday loans",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-176_OFFSCREEN",
+      "url": "https://pt.stackoverflow.com/questions/27859/banco-de-dados-sendo-alterado-invadido",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "payday loans",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-177_OFFSCREEN",
+      "url": "https://blog.sucuri.net/2013/11/the-story-of-cliprect-a-black-hat-seo-trick.html",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "online loan",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-178_OFFSCREEN",
+      "url": "https://blog.sucuri.net/2011/06/blackhat-spam-seo-from-joomlapoject-net-targeting-joomla.html",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "ACD  Systems Canvas 11 with GIS Plus",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-179_OFFSCREEN",
+      "url": "https://sucuri.net/reports/sitecheck-mid-year-2024-report/",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "anabolic for sale",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-180_OFFSCREEN",
+      "url": "https://sucuri.net/wp-content/uploads/2022/07/Sucuri_SiteCheck_Q2_2022_report.pdf",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "escorts dubai",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-181_OFFSCREEN",
+      "url": "https://sucuri.net/wp-content/uploads/2022/07/Sucuri_SiteCheck_Q2_2022_report.pdf",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "escort istanbul",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-182_OFFSCREEN",
+      "url": "https://sucuri.net/wp-content/uploads/2022/07/Sucuri_SiteCheck_Q2_2022_report.pdf",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "judi bola",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-183_OFFSCREEN",
+      "url": "https://sucuri.net/wp-content/uploads/2022/07/Sucuri_SiteCheck_Q2_2022_report.pdf",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "slot pragmatic",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-184_OFFSCREEN",
+      "url": "https://sucuri.net/wp-content/uploads/2022/07/Sucuri_SiteCheck_Q2_2022_report.pdf",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "situs judi bola",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-185_OFFSCREEN",
+      "url": "https://sucuri.net/wp-content/uploads/2022/07/Sucuri_SiteCheck_Q2_2022_report.pdf",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "idn poker",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-186_OFFSCREEN",
+      "url": "https://cognitiveseo.com/blog/1914/new-black-hat-technique-beats-the-google-penguin-and-emd-updates/",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "Payday loans",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-187_OFFSCREEN",
+      "url": "https://cognitiveseo.com/blog/1914/new-black-hat-technique-beats-the-google-penguin-and-emd-updates/",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "choi game",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-188_OFFSCREEN",
+      "url": "https://cognitiveseo.com/blog/1914/new-black-hat-technique-beats-the-google-penguin-and-emd-updates/",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "phim hay",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-189_OFFSCREEN",
+      "url": "https://www.mdpabel.com/blog/wordpress-hidden-spam-backlinks-database-fetch-injection/",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "Zeus379",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-190_OFFSCREEN",
+      "url": "https://www.mdpabel.com/blog/wordpress-hidden-spam-backlinks-database-fetch-injection/",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "mahkota188",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-191_OFFSCREEN",
+      "url": "https://www.mdpabel.com/blog/wordpress-hidden-spam-backlinks-database-fetch-injection/",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "duit188",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-192_OFFSCREEN",
+      "url": "https://www.mdpabel.com/malware-research/php-footer-remote-content-loader/",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "https://www.zeverix.com",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-193_OFFSCREEN",
+      "url": "https://www.mdpabel.com/malware-research/php-footer-remote-content-loader/",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "gopay178",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-194_OFFSCREEN",
+      "url": "https://www.mdpabel.com/malware-research/php-footer-remote-content-loader/",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "link shortener",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-195_OFFSCREEN",
+      "url": "https://www.mdpabel.com/malware-research/php-footer-remote-content-loader/",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "indobooster",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-196_OFFSCREEN",
+      "url": "https://www.mdpabel.com/malware-research/php-footer-remote-content-loader/",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "slot gacor hari ini",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-197_OFFSCREEN",
+      "url": "https://www.mdpabel.com/malware-research/php-footer-remote-content-loader/",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "judi bola",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-198_OFFSCREEN",
+      "url": "https://www.mdpabel.com/malware-research/php-footer-remote-content-loader/",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "Slot Gacor Hari Ini",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-199_OFFSCREEN",
+      "url": "https://wordpress.stackexchange.com/questions/134825/tips-for-finding-spam-links-injected-into-the-content",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "kamagra",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-200_OFFSCREEN",
+      "url": "https://wordpress.stackexchange.com/questions/134825/tips-for-finding-spam-links-injected-into-the-content",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "viagara online",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-201_OFFSCREEN",
+      "url": "https://wordpress.stackexchange.com/questions/134825/tips-for-finding-spam-links-injected-into-the-content",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "online cash advance",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-202_OFFSCREEN",
+      "url": "https://wordpress.stackexchange.com/questions/134825/tips-for-finding-spam-links-injected-into-the-content",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "levitra for sale",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-203_OFFSCREEN",
+      "url": "https://securelist.com/seo-spam-hidden-links/117782/",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "azcorts.com",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-204_OFFSCREEN",
+      "url": "https://securelist.com/seo-spam-hidden-links/117782/",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "porngun.mobi",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-205_OFFSCREEN",
+      "url": "https://securelist.com/seo-spam-hidden-links/117782/",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "javclips.mobi",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-206_OFFSCREEN",
+      "url": "https://securelist.com/seo-spam-hidden-links/117782/",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "pimpmpegs.net",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-207_OFFSCREEN",
+      "url": "https://securelist.com/seo-spam-hidden-links/117782/",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "sexdejt.org",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-208_OFFSCREEN",
+      "url": "https://www.sitepoint.com/community/t/div-id-hidemeya-added-to-the-source-code-of-my-website/39004",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "pay day loan online",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-209_OFFSCREEN",
+      "url": "https://www.sitepoint.com/community/t/div-id-hidemeya-added-to-the-source-code-of-my-website/39004",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "viagra coupon pfizer",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-210_OFFSCREEN",
+      "url": "https://www.sitepoint.com/community/t/div-id-hidemeya-added-to-the-source-code-of-my-website/39004",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "order viagras online",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-211_OFFSCREEN",
+      "url": "https://www.sitepoint.com/community/t/div-id-hidemeya-added-to-the-source-code-of-my-website/39004",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "levitra coupon",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-212_OFFSCREEN",
+      "url": "https://www.sitepoint.com/community/t/div-id-hidemeya-added-to-the-source-code-of-my-website/39004",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "cialis cheapest price",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-213_OFFSCREEN",
+      "url": "https://www.sitepoint.com/community/t/div-id-hidemeya-added-to-the-source-code-of-my-website/39004",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "viagra food",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "OF-214_OFFSCREEN",
+      "url": "https://www.sitepoint.com/community/t/div-id-hidemeya-added-to-the-source-code-of-my-website/39004",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "online cialis",
+      "technique": "OFFSCREEN"
     }
   ]
 }

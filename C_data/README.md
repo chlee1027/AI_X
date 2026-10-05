@@ -15,8 +15,8 @@
 | 파일 | 개수 | 구성 | 검증 |
 |---|---|---|---|
 | `data/samples/decoy.yaml` | **200** | a11y_sr_only 80 · hidden_menu 60 · policy_text 30 · risky_word_normal 30 | 오류 0. 53개 기관·업체 사이트 실측 |
-| `data/samples/etc.yaml` | **200** | zero_width 99 · link_cloaking 41 · encoding 40 · meta_cloaking 20 · css_content 0 | 오류 0. 40개 사이트. css_content 만 쿼터(20)에 못 미친다 |
-| `data/samples/combo_real.yaml` | **250** | 한 요소에 회피 수법 2~5개가 겹친 실제 광고 | 오류 0. 44개 사이트. 194번부터는 「안 쏠리게」 규칙으로 덧붙인 것(아래 「덧붙이기」) |
+| `data/samples/etc.yaml` | **200** | zero_width 99 · link_cloaking 41 · encoding 40 · meta_cloaking 20 · css_content 0 | 오류 0. 39개 사이트. css_content 만 쿼터(20)에 못 미친다. 10-06 중복 정리(아래 「10-06 중복 정리」) |
+| `data/samples/combo_real.yaml` | **250** | 한 요소에 회피 수법 2~5개가 겹친 실제 광고 | 오류 0. 44개 사이트. 194번부터는 「안 쏠리게」 규칙으로 덧붙인 것(아래 「덧붙이기」), CB-251~258 은 10-06 중복 정리로 채운 것 |
 | `data/samples/jamo.yaml` | **147** | 사람 4 몫 JAMO 실측 (compat_full 17 · partial_mix 58 · conjoining_u1100 20 · mixed_technique 52) | 2026-10-05 역할 C 점검·수정, 10-06 사람 4 추가분 5건(JM-143~147). `data/JAMO_LEXICON_변경요약_20261005.md` 참고 |
 | `data/offscreen/data/originals/offscreen_originals.yaml` | **100** | 사람 3 몫 OFFSCREEN 광고 원문 (font_left_display 45 · visibility_hidden 15 · clip 15 · text_indent 10 · transform_outside 15) | 계획서 쿼터 충족. 100개 모두 html·css 만 띄워 숨김 확인(`tools/validate/check_offscreen.py`). `data/offscreen/변경요약_20261005.md` 참고 |
 | `data/offscreen/data/samples/offscreen.yaml` | **100** + 대조군 7 | 위 원문 문구에 Bootstrap·Tailwind·HTML5BP·전자정부 숨김 CSS 를 건 시험용(분류별 개수 원문과 같음), 보여야 하는 대조군 7 | 시험용 100 숨김 · 대조군 7 보임 확인. 화면은 `data/offscreen/fixtures/` |
@@ -51,12 +51,12 @@
 
 | 하위 유형 | 출처 | 실제 형태 |
 |---|---|---|
-| zero_width 38 | 「KC7979.COM」 캠페인과 같은 계열: 황비·HB투어리조트·C&P그룹·세계스피드공기협회(wsgga) | 음절마다 소프트 하이픈(U+00AD): `토­토`, `카­지노`, `먹­튀`, `주­소`, `도­메인`, `홀­덤game` |
-| zero_width 28 | 비엔웍스 쇼핑몰, 영테크(아임웹), 지니몬테소리 | 소프트 하이픈: `바­카라사이트디시`, `인디언슬­롯게임`, `웹홀­덤­사이트` |
-| zero_width 25 | 의약품 스팸: kmc1958·피자브라더스·쿠마·smh-hospital | `비­아그라`, `시­알리스`, `레­비트라`, `클­릭­이­동`, 레비트라 광고 앞 U+200C, 이성만남 광고 앞 U+200E |
-| zero_width 3 | 하우스코디 자료실 (성매매 광고) | `콜걸은​수년간`(U+200B) + 변형 전화번호 |
+| zero_width 42 | 「KC7979.COM」 캠페인과 같은 계열: 황비·HB투어리조트·C&P그룹·세계스피드공기협회(wsgga) | 음절마다 소프트 하이픈(U+00AD): `토­토`, `카­지노`, `먹­튀`, `주­소`, `도­메인`, `홀­덤game` |
+| zero_width 31 | 비엔웍스 쇼핑몰, 영테크(아임웹), 지니몬테소리 | 소프트 하이픈: `바­카라사이트디시`, `인디언슬­롯게임`, `웹홀­덤­사이트` |
+| zero_width 20 | 의약품 스팸: kmc1958·피자브라더스·쿠마·smh-hospital | `비­아그라`, `시­알리스`, `레­비트라`, `클­릭­이­동`, 레비트라 광고 앞 U+200C, 이성만남 광고 앞 U+200E |
+| zero_width 2 | 하우스코디 자료실 (성매매 광고) | `콜걸은​수년간`(U+200B) + 변형 전화번호 |
 | zero_width 1 | 부발지역아동센터 | `카­지노game`, `토­토사이트` |
-| zero_width 4 | 공감오래(gonggam.zieo.net)·코오잠 게시판 | 토토 광고 문구 안의 제로폭·소프트 하이픈 |
+| zero_width 3 | 공감오래(gonggam.zieo.net) 게시판 | 토토 광고 문구 안의 제로폭·소프트 하이픈 |
 | link_cloaking 4 | 해킹된 대학 도메인 도어웨이 (중앙대 contil·germania, 창원대, 충북보건과학대) | 「로그인」「회원가입」 → `wwnnh.com/gate`, `bit.ly/…`, `*.pages.dev` |
 | link_cloaking 2 | 연세대 대학원 총학생회 게시판 | 「공식 파트너」「바로가입」 → 한글 도메인의 퓨니코드 주소 `xn--…` |
 | link_cloaking 28 | 아임웹 기업·단체 사이트 14곳의 같은 캠페인(@NAD258). 사이트마다 앵커 둘 | 「접속 불가 시 클릭」·「지금 바로 시작하기」 → `qkc709.com/?ac=…` |
@@ -77,7 +77,7 @@
 - **zero_width:**
   - 보이지 않는 문자가 광고 키워드·연락처·도메인 바로 안이나 옆(±4자)에 있어야 넣었다.
   - 빠진 예: 긴 본문에 복사로 딸려 온 제로폭(「룰렛 추첨기」 소개글), 이모지 둘을 잇는 결합 문자 U+200D
-  - 사이트당 10건까지, 서로 다른 글만 넣었다.
+  - 사이트당 10건까지, 서로 다른 글만 넣었다. 10-06 중복 정리에서는 남은 후보가 모두 10건을 채운 사이트에만 있어, C&P그룹·영테크·황비 세 곳에 하나씩만 11건째를 넣었다.
 - **meta_cloaking:** 사이트 기본 메타와 글 메타가 함께 있으면 evidence 와 값이 맞는 원문 태그를 그대로 썼다. 사이트당 10건까지.
   - 빠진 예: co-o-zam.co.kr 쇼핑몰 Q&A. JS 를 끄면 본문 전체가 비어 보이는 구조라, 「본문에는 광고가 없다」는 판정이 렌더링 방식 탓이다.
 - **200개 맞추기(`tools/build/trim_etc.py`):** 넘친 만큼을 가장 흔한 zero_width 에서, 항목이 가장 많은 사이트부터 하나씩 뺐다. 192개 판은 `data/raw/etc/etc_192_backup.yaml` 에 있다.
@@ -97,6 +97,35 @@
   - visibility_hidden 15개 중 11개가 같은 `hideMeya` 캠페인이다(WordPress Stack Exchange 4 · SitePoint 7). 공개 보고서·포럼·블로그·GitHub 이슈를 훑었지만, 업자가 `visibility:hidden` 으로 광고 링크를 숨긴 다른 원문은 나오지 않았다.
 - **목록 화면:** `data/offscreen/시작.html` 이다. 시험용 화면은 외부 요청과 JS 없이 열린다.
 - **라이선스:** 시험용에 쓴 라이브러리 CSS 의 라이선스 원문은 `data/offscreen/licenses/`, 출처는 `THIRD_PARTY.md` 에 있다.
+- **요약 파일:**
+  - 묶음의 `검증결과.json`·`최종현황.json`·`패키지_SHA256.json` 은 10-06 에 `tools/build/refresh_offscreen_meta.py` 로 지금 데이터에 맞춰 다시 썼다.
+  - SHA256 은 이 PC 작업 사본의 바이트 기준이다. git 이 체크아웃할 때 줄바꿈을 바꾸는 설정(autocrlf)이면 다른 사본에서는 텍스트 파일의 해시가 다를 수 있다.
+
+### 10-06 중복 정리
+
+데이터 전체를 다시 훑어 세 가지를 고쳤다. 고친 뒤 두 검증기 모두 오류 0이다.
+
+1. **조합 안 같은 글 2개 삭제 (CB-220·231):**
+   - CB-045·046 과 글이 완전히 같았다. 같은 업자가 다른 쇼핑몰 게시판(bienworks → mi-art)에 다시 올린 글이다.
+   - 원인은 10-04 덧붙이기 도구(`extend_combo.py`)가 같은 사이트 안에서만 중복을 걸렀기 때문이다.
+   - 같은 규칙의 후보에서 채웠다(CB-251 nebuah · CB-252 vestmall). 이번에는 사이트와 상관없이 글이 같으면 빼고, ETC·JAMO 와 같은 글도 뺐다(`tools/build/dedupe_refill_20261006.py`).
+2. **ETC 와 조합에 같은 요소가 함께 든 6건 정리:**
+   - ET-027·071·084·171·185·190 은 조합 항목과 같은 페이지·같은 선택자·같은 글이었다.
+   - 조합은 한 요소에 수법 2개 이상인 것이 정의상 들어갈 자리라 조합 쪽을 남겼다. ETC 에서는 빼고, 같은 하위 유형(zero_width) 실측 후보로 채웠다(ET-201~206).
+3. **숨김 사본을 가리키던 위치 고침:**
+   - 11건(ETC 4 · 조합 7, 모두 kmc1958 게시글 하나)의 위치가 그누보드 댓글 수정용 숨김 사본(`textarea#save_comment_N`, `display:none`)이었다. 같은 글이 화면에는 `#c_N > p` 로 보인다.
+   - 원문에서 보이는 댓글 요소를 다시 잘라 위치를 바꿨다(`tools/build/fix_hidden_copy_location.py`). 증거는 그 요소의 텍스트 노드 그대로로 다시 골랐다.
+   - 그 결과 셋이 드러났다.
+     - **ETC 3건(ET-086·088·090):** 같은 페이지의 보이는 댓글 샘플(ET-085·087·089)과 같은 댓글이었다. 보이는 쪽과 숨김 사본이 두 번 들어가 있던 것이다. 빼고 zero_width 로 채웠다(ET-207~209).
+     - **조합 6건(CB-060·061·063·064·065·066):** 보이는 요소에서는 적힌 수법들이 한 텍스트 노드에 함께 있지 않았다(숨김 사본에서만 여러 줄이 한 덩어리였음). CB-061 은 남는 노드가 회사 표기 「㈜」뿐이었다. 조합이 아니게 되어 빼고 같은 규칙으로 채웠다(CB-253~258).
+     - **CB-062:** 보이는 요소의 텍스트 노드로 그대로 살렸다.
+- **상한을 한 칸 올린 곳:** 채울 후보가 모두 상한을 채운 사이트에만 남아 있었다. 그래서 한 사이트에 하나씩만 넣는다는 조건으로 올렸다.
+  - 조합: 10-04 덧붙임 사이트 상한 5 -> 6(아이앙띠·진산스포츠·러브리올·키타몰·Nebuah)
+  - ETC zero_width: 사이트 상한 10 -> 11(C&P그룹·영테크·황비)
+  - 새 사이트를 찾으려면 새로 수집해야 하는데, 10-04 에 새 게시판 30여 곳을 받아 4개만 늘었던 적이 있어 이번에는 하지 않았다.
+- **지운 id 는 다시 쓰지 않았다.** 새 항목은 ET-201~209, CB-251~258 이다.
+- **정답셋:** 조합에 같은 페이지·같은 글이 이미 JAMO 라벨로 있는 JAMO 샘플 2건(JM-133·140)은 정답에 두 번 넣지 않게 했다(`to_answer.py`). 샘플 파일에는 둘 다 남겼다.
+- 고치기 전 판은 `data/raw/` 아래에 두지 않았다. git 이력(10-06 이전 커밋)에서 꺼낼 수 있다.
 
 ### 난독화 조합 250
 
@@ -106,30 +135,30 @@
 | annaprez.com 주문게시판 (홀덤·카지노 「인디고게임」 캠페인) | 38 | `카|지노게|임`(소프트 하이픈), `blgm7.cOM`(대소문자), `카 톡 텔 레: oi…` |
 | dhtndus1004.woobi.co.kr 게시판 (같은 캠페인) | 20 | `【BLＧM 7.ＣＯM】` 전각 + CJK 괄호 |
 | skin-skin1.ms8344.cafe24.com 상품 Q&A | 10 | `scmbet주소｡com ⁄ 텔 @…⁇`, 쉼표를 `، ˏ ˎ ‚` 로, `【찌라시.COM】` |
-| kmc1958.or.kr (의약품) · 하우스코디 (성매매·구글찌라시) | 각 7 | 전각 + 대소문자 섞은 도메인 / `o10―XXXX﹣XXXX` + 제로폭, `찌라시｡COM` |
-| 10-04 덧붙임 20곳 (아래, 목포대·코리아왁스 등 일부는 위 사이트와 겹침) | 57 | 사이트당 5개 이하 |
+| 하우스코디 (성매매·구글찌라시) 7 · kmc1958.or.kr (의약품) 1 | 8 | 전각 + 대소문자 섞은 도메인 / `o10―XXXX﹣XXXX` + 제로폭, `찌라시｡COM` |
+| 10-04 덧붙임 20곳 + 10-06 채움 (아래, 목포대·코리아왁스 등 일부는 위 사이트와 겹침) | 61 | 10-04 는 사이트당 5개 이하, 10-06 채움으로 6곳이 6개 |
 | 그 밖 19곳 (선진설비·바주카·C&P그룹·비엔웍스·뉴바인·목포대·코오잠 등, 10-04 덧붙임 전) | 39 | `０１0ㅡ５8l５`, `ㅋ ㅏ톡`, `O 1 O - X X X X`, `BiS55닷CoM`, `ⓞ①ⓞ`, `여왕벌.𝐧𝐞𝐭` 등 |
 
-10-04 덧붙임 57개의 출처는 굿웹플·아이앙띠·진산스포츠·러브리올·키타몰 각 5, 동광장갑·미아트·Nebuah·베스트몰·예원방 각 4, 배진금속·옐로포스트 각 2, 그 밖 8곳 각 1 이다. 형태 예: `카지노(인디go 홀뎜 게­임) 아이슬­롯`, `"⓿❶⓿＊❼❹❻❺＊…"`, `◈ㄴㄲㅏ톡 탤ㄹㅔ sk5775 ◈`, `( cpangpond168.cOm)`, `◆카턱.텔.레 oio365◆ ㅋr톡, # 텔ㄹㅔ그램`.
+10-04 덧붙임 57개의 출처는 굿웹플·아이앙띠·진산스포츠·러브리올·키타몰 각 5, 동광장갑·미아트·Nebuah·베스트몰·예원방 각 4, 배진금속·옐로포스트 각 2, 그 밖 8곳 각 1 이었다. 10-06 정리 뒤에는 아이앙띠·진산스포츠·러브리올·키타몰·Nebuah 각 6, 베스트몰·예원방 각 5, 미아트 2 다. 형태 예: `카지노(인디go 홀뎜 게­임) 아이슬­롯`, `"⓿❶⓿＊❼❹❻❺＊…"`, `◈ㄴㄲㅏ톡 탤ㄹㅔ sk5775 ◈`, `( cpangpond168.cOm)`, `◆카턱.텔.레 oio365◆ ㅋr톡, # 텔ㄹㅔ그램`.
 
 라벨은 두 갈래다.
-- `label_codes`: 요강 4종으로 옮길 수 있는 것이다. HOMOGLYPH 175, JAMO 12.
+- `label_codes`: 요강 4종으로 옮길 수 있는 것이다. HOMOGLYPH 173, JAMO 12.
 - `extra_findings`: 요강에 없는 회피 수법이다. 유형명은 제안이다.
 
 | extra_findings | 개수 |
 |---|---|
-| SYMBOL_SEPARATOR | 108 |
-| ZERO_WIDTH | 76 |
+| SYMBOL_SEPARATOR | 106 |
+| ZERO_WIDTH | 75 |
 | KANA_SEPARATOR | 71 |
+| KEYWORD_SPACING | 41 |
 | DOMAIN_SPACING | 39 |
-| KEYWORD_SPACING | 36 |
 | CASE_MIX | 31 |
 | PUNCT_VARIANT | 21 |
 | DOT_SUBSTITUTION | 14 |
-| SPELLING_VARIANT | 10 |
-| JAMO_SEPARATOR | 2 |
+| SPELLING_VARIANT | 12 |
+| JAMO_SEPARATOR | 1 |
 
-한 요소에 겹친 수법 수는 2개 162건, 3개 57건, 4개 26건, 5개 5건이다.
+한 요소에 겹친 수법 수는 2개 161건, 3개 58건, 4개 26건, 5개 5건이다.
 
 선별 기준(`tools/analyze/analyze_obf.py` → `tools/build/build_combo_real.py`)은 이렇다.
 - **조합:** 장식용 이모지는 세지 않았다.
@@ -216,18 +245,24 @@
 
 ## 요강 기준 정답셋 (`data/answers/`)
 
-`python tools/build/to_answer.py` 가 위 세 파일을 요강 붙임4 스키마(UTF-8, BOM 없음)로 바꾼다. 원본 YAML 은 건드리지 않는다.
+`python tools/build/to_answer.py` 가 실측 라벨을 요강 붙임4 스키마(UTF-8, BOM 없음)로 바꾼다. 원본 YAML 은 건드리지 않는다.
+- 읽는 파일: decoy·etc·combo_real·jamo, OFFSCREEN 원문(`data/offscreen/data/originals/offscreen_originals.yaml`)
+- 10-06 부터 JAMO·OFFSCREEN 도 읽는다.
+- OFFSCREEN 의 CSS 시험용 100개와 가시 대조군 7개는 실측이 아니라 파생 자료라 넣지 않는다.
 
 | 파일 | 요강의 자리 | 건수 |
 |---|---|---|
-| `answer_result.json` | `result.json` — 적격평가 대상 주요 탐지 유형 4종 | 187 (HOMOGLYPH 175 · JAMO 12 · TRANSPARENT 0 · OFFSCREEN 0) |
-| `answer_result_extra.json` | `result_extra.json` — 추가 유형, `technique: "ETC"` + `extra_finding` | 608 (etc 200 + 조합의 extra_findings 408) |
+| `answer_result.json` | `result.json` — 적격평가 대상 주요 탐지 유형 4종 | 430 (HOMOGLYPH 173 · JAMO 157 · TRANSPARENT 0 · OFFSCREEN 100). JAMO 157 = jamo.yaml 145(조합과 같은 요소 2건 제외) + 조합의 JAMO 라벨 12 |
+| `answer_result_extra.json` | `result_extra.json` — 추가 유형, `technique: "ETC"` + `extra_finding` | 611 (etc 200 + 조합의 extra_findings 411) |
 | `negatives.json` | 정답 아님. 숨김 신호가 있는 정상 요소라 여기에 걸리면 오탐(정답 추출 정확도 35점) | 200 |
 
 - 검출 1건 = `(url + location + technique)`. 한 요소에 기법이 겹치면 기법마다 객체를 따로 만들었다(요강 붙임4). `id` 는 `샘플id_기법`(예: `CB-003_HOMOGLYPH`).
 - `url` 은 샘플을 잘라 온 실제 페이지 주소, `location` 은 잘라 낸 조각(`html`) 안의 유일 선택자다. 그래서 지금은 **조각 단위 채점**만 된다. 페이지 단위 채점은 mocksite 에 조각을 심은 뒤 그 주소로 다시 만든다.
-- 조합 250개 중 70개는 4종 코드가 없어 `answer_result_extra.json` 에만 들어간다. 이 70개는 적격평가 점수에 기여하지 않는다.
-- **적격평가 4종 중 TRANSPARENT 는 실측 정답이 0건이다.** 재현율은 생성 데이터로만 잴 수 있다. OFFSCREEN 은 실측 원문 100개가 `data/offscreen/` 에 있지만 `to_answer.py` 가 아직 읽지 않아 위 표에서 0건이다(아래 「남은 일」).
+- 조합 250개 중 72개는 4종 코드가 없어 `answer_result_extra.json` 에만 들어간다. 이 72개는 적격평가 점수에 기여하지 않는다.
+- **적격평가 4종 중 TRANSPARENT 는 실측 정답이 0건이다.** 재현율은 생성 데이터로만 잴 수 있다.
+- **OFFSCREEN 원문 100건의 `url`:**
+  - 공개 웹페이지 실측 52건은 그 페이지 주소다.
+  - 과거 피해 코드 공개 사본 48건은 코드를 실은 보고서·포럼 글의 주소다. 그 페이지에서 코드는 글자로 보이지 숨겨져 있지 않으므로, 실제 페이지에 대고 채점하는 용도가 아니라 조각 단위 정답이다.
 
 ## 채점기 (`tests/scorer.py`)
 
@@ -243,7 +278,7 @@ python -m pytest tests/test_scorer.py -q                    # 채점기 자체 �
 - 요강이 정하지 않아 채점기가 정한 것: 스키마 미준수 항목은 오답으로 셈(붙임2 와 붙임4 가 다르다, `--schema-miss exclude` 로 바꿈) · `is_violation: false` 는 제출 건수에 넣고 정답으로 치지 않음 · BOM 은 0점 · 「참고 점수」는 45 x 재현율, 35 x 정밀도라는 가정 · 시간 20점은 상한 판정만.
 - 브라우저 방식은 `--allow-host`(기본 127.0.0.1, localhost)의 페이지만 연다. 실제 사이트에는 요청하지 않는다.
 
-**지금 정답셋으로 돌리면 생기는 일.** `data/answers/answer_result.json` 의 건수가 채점기 안에서 크게 줄어든다(155건 판에서 81건). 같은 페이지의 댓글 여러 개가 모두 `p.txt` 같은 조각 선택자를 써서 url · location · technique 가 겹치기 때문이다(채점기가 경고로 알린다). 조각 단위 정답셋으로는 페이지 단위 채점을 할 수 없다는 뜻이고, mocksite 에 조각을 하나씩 심어 페이지 주소와 페이지 안 유일 선택자를 새로 매기면 풀린다.
+**지금 정답셋으로 돌리면 생기는 일.** `data/answers/answer_result.json` 의 건수가 채점기 안에서 크게 줄어든다. 10-06 판은 430건이 287건으로 합쳐진다. 기법별로는 HOMOGLYPH 173 -> 102, OFFSCREEN 100 -> 28 이고 JAMO 157 은 그대로다. OFFSCREEN 은 같은 보고서·게시판 주소에서 잘라 온 조각들이 모두 `a` 같은 선택자를 쓰기 때문이다. 같은 페이지의 댓글 여러 개가 모두 `p.txt` 같은 조각 선택자를 써서 url · location · technique 가 겹치기 때문이다(채점기가 경고로 알린다). 조각 단위 정답셋으로는 페이지 단위 채점을 할 수 없다는 뜻이고, mocksite 에 조각을 하나씩 심어 페이지 주소와 페이지 안 유일 선택자를 새로 매기면 풀린다.
 
 ## 남은 일 (10-06 기준)
 
@@ -253,10 +288,11 @@ python -m pytest tests/test_scorer.py -q                    # 채점기 자체 �
    - encoding 의 엔티티·Base64 형태
    - 숨김+난독화 조합
    - 적격평가 4종 중 TRANSPARENT 정답
-2. **JAMO·OFFSCREEN 을 정답셋에 넣기:** `tools/build/to_answer.py` 는 아직 decoy·etc·combo_real 만 읽는다. 적격평가 4종인 JAMO 정답(`data/samples/jamo.yaml` 147건)과 OFFSCREEN 원문(`data/offscreen/data/originals/offscreen_originals.yaml` 100건)을 `data/answers/answer_result.json` 에 넣어야 한다.
-3. **mocksite:** `tests/mocksite/` 에 조각을 심어 페이지 단위 정답셋을 만든다. 지금 정답셋은 조각 단위라 같은 선택자가 겹쳐 합쳐진다.
-4. **팀 결정:** 위 「결정이 필요한 것」의 도메인 가명화·encoding 인정 여부. (git 원격은 10-04 에 비공개로 돌렸다.)
-5. **일정:** 10-09 F1 0.85 게이트, 10-16 클린 VM, 10-21 풀런 3회, 10-22 제출.
+2. **mocksite:** `tests/mocksite/` 에 조각을 심어 페이지 단위 정답셋을 만든다. 지금 정답셋은 조각 단위라 같은 선택자가 겹쳐 합쳐진다.
+3. **팀 결정:** 위 「결정이 필요한 것」의 도메인 가명화·encoding 인정 여부. (git 원격은 10-04 에 비공개로 돌렸다.)
+4. **일정:** 10-09 F1 0.85 게이트, 10-16 클린 VM, 10-21 풀런 3회, 10-22 제출.
+
+> 10-06 까지 남은 일이던 「JAMO·OFFSCREEN 을 정답셋에 넣기」는 10-06 에 했다. `to_answer.py` 가 jamo.yaml 147건과 OFFSCREEN 원문 100건을 읽어 `answer_result.json` 이 187 -> 430건이 되었다(위 「요강 기준 정답셋」, 10-06 중복 정리 뒤 숫자).
 
 ## 폴더
 
@@ -304,11 +340,14 @@ tools/
     build_combo_real.py   조합 선별 → combo_real.yaml
     extend_combo.py · finalize_combo.py   조합 덧붙이기 · 중복 합치고 개수 맞춤
     combo_round.py        조합 덧붙이기 한 회차 (새 회차 분석 → 후보 → 덧붙이기)
-    to_answer.py          samples → data/answers (요강 붙임4 스키마)
+    to_answer.py          samples·jamo·OFFSCREEN 원문 → data/answers (요강 붙임4 스키마)
     fix_jamo.py · fix_lexicon.py   JAMO·LEXICON 점검 결과 고치기 (2026-10-05)
     add_jamo.py           JAMO 덧붙이기, 기존 id 유지 (2026-10-06)
     fix_offscreen.py      사람 3 OFFSCREEN 점검 결과 고치기 (2026-10-05)
     add_offscreen.py      OFFSCREEN 원문·시험용 덧붙이기 (2026-10-06)
+    dedupe_refill_20261006.py  ETC·조합 중복 정리와 같은 규칙으로 채우기 (2026-10-06)
+    fix_hidden_copy_location.py  숨김 사본(textarea)을 가리키던 위치를 보이는 요소로, 증거를 그 텍스트 노드로 (2026-10-06)
+    refresh_offscreen_meta.py  OFFSCREEN 묶음 요약 파일(검증결과·최종현황·SHA256·원문 메타데이터)을 지금 데이터로 다시 쓰기 (2026-10-06)
   validate/
     validate_samples.py   DECOY·ETC 양식·렌더링 검증                         ← 게이트 산출물 "양식 검증 스크립트"
     validate_combo.py     조합 검증

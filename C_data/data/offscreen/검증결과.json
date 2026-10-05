@@ -12,10 +12,10 @@
   },
   "approved_original_counts": {
     "font_left_display": 45,
-    "text_indent": 10,
+    "visibility_hidden": 15,
     "clip": 15,
-    "transform_outside": 15,
-    "visibility_hidden": 15
+    "text_indent": 10,
+    "transform_outside": 15
   },
   "original_quota_completed": true,
   "source_publisher_cap_passed": true,
@@ -28,7 +28,7 @@
   "unique_selector_and_exact_text_checks": 214,
   "positive_fixture_rendering_passed": 200,
   "negative_controls_visible_passed": 14,
-  "tiny_font_positive_fixtures": 12,
+  "tiny_font_positive_fixtures": 15,
   "network_requests": 0,
   "page_errors": [],
   "unicode_version": "17.0.0",
@@ -37,7 +37,9 @@
   "caveats": [
     "Historical originals verified by published code and human review; full historical victim page rendering not verified.",
     "Ranum redacted terms preserved; historical merchant identities are not reconstructed.",
-    "Fixture rendering is tested in Chromium, two viewports, DPR1; does not imply all browser/zoom settings."
+    "Fixture rendering is tested in Chromium, two viewports, DPR1; does not imply all browser/zoom settings.",
+    "2026-10-06 역할 C 재검증: 원문 100개는 html 발췌만으로 숨김이 재현됨을 확인했다(10-05 에 감싸는 요소를 재구성한 원문은 그 태그가 원문이 아님, notes 참고). 피해 당시 전체 화면 재현은 여전히 아니다.",
+    "human_review_rows·review_file_sha256 은 사람 3 의 검수 CSV(102행) 기준이다. 10-06 보충 7개는 그 CSV 에 없고 역할 C 가 원문 게시글을 확인해 넣었다."
   ],
   "sample_schema_alignment": {
     "status": "passed",
@@ -64,7 +66,8 @@
     "html_css_semantics_preserved": true,
     "evidence_text_source_and_labels_unchanged": true,
     "previous_rendering_observations_preserved": 214,
-    "extra_sample_metadata_preserved_in_existing_review_file": true
+    "extra_sample_metadata_preserved_in_existing_review_file": true,
+    "role_c_note": "2026-10-06: 이 항목은 사람 3 첫 판(원문 OF-108~207, 시험용 OF-001~100) 기준 기록이다. 지금 id 는 원문 OF-108~214(삭제 7개 제외), 시험용 OF-001~100(삭제 7개 제외)·OF-215~221, 대조군 OF-101~107"
   },
   "original_sample_schema_alignment": {
     "status": "passed",
@@ -104,6 +107,34 @@
       }
     ],
     "network_requests": 0,
-    "verification_scope": "Schema and excerpt DOM matching; no new historical full-page rendering claim."
+    "verification_scope": "Schema and excerpt DOM matching; no new historical full-page rendering claim.",
+    "role_c_note": "2026-10-06: 이 항목은 사람 3 첫 판(원문 OF-108~207, 시험용 OF-001~100) 기준 기록이다. 지금 id 는 원문 OF-108~214(삭제 7개 제외), 시험용 OF-001~100(삭제 7개 제외)·OF-215~221, 대조군 OF-101~107"
+  },
+  "original_excerpt_rendering": {
+    "runs": 200,
+    "unique_selector_and_exact_text": 200,
+    "positive_hidden": 200
+  },
+  "role_c_revision": {
+    "date": "2026-10-06",
+    "by": "역할 C",
+    "method": "tools/build/refresh_offscreen_meta.py: html+css 만 띄움(JS 끔, 네트워크 막음), Edge(Chromium) 데스크톱 1280x900·모바일 390x844, DPR1",
+    "changes": "2026-10-05 상품명이 가려진 원문 7개와 그 시험용 7개 삭제, 숨김이 재현되지 않던 원문 45개 수정, subtype 5종 통일. 2026-10-06 visibility_hidden 원문 OF-208~214 와 시험용 OF-215~221 보충. 자세한 것은 변경요약_20261005.md",
+    "first_edition_values": {
+      "approved_originals": 100,
+      "approved_original_counts": {
+        "font_left_display": 45,
+        "text_indent": 10,
+        "clip": 15,
+        "transform_outside": 15,
+        "visibility_hidden": 15
+      },
+      "fixture_count": 100,
+      "viewport_runs": 214,
+      "unique_selector_and_exact_text_checks": 214,
+      "positive_fixture_rendering_passed": 200,
+      "negative_controls_visible_passed": 14,
+      "tiny_font_positive_fixtures": 12
+    }
   }
 }
