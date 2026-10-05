@@ -2,11 +2,13 @@
 
 행정안전부·NIA 「공공 웹사이트 불법광고 탐지 도구 개발 공모전」(접수 마감 2026-10-23 18시)의 데이터·평가 몫이다. 요강 원문은 `공공 웹사이트 불법광고 탐지 도구 개발 공모전 모집요강.pdf`(18쪽), 팀 설계는 `총계획서_최종_공공웹사이트_불법광고_탐지도구.md` 이다.
 
-## DECOY · ETC · 난독화 조합 — 실측 수집 결과
+## DECOY · ETC · 난독화 조합 · JAMO · 사전 — 실측 수집 결과
 
-수집일 2026-10-03(토)~10-04(일). 10-04 에 DECOY·ETC 를 200개로, 조합을 250개로 늘렸다. 사람 1(역할 C) 담당분. **이 폴더 전체와 수집·선별 로직은 탐지기(B) 담당에게 공개하지 않는다.**
+수집일 2026-10-03(토)~10-05(월). 10-04 에 DECOY·ETC 를 200개로, 조합을 250개로 늘렸다. DECOY·ETC·조합은 사람 1(역할 C) 담당분이고, JAMO·사전은 사람 4 담당분을 10-05 에 역할 C 가 점검·수정해 넣었다.
 
-**세 파일 모두 실제 웹페이지에서 찾아 잘라 낸 것만 담았다. 생성한 샘플은 없다.** 생성 데이터는 별도로 만든다.
+**사람 1 의 DECOY·ETC·조합 샘플과 그 수집·생성·선별 로직(`tools/`)은 탐지기(B) 담당에게 공개하지 않는다.** B 는 채점기 점수만 본다. JAMO 샘플과 사전(`data/lexicon/seed.yaml`)은 정규화·탐지에 쓰는 재료라 B 가 써도 된다(데이터 수집 계획 「정보 차단」 규칙 범위).
+
+**샘플 파일(decoy·etc·combo_real·jamo)은 모두 실제 웹페이지에서 찾아 잘라 낸 것만 담았다. 생성한 샘플은 없다.** 생성 데이터는 별도로 만든다. 사전의 어휘도 모두 실측 원문이나 규제기관 문서에서 확인한 것이다.
 
 ## 결과
 
@@ -15,7 +17,8 @@
 | `data/samples/decoy.yaml` | **200** | a11y_sr_only 80 · hidden_menu 60 · policy_text 30 · risky_word_normal 30 | 오류 0. 53개 기관·업체 사이트 실측 |
 | `data/samples/etc.yaml` | **200** | zero_width 99 · link_cloaking 41 · encoding 40 · meta_cloaking 20 · css_content 0 | 오류 0. 40개 사이트. css_content 만 쿼터(20)에 못 미친다 |
 | `data/samples/combo_real.yaml` | **250** | 한 요소에 회피 수법 2~5개가 겹친 실제 광고 | 오류 0. 44개 사이트. 194번부터는 「안 쏠리게」 규칙으로 덧붙인 것(아래 「덧붙이기」) |
-| `data/samples/jamo.yaml` | **142** | 사람 4 몫 JAMO 실측 (compat_full 12 · partial_mix 58 · conjoining_u1100 20 · mixed_technique 52) | 2026-10-05 역할 C 점검·수정. `person4/` 참고 |
+| `data/samples/jamo.yaml` | **142** | 사람 4 몫 JAMO 실측 (compat_full 12 · partial_mix 58 · conjoining_u1100 20 · mixed_technique 52) | 2026-10-05 역할 C 점검·수정. `data/JAMO_LEXICON_변경요약_20261005.md` 참고 |
+| `data/lexicon/seed.yaml` | **624** | 사람 4 몫 사전: gambling_core·lure·contact·adult 각 100, whitelist 130, gambling_weak 94 | 모두 `reviewed: true`. 바뀐 401개 목록 `data/lexicon/review_20261005.csv` |
 
 검증 명령은 아래 둘이다.
 - `python tools/validate/validate_samples.py data/samples/decoy.yaml data/samples/etc.yaml`
@@ -225,16 +228,18 @@ python -m pytest tests/test_scorer.py -q                    # 채점기 자체 �
 
 **지금 정답셋으로 돌리면 생기는 일.** `data/answers/answer_result.json` 의 건수가 채점기 안에서 크게 줄어든다(155건 판에서 81건). 같은 페이지의 댓글 여러 개가 모두 `p.txt` 같은 조각 선택자를 써서 url · location · technique 가 겹치기 때문이다(채점기가 경고로 알린다). 조각 단위 정답셋으로는 페이지 단위 채점을 할 수 없다는 뜻이고, mocksite 에 조각을 하나씩 심어 페이지 주소와 페이지 안 유일 선택자를 새로 매기면 풀린다.
 
-## 남은 일 (10-04 기준)
+## 남은 일 (10-05 기준)
 
 1. **생성 데이터:** 실측으로 못 채운 몫이다.
+   - JAMO 호환자모 전체 분해 28 (실측 12/40. 공개 게시판 원문 3,638쪽에서 실례 0건)
    - css_content 20
    - encoding 의 엔티티·Base64 형태
    - 숨김+난독화 조합
    - 적격평가 4종 중 TRANSPARENT·OFFSCREEN 정답
-2. **mocksite:** `tests/mocksite/` 에 조각을 심어 페이지 단위 정답셋을 만든다. 지금 정답셋은 조각 단위라 같은 선택자가 겹쳐 합쳐진다.
-3. **팀 결정:** 위 「결정이 필요한 것」의 도메인 가명화·encoding 인정 여부. (git 원격은 10-04 에 비공개로 돌렸다.)
-4. **일정:** 10-09 F1 0.85 게이트, 10-16 클린 VM, 10-21 풀런 3회, 10-22 제출.
+2. **JAMO 를 정답셋에 넣기:** `tools/build/to_answer.py` 는 아직 decoy·etc·combo_real 만 읽는다. 적격평가 4종인 JAMO 정답(`data/samples/jamo.yaml` 142건)을 `data/answers/answer_result.json` 에 넣어야 한다.
+3. **mocksite:** `tests/mocksite/` 에 조각을 심어 페이지 단위 정답셋을 만든다. 지금 정답셋은 조각 단위라 같은 선택자가 겹쳐 합쳐진다.
+4. **팀 결정:** 위 「결정이 필요한 것」의 도메인 가명화·encoding 인정 여부. (git 원격은 10-04 에 비공개로 돌렸다.)
+5. **일정:** 10-09 F1 0.85 게이트, 10-16 클린 VM, 10-21 풀런 3회, 10-22 제출.
 
 ## 폴더
 
@@ -246,7 +251,10 @@ tests/
   scorer.py             요강 붙임4 「평가 참고사항」을 재현하는 채점기 (아래 「채점기」 절)
   test_scorer.py        채점기 테스트 24개 (요강 예시 URL·iframe·중복·스키마 규칙)
 data/
-  samples/              decoy.yaml · etc.yaml · combo_real.yaml  (실측 라벨 원본, 위 「결과」 표)
+  samples/              decoy.yaml · etc.yaml · combo_real.yaml · jamo.yaml  (실측 라벨 원본, 위 「결과」 표)
+  lexicon/              seed.yaml(사람 4 사전 624개) · review_20261005.csv(바뀐 어휘 검수 목록)
+  JAMO_LEXICON_작업노트.md         사람 4 작업 노트 원문 + 끝에 「2026-10-05 점검 뒤 고친 것」
+  JAMO_LEXICON_변경요약_20261005.md  JAMO·LEXICON 을 무엇을 왜 바꿨는지 한눈에 보는 표
   answers/              요강 붙임4 스키마 정답셋 (to_answer.py 가 만든다, 위 절)
   patterns/             (아직 비어 있음) catalog.yaml 자리 — 실측 은닉 패턴, 탐지 규칙 근거이자 mocksite 입력
   collection_log.csv    요청 5,269건의 대상·일시·결과
@@ -259,12 +267,15 @@ tools/
     dump_hidden.py        숨김 신호 요소 덤프 (+ probe_hidden.js, 같은 폴더에 있어야 한다)   ← 게이트 산출물 "덤프 스크립트"
     render_offline.py     저장한 원문을 JS 끄고 네트워크 막은 채 렌더링
     make_collection_log.py  data/collection_log.csv 작성
+    build_corpus.py       받아 둔 원문 → 보이는 글자 색인(corpus.jsonl, raw 아래에 둔다)
   analyze/              원문 분석
     analyze_etc.py        원문 → ETC 5종 실측 후보
     analyze_obf.py        원문 → 난독화 특징 (build_combo_real · validate_combo 가 import 한다)
     scan_css_content.py   내려받은 CSS 파일의 content 규칙 훑기
     scan_encoding.py      원문 전체에서 속성·스크립트 Base64, 숫자 엔티티, \u 이스케이프로 감춘 광고 훑기
     scan_raw.py           원문 바이트 수준 ETC 신호 훑기
+    find_jamo.py · find_jamo_diverse.py   원문 색인에서 자모 분해 광고 찾기 (JAMO 보충·쏠림 완화)
+    mine_terms.py         원문 색인에서 도박 핵심어·유인어·연락 표기 후보 뽑기 (LEXICON 보충)
   build/                후보 → 샘플 파일 → 정답셋
     build_decoy.py        덤프 → DECOY 후보 (조각 재현 확인)
     select_decoy.py       후보 → decoy.yaml
@@ -275,6 +286,7 @@ tools/
     extend_combo.py · finalize_combo.py   조합 덧붙이기 · 중복 합치고 개수 맞춤
     combo_round.py        조합 덧붙이기 한 회차 (새 회차 분석 → 후보 → 덧붙이기)
     to_answer.py          samples → data/answers (요강 붙임4 스키마)
+    fix_jamo.py · fix_lexicon.py   JAMO·LEXICON 점검 결과 고치기 (2026-10-05)
   validate/
     validate_samples.py   DECOY·ETC 양식·렌더링 검증                         ← 게이트 산출물 "양식 검증 스크립트"
     validate_combo.py     조합 검증

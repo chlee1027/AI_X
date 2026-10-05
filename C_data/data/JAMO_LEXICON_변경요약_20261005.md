@@ -1,6 +1,8 @@
 # 사람 4 데이터 변경 요약 (2026-10-05)
 
-원본: `_backup_20261005/` (손대지 않음) · 고친 스크립트: `tools/` · 자세한 내역: 사람4 작업결과 노트 끝 「2026-10-05 점검 뒤 고친 것」
+저장소 위치: JAMO `C_data/data/samples/jamo.yaml` · 사전 `C_data/data/lexicon/seed.yaml` · 검수 목록 `C_data/data/lexicon/review_20261005.csv`
+고친 스크립트: `C_data/tools/build/fix_jamo.py`·`fix_lexicon.py`, `C_data/tools/analyze/find_jamo.py`·`find_jamo_diverse.py`·`mine_terms.py`, `C_data/tools/collect/build_corpus.py`
+자세한 내역: `C_data/data/JAMO_LEXICON_작업노트.md` 끝 「2026-10-05 점검 뒤 고친 것」 · 고치기 전 원본은 사람 4 작업 폴더의 `_backup_20261005/` (저장소에는 없음)
 
 ## 한눈에
 

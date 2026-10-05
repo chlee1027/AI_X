@@ -16,7 +16,8 @@ from pathlib import Path
 
 import yaml
 
-sys.path.insert(0, str(Path(__file__).parent))
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "build"))
 from fix_jamo import mask  # noqa: E402
 from find_jamo import AD, compose, context  # noqa: E402
 

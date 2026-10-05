@@ -104,6 +104,8 @@ python3 scripts/validate_observed_lexicon.py
 
 ## 2026-10-05 점검 뒤 고친 것 (역할 C 점검·수정)
 
+> 저장소에서는 이 노트 위쪽의 경로(`data/samples/jamo_dataset.csv`, `scripts/…`)가 아니라 다음이 정본이다: `C_data/data/samples/jamo.yaml`, `C_data/data/lexicon/seed.yaml`. 위쪽 내용과 숫자(JAMO 130 · 사전 500)는 고치기 전 기준이다. 아래에서 말하는 `tools/` 스크립트는 저장소의 `C_data/tools/{collect,analyze,build}/` 에 있다.
+
 원본은 `_backup_20261005/` 에 그대로 두었다. 고친 스크립트는 `tools/` 에 있다(`fix_jamo.py`, `fix_lexicon.py`, `find_jamo.py`, `mine_terms.py`, `build_corpus.py`).
 새로 찾은 근거는 역할 C 가 polite 모드로 받은 공개 게시판 원문 3,638쪽(도박 홍보 사이트 자체·토토 커뮤니티 제외)과, 실측 출처가 붙은 JAMO·조합 샘플 문장이다.
 
@@ -126,7 +128,7 @@ python3 scripts/validate_observed_lexicon.py
 
 ### LEXICON (`lexicon/seed.yaml`)
 
-분류별 개수: {'gambling_weak': 94, 'gambling_core': 100, 'gambling_lure': 100, 'whitelist': 130, 'adult': 100, 'contact': 100}. reviewed: {True: 624}.
+분류별 개수: gambling_core 100 · gambling_lure 100 · contact 100 · adult 100 · whitelist 130 · gambling_weak 94 (합계 624). 624개 모두 `reviewed: true`.
 
 | 고친 것 | 건수 |
 |---|---:|
