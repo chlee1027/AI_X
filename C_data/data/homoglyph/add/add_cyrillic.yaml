@@ -1,0 +1,66 @@
+- id: HG-RT-NEW
+  category: HOMOGLYPH
+  subtype: cyrillic_greek
+  html: "<a href=\"/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=16&amp;uid=6710&amp;mod=document\">\n\t\t\t\t\t\t\t<div class=\"kboard-default-cut-strings\">\n\t\t\t\
+    \t\t\t\t\t<span class=\"kboard-default-new-notify\">New</span>\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t크보벳추천코드 ｈｏｎｇｂｏ８２８８ 센텀시티다국적노래방 ㅌㄹнσиgвσ8288 동작구스웨디시\t\t\t\t\t\t\t\t<span class=\"kboard-comments-count\"\
+    ></span>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</a>"
+  css: ''
+  evidence_text: New 크보벳추천코드 ｈｏｎｇｂｏ８２８８ 센텀시티다국적노래방 ㅌㄹнσиgвσ8288 동작구스웨디시
+  expected_location: div.kboard-default-cut-strings
+  is_positive: true
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=16
+  source_type: real
+  split: test
+  page_location: tr:nth-of-type(6) > td.kboard-list-title:nth-of-type(2) > a > div.kboard-default-cut-strings
+  origin:
+    url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=16
+    host: counselpsy.hannam.ac.kr
+    page_id: e984417fb90e
+  campaign: token:oo
+  tier: A
+  notes: '2026-10-06 역할 C 보충(키릴·그리스). 위장 토큰: ㅌㄹнσиgвσ8288'
+- id: HG-RT-NEW
+  category: HOMOGLYPH
+  subtype: cyrillic_greek
+  html: "<a href=\"/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=23&amp;uid=6638&amp;mod=document\">\n\t\t\t\t\t\t\t<div class=\"kboard-default-cut-strings\">\n\t\t\t\
+    \t\t\t\t\t<span class=\"kboard-default-new-notify\">New</span>\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t메가다이스가입 ㅌㄹнσиgвσ8288 압구정패티쉬 【광고대행 @HONGBO8288】 영등포구1인샵\t\t\t\t\t\t\t\t<span class=\"kboard-comments-count\"\
+    ></span>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</a>"
+  css: ''
+  evidence_text: New 메가다이스가입 ㅌㄹнσиgвσ8288 압구정패티쉬 【광고대행 @HONGBO8288】 영등포구1인샵
+  expected_location: div.kboard-default-cut-strings
+  is_positive: true
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=23
+  source_type: real
+  split: test
+  page_location: tr:nth-of-type(8) > td.kboard-list-title:nth-of-type(2) > a > div.kboard-default-cut-strings
+  origin:
+    url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=23
+    host: counselpsy.hannam.ac.kr
+    page_id: 2937eb266cca
+  campaign: token:oo
+  tier: A
+  notes: '2026-10-06 역할 C 보충(키릴·그리스). 위장 토큰: ㅌㄹнσиgвσ8288'
+- id: HG-RT-NEW
+  category: HOMOGLYPH
+  subtype: cyrillic_greek
+  html: "<a href=\"/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=28&amp;uid=6590&amp;mod=document\">\n\t\t\t\t\t\t\t<div class=\"kboard-default-cut-strings\">\n\t\t\t\
+    \t\t\t\t\t<span class=\"kboard-default-new-notify\">New</span>\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t도라에몽검증 ㅌㄹⱧØ₦₲฿Ø8288 범일비키니룸 ㅌㄹнσиgвσ8288 영통하퍼\t\t\t\t\t\t\t\t<span class=\"kboard-comments-count\"></span>\n\
+    \t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</a>"
+  css: ''
+  evidence_text: New 도라에몽검증 ㅌㄹⱧØ₦₲฿Ø8288 범일비키니룸 ㅌㄹнσиgвσ8288 영통하퍼
+  expected_location: div.kboard-default-cut-strings
+  is_positive: true
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=28
+  source_type: real
+  split: test
+  page_location: tr:nth-of-type(7) > td.kboard-list-title:nth-of-type(2) > a > div.kboard-default-cut-strings
+  origin:
+    url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=28
+    host: counselpsy.hannam.ac.kr
+    page_id: d11422655ad2
+  campaign: token:oo
+  tier: A
+  notes: '2026-10-06 역할 C 보충(키릴·그리스). 위장 토큰: ㅌㄹнσиgвσ8288'

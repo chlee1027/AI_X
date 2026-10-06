@@ -20,11 +20,13 @@
 | `data/samples/jamo.yaml` | **147** | 사람 4 몫 JAMO 실측 (compat_full 17 · partial_mix 58 · conjoining_u1100 20 · mixed_technique 52) | 2026-10-05 역할 C 점검·수정, 10-06 사람 4 추가분 5건(JM-143~147). `data/JAMO_LEXICON_변경요약_20261005.md` 참고 |
 | `data/offscreen/data/originals/offscreen_originals.yaml` | **100** | 사람 3 몫 OFFSCREEN 광고 원문 (font_left_display 45 · visibility_hidden 15 · clip 15 · text_indent 10 · transform_outside 15) | 계획서 쿼터 충족. 100개 모두 html·css 만 띄워 숨김 확인(`tools/validate/check_offscreen.py`). `data/offscreen/변경요약_20261005.md` 참고 |
 | `data/offscreen/data/samples/offscreen.yaml` | **100** + 대조군 7 | 위 원문 문구에 Bootstrap·Tailwind·HTML5BP·전자정부 숨김 CSS 를 건 시험용(분류별 개수 원문과 같음), 보여야 하는 대조군 7 | 시험용 100 숨김 · 대조군 7 보임 확인. 화면은 `data/offscreen/fixtures/` |
+| `data/homoglyph/homoglyph_real_test_capped.yaml` | **370** (전체판 1,777) | 사람 2 몫 HOMOGLYPH 실측, 캠페인당 최대 5건 (digit_letter 103 · enclosed_alnum 76 · fullwidth 50 · hangul_lookalike 48 · fullwidth_symbol 45 · partial_token 29 · cyrillic_greek 19) | 2026-10-06 역할 C 점검·수정(번호 가림 1 · 라벨 5 · 중복 4 · 키릴 실측 보충 4). 키릴·그리스는 쿼터 25 에 6 모자라고 19 로 둔다. `data/homoglyph/README.md` 참고 |
 | `data/lexicon/seed.yaml` | **624** | 사람 4 몫 사전: gambling_core·lure·contact·adult 각 100, whitelist 130, gambling_weak 94 | 모두 `reviewed: true`. 바뀐 401개 목록 `data/lexicon/review_20261005.csv` |
 
 검증 명령은 아래 둘이다.
 - `python tools/validate/validate_samples.py data/samples/decoy.yaml data/samples/etc.yaml`
 - `python tools/validate/validate_combo.py data/samples/combo_real.yaml`
+- `python tools/validate/validate_homoglyph.py data/homoglyph/homoglyph_real_test.yaml data/homoglyph/homoglyph_real_test_capped.yaml`
 - `python tools/validate/check_offscreen.py data/offscreen/data/originals/offscreen_originals.yaml out.json` (시험용·대조군도 같은 명령에 파일만 바꿈)
 
 **ETC 하위 유형 비율이 쿼터와 다른 이유.** 실제 웹에 있는 비율이 그렇다. 받은 원문 2,654페이지와 그 사이트들의 자체 CSS 파일 621개를 전부 훑은 결과다. 쿼터를 맞추려고 생성분을 섞지 않았다.

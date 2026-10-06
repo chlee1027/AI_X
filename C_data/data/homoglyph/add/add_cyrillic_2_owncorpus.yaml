@@ -1,0 +1,20 @@
+- id: HG-RT-NEW
+  category: HOMOGLYPH
+  subtype: cyrillic_greek
+  html: '<a href="/article/%EC%83%81%ED%92%88-qa/6/6908/">데카듀라보린 Deca-Durabolin (Nandrolone Deсanoate) #프리모구입 카톡VKP1004 #스틸녹스파는곳</a>'
+  css: ''
+  evidence_text: '데카듀라보린 Deca-Durabolin (Nandrolone Deсanoate) #프리모구입 카톡VKP1004 #스틸녹스파는곳'
+  expected_location: a
+  is_positive: true
+  extra_finding: null
+  source: 직접 수집(웹사이트, 비공공 · 역할 C 원문 data/raw/etc) · https://dkhrainbow.com/article/상품-qa/6/6907/
+  source_type: real
+  split: test
+  page_location: li.prev:nth-of-type(1) > a
+  origin:
+    url: https://dkhrainbow.com/article/상품-qa/6/6907/
+    host: dkhrainbow.com
+    page_id: 1eaafe3346_browser
+  campaign: kakao:vkp1004
+  tier: A
+  notes: '2026-10-06 역할 C 보충(키릴·그리스). 위장 토큰: Deсanoate / 키릴 с(U+0441)가 라틴 c 자리. 비공공 사이트(사람 2 원칙과 다름)'
