@@ -9,7 +9,7 @@
   extra_finding: null
   source: 직접 수집(웹사이트, 비공공 · 역할 C 원문 data/raw/etc) · https://dkhrainbow.com/article/상품-qa/6/6907/
   source_type: real
-  split: test
+  split: train
   page_location: li.prev:nth-of-type(1) > a
   origin:
     url: https://dkhrainbow.com/article/상품-qa/6/6907/

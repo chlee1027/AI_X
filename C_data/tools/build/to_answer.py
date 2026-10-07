@@ -15,7 +15,8 @@ HOMOGLYPH 전체판(1,777)은 권장판을 기본 테스트셋으로 쓰기로 �
 url 은 샘플을 잘라 온 실제 페이지 주소, location 은 잘라 낸 조각(html) 안의 유일 선택자다.
 그래서 이 파일로는 조각 단위 채점만 된다. 페이지 단위 채점은 mocksite 에 조각을 심은 뒤 그 주소로 다시 만든다.
 
-사용: python tools/build/to_answer.py
+사용: python tools/build/to_answer.py                 (저장소 data/ -> data/answers/, 학습·검증 몫)
+      python tools/build/to_answer.py --data 봉인폴더/data  (봉인한 테스트 몫 -> 봉인폴더/data/answers/)
 """
 import json
 import re
@@ -27,8 +28,9 @@ from urllib.parse import urlparse
 import yaml
 
 ROOT = Path(__file__).resolve().parents[2]
-SAMPLES = ROOT / "data" / "samples"
-OUT = ROOT / "data" / "answers"
+DATA = Path(sys.argv[sys.argv.index("--data") + 1]) if "--data" in sys.argv else ROOT / "data"
+SAMPLES = DATA / "samples"
+OUT = DATA / "answers"
 MAIN4 = ("HOMOGLYPH", "JAMO", "TRANSPARENT", "OFFSCREEN")
 URL_RE = re.compile(r"https?://[^\s)]+")
 
@@ -37,8 +39,8 @@ def load(name):
     return yaml.safe_load((SAMPLES / name).read_text(encoding="utf-8"))
 
 
-OFFSCREEN_ORIG = ROOT / "data" / "offscreen" / "data" / "originals" / "offscreen_originals.yaml"
-HOMOGLYPH = ROOT / "data" / "homoglyph" / "homoglyph_real_test_capped.yaml"
+OFFSCREEN_ORIG = DATA / "offscreen" / "data" / "originals" / "offscreen_originals.yaml"
+HOMOGLYPH = DATA / "homoglyph" / "homoglyph_real_test_capped.yaml"
 
 
 def page_url(item):

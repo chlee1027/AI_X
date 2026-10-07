@@ -1,4 +1,5 @@
 - id: OF-108
+  split: train
   category: OFFSCREEN
   subtype: font_left_display
   html: "<a href=\"https://www.esports-green.com\" target=\"_blank\" style=\"font-size:0;line-height:0;text-decoration:none;\" rel=\"nofollow noreferrer noopener\" class=\"seoquake-nofollow\"><br />\r\n\
@@ -13,6 +14,7 @@
     최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전 ID OF-KO-001의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에
     보존함. / 2026-10-05: subtype 을 계획서 5종으로 통일(font_size_zero_or_tiny -> font_left_display, 세부 유형 font_size_zero_or_tiny) / 2026-10-05: evidence 에 섞인 태그 조각 제거(''롤배팅/span>'' -> ''롤배팅'')'
 - id: OF-109
+  split: train
   category: OFFSCREEN
   subtype: font_left_display
   html: "<a href=\"https://www.xn--hy1bv3c7l532c.net/\" target=\"_blank\" style=\"font-size:0;line-height:0;text-decoration:none;\" rel=\"nofollow noreferrer noopener\" class=\"seoquake-nofollow\"><br />\r\
@@ -27,6 +29,7 @@
     최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전 ID OF-KO-014의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에
     보존함. / 2026-10-05: subtype 을 계획서 5종으로 통일(font_size_zero_or_tiny -> font_left_display, 세부 유형 font_size_zero_or_tiny)'
 - id: OF-110
+  split: train
   category: OFFSCREEN
   subtype: font_left_display
   html: "<a href=\"https://www.webtoonlink.net/\" target=\"_blank\" style=\"font-size:0;line-height:0;text-decoration:none;\" rel=\"nofollow noreferrer noopener\" class=\"seoquake-nofollow\"><br />\r\n\
@@ -41,6 +44,7 @@
     최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전 ID OF-KO-017의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에
     보존함. / 2026-10-05: subtype 을 계획서 5종으로 통일(font_size_zero_or_tiny -> font_left_display, 세부 유형 font_size_zero_or_tiny)'
 - id: OF-111
+  split: train
   category: OFFSCREEN
   subtype: font_left_display
   html: "<a href=\"https://www.casino-solution.biz/\" target=\"_blank\" style=\"font-size:0;line-height:0;text-decoration:none;\" rel=\"nofollow noreferrer noopener\" class=\"seoquake-nofollow\"><br />\r\
@@ -55,6 +59,7 @@
     최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전 ID OF-KO-007의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에
     보존함. / 2026-10-05: subtype 을 계획서 5종으로 통일(font_size_zero_or_tiny -> font_left_display, 세부 유형 font_size_zero_or_tiny)'
 - id: OF-112
+  split: train
   category: OFFSCREEN
   subtype: font_left_display
   html: "<a href=\"https://casino-vipsolution.com/\" target=\"_blank\" style=\"font-size:0;line-height:0;text-decoration:none;\" rel=\"nofollow noreferrer noopener\" class=\"seoquake-nofollow\"><br />\r\
@@ -69,6 +74,7 @@
     최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전 ID OF-KO-006의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에
     보존함. / 2026-10-05: subtype 을 계획서 5종으로 통일(font_size_zero_or_tiny -> font_left_display, 세부 유형 font_size_zero_or_tiny)'
 - id: OF-113
+  split: train
   category: OFFSCREEN
   subtype: font_left_display
   html: "<a href=\"https://www.sposolution1.com/\" target=\"_blank\" style=\"font-size:0;line-height:0;text-decoration:none;\" rel=\"nofollow noreferrer noopener\" class=\"seoquake-nofollow\"><br />\r\n\
@@ -83,6 +89,7 @@
     최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전 ID OF-KO-015의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에
     보존함. / 2026-10-05: subtype 을 계획서 5종으로 통일(font_size_zero_or_tiny -> font_left_display, 세부 유형 font_size_zero_or_tiny)'
 - id: OF-114
+  split: train
   category: OFFSCREEN
   subtype: font_left_display
   html: "<a href=\"https://www.spowave.com/\" target=\"_blank\" style=\"font-size:0;line-height:0;text-decoration:none;\" rel=\"nofollow noreferrer noopener\" class=\"seoquake-nofollow\"><br />\r\n<span\
@@ -97,6 +104,7 @@
     최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전 ID OF-KO-022의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에
     보존함. / 2026-10-05: subtype 을 계획서 5종으로 통일(font_size_zero_or_tiny -> font_left_display, 세부 유형 font_size_zero_or_tiny)'
 - id: OF-115
+  split: train
   category: OFFSCREEN
   subtype: font_left_display
   html: "<a href=\"https://ventitv.com\" target=\"_blank\" style=\"font-size:0;line-height:0;text-decoration:none;\" rel=\"nofollow noreferrer noopener\" class=\"seoquake-nofollow\"><br />\r\n<span style=\"\
@@ -111,6 +119,7 @@
     최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전 ID OF-KO-016의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에
     보존함. / 2026-10-05: subtype 을 계획서 5종으로 통일(font_size_zero_or_tiny -> font_left_display, 세부 유형 font_size_zero_or_tiny)'
 - id: OF-116
+  split: train
   category: OFFSCREEN
   subtype: font_left_display
   html: "<a href=\"https://danangbam1.com/\" target=\"_blank\" style=\"font-size:0;line-height:0;text-decoration:none;\" rel=\"nofollow noreferrer noopener\" class=\"seoquake-nofollow\"><br />\r\n<span\
@@ -125,6 +134,7 @@
     최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전 ID OF-KO-012의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에
     보존함. / 2026-10-05: subtype 을 계획서 5종으로 통일(font_size_zero_or_tiny -> font_left_display, 세부 유형 font_size_zero_or_tiny)'
 - id: OF-117
+  split: train
   category: OFFSCREEN
   subtype: font_left_display
   html: "<a href=\"https://i-swix.com/\" target=\"_blank\" style=\"font-size:0;line-height:0;text-decoration:none;\" rel=\"nofollow noreferrer noopener\" class=\"seoquake-nofollow\"><br />\r\n<span style=\"\
@@ -139,6 +149,7 @@
     최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전 ID OF-KO-005의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에
     보존함. / 2026-10-05: subtype 을 계획서 5종으로 통일(font_size_zero_or_tiny -> font_left_display, 세부 유형 font_size_zero_or_tiny)'
 - id: OF-118
+  split: train
   category: OFFSCREEN
   subtype: font_left_display
   html: '<div style="left: -9999px; top: -9999px; position: absolute;" class="sound_only display-none wfsr ui-helper-hidden"><a href="https://njtv-01.com" target="_blank">닌자티비</a></div>'
@@ -153,6 +164,7 @@
     보존함. / 2026-10-05: subtype 을 계획서 5종으로 통일(negative_position -> font_left_display, 세부 유형 negative_position) / 2026-10-05: html 발췌에 숨김을 건 원래 부모 태그가 빠져 있어, 수집 메타데이터(css_evidence)의 원래 여는 태그로 감싸 숨김이 재현되게
     함. css 칸의 선택자 없는 선언은 그 태그의 inline style 과 같아 비움'
 - id: OF-119
+  split: train
   category: OFFSCREEN
   subtype: font_left_display
   html: '<div style="left: -9999px; top: -9999px; position: absolute;" class="sound_only display-none wfsr ui-helper-hidden"><a href="http://www.cubemoney.net" target="_blank">엔포커머니상</a></div>'
@@ -167,6 +179,7 @@
     보존함. / 2026-10-05: subtype 을 계획서 5종으로 통일(negative_position -> font_left_display, 세부 유형 negative_position) / 2026-10-05: html 발췌에 숨김을 건 원래 부모 태그가 빠져 있어, 수집 메타데이터(css_evidence)의 원래 여는 태그로 감싸 숨김이 재현되게
     함. css 칸의 선택자 없는 선언은 그 태그의 inline style 과 같아 비움'
 - id: OF-120
+  split: train
   category: OFFSCREEN
   subtype: font_left_display
   html: '<div style="left: -9999px; top: -9999px; position: absolute;" class="sound_only display-none wfsr ui-helper-hidden"><a href="https://bbtv01.com" target="_blank">무료스포츠중계사이트</a></div>'
@@ -181,6 +194,7 @@
     보존함. / 2026-10-05: subtype 을 계획서 5종으로 통일(negative_position -> font_left_display, 세부 유형 negative_position) / 2026-10-05: html 발췌에 숨김을 건 원래 부모 태그가 빠져 있어, 수집 메타데이터(css_evidence)의 원래 여는 태그로 감싸 숨김이 재현되게
     함. css 칸의 선택자 없는 선언은 그 태그의 inline style 과 같아 비움'
 - id: OF-121
+  split: train
   category: OFFSCREEN
   subtype: font_left_display
   html: '<div style="left: -9999px; top: -9999px; position: absolute;" class="sound_only display-none wfsr ui-helper-hidden"><a href="https://onepoint103812.wixsite.com/tbet" target="_blank">토토</a></div>'
@@ -195,6 +209,7 @@
     보존함. / 2026-10-05: subtype 을 계획서 5종으로 통일(negative_position -> font_left_display, 세부 유형 negative_position) / 2026-10-05: html 발췌에 숨김을 건 원래 부모 태그가 빠져 있어, 수집 메타데이터(css_evidence)의 원래 여는 태그로 감싸 숨김이 재현되게
     함. css 칸의 선택자 없는 선언은 그 태그의 inline style 과 같아 비움'
 - id: OF-122
+  split: train
   category: OFFSCREEN
   subtype: font_left_display
   html: '<div style="left: -9999px; top: -9999px; position: absolute;" class="sound_only display-none wfsr ui-helper-hidden"><a href="https://www.goretv.co.kr" target="_blank">아이폰 팝콘티비</a></div>'
@@ -209,6 +224,7 @@
     보존함. / 2026-10-05: subtype 을 계획서 5종으로 통일(negative_position -> font_left_display, 세부 유형 negative_position) / 2026-10-05: html 발췌에 숨김을 건 원래 부모 태그가 빠져 있어, 수집 메타데이터(css_evidence)의 원래 여는 태그로 감싸 숨김이 재현되게
     함. css 칸의 선택자 없는 선언은 그 태그의 inline style 과 같아 비움'
 - id: OF-123
+  split: train
   category: OFFSCREEN
   subtype: font_left_display
   html: '<div style="left: -9999px; top: -9999px; position: absolute;" class="sound_only display-none wfsr ui-helper-hidden"><a href="https://www.19cm.kr" target="_blank">딜도</a></div>'
@@ -223,6 +239,7 @@
     보존함. / 2026-10-05: subtype 을 계획서 5종으로 통일(negative_position -> font_left_display, 세부 유형 negative_position) / 2026-10-05: html 발췌에 숨김을 건 원래 부모 태그가 빠져 있어, 수집 메타데이터(css_evidence)의 원래 여는 태그로 감싸 숨김이 재현되게
     함. css 칸의 선택자 없는 선언은 그 태그의 inline style 과 같아 비움'
 - id: OF-124
+  split: train
   category: OFFSCREEN
   subtype: font_left_display
   html: '<div style="left: -9999px; top: -9999px; position: absolute;" class="sound_only display-none wfsr ui-helper-hidden"><a href="https://wmoneysang.blogspot.com" target="_blank">wpl</a></div>'
@@ -237,6 +254,7 @@
     보존함. / 2026-10-05: subtype 을 계획서 5종으로 통일(negative_position -> font_left_display, 세부 유형 negative_position) / 2026-10-05: html 발췌에 숨김을 건 원래 부모 태그가 빠져 있어, 수집 메타데이터(css_evidence)의 원래 여는 태그로 감싸 숨김이 재현되게
     함. css 칸의 선택자 없는 선언은 그 태그의 inline style 과 같아 비움'
 - id: OF-125
+  split: train
   category: OFFSCREEN
   subtype: font_left_display
   html: '<div style="left: -9999px; top: -9999px; position: absolute;" class="sound_only display-none wfsr ui-helper-hidden"><a href="http://슬롯몬스터.com" target="_blank">슬롯</a></div>'
@@ -251,6 +269,7 @@
     보존함. / 2026-10-05: subtype 을 계획서 5종으로 통일(negative_position -> font_left_display, 세부 유형 negative_position) / 2026-10-05: html 발췌에 숨김을 건 원래 부모 태그가 빠져 있어, 수집 메타데이터(css_evidence)의 원래 여는 태그로 감싸 숨김이 재현되게
     함. css 칸의 선택자 없는 선언은 그 태그의 inline style 과 같아 비움'
 - id: OF-126
+  split: train
   category: OFFSCREEN
   subtype: font_left_display
   html: '<div style="left: -9999px; top: -9999px; position: absolute;" class="sound_only display-none wfsr ui-helper-hidden"><a href="https://www.렛츠핀.com" target="_blank">문화상품권 현금화</a></div>'
@@ -265,6 +284,7 @@
     보존함. / 2026-10-05: subtype 을 계획서 5종으로 통일(negative_position -> font_left_display, 세부 유형 negative_position) / 2026-10-05: html 발췌에 숨김을 건 원래 부모 태그가 빠져 있어, 수집 메타데이터(css_evidence)의 원래 여는 태그로 감싸 숨김이 재현되게
     함. css 칸의 선택자 없는 선언은 그 태그의 inline style 과 같아 비움'
 - id: OF-127
+  split: train
   category: OFFSCREEN
   subtype: font_left_display
   html: '<div style="left: -9999px; top: -9999px; position: absolute;" class="sound_only display-none wfsr ui-helper-hidden"><a href="https://reotv24.com" target="_blank">스포츠중계</a></div>'
@@ -279,6 +299,7 @@
     보존함. / 2026-10-05: subtype 을 계획서 5종으로 통일(negative_position -> font_left_display, 세부 유형 negative_position) / 2026-10-05: html 발췌에 숨김을 건 원래 부모 태그가 빠져 있어, 수집 메타데이터(css_evidence)의 원래 여는 태그로 감싸 숨김이 재현되게
     함. css 칸의 선택자 없는 선언은 그 태그의 inline style 과 같아 비움'
 - id: OF-128
+  split: train
   category: OFFSCREEN
   subtype: text_indent
   html: <div style="display:block; text-indent:-6163px;"><a href="http://buy-levitra-onlineusa.com">buy levitra online</a></div>
@@ -292,6 +313,7 @@
     최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전 ID OF-KO-201의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에
     보존함. / 2026-10-05: subtype 을 계획서 5종으로 통일(negative_text_indent -> text_indent, 세부 유형 negative_text_indent)'
 - id: OF-129
+  split: train
   category: OFFSCREEN
   subtype: text_indent
   html: <div style="display:block; text-indent:-6307px;"><a href="http://generic-vardenafil-store.com">walmart generic levitra</a></div>
@@ -305,6 +327,7 @@
     최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전 ID OF-KO-202의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에
     보존함. / 2026-10-05: subtype 을 계획서 5종으로 통일(negative_text_indent -> text_indent, 세부 유형 negative_text_indent)'
 - id: OF-130
+  split: train
   category: OFFSCREEN
   subtype: text_indent
   html: <div style="display:block; text-indent:-5354px;"><a href="http://vardenafil-effects.com">negative effects of levitra</a></div>
@@ -318,6 +341,7 @@
     원문 발췌 샘플. expected_location은 이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전 ID OF-KO-203의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함. / 2026-10-05: subtype 을 계획서 5종으로 통일(negative_text_indent
     -> text_indent, 세부 유형 negative_text_indent)'
 - id: OF-131
+  split: train
   category: OFFSCREEN
   subtype: text_indent
   html: <div style="display:block; text-indent:-4973px;"><a href="http://vardenafil-onlinestore.com">brand levitra online pharmacy</a></div>
@@ -331,6 +355,7 @@
     최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전 ID OF-KO-204의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에
     보존함. / 2026-10-05: subtype 을 계획서 5종으로 통일(negative_text_indent -> text_indent, 세부 유형 negative_text_indent)'
 - id: OF-132
+  split: train
   category: OFFSCREEN
   subtype: text_indent
   html: <div style="display:block; text-indent:-3648px;"><a href="http://low-price-tadalafil.com">cialis price at target</a></div>
@@ -344,6 +369,7 @@
     최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전 ID OF-KO-205의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에
     보존함. / 2026-10-05: subtype 을 계획서 5종으로 통일(negative_text_indent -> text_indent, 세부 유형 negative_text_indent)'
 - id: OF-133
+  split: train
   category: OFFSCREEN
   subtype: clip
   html: <style>.anev{position:absolute;clip:rect(407px,auto,auto,407px);}</style><div class=anev>Here are bound by <a href=http://paydayloansonlineaee.com >long term loans with bad credit</a> payoff process.
@@ -359,6 +385,7 @@
     이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전 ID OF-KO-206의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함. / 2026-10-05: 선택자가 전체 페이지 기준 위치(body > :nth-child(1) > :nth-child(2))라
     발췌 조각의 evidence 요소(div.anev > a:nth-of-type(2))로 바꿈'
 - id: OF-134
+  split: train
   category: OFFSCREEN
   subtype: clip
   html: <div class=adil>You live a reasonable <a href=http://paydayloansforus.com >no payday loans</a> how to disappear exist.</div>
@@ -371,6 +398,7 @@
   notes: 원문에 있던 광고 문구와 CSS만 보존함. 광고성·이미지/본문 중복·과제 사용 여부는 최종 검수 대기. 법적 불법성을 확정하지 않음. 2026-10-05 최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며
     원래 페이지 전체의 선택자와 구분함. 이전 ID OF-EX-011의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함.
 - id: OF-135
+  split: train
   category: OFFSCREEN
   subtype: clip
   html: <div class=asrf>Compare their services and <a href=http://reducedpaydayloans.com >payday loan</a> up the regulations.</div>
@@ -383,6 +411,7 @@
   notes: 원문에 있던 광고 문구와 CSS만 보존함. 광고성·이미지/본문 중복·과제 사용 여부는 최종 검수 대기. 법적 불법성을 확정하지 않음. 2026-10-05 최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며
     원래 페이지 전체의 선택자와 구분함. 이전 ID OF-EX-012의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함.
 - id: OF-136
+  split: train
   category: OFFSCREEN
   subtype: text_indent
   html: <div style="display:block; text-indent:-5439px;"><a href="http://buy-cialis-onlineusa.com">buy cialis</a></div>
@@ -395,6 +424,7 @@
   notes: 원문에 있던 광고 문구와 CSS만 보존함. 광고성·이미지/본문 중복·과제 사용 여부는 최종 검수 대기. 법적 불법성을 확정하지 않음. 2026-10-05 최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며
     원래 페이지 전체의 선택자와 구분함. 이전 ID OF-EX-013의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함.
 - id: OF-137
+  split: train
   category: OFFSCREEN
   subtype: text_indent
   html: <div style="display:block; text-indent:-3673px;"><a href="http://buy-viagra-onlineusa.com">generic viagra</a></div>
@@ -406,127 +436,8 @@
   source: http://steelhouse.or.kr/steelhouse/board?tpf=board/view&board_code=47&code=1033
   notes: 원문에 있던 광고 문구와 CSS만 보존함. 광고성·이미지/본문 중복·과제 사용 여부는 최종 검수 대기. 법적 불법성을 확정하지 않음. 2026-10-05 최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며
     원래 페이지 전체의 선택자와 구분함. 이전 ID OF-EX-014의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함.
-- id: OF-138
-  category: OFFSCREEN
-  subtype: clip
-  html: <div style="clip:rect(1px,1px,1px,1px);position:absolute;height:1px;width:1px;overflow:hidden"><a href="https://1red-online.nl/">1Red Casino</a></div>
-  css: clip:rect(1px,1px,1px,1px);position:absolute;height:1px;width:1px;overflow:hidden
-  evidence_text: 1Red Casino
-  expected_location: a
-  is_positive: true
-  extra_finding: null
-  source: https://lp.lucasfelix.com/
-  notes: 원문에 있던 광고 문구와 CSS만 보존함. 광고성·이미지/본문 중복·과제 사용 여부는 최종 검수 대기. 법적 불법성을 확정하지 않음. 2026-10-05 최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며
-    원래 페이지 전체의 선택자와 구분함. 이전 ID OF-EX-001의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함.
-- id: OF-139
-  category: OFFSCREEN
-  subtype: clip
-  html: <div style="clip:rect(1px,1px,1px,1px);position:absolute;height:1px;width:1px;overflow:hidden"><a href="https://stardacasino-online-ca.com/">Starda Casino</a></div>
-  css: clip:rect(1px,1px,1px,1px);position:absolute;height:1px;width:1px;overflow:hidden
-  evidence_text: Starda Casino
-  expected_location: a
-  is_positive: true
-  extra_finding: null
-  source: https://lp.lucasfelix.com/
-  notes: 원문에 있던 광고 문구와 CSS만 보존함. 광고성·이미지/본문 중복·과제 사용 여부는 최종 검수 대기. 법적 불법성을 확정하지 않음. 2026-10-05 최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며
-    원래 페이지 전체의 선택자와 구분함. 이전 ID OF-EX-002의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함.
-- id: OF-140
-  category: OFFSCREEN
-  subtype: clip
-  html: <div style="clip:rect(1px,1px,1px,1px);position:absolute;height:1px;width:1px;overflow:hidden"><a href="https://tooniebetslots.ca/">ToonieBet</a></div>
-  css: clip:rect(1px,1px,1px,1px);position:absolute;height:1px;width:1px;overflow:hidden
-  evidence_text: ToonieBet
-  expected_location: a
-  is_positive: true
-  extra_finding: null
-  source: https://lp.lucasfelix.com/
-  notes: 원문에 있던 광고 문구와 CSS만 보존함. 광고성·이미지/본문 중복·과제 사용 여부는 최종 검수 대기. 법적 불법성을 확정하지 않음. 2026-10-05 최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며
-    원래 페이지 전체의 선택자와 구분함. 이전 ID OF-EX-003의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함.
-- id: OF-141
-  category: OFFSCREEN
-  subtype: clip
-  html: <div style="clip:rect(1px,1px,1px,1px);position:absolute;height:1px;width:1px;overflow:hidden"><a href="https://maxibetcasinofr.com/">maxibet</a></div>
-  css: clip:rect(1px,1px,1px,1px);position:absolute;height:1px;width:1px;overflow:hidden
-  evidence_text: maxibet
-  expected_location: a
-  is_positive: true
-  extra_finding: null
-  source: https://lp.lucasfelix.com/
-  notes: 원문에 있던 광고 문구와 CSS만 보존함. 광고성·이미지/본문 중복·과제 사용 여부는 최종 검수 대기. 법적 불법성을 확정하지 않음. 2026-10-05 최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며
-    원래 페이지 전체의 선택자와 구분함. 이전 ID OF-EX-004의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함.
-- id: OF-142
-  category: OFFSCREEN
-  subtype: clip
-  html: <div style="clip:rect(1px,1px,1px,1px);position:absolute;height:1px;width:1px;overflow:hidden"><a href="https://betonred-bet.nl/">Bet On Red</a></div>
-  css: clip:rect(1px,1px,1px,1px);position:absolute;height:1px;width:1px;overflow:hidden
-  evidence_text: Bet On Red
-  expected_location: a
-  is_positive: true
-  extra_finding: null
-  source: https://lp.lucasfelix.com/
-  notes: 원문에 있던 광고 문구와 CSS만 보존함. 광고성·이미지/본문 중복·과제 사용 여부는 최종 검수 대기. 법적 불법성을 확정하지 않음. 2026-10-05 최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며
-    원래 페이지 전체의 선택자와 구분함. 이전 ID OF-EX-005의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함.
-- id: OF-143
-  category: OFFSCREEN
-  subtype: text_indent
-  html: <div style="display:block;text-indent:-9999px;overflow:hidden;height:1px"><a href="https://holylucknl.org/nl-nl/">Holyluck</a></div>
-  css: display:block;text-indent:-9999px;overflow:hidden;height:1px
-  evidence_text: Holyluck
-  expected_location: a
-  is_positive: true
-  extra_finding: null
-  source: https://lp.lucasfelix.com/
-  notes: 원문에 있던 광고 문구와 CSS만 보존함. 광고성·이미지/본문 중복·과제 사용 여부는 최종 검수 대기. 법적 불법성을 확정하지 않음. 2026-10-05 최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며
-    원래 페이지 전체의 선택자와 구분함. 이전 ID OF-EX-006의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함.
-- id: OF-144
-  category: OFFSCREEN
-  subtype: text_indent
-  html: <div style="display:block;text-indent:-9999px;overflow:hidden;height:1px"><a href="https://gransinoit.com/">Gransino</a></div>
-  css: display:block;text-indent:-9999px;overflow:hidden;height:1px
-  evidence_text: Gransino
-  expected_location: a
-  is_positive: true
-  extra_finding: null
-  source: https://lp.lucasfelix.com/
-  notes: 원문에 있던 광고 문구와 CSS만 보존함. 광고성·이미지/본문 중복·과제 사용 여부는 최종 검수 대기. 법적 불법성을 확정하지 않음. 2026-10-05 최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며
-    원래 페이지 전체의 선택자와 구분함. 이전 ID OF-EX-007의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함.
-- id: OF-145
-  category: OFFSCREEN
-  subtype: text_indent
-  html: <div style="display:block;text-indent:-9999px;overflow:hidden;height:1px"><a href="https://bookyspinzcasinofr.com/">https://bookyspinzcasinofr.com/</a></div>
-  css: display:block;text-indent:-9999px;overflow:hidden;height:1px
-  evidence_text: https://bookyspinzcasinofr.com/
-  expected_location: a
-  is_positive: true
-  extra_finding: null
-  source: https://lp.lucasfelix.com/
-  notes: 원문에 있던 광고 문구와 CSS만 보존함. 광고성·이미지/본문 중복·과제 사용 여부는 최종 검수 대기. 법적 불법성을 확정하지 않음. 2026-10-05 최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며
-    원래 페이지 전체의 선택자와 구분함. 이전 ID OF-EX-008의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함.
-- id: OF-146
-  category: OFFSCREEN
-  subtype: transform_outside
-  html: '<div style="position: fixed; top: -8004px; left: -7005px;"><a href="https://museumsladen-bnm.de/">brionis casino</a></div>'
-  css: 'position: fixed; top: -8004px; left: -7005px;'
-  evidence_text: brionis casino
-  expected_location: a
-  is_positive: true
-  extra_finding: null
-  source: https://lp.lucasfelix.com/
-  notes: 원문에 있던 광고 문구와 CSS만 보존함. 광고성·이미지/본문 중복·과제 사용 여부는 최종 검수 대기. 법적 불법성을 확정하지 않음. 2026-10-05 최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며
-    원래 페이지 전체의 선택자와 구분함. 이전 ID OF-EX-009의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함.
-- id: OF-147
-  category: OFFSCREEN
-  subtype: transform_outside
-  html: '<div style="position: fixed; top: -7777px; left: -8888px;"><a href="https://boomeranghouse.pl/">kod promocyjny twindoor</a></div>'
-  css: 'position: fixed; top: -7777px; left: -8888px;'
-  evidence_text: kod promocyjny twindoor
-  expected_location: a
-  is_positive: true
-  extra_finding: null
-  source: https://lp.lucasfelix.com/
-  notes: 원문에 있던 광고 문구와 CSS만 보존함. 광고성·이미지/본문 중복·과제 사용 여부는 최종 검수 대기. 법적 불법성을 확정하지 않음. 2026-10-05 최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며
-    원래 페이지 전체의 선택자와 구분함. 이전 ID OF-EX-010의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함.
 - id: OF-148
+  split: train
   category: OFFSCREEN
   subtype: clip
   html: <div class=aage>lenders <a href=http://katpaydayloans.com >payday loans</a></div>
@@ -539,6 +450,7 @@
   notes: 원문에 있던 광고 문구와 CSS만 보존함. 광고성·이미지/본문 중복·과제 사용 여부는 최종 검수 대기. 법적 불법성을 확정하지 않음. 2026-10-05 최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며
     원래 페이지 전체의 선택자와 구분함. 이전 ID OF-EX-015의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함.
 - id: OF-149
+  split: train
   category: OFFSCREEN
   subtype: clip
   html: <div class=a8nf><a href=http://bestpaydayloans2019.pw >payday loans richmond va</a></div>
@@ -551,6 +463,7 @@
   notes: 원문에 있던 광고 문구와 CSS만 보존함. 광고성·이미지/본문 중복·과제 사용 여부는 최종 검수 대기. 법적 불법성을 확정하지 않음. 2026-10-05 최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며
     원래 페이지 전체의 선택자와 구분함. 이전 ID OF-EX-016의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함.
 - id: OF-150
+  split: train
   category: OFFSCREEN
   subtype: transform_outside
   html: <div style="position:absolute;top:-3217px;"><h3>female viagra review</h3>  female viagra over the counter <a href="http://blog.endungen.de/template/page/female-viagra.aspx">click</a> female viagra
@@ -564,6 +477,7 @@
   notes: 원문에 있던 광고 문구와 CSS만 보존함. 광고성·이미지/본문 중복·과제 사용 여부는 최종 검수 대기. 법적 불법성을 확정하지 않음. 2026-10-05 최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며
     원래 페이지 전체의 선택자와 구분함. 이전 ID OF-EX-017의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함.
 - id: OF-151
+  split: train
   category: OFFSCREEN
   subtype: transform_outside
   html: <div style="position:absolute;top:-3101px;"><h3>buy abortion pill uk</h3>  usa buy abortion pill <a href="http://www.crossbordercapital.com/blog/page/buy-abortion-pill-online.aspx">redirect</a>
@@ -577,6 +491,7 @@
   notes: 원문에 있던 광고 문구와 CSS만 보존함. 광고성·이미지/본문 중복·과제 사용 여부는 최종 검수 대기. 법적 불법성을 확정하지 않음. 2026-10-05 최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며
     원래 페이지 전체의 선택자와 구분함. 이전 ID OF-EX-018의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함.
 - id: OF-152
+  split: train
   category: OFFSCREEN
   subtype: transform_outside
   html: <div style="position:absolute;top:-3114px;"><h3>acheter nifedipine</h3>  acheter nifedipine <a href="http://www.jaysmith.us/page/Nifedipine-Princeps.aspx">read here</a> nifedipine grossesse</div>
@@ -589,6 +504,7 @@
   notes: 원문에 있던 광고 문구와 CSS만 보존함. 광고성·이미지/본문 중복·과제 사용 여부는 최종 검수 대기. 법적 불법성을 확정하지 않음. 2026-10-05 최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며
     원래 페이지 전체의 선택자와 구분함. 이전 ID OF-EX-019의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함.
 - id: OF-153
+  split: train
   category: OFFSCREEN
   subtype: transform_outside
   html: <div style="position:absolute;top:-3342px;"><h3>motilium</h3>  <a href="http://secnet.co.nz?pagelhd=domperidone-pharmacy-nz">motilium</a> </div>
@@ -601,6 +517,7 @@
   notes: 원문에 있던 광고 문구와 CSS만 보존함. 광고성·이미지/본문 중복·과제 사용 여부는 최종 검수 대기. 법적 불법성을 확정하지 않음. 2026-10-05 최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며
     원래 페이지 전체의 선택자와 구분함. 이전 ID OF-EX-020의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함.
 - id: OF-154
+  split: train
   category: OFFSCREEN
   subtype: transform_outside
   html: <div style="position:absolute;top:-3406px;"><h3>mobic</h3>  mobic <a href="http://ericredaction.fr?pageinc=meloxicam-achat">ericredaction.fr</a> </div>
@@ -613,6 +530,7 @@
   notes: 원문에 있던 광고 문구와 CSS만 보존함. 광고성·이미지/본문 중복·과제 사용 여부는 최종 검수 대기. 법적 불법성을 확정하지 않음. 2026-10-05 최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며
     원래 페이지 전체의 선택자와 구분함. 이전 ID OF-EX-021의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함.
 - id: OF-155
+  split: train
   category: OFFSCREEN
   subtype: transform_outside
   html: <div style="position:absolute;top:-3405px;"><h3>metoclopramid 7 mg</h3> metoclopramid <a href="http://immunitetfolie.website/metoclopramid-immunitet.htm">vaistai</a> </div>
@@ -625,6 +543,7 @@
   notes: 원문에 있던 광고 문구와 CSS만 보존함. 광고성·이미지/본문 중복·과제 사용 여부는 최종 검수 대기. 법적 불법성을 확정하지 않음. 2026-10-05 최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며
     원래 페이지 전체의 선택자와 구분함. 이전 ID OF-EX-022의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함.
 - id: OF-156
+  split: train
   category: OFFSCREEN
   subtype: transform_outside
   html: <div style="position:absolute;top:-3172px;"><h3>buy viagra uk</h3>  buy viagra over <a href="http://www.igliving.com/blogengine/BlogEngine/page/Viagra-For-Men.aspx">the</a> counter</div>
@@ -637,6 +556,7 @@
   notes: 원문에 있던 광고 문구와 CSS만 보존함. 광고성·이미지/본문 중복·과제 사용 여부는 최종 검수 대기. 법적 불법성을 확정하지 않음. 2026-10-05 최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며
     원래 페이지 전체의 선택자와 구분함. 이전 ID OF-EX-023의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함.
 - id: OF-157
+  split: train
   category: OFFSCREEN
   subtype: transform_outside
   html: <div style="position:absolute;top:-3037px;"><h3>buy accutane cream</h3>  buy <a href="http://celticcodingsolutions.com/blog/page/Accutane-Without-Side-Effects">accutane</a> pills</div>
@@ -649,6 +569,7 @@
   notes: 원문에 있던 광고 문구와 CSS만 보존함. 광고성·이미지/본문 중복·과제 사용 여부는 최종 검수 대기. 법적 불법성을 확정하지 않음. 2026-10-05 최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며
     원래 페이지 전체의 선택자와 구분함. 이전 ID OF-EX-024의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함.
 - id: OF-158
+  split: train
   category: OFFSCREEN
   subtype: transform_outside
   html: <div style="position:absolute;top:-3073px;"><h3>buy abortion pill online</h3>  <a href="http://jensen.azurewebsites.net/rxcoupon/page/Where-To-Buy-Abortion-Pill-Uk">medical</a> abortion</div>
@@ -661,6 +582,7 @@
   notes: 원문에 있던 광고 문구와 CSS만 보존함. 광고성·이미지/본문 중복·과제 사용 여부는 최종 검수 대기. 법적 불법성을 확정하지 않음. 2026-10-05 최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며
     원래 페이지 전체의 선택자와 구분함. 이전 ID OF-EX-025의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함.
 - id: OF-159
+  split: train
   category: OFFSCREEN
   subtype: transform_outside
   html: <div style="position:absolute;top:-3452px;"><h3>risperdal</h3>  <a href="http://3xi.dk?pageewr=risperdal-pris">risperdal</a> </div>
@@ -673,6 +595,7 @@
   notes: 원문에 있던 광고 문구와 CSS만 보존함. 광고성·이미지/본문 중복·과제 사용 여부는 최종 검수 대기. 법적 불법성을 확정하지 않음. 2026-10-05 최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며
     원래 페이지 전체의 선택자와 구분함. 이전 ID OF-EX-026의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함.
 - id: OF-160
+  split: train
   category: OFFSCREEN
   subtype: visibility_hidden
   html: '<div style="overflow:auto; visibility:hidden; height: 1px;"><a href="http://studio21.ca/contact.php3">cheapest generic viagra</a></div>'
@@ -687,6 +610,7 @@
     구분함. 이전 ID OF-HIST-001의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함. / 2026-10-05: 공개 보고서가 숨김 선언(overflow:auto; visibility:hidden; height: 1px;)만 싣고 그 선언이 걸린 감싸는 요소는 싣지
     않아, 원래 선언을 그대로 쓴 감싸는 요소를 재구성해 숨김이 재현되게 함(감싸는 태그 자체는 원문이 아님)'
 - id: OF-165
+  split: train
   category: OFFSCREEN
   subtype: visibility_hidden
   html: '<div style="overflow:auto; visibility:hidden; height: 1px;"><a href="http://continuingedcourses.net/indextest.php3">levitra vs .</a></div>'
@@ -701,6 +625,7 @@
     구분함. 이전 ID OF-HIST-006의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함. / 2026-10-05: 공개 보고서가 숨김 선언(overflow:auto; visibility:hidden; height: 1px;)만 싣고 그 선언이 걸린 감싸는 요소는 싣지
     않아, 원래 선언을 그대로 쓴 감싸는 요소를 재구성해 숨김이 재현되게 함(감싸는 태그 자체는 원문이 아님)'
 - id: OF-169
+  split: train
   category: OFFSCREEN
   subtype: clip
   html: <style>.at6p{position:absolute;clip:rect(408px,auto,auto,408px);}</style><div class=at6p>one hour <a href=http://betterpaydayloansonline.com >payday loans</a></div>
@@ -714,6 +639,7 @@
     clip 기하값은 확인 불가. 짧은 대출 홍보 블록과 native clip 규칙의 공개 사본임. 2026-10-05 최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전
     ID OF-HIST-010의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함.
 - id: OF-170
+  split: train
   category: OFFSCREEN
   subtype: clip
   html: <style>.aidu{position:absolute;clip:rect(426px,auto,auto,426px);}</style><div class=aidu>easy <a href=http://crazypaydayloansonline.com >payday loans</a> and secure !</div>
@@ -727,6 +653,7 @@
     clip 기하값은 확인 불가. 짧은 대출 홍보 블록과 native clip 규칙의 공개 사본임. 2026-10-05 최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전
     ID OF-HIST-011의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함.
 - id: OF-171
+  split: train
   category: OFFSCREEN
   subtype: visibility_hidden
   html: '<div style="position: absolute; opacity: 0; visibility: hidden;"><a href="https://fancasinos.com/online-pokies/real-money/">https://fancasinos.com/online-pokies/real-money/</a></div>'
@@ -741,6 +668,7 @@
     상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함. / 2026-10-05: 공개 보고서가 숨김 선언(position: absolute; opacity: 0; visibility: hidden;)만 싣고 그 선언이 걸린 감싸는 요소는 싣지 않아, 원래 선언을 그대로 쓴 감싸는
     요소를 재구성해 숨김이 재현되게 함(감싸는 태그 자체는 원문이 아님)'
 - id: OF-172
+  split: train
   category: OFFSCREEN
   subtype: font_left_display
   html: <div style="position:absolute; top:0; left:-9999px;"><a href="https://www.frendx.com/firmware/">download xiomi firmware</a></div>
@@ -754,6 +682,7 @@
     사본의 HTML/CSS를 검수하며 현재 숨김 광고로 확정하지 않음. 2026-10-05 최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전 ID OF-HIST-017의
     상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함.
 - id: OF-173
+  split: train
   category: OFFSCREEN
   subtype: font_left_display
   html: <div style="position:absolute; top:0; left:-9999px;"><a href="https://downloadtutorials.net">udemy free download</a></div>
@@ -767,6 +696,7 @@
     사본의 HTML/CSS를 검수하며 현재 숨김 광고로 확정하지 않음. 2026-10-05 최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전 ID OF-HIST-018의
     상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함.
 - id: OF-174
+  split: train
   category: OFFSCREEN
   subtype: font_left_display
   html: '<div id="fEBXspOQy" style="display: none"><a href="http://buyviagraintheusa.com" title="buy viagra safley">buy viagra in uk</a></div>'
@@ -780,6 +710,7 @@
     사본의 HTML/CSS를 검수하며 현재 숨김 광고로 확정하지 않음. 2026-10-05 최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전 ID OF-HIST-019의
     상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함.
 - id: OF-175
+  split: train
   category: OFFSCREEN
   subtype: clip
   html: <style>.am1y{position:absolute;clip:rect(405px,auto,auto,405px);}</style><div class=am1y>same day <a href=http://mazzpaydayloans.com >payday loans</a></div>
@@ -793,6 +724,7 @@
     사본의 HTML/CSS를 검수하며 현재 숨김 광고로 확정하지 않음. 2026-10-05 최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전 ID OF-HIST-020의
     상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함.
 - id: OF-176
+  split: train
   category: OFFSCREEN
   subtype: clip
   html: <div class="ao0n">quick <a href="http://ironpaydayloans.com">payday loans</a> with small commissions</div>
@@ -806,6 +738,7 @@
     사본의 HTML/CSS를 검수하며 현재 숨김 광고로 확정하지 않음. 2026-10-05 최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전 ID OF-HIST-021의
     상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함.
 - id: OF-177
+  split: val
   category: OFFSCREEN
   subtype: clip
   html: <div class="apru"><a href=hxxp://onlineloanrdnr .com >online loan</a></div>
@@ -820,6 +753,7 @@
     상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함. / 2026-10-05: 공개 보고서가 숨김 선언(.apru{position:absolute; clip:rect(475px,auto,auto,475px);})만 싣고 그 선언이 걸린 감싸는 요소는 싣지 않아, 원래 선언을
     그대로 쓴 감싸는 요소를 재구성해 숨김이 재현되게 함(감싸는 태그 자체는 원문이 아님)'
 - id: OF-178
+  split: val
   category: OFFSCREEN
   subtype: visibility_hidden
   html: '<div style="font-style: normal; visibility: hidden; position: absolute; left: 0px; top: 0px"><a href="http://www&#46nigeriavillagesquare&#46com/t3-assets/css/index&#46php">ACD  Systems Canvas 11 with GIS Plus</a></div>'
@@ -834,6 +768,7 @@
     기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함. / 2026-10-05: 태그 안의 줄바꿈 없는 공백(U+00A0, 보고서 복사 흔적)을 일반 공백으로 바꿔 태그가 읽히게 함 / 2026-10-05: 선택자가 전체 페이지 기준 위치(body > :nth-child(1))라 발췌 조각의 evidence
     요소(a)로 바꿈 / 2026-10-05: 공개 보고서가 숨김 선언(font-style: normal; visibility: hidden; position: absolute; )만 싣고 그 선언이 걸린 감싸는 요소는 싣지 않아, 원래 선언을 그대로 쓴 감싸는 요소를 재구성해 숨김이 재현되게 함(감싸는 태그 자체는 원문이 아님)'
 - id: OF-179
+  split: val
   category: OFFSCREEN
   subtype: font_left_display
   html: <div style="display:block; font-size:0;height:0;"><a href="https://monstersteroids.net/" title="anabolic for sale">anabolic for sale</a></div>
@@ -848,6 +783,7 @@
     OF-HIST-024의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함. / 2026-10-05: 공개 보고서가 숨김 선언(display:block; font-size:0;height:0;)만 싣고 그 선언이 걸린 감싸는 요소는 싣지 않아, 원래 선언을 그대로 쓴 감싸는
     요소를 재구성해 숨김이 재현되게 함(감싸는 태그 자체는 원문이 아님)'
 - id: OF-180
+  split: val
   category: OFFSCREEN
   subtype: font_left_display
   html: '<div style="display: none"><a href="http://escortsdubai.biz" target="_blank">escorts dubai</a></div>'
@@ -862,6 +798,7 @@
     샘플. expected_location은 이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전 ID OF-HIST-025의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함. / 2026-10-05: 공개 보고서가 숨김 선언(display: none)만 싣고
     그 선언이 걸린 감싸는 요소는 싣지 않아, 원래 선언을 그대로 쓴 감싸는 요소를 재구성해 숨김이 재현되게 함(감싸는 태그 자체는 원문이 아님)'
 - id: OF-181
+  split: val
   category: OFFSCREEN
   subtype: font_left_display
   html: '<div style="display: none"><a href="http://istanbulescortiletisim.com" target="_blank">escort istanbul</a></div>'
@@ -876,6 +813,7 @@
     샘플. expected_location은 이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전 ID OF-HIST-026의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함. / 2026-10-05: 공개 보고서가 숨김 선언(display: none)만 싣고
     그 선언이 걸린 감싸는 요소는 싣지 않아, 원래 선언을 그대로 쓴 감싸는 요소를 재구성해 숨김이 재현되게 함(감싸는 태그 자체는 원문이 아님)'
 - id: OF-182
+  split: val
   category: OFFSCREEN
   subtype: font_left_display
   html: <div style="display:none;"><a href="https://www.ohiomfg.com/tips-memenangkan-taruhan-dalam-situs-judi-bola-online-terpercaya/">judi bola</a></div>
@@ -890,6 +828,7 @@
     샘플. expected_location은 이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전 ID OF-HIST-027의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함. / 2026-10-05: 공개 보고서가 숨김 선언(display:none;)만 싣고
     그 선언이 걸린 감싸는 요소는 싣지 않아, 원래 선언을 그대로 쓴 감싸는 요소를 재구성해 숨김이 재현되게 함(감싸는 태그 자체는 원문이 아님)'
 - id: OF-183
+  split: val
   category: OFFSCREEN
   subtype: font_left_display
   html: <div style="display:none;"><a href="https://goldengatefields.com/memilih-dan-mengenal-pragmatic-play-slot-online/">slot pragmatic</a></div>
@@ -904,6 +843,7 @@
     샘플. expected_location은 이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전 ID OF-HIST-028의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함. / 2026-10-05: 공개 보고서가 숨김 선언(display:none;)만 싣고
     그 선언이 걸린 감싸는 요소는 싣지 않아, 원래 선언을 그대로 쓴 감싸는 요소를 재구성해 숨김이 재현되게 함(감싸는 태그 자체는 원문이 아님)'
 - id: OF-184
+  split: val
   category: OFFSCREEN
   subtype: font_left_display
   html: <div style="display:none;"><a href="https://www2.carglass.be/">situs judi bola</a></div>
@@ -918,6 +858,7 @@
     샘플. expected_location은 이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전 ID OF-HIST-029의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함. / 2026-10-05: 공개 보고서가 숨김 선언(display:none;)만 싣고
     그 선언이 걸린 감싸는 요소는 싣지 않아, 원래 선언을 그대로 쓴 감싸는 요소를 재구성해 숨김이 재현되게 함(감싸는 태그 자체는 원문이 아님)'
 - id: OF-185
+  split: val
   category: OFFSCREEN
   subtype: font_left_display
   html: <div style="display:none;"><a href="https://appt.asso.fr/bisa-anda-dapat-dan-rasakan-dari-agen-idn-poker/">idn poker</a></div>
@@ -932,6 +873,7 @@
     샘플. expected_location은 이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전 ID OF-HIST-030의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함. / 2026-10-05: 공개 보고서가 숨김 선언(display:none;)만 싣고
     그 선언이 걸린 감싸는 요소는 싣지 않아, 원래 선언을 그대로 쓴 감싸는 요소를 재구성해 숨김이 재현되게 함(감싸는 태그 자체는 원문이 아님)'
 - id: OF-186
+  split: val
   category: OFFSCREEN
   subtype: transform_outside
   html: <div class="dnn"><a href="http://www.paydaysam.com/" title="Payday loans">Payday loans</a></div>
@@ -946,6 +888,7 @@
     원래 페이지 전체의 선택자와 구분함. 이전 ID OF-HIST-031의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함. / 2026-10-05: 공개 보고서가 숨김 선언(.dnn { position: absolute; top: -9999px; })만 싣고 그 선언이 걸린
     감싸는 요소는 싣지 않아, 원래 선언을 그대로 쓴 감싸는 요소를 재구성해 숨김이 재현되게 함(감싸는 태그 자체는 원문이 아님)'
 - id: OF-187
+  split: val
   category: OFFSCREEN
   subtype: transform_outside
   html: '<div style="position: absolute; top: -100px; overflow: auto"><a href="http://choigame.biz" target="_blank" title="choi game">choi game</a></div>'
@@ -960,6 +903,7 @@
     확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전 ID OF-HIST-032의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함. / 2026-10-05: 공개 보고서가 숨김 선언(position:
     absolute; top: -100px; overflow: auto)만 싣고 그 선언이 걸린 감싸는 요소는 싣지 않아, 원래 선언을 그대로 쓴 감싸는 요소를 재구성해 숨김이 재현되게 함(감싸는 태그 자체는 원문이 아님)'
 - id: OF-188
+  split: val
   category: OFFSCREEN
   subtype: transform_outside
   html: '<div style="position: absolute; top: -100px; overflow: auto"><a href="http://phimvothuat.info" target="_blank" title="phim hay">phim hay</a></div>'
@@ -974,6 +918,7 @@
     확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전 ID OF-HIST-033의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함. / 2026-10-05: 공개 보고서가 숨김 선언(position:
     absolute; top: -100px; overflow: auto)만 싣고 그 선언이 걸린 감싸는 요소는 싣지 않아, 원래 선언을 그대로 쓴 감싸는 요소를 재구성해 숨김이 재현되게 함(감싸는 태그 자체는 원문이 아님)'
 - id: OF-189
+  split: val
   category: OFFSCREEN
   subtype: font_left_display
   html: <div style="display:none"><a href="https://zeus379-id.pages.dev/" rel="dofollow">Zeus379</a></div>
@@ -988,6 +933,7 @@
     과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전 ID OF-HIST-035의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함. / 2026-10-05:
     공개 보고서가 숨김 선언(display:none)만 싣고 그 선언이 걸린 감싸는 요소는 싣지 않아, 원래 선언을 그대로 쓴 감싸는 요소를 재구성해 숨김이 재현되게 함(감싸는 태그 자체는 원문이 아님)'
 - id: OF-190
+  split: val
   category: OFFSCREEN
   subtype: font_left_display
   html: <div style="display:none"><a href="https://mahkota188.vercel.app/" rel="dofollow">mahkota188</a></div>
@@ -1002,6 +948,7 @@
     과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전 ID OF-HIST-036의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함. / 2026-10-05:
     공개 보고서가 숨김 선언(display:none)만 싣고 그 선언이 걸린 감싸는 요소는 싣지 않아, 원래 선언을 그대로 쓴 감싸는 요소를 재구성해 숨김이 재현되게 함(감싸는 태그 자체는 원문이 아님)'
 - id: OF-191
+  split: val
   category: OFFSCREEN
   subtype: font_left_display
   html: <div style="display:none"><a href="https://duit188-landing.pages.dev/" rel="dofollow">duit188</a></div>
@@ -1016,6 +963,7 @@
     과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전 ID OF-HIST-037의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함. / 2026-10-05:
     공개 보고서가 숨김 선언(display:none)만 싣고 그 선언이 걸린 감싸는 요소는 싣지 않아, 원래 선언을 그대로 쓴 감싸는 요소를 재구성해 숨김이 재현되게 함(감싸는 태그 자체는 원문이 아님)'
 - id: OF-192
+  split: val
   category: OFFSCREEN
   subtype: font_left_display
   html: '<div style="display: none;"><a href=''https://www.zeverix.com'' target=''_blank''>https://www.zeverix.com</a></div>'
@@ -1030,6 +978,7 @@
     최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전 ID OF-HIST-038의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에
     보존함. / 2026-10-05: 공개 보고서가 숨김 선언(display: none;)만 싣고 그 선언이 걸린 감싸는 요소는 싣지 않아, 원래 선언을 그대로 쓴 감싸는 요소를 재구성해 숨김이 재현되게 함(감싸는 태그 자체는 원문이 아님)'
 - id: OF-193
+  split: val
   category: OFFSCREEN
   subtype: font_left_display
   html: '<div style="display: none;"><a href=''https://heylink.me/gopay-178/'' target=''_blank''>gopay178</a></div>'
@@ -1044,6 +993,7 @@
     최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전 ID OF-HIST-039의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에
     보존함. / 2026-10-05: 공개 보고서가 숨김 선언(display: none;)만 싣고 그 선언이 걸린 감싸는 요소는 싣지 않아, 원래 선언을 그대로 쓴 감싸는 요소를 재구성해 숨김이 재현되게 함(감싸는 태그 자체는 원문이 아님)'
 - id: OF-194
+  split: val
   category: OFFSCREEN
   subtype: font_left_display
   html: '<div style="display: none;"><a href=''https://linktraffic.site/'' target=''_blank''>link shortener</a></div>'
@@ -1058,6 +1008,7 @@
     최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전 ID OF-HIST-040의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에
     보존함. / 2026-10-05: 공개 보고서가 숨김 선언(display: none;)만 싣고 그 선언이 걸린 감싸는 요소는 싣지 않아, 원래 선언을 그대로 쓴 감싸는 요소를 재구성해 숨김이 재현되게 함(감싸는 태그 자체는 원문이 아님)'
 - id: OF-195
+  split: val
   category: OFFSCREEN
   subtype: font_left_display
   html: '<div style="display: none;"><a href=''https://indobooster.com/'' target=''_blank''>indobooster</a></div>'
@@ -1072,6 +1023,7 @@
     최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전 ID OF-HIST-041의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에
     보존함. / 2026-10-05: 공개 보고서가 숨김 선언(display: none;)만 싣고 그 선언이 걸린 감싸는 요소는 싣지 않아, 원래 선언을 그대로 쓴 감싸는 요소를 재구성해 숨김이 재현되게 함(감싸는 태그 자체는 원문이 아님)'
 - id: OF-196
+  split: val
   category: OFFSCREEN
   subtype: font_left_display
   html: '<div style="display: none;"><a href=''https://www.pa-pringsewu.go.id/news/'' target=''_blank''>slot gacor hari ini</a></div>'
@@ -1086,6 +1038,7 @@
     최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전 ID OF-HIST-042의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에
     보존함. / 2026-10-05: 공개 보고서가 숨김 선언(display: none;)만 싣고 그 선언이 걸린 감싸는 요소는 싣지 않아, 원래 선언을 그대로 쓴 감싸는 요소를 재구성해 숨김이 재현되게 함(감싸는 태그 자체는 원문이 아님)'
 - id: OF-197
+  split: val
   category: OFFSCREEN
   subtype: font_left_display
   html: '<div style="display: none;"><a href=''https://www.itb-ru.ac.id/kabar/judi-bola-haaland-latihan-ekstra-man-city-vs-aston-villa.html'' target=''_blank''>judi bola</a></div>'
@@ -1100,6 +1053,7 @@
     최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전 ID OF-HIST-043의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에
     보존함. / 2026-10-05: 공개 보고서가 숨김 선언(display: none;)만 싣고 그 선언이 걸린 감싸는 요소는 싣지 않아, 원래 선언을 그대로 쓴 감싸는 요소를 재구성해 숨김이 재현되게 함(감싸는 태그 자체는 원문이 아님)'
 - id: OF-198
+  split: val
   category: OFFSCREEN
   subtype: font_left_display
   html: '<div style="display: none;"><a href=''https://saa.uinsgd.ac.id/'' target=''_blank''>Slot Gacor Hari Ini</a></div>'
@@ -1113,133 +1067,8 @@
     줄바꿈과 다를 수 있음. 전체 피해 페이지와 동일 광고의 이미지 중복 여부는 재검증 불가. 실제 포착한 원격 응답의 당시 CSS. 현재 nawalaku 응답 CSS는 opacity:0 등으로 바뀌었으므로 이 기록은 현재 display:none 사례라고 주장하지 않음. 서비스·학교·공공 도메인의 정상 운영자와 광고 삽입자를 동일시하지 않음. 2026-10-05
     최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전 ID OF-HIST-044의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에
     보존함. / 2026-10-05: 공개 보고서가 숨김 선언(display: none;)만 싣고 그 선언이 걸린 감싸는 요소는 싣지 않아, 원래 선언을 그대로 쓴 감싸는 요소를 재구성해 숨김이 재현되게 함(감싸는 태그 자체는 원문이 아님)'
-- id: OF-199
-  category: OFFSCREEN
-  subtype: visibility_hidden
-  html: <div id="hideMeya" style="visibility:hidden; display:none"><a href="http://buy4kamagra.com/" title="kamagra">kamagra</a></div>
-  css: ''
-  evidence_text: kamagra
-  expected_location: a
-  is_positive: true
-  extra_finding: null
-  source: https://wordpress.stackexchange.com/questions/134825/tips-for-finding-spam-links-injected-into-the-content
-  notes: '실제 피해 코드라고 명시하여 공개한 1차 자료의 원문 발췌. 공개 보고서에서 코드가 글자로 보이는 것은 피해 당시 광고 표시 판정과 별개임. 현재 피해 페이지의 상태로 과거 숨김을 판단하지 말 것. 광고 연결 페이지가 현재 없어도 원문과 홍보 근거를 검수할 수 있음. 피해자가 공개한 코드 발췌. 피해 사이트 URL 및 전체 화면은 미공개. 공개된
-    사본의 HTML/CSS를 검수하며 현재 숨김 광고로 확정하지 않음. 2026-10-05 최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전 ID OF-HIST-045의
-    상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함. / 2026-10-05: 공개 보고서가 숨김 선언(document.getElementById(''hideMeya'').style.visibility = ''hidd)만 싣고 그 선언이 걸린 감싸는 요소는 싣지 않아, 원래
-    선언을 그대로 쓴 감싸는 요소를 재구성해 숨김이 재현되게 함(감싸는 태그 자체는 원문이 아님)'
-- id: OF-200
-  category: OFFSCREEN
-  subtype: visibility_hidden
-  html: <div id="hideMeya" style="visibility:hidden; display:none"><a href="http://orderviagrauaonline.com/" title="viagara online">viagara online</a></div>
-  css: ''
-  evidence_text: viagara online
-  expected_location: a
-  is_positive: true
-  extra_finding: null
-  source: https://wordpress.stackexchange.com/questions/134825/tips-for-finding-spam-links-injected-into-the-content
-  notes: '실제 피해 코드라고 명시하여 공개한 1차 자료의 원문 발췌. 공개 보고서에서 코드가 글자로 보이는 것은 피해 당시 광고 표시 판정과 별개임. 현재 피해 페이지의 상태로 과거 숨김을 판단하지 말 것. 광고 연결 페이지가 현재 없어도 원문과 홍보 근거를 검수할 수 있음. 피해자가 공개한 코드 발췌. 피해 사이트 URL 및 전체 화면은 미공개. 공개된
-    사본의 HTML/CSS를 검수하며 현재 숨김 광고로 확정하지 않음. 2026-10-05 최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전 ID OF-HIST-046의
-    상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함. / 2026-10-05: 공개 보고서가 숨김 선언(document.getElementById(''hideMeya'').style.visibility = ''hidd)만 싣고 그 선언이 걸린 감싸는 요소는 싣지 않아, 원래
-    선언을 그대로 쓴 감싸는 요소를 재구성해 숨김이 재현되게 함(감싸는 태그 자체는 원문이 아님)'
-- id: OF-201
-  category: OFFSCREEN
-  subtype: visibility_hidden
-  html: <div id="hideMeya" style="visibility:hidden; display:none"><a href="http://cashadvance8online.com" title="online cash advance">online cash advance</a></div>
-  css: ''
-  evidence_text: online cash advance
-  expected_location: a
-  is_positive: true
-  extra_finding: null
-  source: https://wordpress.stackexchange.com/questions/134825/tips-for-finding-spam-links-injected-into-the-content
-  notes: '실제 피해 코드라고 명시하여 공개한 1차 자료의 원문 발췌. 공개 보고서에서 코드가 글자로 보이는 것은 피해 당시 광고 표시 판정과 별개임. 현재 피해 페이지의 상태로 과거 숨김을 판단하지 말 것. 광고 연결 페이지가 현재 없어도 원문과 홍보 근거를 검수할 수 있음. 피해자가 공개한 코드 발췌. 피해 사이트 URL 및 전체 화면은 미공개. 공개된
-    사본의 HTML/CSS를 검수하며 현재 숨김 광고로 확정하지 않음. 2026-10-05 최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전 ID OF-HIST-047의
-    상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함. / 2026-10-05: 공개 보고서가 숨김 선언(document.getElementById(''hideMeya'').style.visibility = ''hidd)만 싣고 그 선언이 걸린 감싸는 요소는 싣지 않아, 원래
-    선언을 그대로 쓴 감싸는 요소를 재구성해 숨김이 재현되게 함(감싸는 태그 자체는 원문이 아님)'
-- id: OF-202
-  category: OFFSCREEN
-  subtype: visibility_hidden
-  html: <div id="hideMeya" style="visibility:hidden; display:none"><a href="http://levitra-online-ca.com/" title="levitra for sale">levitra for sale</a></div>
-  css: ''
-  evidence_text: levitra for sale
-  expected_location: a
-  is_positive: true
-  extra_finding: null
-  source: https://wordpress.stackexchange.com/questions/134825/tips-for-finding-spam-links-injected-into-the-content
-  notes: '실제 피해 코드라고 명시하여 공개한 1차 자료의 원문 발췌. 공개 보고서에서 코드가 글자로 보이는 것은 피해 당시 광고 표시 판정과 별개임. 현재 피해 페이지의 상태로 과거 숨김을 판단하지 말 것. 광고 연결 페이지가 현재 없어도 원문과 홍보 근거를 검수할 수 있음. 피해자가 공개한 코드 발췌. 피해 사이트 URL 및 전체 화면은 미공개. 공개된
-    사본의 HTML/CSS를 검수하며 현재 숨김 광고로 확정하지 않음. 2026-10-05 최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전 ID OF-HIST-053의
-    상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함. / 2026-10-05: 공개 보고서가 숨김 선언(document.getElementById(''hideMeya'').style.visibility = ''hidd)만 싣고 그 선언이 걸린 감싸는 요소는 싣지 않아, 원래
-    선언을 그대로 쓴 감싸는 요소를 재구성해 숨김이 재현되게 함(감싸는 태그 자체는 원문이 아님)'
-- id: OF-203
-  category: OFFSCREEN
-  subtype: font_left_display
-  html: '<div style="display: none;"><a href="https://www.azcorts.com/" rel="dofollow" target="_self">azcorts.com</a></div>'
-  css: ''
-  evidence_text: azcorts.com
-  expected_location: a
-  is_positive: true
-  extra_finding: null
-  source: https://securelist.com/seo-spam-hidden-links/117782/
-  notes: '실제 피해 코드라고 명시하여 공개한 1차 자료의 원문 발췌. 공개 보고서에서 코드가 글자로 보이는 것은 피해 당시 광고 표시 판정과 별개임. 현재 피해 페이지의 상태로 과거 숨김을 판단하지 말 것. 광고 연결 페이지가 현재 없어도 원문과 홍보 근거를 검수할 수 있음. 분석자가 정상 사이트에서 실제 발견했다고 명시한 코드의 독립된 연결 대상.
-    피해 사이트 주소는 미공개. 링크 대상들의 동일 운영자 여부는 확인되지 않아 최종 중복 검수 필요. 2026-10-05 최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전
-    ID OF-HIST-048의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함. / 2026-10-05: 공개 보고서가 숨김 선언(display: none;)만 싣고 그 선언이 걸린 감싸는 요소는 싣지 않아, 원래 선언을 그대로 쓴 감싸는 요소를 재구성해 숨김이 재현되게 함(감싸는
-    태그 자체는 원문이 아님)'
-- id: OF-204
-  category: OFFSCREEN
-  subtype: font_left_display
-  html: '<div style="display: none;"><a href="https://porngun.mobi" target="_self">porngun.mobi</a></div>'
-  css: ''
-  evidence_text: porngun.mobi
-  expected_location: a
-  is_positive: true
-  extra_finding: null
-  source: https://securelist.com/seo-spam-hidden-links/117782/
-  notes: '실제 피해 코드라고 명시하여 공개한 1차 자료의 원문 발췌. 공개 보고서에서 코드가 글자로 보이는 것은 피해 당시 광고 표시 판정과 별개임. 현재 피해 페이지의 상태로 과거 숨김을 판단하지 말 것. 광고 연결 페이지가 현재 없어도 원문과 홍보 근거를 검수할 수 있음. 분석자가 정상 사이트에서 실제 발견했다고 명시한 코드의 독립된 연결 대상.
-    피해 사이트 주소는 미공개. 링크 대상들의 동일 운영자 여부는 확인되지 않아 최종 중복 검수 필요. 2026-10-05 최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전
-    ID OF-HIST-049의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함. / 2026-10-05: 공개 보고서가 숨김 선언(display: none;)만 싣고 그 선언이 걸린 감싸는 요소는 싣지 않아, 원래 선언을 그대로 쓴 감싸는 요소를 재구성해 숨김이 재현되게 함(감싸는
-    태그 자체는 원문이 아님)'
-- id: OF-205
-  category: OFFSCREEN
-  subtype: font_left_display
-  html: '<div style="display: none;"><a href="https://javclips.mobi/" target="_blank" title="javclips.mobi">javclips.mobi</a></div>'
-  css: ''
-  evidence_text: javclips.mobi
-  expected_location: a
-  is_positive: true
-  extra_finding: null
-  source: https://securelist.com/seo-spam-hidden-links/117782/
-  notes: '실제 피해 코드라고 명시하여 공개한 1차 자료의 원문 발췌. 공개 보고서에서 코드가 글자로 보이는 것은 피해 당시 광고 표시 판정과 별개임. 현재 피해 페이지의 상태로 과거 숨김을 판단하지 말 것. 광고 연결 페이지가 현재 없어도 원문과 홍보 근거를 검수할 수 있음. 분석자가 정상 사이트에서 실제 발견했다고 명시한 코드의 독립된 연결 대상.
-    피해 사이트 주소는 미공개. 링크 대상들의 동일 운영자 여부는 확인되지 않아 최종 중복 검수 필요. 2026-10-05 최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전
-    ID OF-HIST-050의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함. / 2026-10-05: 공개 보고서가 숨김 선언(display: none;)만 싣고 그 선언이 걸린 감싸는 요소는 싣지 않아, 원래 선언을 그대로 쓴 감싸는 요소를 재구성해 숨김이 재현되게 함(감싸는
-    태그 자체는 원문이 아님)'
-- id: OF-206
-  category: OFFSCREEN
-  subtype: font_left_display
-  html: '<div style="display: none;"><a href="https://pimpmpegs.net" target="_self" title="pimpmpegs.net free video porn">pimpmpegs.net</a></div>'
-  css: ''
-  evidence_text: pimpmpegs.net
-  expected_location: a
-  is_positive: true
-  extra_finding: null
-  source: https://securelist.com/seo-spam-hidden-links/117782/
-  notes: '실제 피해 코드라고 명시하여 공개한 1차 자료의 원문 발췌. 공개 보고서에서 코드가 글자로 보이는 것은 피해 당시 광고 표시 판정과 별개임. 현재 피해 페이지의 상태로 과거 숨김을 판단하지 말 것. 광고 연결 페이지가 현재 없어도 원문과 홍보 근거를 검수할 수 있음. 분석자가 정상 사이트에서 실제 발견했다고 명시한 코드의 독립된 연결 대상.
-    피해 사이트 주소는 미공개. 링크 대상들의 동일 운영자 여부는 확인되지 않아 최종 중복 검수 필요. 2026-10-05 최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전
-    ID OF-HIST-051의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함. / 2026-10-05: 공개 보고서가 숨김 선언(display: none;)만 싣고 그 선언이 걸린 감싸는 요소는 싣지 않아, 원래 선언을 그대로 쓴 감싸는 요소를 재구성해 숨김이 재현되게 함(감싸는
-    태그 자체는 원문이 아님)'
-- id: OF-207
-  category: OFFSCREEN
-  subtype: font_left_display
-  html: '<div style="display: none;"><a href="https://www.sexdejt.org/" rel="dofollow">sexdejt.org</a></div>'
-  css: ''
-  evidence_text: sexdejt.org
-  expected_location: a
-  is_positive: true
-  extra_finding: null
-  source: https://securelist.com/seo-spam-hidden-links/117782/
-  notes: '실제 피해 코드라고 명시하여 공개한 1차 자료의 원문 발췌. 공개 보고서에서 코드가 글자로 보이는 것은 피해 당시 광고 표시 판정과 별개임. 현재 피해 페이지의 상태로 과거 숨김을 판단하지 말 것. 광고 연결 페이지가 현재 없어도 원문과 홍보 근거를 검수할 수 있음. 분석자가 정상 사이트에서 실제 발견했다고 명시한 코드의 독립된 연결 대상.
-    피해 사이트 주소는 미공개. 링크 대상들의 동일 운영자 여부는 확인되지 않아 최종 중복 검수 필요. 2026-10-05 최종 사용자 CSV의 광고성·숨김 근거·중복·사용 판정을 반영함. 과거 공개 사본은 피해 전체 화면 확인과 구분함. 원문 발췌 샘플. expected_location은 이 html 발췌 기준이며 원래 페이지 전체의 선택자와 구분함. 이전
-    ID OF-HIST-052의 상위 태그·숨김 근거·출처·검수 기록은 기존 원문근거_수집메타데이터.json의 original_sample_details에 보존함. / 2026-10-05: 공개 보고서가 숨김 선언(display: none;)만 싣고 그 선언이 걸린 감싸는 요소는 싣지 않아, 원래 선언을 그대로 쓴 감싸는 요소를 재구성해 숨김이 재현되게 함(감싸는
-    태그 자체는 원문이 아님)'
 - category: OFFSCREEN
+  split: train
   subtype: visibility_hidden
   html: <div id="hideMeya" style="visibility:hidden; display:none"><a href="http://cashadvance7online.com/" title="pay day loan online">pay day loan online</a></div>
   css: ''
@@ -1253,6 +1082,7 @@
     발췌 기준. OF-199~202(WordPress Stack Exchange)와 같은 hideMeya 캠페인이며 출처와 광고 문구·연결 대상은 서로 다름. 7개 모두 한 게시글에서 나옴 / 2026-10-06: visibility_hidden 보충(8 -> 15)으로 추가'
   id: OF-208
 - category: OFFSCREEN
+  split: train
   subtype: visibility_hidden
   html: <div id="hideMeya" style="visibility:hidden; display:none"><a href="http://www10450.b2viagra10.com/" title="viagra coupon pfizer">viagra coupon pfizer</a></div>
   css: ''
@@ -1266,6 +1096,7 @@
     발췌 기준. OF-199~202(WordPress Stack Exchange)와 같은 hideMeya 캠페인이며 출처와 광고 문구·연결 대상은 서로 다름. 7개 모두 한 게시글에서 나옴 / 2026-10-06: visibility_hidden 보충(8 -> 15)으로 추가'
   id: OF-209
 - category: OFFSCREEN
+  split: train
   subtype: visibility_hidden
   html: <div id="hideMeya" style="visibility:hidden; display:none"><a href="http://order2auviagraonline.com/" title="order viagras online">order viagras online</a></div>
   css: ''
@@ -1279,6 +1110,7 @@
     발췌 기준. OF-199~202(WordPress Stack Exchange)와 같은 hideMeya 캠페인이며 출처와 광고 문구·연결 대상은 서로 다름. 7개 모두 한 게시글에서 나옴 / 2026-10-06: visibility_hidden 보충(8 -> 15)으로 추가'
   id: OF-210
 - category: OFFSCREEN
+  split: train
   subtype: visibility_hidden
   html: <div id="hideMeya" style="visibility:hidden; display:none"><a href="http://levitra-online2.com/" title="levitra coupon">levitra coupon</a></div>
   css: ''
@@ -1292,6 +1124,7 @@
     발췌 기준. OF-199~202(WordPress Stack Exchange)와 같은 hideMeya 캠페인이며 출처와 광고 문구·연결 대상은 서로 다름. 7개 모두 한 게시글에서 나옴 / 2026-10-06: visibility_hidden 보충(8 -> 15)으로 추가'
   id: OF-211
 - category: OFFSCREEN
+  split: train
   subtype: visibility_hidden
   html: <div id="hideMeya" style="visibility:hidden; display:none"><a href="http://www10616.40cialis10.com/" title="cialis cheapest price">cialis cheapest price</a></div>
   css: ''
@@ -1305,6 +1138,7 @@
     발췌 기준. OF-199~202(WordPress Stack Exchange)와 같은 hideMeya 캠페인이며 출처와 광고 문구·연결 대상은 서로 다름. 7개 모두 한 게시글에서 나옴 / 2026-10-06: visibility_hidden 보충(8 -> 15)으로 추가'
   id: OF-212
 - category: OFFSCREEN
+  split: train
   subtype: visibility_hidden
   html: <div id="hideMeya" style="visibility:hidden; display:none"><a href="http://www10075.60viagra10.com/" title="viagra food">viagra food</a></div>
   css: ''
@@ -1318,6 +1152,7 @@
     발췌 기준. OF-199~202(WordPress Stack Exchange)와 같은 hideMeya 캠페인이며 출처와 광고 문구·연결 대상은 서로 다름. 7개 모두 한 게시글에서 나옴 / 2026-10-06: visibility_hidden 보충(8 -> 15)으로 추가'
   id: OF-213
 - category: OFFSCREEN
+  split: train
   subtype: visibility_hidden
   html: <div id="hideMeya" style="visibility:hidden; display:none"><a href="http://wwxcialiscom.com/" title="online cialis">online cialis</a></div>
   css: ''

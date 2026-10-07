@@ -1,4 +1,5 @@
 - id: OF-001
+  split: train
   category: OFFSCREEN
   subtype: font_left_display
   html: <div class="review-root "><span id="OF-001-text" class="">롤배팅</span></div>
@@ -12,6 +13,7 @@
   source: http://cwworld.co.kr/type6/board/board_view.php?code=16&view_no=6336
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(font_size_0_1px -> font_left_display) / 2026-10-05: evidence 에 섞인 태그 조각 제거'
 - id: OF-002
+  split: train
   category: OFFSCREEN
   subtype: font_left_display
   html: <div class="review-root "><span id="OF-002-text" class="">레드라인 먹튀</span></div>
@@ -25,6 +27,7 @@
   source: http://cwworld.co.kr/type6/board/board_view.php?code=16&view_no=6336
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(font_size_0_1px -> font_left_display)'
 - id: OF-003
+  split: train
   category: OFFSCREEN
   subtype: font_left_display
   html: <div class="review-root "><span id="OF-003-text" class="">무료웹툰 모음</span></div>
@@ -38,6 +41,7 @@
   source: http://cwworld.co.kr/type6/board/board_view.php?code=16&view_no=6336
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(font_size_0_1px -> font_left_display)'
 - id: OF-004
+  split: train
   category: OFFSCREEN
   subtype: font_left_display
   html: <div class="review-root "><span id="OF-004-text" class="">카지노솔루션</span></div>
@@ -51,6 +55,7 @@
   source: http://cwworld.co.kr/type6/board/board_view.php?code=16&view_no=6336
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(font_size_0_1px -> font_left_display)'
 - id: OF-005
+  split: train
   category: OFFSCREEN
   subtype: font_left_display
   html: <div class="review-root "><span id="OF-005-text" class="">카지노솔루션</span></div>
@@ -64,6 +69,7 @@
   source: http://cwworld.co.kr/type6/board/board_view.php?code=16&view_no=6336
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(font_size_0_1px -> font_left_display)'
 - id: OF-006
+  split: train
   category: OFFSCREEN
   subtype: font_left_display
   html: <div class="review-root "><div id="OF-006-text" class="">먹튀사이트 제작</div></div>
@@ -77,6 +83,7 @@
   source: http://cwworld.co.kr/type6/board/board_view.php?code=16&view_no=6336
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(font_size_0_1px -> font_left_display)'
 - id: OF-007
+  split: train
   category: OFFSCREEN
   subtype: font_left_display
   html: <div class="review-root "><div id="OF-007-text" class="">스포츠중계제작</div></div>
@@ -90,6 +97,7 @@
   source: http://cwworld.co.kr/type6/board/board_view.php?code=16&view_no=6336
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(font_size_0_1px -> font_left_display)'
 - id: OF-008
+  split: train
   category: OFFSCREEN
   subtype: font_left_display
   html: <div class="review-root "><div id="OF-008-text" class="">무료스포츠중계</div></div>
@@ -103,6 +111,7 @@
   source: http://cwworld.co.kr/type6/board/board_view.php?code=16&view_no=6336
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(font_size_0_1px -> font_left_display)'
 - id: OF-009
+  split: train
   category: OFFSCREEN
   subtype: font_left_display
   html: <div class="review-root "><div id="OF-009-text" class="">다낭 유흥</div></div>
@@ -116,6 +125,7 @@
   source: http://cwworld.co.kr/type6/board/board_view.php?code=16&view_no=6338
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(font_size_0_1px -> font_left_display)'
 - id: OF-010
+  split: train
   category: OFFSCREEN
   subtype: font_left_display
   html: <div class="review-root "><div id="OF-010-text" class="">카지노 알</div></div>
@@ -129,6 +139,7 @@
   source: http://cwworld.co.kr/type6/board/board_view.php?code=16&view_no=6338
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(font_size_0_1px -> font_left_display)'
 - id: OF-011
+  split: train
   category: OFFSCREEN
   subtype: font_left_display
   html: <div class="review-root "><a href="#review" id="OF-011-text" class="">닌자티비</a></div>
@@ -142,6 +153,7 @@
   source: https://lak.co.kr/customer/qna.php?id=9785&mode=read&page=42
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(font_size_0_1px -> font_left_display)'
 - id: OF-012
+  split: train
   category: OFFSCREEN
   subtype: font_left_display
   html: <div class="review-root "><a href="#review" id="OF-012-text" class="">엔포커머니상</a></div>
@@ -155,6 +167,7 @@
   source: https://lak.co.kr/customer/qna.php?id=9785&mode=read&page=42
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(font_size_0_1px -> font_left_display)'
 - id: OF-013
+  split: train
   category: OFFSCREEN
   subtype: font_left_display
   html: <div class="review-root "><a href="#review" id="OF-013-text" class="">무료스포츠중계사이트</a></div>
@@ -168,6 +181,7 @@
   source: https://lak.co.kr/customer/qna.php?id=9785&mode=read&page=42
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(font_size_0_1px -> font_left_display)'
 - id: OF-014
+  split: train
   category: OFFSCREEN
   subtype: font_left_display
   html: <div class="review-root "><a href="#review" id="OF-014-text" class="">토토</a></div>
@@ -181,6 +195,7 @@
   source: https://lak.co.kr/customer/qna.php?id=9785&mode=read&page=42
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(font_size_0_1px -> font_left_display)'
 - id: OF-015
+  split: train
   category: OFFSCREEN
   subtype: font_left_display
   html: <div class="review-root "><a href="#review" id="OF-015-text" class="">아이폰 팝콘티비</a></div>
@@ -194,6 +209,7 @@
   source: https://lak.co.kr/customer/qna.php?id=9785&mode=read&page=42
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(font_size_0_1px -> font_left_display)'
 - id: OF-016
+  split: train
   category: OFFSCREEN
   subtype: font_left_display
   html: <div class="review-root "><span id="OF-016-text" class="">딜도</span></div>
@@ -209,6 +225,7 @@
   source: https://lak.co.kr/customer/qna.php?id=9785&mode=read&page=42
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(left_negative -> font_left_display)'
 - id: OF-017
+  split: train
   category: OFFSCREEN
   subtype: font_left_display
   html: <div class="review-root "><span id="OF-017-text" class="">wpl</span></div>
@@ -224,6 +241,7 @@
   source: https://lak.co.kr/customer/qna.php?id=9785&mode=read&page=42
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(left_negative -> font_left_display)'
 - id: OF-018
+  split: train
   category: OFFSCREEN
   subtype: font_left_display
   html: <div class="review-root "><span id="OF-018-text" class="">슬롯</span></div>
@@ -239,6 +257,7 @@
   source: https://lak.co.kr/customer/qna.php?id=9785&mode=read&page=42
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(left_negative -> font_left_display)'
 - id: OF-019
+  split: train
   category: OFFSCREEN
   subtype: font_left_display
   html: <div class="review-root "><span id="OF-019-text" class="">문화상품권 현금화</span></div>
@@ -254,6 +273,7 @@
   source: https://lak.co.kr/customer/qna.php?id=9785&mode=read&page=42
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(left_negative -> font_left_display)'
 - id: OF-020
+  split: train
   category: OFFSCREEN
   subtype: font_left_display
   html: <div class="review-root "><span id="OF-020-text" class="">스포츠중계</span></div>
@@ -269,6 +289,7 @@
   source: https://lak.co.kr/customer/qna.php?id=9785&mode=read&page=42
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(left_negative -> font_left_display)'
 - id: OF-021
+  split: train
   category: OFFSCREEN
   subtype: font_left_display
   html: <div class="review-root "><span id="OF-021-text" class="">download xiomi firmware</span></div>
@@ -284,6 +305,7 @@
   source: https://stackoverflow.com/questions/65584301/wordpress-malware-top0-left-9999px-urls
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(left_negative -> font_left_display)'
 - id: OF-022
+  split: train
   category: OFFSCREEN
   subtype: font_left_display
   html: <div class="review-root "><span id="OF-022-text" class="">udemy free download</span></div>
@@ -299,6 +321,7 @@
   source: https://stackoverflow.com/questions/65584301/wordpress-malware-top0-left-9999px-urls
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(left_negative -> font_left_display)'
 - id: OF-023
+  split: train
   category: OFFSCREEN
   subtype: font_left_display
   html: <div class="review-root "><span id="OF-023-text" class="">buy viagra in uk</span></div>
@@ -314,6 +337,7 @@
   source: https://stackoverflow.com/questions/16382013/php-joomla-malware-hidden-links-remove
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(left_negative -> font_left_display)'
 - id: OF-024
+  split: val
   category: OFFSCREEN
   subtype: font_left_display
   html: <div class="review-root "><span id="OF-024-text" class="">anabolic for sale</span></div>
@@ -329,6 +353,7 @@
   source: https://sucuri.net/reports/sitecheck-mid-year-2024-report/
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(left_negative -> font_left_display)'
 - id: OF-025
+  split: val
   category: OFFSCREEN
   subtype: font_left_display
   html: <div class="review-root "><span id="OF-025-text" class="">escorts dubai</span></div>
@@ -344,6 +369,7 @@
   source: https://sucuri.net/wp-content/uploads/2022/07/Sucuri_SiteCheck_Q2_2022_report.pdf
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(left_negative -> font_left_display)'
 - id: OF-026
+  split: val
   category: OFFSCREEN
   subtype: font_left_display
   html: <div class="review-root "><span id="OF-026-text" class="">escort istanbul</span></div>
@@ -359,6 +385,7 @@
   source: https://sucuri.net/wp-content/uploads/2022/07/Sucuri_SiteCheck_Q2_2022_report.pdf
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(left_negative -> font_left_display)'
 - id: OF-027
+  split: val
   category: OFFSCREEN
   subtype: font_left_display
   html: <div class="review-root "><span id="OF-027-text" class="">judi bola</span></div>
@@ -374,6 +401,7 @@
   source: https://sucuri.net/wp-content/uploads/2022/07/Sucuri_SiteCheck_Q2_2022_report.pdf
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(left_negative -> font_left_display)'
 - id: OF-028
+  split: val
   category: OFFSCREEN
   subtype: font_left_display
   html: <div class="review-root "><span id="OF-028-text" class="">slot pragmatic</span></div>
@@ -389,6 +417,7 @@
   source: https://sucuri.net/wp-content/uploads/2022/07/Sucuri_SiteCheck_Q2_2022_report.pdf
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(left_negative -> font_left_display)'
 - id: OF-029
+  split: val
   category: OFFSCREEN
   subtype: font_left_display
   html: <div class="review-root "><span id="OF-029-text" class="">situs judi bola</span></div>
@@ -404,6 +433,7 @@
   source: https://sucuri.net/wp-content/uploads/2022/07/Sucuri_SiteCheck_Q2_2022_report.pdf
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(left_negative -> font_left_display)'
 - id: OF-030
+  split: val
   category: OFFSCREEN
   subtype: font_left_display
   html: <div class="review-root "><span id="OF-030-text" class="">idn poker</span></div>
@@ -419,6 +449,7 @@
   source: https://sucuri.net/wp-content/uploads/2022/07/Sucuri_SiteCheck_Q2_2022_report.pdf
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(left_negative -> font_left_display)'
 - id: OF-031
+  split: val
   category: OFFSCREEN
   subtype: font_left_display
   html: <div class="review-root "><span id="OF-031-text" class="d-none">Zeus379</span></div>
@@ -430,6 +461,7 @@
   source: https://www.mdpabel.com/blog/wordpress-hidden-spam-backlinks-database-fetch-injection/
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(display_none -> font_left_display)'
 - id: OF-032
+  split: val
   category: OFFSCREEN
   subtype: font_left_display
   html: <div class="review-root d-none"><span id="OF-032-text">mahkota188</span></div>
@@ -441,6 +473,7 @@
   source: https://www.mdpabel.com/blog/wordpress-hidden-spam-backlinks-database-fetch-injection/
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(display_none -> font_left_display)'
 - id: OF-033
+  split: val
   category: OFFSCREEN
   subtype: font_left_display
   html: <div class="review-root d-none"><div><span id="OF-033-text">duit188</span></div></div>
@@ -452,6 +485,7 @@
   source: https://www.mdpabel.com/blog/wordpress-hidden-spam-backlinks-database-fetch-injection/
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(display_none -> font_left_display)'
 - id: OF-034
+  split: val
   category: OFFSCREEN
   subtype: font_left_display
   html: <div class="review-root "><span id="OF-034-text" class="d-none">https://www.zeverix.com</span></div>
@@ -463,6 +497,7 @@
   source: https://www.mdpabel.com/malware-research/php-footer-remote-content-loader/
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(display_none -> font_left_display)'
 - id: OF-035
+  split: val
   category: OFFSCREEN
   subtype: font_left_display
   html: <div class="review-root d-none"><span id="OF-035-text">gopay178</span></div>
@@ -474,6 +509,7 @@
   source: https://www.mdpabel.com/malware-research/php-footer-remote-content-loader/
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(display_none -> font_left_display)'
 - id: OF-036
+  split: val
   category: OFFSCREEN
   subtype: font_left_display
   html: <div class="review-root d-none"><div><span id="OF-036-text">link shortener</span></div></div>
@@ -485,6 +521,7 @@
   source: https://www.mdpabel.com/malware-research/php-footer-remote-content-loader/
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(display_none -> font_left_display)'
 - id: OF-037
+  split: val
   category: OFFSCREEN
   subtype: font_left_display
   html: <div class="review-root "><span id="OF-037-text" class="hidden">indobooster</span></div>
@@ -496,6 +533,7 @@
   source: https://www.mdpabel.com/malware-research/php-footer-remote-content-loader/
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(display_none -> font_left_display)'
 - id: OF-038
+  split: val
   category: OFFSCREEN
   subtype: font_left_display
   html: <div class="review-root hidden"><span id="OF-038-text">slot gacor hari ini</span></div>
@@ -507,6 +545,7 @@
   source: https://www.mdpabel.com/malware-research/php-footer-remote-content-loader/
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(display_none -> font_left_display)'
 - id: OF-039
+  split: val
   category: OFFSCREEN
   subtype: font_left_display
   html: <div class="review-root hidden"><div><span id="OF-039-text">judi bola</span></div></div>
@@ -518,6 +557,7 @@
   source: https://www.mdpabel.com/malware-research/php-footer-remote-content-loader/
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(display_none -> font_left_display)'
 - id: OF-040
+  split: val
   category: OFFSCREEN
   subtype: font_left_display
   html: <div class="review-root "><span id="OF-040-text" class="hidden">Slot Gacor Hari Ini</span></div>
@@ -528,62 +568,8 @@
   extra_finding: null
   source: https://www.mdpabel.com/malware-research/php-footer-remote-content-loader/
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(display_none -> font_left_display)'
-- id: OF-041
-  category: OFFSCREEN
-  subtype: font_left_display
-  html: <div class="review-root hidden"><span id="OF-041-text">azcorts.com</span></div>
-  css: ".hidden {\n  display: none;\n}"
-  evidence_text: azcorts.com
-  expected_location: '#OF-041-text'
-  is_positive: true
-  extra_finding: null
-  source: https://securelist.com/seo-spam-hidden-links/117782/
-  notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(display_none -> font_left_display)'
-- id: OF-042
-  category: OFFSCREEN
-  subtype: font_left_display
-  html: <div class="review-root hidden"><div><span id="OF-042-text">porngun.mobi</span></div></div>
-  css: ".hidden {\n  display: none;\n}"
-  evidence_text: porngun.mobi
-  expected_location: '#OF-042-text'
-  is_positive: true
-  extra_finding: null
-  source: https://securelist.com/seo-spam-hidden-links/117782/
-  notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(display_none -> font_left_display)'
-- id: OF-043
-  category: OFFSCREEN
-  subtype: font_left_display
-  html: <div class="review-root "><span id="OF-043-text" class="mask">javclips.mobi</span></div>
-  css: .mask { position:absolute; left:0; top:0; z-index:9999; background-color:#000; display:none; }
-  evidence_text: javclips.mobi
-  expected_location: '#OF-043-text'
-  is_positive: true
-  extra_finding: null
-  source: https://securelist.com/seo-spam-hidden-links/117782/
-  notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(display_none -> font_left_display)'
-- id: OF-044
-  category: OFFSCREEN
-  subtype: font_left_display
-  html: <div class="review-root mask"><span id="OF-044-text">pimpmpegs.net</span></div>
-  css: .mask { position:absolute; left:0; top:0; z-index:9999; background-color:#000; display:none; }
-  evidence_text: pimpmpegs.net
-  expected_location: '#OF-044-text'
-  is_positive: true
-  extra_finding: null
-  source: https://securelist.com/seo-spam-hidden-links/117782/
-  notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(display_none -> font_left_display)'
-- id: OF-045
-  category: OFFSCREEN
-  subtype: font_left_display
-  html: <div class="review-root mask"><div><span id="OF-045-text">sexdejt.org</span></div></div>
-  css: .mask { position:absolute; left:0; top:0; z-index:9999; background-color:#000; display:none; }
-  evidence_text: sexdejt.org
-  expected_location: '#OF-045-text'
-  is_positive: true
-  extra_finding: null
-  source: https://securelist.com/seo-spam-hidden-links/117782/
-  notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(display_none -> font_left_display)'
 - id: OF-046
+  split: train
   category: OFFSCREEN
   subtype: visibility_hidden
   html: <div class="review-root "><span id="OF-046-text" class="invisible">cheapest generic viagra</span></div>
@@ -595,6 +581,7 @@
   source: https://www.ranum.com/security/computer_security/editorials/google-defacement/index.html
   notes: 사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름.
 - id: OF-051
+  split: train
   category: OFFSCREEN
   subtype: visibility_hidden
   html: <div class="review-root "><span id="OF-051-text" class="invisible">levitra vs .</span></div>
@@ -606,6 +593,7 @@
   source: https://www.ranum.com/security/computer_security/editorials/google-defacement/index.html
   notes: 사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름.
 - id: OF-055
+  split: train
   category: OFFSCREEN
   subtype: visibility_hidden
   html: <div class="review-root "><span id="OF-055-text" class="invisible">https://fancasinos.com/online-pokies/real-money/</span></div>
@@ -617,6 +605,7 @@
   source: https://stackoverflow.com/questions/73931399/random-spam-code-found-while-inspecting-or-viewing-source-on-my-website
   notes: 사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름.
 - id: OF-056
+  split: val
   category: OFFSCREEN
   subtype: visibility_hidden
   html: <div class="review-root "><span id="OF-056-text" class="invisible">ACD Systems Canvas 11 with GIS Plus</span></div>
@@ -627,51 +616,8 @@
   extra_finding: null
   source: https://blog.sucuri.net/2011/06/blackhat-spam-seo-from-joomlapoject-net-targeting-joomla.html
   notes: 사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름.
-- id: OF-057
-  category: OFFSCREEN
-  subtype: visibility_hidden
-  html: <div class="review-root invisible"><span id="OF-057-text">kamagra</span></div>
-  css: ".invisible {\n  visibility: hidden;\n}"
-  evidence_text: kamagra
-  expected_location: '#OF-057-text'
-  is_positive: true
-  extra_finding: null
-  source: https://wordpress.stackexchange.com/questions/134825/tips-for-finding-spam-links-injected-into-the-content
-  notes: 사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름.
-- id: OF-058
-  category: OFFSCREEN
-  subtype: visibility_hidden
-  html: <div class="review-root invisible"><div><span id="OF-058-text">viagara online</span></div></div>
-  css: ".invisible {\n  visibility: hidden;\n}"
-  evidence_text: viagara online
-  expected_location: '#OF-058-text'
-  is_positive: true
-  extra_finding: null
-  source: https://wordpress.stackexchange.com/questions/134825/tips-for-finding-spam-links-injected-into-the-content
-  notes: 사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름.
-- id: OF-059
-  category: OFFSCREEN
-  subtype: visibility_hidden
-  html: <div class="review-root invisible"><span id="OF-059-text">online cash advance</span></div>
-  css: ".invisible {\n  visibility: hidden;\n}\n#OF-059-text { visibility:hidden; }"
-  evidence_text: online cash advance
-  expected_location: '#OF-059-text'
-  is_positive: true
-  extra_finding: null
-  source: https://wordpress.stackexchange.com/questions/134825/tips-for-finding-spam-links-injected-into-the-content
-  notes: 사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름.
-- id: OF-060
-  category: OFFSCREEN
-  subtype: visibility_hidden
-  html: <div class="review-root "><span id="OF-060-text" class="invisible">levitra for sale</span></div>
-  css: ".invisible {\n  visibility: hidden;\n}\n.review-root { min-height:80px; }"
-  evidence_text: levitra for sale
-  expected_location: '#OF-060-text'
-  is_positive: true
-  extra_finding: null
-  source: https://wordpress.stackexchange.com/questions/134825/tips-for-finding-spam-links-injected-into-the-content
-  notes: 사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름.
 - id: OF-061
+  split: train
   category: OFFSCREEN
   subtype: clip
   html: <div class="review-root "><span id="OF-061-text" class="visually-hidden">payday loans</span></div>
@@ -685,6 +631,7 @@
   source: http://steelhouse.or.kr/steelhouse/board?tpf=board/view&board_code=47&code=1033
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(clip_clip_path -> clip)'
 - id: OF-062
+  split: train
   category: OFFSCREEN
   subtype: clip
   html: <div class="review-root visually-hidden"><span id="OF-062-text">pay off payday loans</span></div>
@@ -698,6 +645,7 @@
   source: http://steelhouse.or.kr/steelhouse/board?tpf=board/view&board_code=47&code=1033
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(clip_clip_path -> clip)'
 - id: OF-063
+  split: train
   category: OFFSCREEN
   subtype: clip
   html: <div class="review-root "><a href="#review" id="OF-063-text" class="visually-hidden">payday loan</a></div>
@@ -710,69 +658,8 @@
   extra_finding: null
   source: http://steelhouse.or.kr/steelhouse/board?tpf=board/view&board_code=47&code=1033
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(clip_clip_path -> clip)'
-- id: OF-064
-  category: OFFSCREEN
-  subtype: clip
-  html: <div class="review-root "><span id="OF-064-text" class="">1Red Casino</span></div>
-  css: '
-
-    #OF-064-text { position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%); }'
-  evidence_text: 1Red Casino
-  expected_location: '#OF-064-text'
-  is_positive: true
-  extra_finding: null
-  source: https://lp.lucasfelix.com/
-  notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(clip_clip_path -> clip)'
-- id: OF-065
-  category: OFFSCREEN
-  subtype: clip
-  html: <div class="review-root "><span id="OF-065-text" class="">Starda Casino</span></div>
-  css: '
-
-    #OF-065-text { display:block;clip-path:circle(0); }'
-  evidence_text: Starda Casino
-  expected_location: '#OF-065-text'
-  is_positive: true
-  extra_finding: null
-  source: https://lp.lucasfelix.com/
-  notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(clip_clip_path -> clip)'
-- id: OF-066
-  category: OFFSCREEN
-  subtype: clip
-  html: <div class="review-root "><span id="OF-066-text" class="visually-hidden">ToonieBet</span></div>
-  css: ".visually-hidden {\n  border: 0;\n  clip: rect(0, 0, 0, 0);\n  height: 1px;\n  margin: -1px;\n  overflow: hidden;\n  padding: 0;\n  position: absolute;\n  white-space: nowrap;\n  width: 1px;\n \
-    \ /* 1 */\n}"
-  evidence_text: ToonieBet
-  expected_location: '#OF-066-text'
-  is_positive: true
-  extra_finding: null
-  source: https://lp.lucasfelix.com/
-  notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(clip_clip_path -> clip)'
-- id: OF-067
-  category: OFFSCREEN
-  subtype: clip
-  html: <div class="review-root visually-hidden"><span id="OF-067-text">maxibet</span></div>
-  css: ".visually-hidden {\n  border: 0;\n  clip: rect(0, 0, 0, 0);\n  height: 1px;\n  margin: -1px;\n  overflow: hidden;\n  padding: 0;\n  position: absolute;\n  white-space: nowrap;\n  width: 1px;\n \
-    \ /* 1 */\n}"
-  evidence_text: maxibet
-  expected_location: '#OF-067-text'
-  is_positive: true
-  extra_finding: null
-  source: https://lp.lucasfelix.com/
-  notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(clip_clip_path -> clip)'
-- id: OF-068
-  category: OFFSCREEN
-  subtype: clip
-  html: <div class="review-root "><a href="#review" id="OF-068-text" class="visually-hidden">Bet On Red</a></div>
-  css: ".visually-hidden {\n  border: 0;\n  clip: rect(0, 0, 0, 0);\n  height: 1px;\n  margin: -1px;\n  overflow: hidden;\n  padding: 0;\n  position: absolute;\n  white-space: nowrap;\n  width: 1px;\n \
-    \ /* 1 */\n}"
-  evidence_text: Bet On Red
-  expected_location: '#OF-068-text'
-  is_positive: true
-  extra_finding: null
-  source: https://lp.lucasfelix.com/
-  notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(clip_clip_path -> clip)'
 - id: OF-069
+  split: train
   category: OFFSCREEN
   subtype: clip
   html: <div class="review-root "><span id="OF-069-text" class="">payday loans</span></div>
@@ -786,6 +673,7 @@
   source: https://www.caita.org.tw/industry01?id=55
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(clip_clip_path -> clip)'
 - id: OF-070
+  split: train
   category: OFFSCREEN
   subtype: clip
   html: <div class="review-root "><span id="OF-070-text" class="">payday loans richmond va</span></div>
@@ -799,6 +687,7 @@
   source: https://underwoodmusic.org/mboard/mboard.asp?board_id=enter04&category=0&csno=&exe=view&group_name=church&idx_num=30&order_c=intVote&order_da=desc&page=1&search_category=&search_word=
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(clip_clip_path -> clip)'
 - id: OF-071
+  split: train
   category: OFFSCREEN
   subtype: clip
   html: <div class="review-root "><span id="OF-071-text" class="sr-only">payday loans</span></div>
@@ -810,6 +699,7 @@
   source: https://www.security.nl/abuse/400031
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(clip_clip_path -> clip)'
 - id: OF-072
+  split: train
   category: OFFSCREEN
   subtype: clip
   html: <div class="review-root sr-only"><span id="OF-072-text">payday loans</span></div>
@@ -821,6 +711,7 @@
   source: https://www.security.nl/abuse/400031
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(clip_clip_path -> clip)'
 - id: OF-073
+  split: train
   category: OFFSCREEN
   subtype: clip
   html: <div class="review-root "><a href="#review" id="OF-073-text" class="sr-only">payday loans</a></div>
@@ -832,6 +723,7 @@
   source: https://stackoverflow.com/questions/17038315/script-attack-on-classic-asp
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(clip_clip_path -> clip)'
 - id: OF-074
+  split: train
   category: OFFSCREEN
   subtype: clip
   html: <div class="review-root "><span id="OF-074-text" class="">payday loans</span></div>
@@ -845,6 +737,7 @@
   source: https://pt.stackoverflow.com/questions/27859/banco-de-dados-sendo-alterado-invadido
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(clip_clip_path -> clip)'
 - id: OF-075
+  split: val
   category: OFFSCREEN
   subtype: clip
   html: <div class="review-root "><span id="OF-075-text" class="">online loan</span></div>
@@ -858,6 +751,7 @@
   source: https://blog.sucuri.net/2013/11/the-story-of-cliprect-a-black-hat-seo-trick.html
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(clip_clip_path -> clip)'
 - id: OF-076
+  split: train
   category: OFFSCREEN
   subtype: text_indent
   html: <div class="review-root "><span id="OF-076-text" class="">buy levitra online</span></div>
@@ -871,6 +765,7 @@
   source: http://steelhouse.or.kr/service_center/community/info?tpf=board/view&board_code=47&code=977
   notes: 사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름.
 - id: OF-077
+  split: train
   category: OFFSCREEN
   subtype: text_indent
   html: <div class="review-root "><span id="OF-077-text" class="">walmart generic levitra</span></div>
@@ -884,6 +779,7 @@
   source: http://steelhouse.or.kr/service_center/community/info?tpf=board/view&board_code=47&code=977
   notes: 사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름.
 - id: OF-078
+  split: train
   category: OFFSCREEN
   subtype: text_indent
   html: <div class="review-root "><span id="OF-078-text" class="">negative effects of levitra</span></div>
@@ -897,6 +793,7 @@
   source: http://steelhouse.or.kr/service_center/community/info?tpf=board/view&board_code=47&code=977
   notes: 사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름.
 - id: OF-079
+  split: train
   category: OFFSCREEN
   subtype: text_indent
   html: <div class="review-root "><span id="OF-079-text" class="">brand levitra online pharmacy</span></div>
@@ -910,6 +807,7 @@
   source: http://steelhouse.or.kr/service_center/community/info?tpf=board/view&board_code=47&code=977
   notes: 사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름.
 - id: OF-080
+  split: train
   category: OFFSCREEN
   subtype: text_indent
   html: <div class="review-root "><span id="OF-080-text" class="">cialis price at target</span></div>
@@ -923,6 +821,7 @@
   source: http://steelhouse.or.kr/service_center/community/info?tpf=board/view&board_code=47&code=977
   notes: 사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름.
 - id: OF-081
+  split: train
   category: OFFSCREEN
   subtype: text_indent
   html: <div class="review-root "><span id="OF-081-text" class="">buy cialis</span></div>
@@ -936,6 +835,7 @@
   source: http://steelhouse.or.kr/steelhouse/board?tpf=board/view&board_code=47&code=1033
   notes: 사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름.
 - id: OF-082
+  split: train
   category: OFFSCREEN
   subtype: text_indent
   html: <div class="review-root "><span id="OF-082-text" class="">generic viagra</span></div>
@@ -948,72 +848,8 @@
   extra_finding: null
   source: http://steelhouse.or.kr/steelhouse/board?tpf=board/view&board_code=47&code=1033
   notes: 사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름.
-- id: OF-083
-  category: OFFSCREEN
-  subtype: text_indent
-  html: <div class="review-root "><span id="OF-083-text" class="">Holyluck</span></div>
-  css: '
-
-    #OF-083-text { display:inline-block;text-indent:-10000em;white-space:nowrap;overflow:hidden; }'
-  evidence_text: Holyluck
-  expected_location: '#OF-083-text'
-  is_positive: true
-  extra_finding: null
-  source: https://lp.lucasfelix.com/
-  notes: 사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름.
-- id: OF-084
-  category: OFFSCREEN
-  subtype: text_indent
-  html: <div class="review-root "><span id="OF-084-text" class="">Gransino</span></div>
-  css: '
-
-    #OF-084-text { display:inline-block;text-indent:-1000%;white-space:nowrap;overflow:hidden; }'
-  evidence_text: Gransino
-  expected_location: '#OF-084-text'
-  is_positive: true
-  extra_finding: null
-  source: https://lp.lucasfelix.com/
-  notes: 사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름.
-- id: OF-085
-  category: OFFSCREEN
-  subtype: text_indent
-  html: <div class="review-root "><span id="OF-085-text" class="">https://bookyspinzcasinofr.com/</span></div>
-  css: '
-
-    #OF-085-text { display:inline-block;text-indent:-100vw;white-space:nowrap;overflow:hidden; }'
-  evidence_text: https://bookyspinzcasinofr.com/
-  expected_location: '#OF-085-text'
-  is_positive: true
-  extra_finding: null
-  source: https://lp.lucasfelix.com/
-  notes: 사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름.
-- id: OF-086
-  category: OFFSCREEN
-  subtype: transform_outside
-  html: <div class="review-root "><span id="OF-086-text" class="">brionis casino</span></div>
-  css: '
-
-    #OF-086-text { display:inline-block;transform:translateX(-10000px); }'
-  evidence_text: brionis casino
-  expected_location: '#OF-086-text'
-  is_positive: true
-  extra_finding: null
-  source: https://lp.lucasfelix.com/
-  notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(transform_document_coords -> transform_outside)'
-- id: OF-087
-  category: OFFSCREEN
-  subtype: transform_outside
-  html: <div class="review-root "><span id="OF-087-text" class="">kod promocyjny twindoor</span></div>
-  css: '
-
-    #OF-087-text { display:inline-block;transform:translateY(-10000px); }'
-  evidence_text: kod promocyjny twindoor
-  expected_location: '#OF-087-text'
-  is_positive: true
-  extra_finding: null
-  source: https://lp.lucasfelix.com/
-  notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(transform_document_coords -> transform_outside)'
 - id: OF-088
+  split: train
   category: OFFSCREEN
   subtype: transform_outside
   html: <div class="review-root "><span id="OF-088-text" class="">female viagra review</span></div>
@@ -1027,6 +863,7 @@
   source: https://tiengnoichanly.com/display/DetailContent.aspx?CN=bvct&bv=146
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(transform_document_coords -> transform_outside)'
 - id: OF-089
+  split: train
   category: OFFSCREEN
   subtype: transform_outside
   html: <div class="review-root "><span id="OF-089-text" class="">buy abortion pill uk</span></div>
@@ -1040,6 +877,7 @@
   source: https://tiengnoichanly.com/display/DetailContent.aspx?CN=bvct&bv=146
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(transform_document_coords -> transform_outside)'
 - id: OF-090
+  split: train
   category: OFFSCREEN
   subtype: transform_outside
   html: <div class="review-root "><span id="OF-090-text" class="">acheter nifedipine</span></div>
@@ -1053,6 +891,7 @@
   source: https://tiengnoichanly.com/display/DetailContent.aspx?CN=bvct&bv=146
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(transform_document_coords -> transform_outside)'
 - id: OF-091
+  split: train
   category: OFFSCREEN
   subtype: transform_outside
   html: <div class="review-root "><span id="OF-091-text" class="">motilium</span></div>
@@ -1066,6 +905,7 @@
   source: https://tiengnoichanly.com/display/DetailContent.aspx?CN=bvct&bv=146
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(transform_document_coords -> transform_outside)'
 - id: OF-092
+  split: train
   category: OFFSCREEN
   subtype: transform_outside
   html: <div class="review-root "><span id="OF-092-text" class="">mobic</span></div>
@@ -1079,6 +919,7 @@
   source: https://tiengnoichanly.com/display/DetailContent.aspx?CN=bvct&bv=146
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(transform_document_coords -> transform_outside)'
 - id: OF-093
+  split: train
   category: OFFSCREEN
   subtype: transform_outside
   html: <div class="review-root "><span id="OF-093-text" class="">metoclopramid 7 mg</span></div>
@@ -1092,6 +933,7 @@
   source: https://tiengnoichanly.com/display/DetailContent.aspx?CN=bvct&bv=146
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(transform_document_coords -> transform_outside)'
 - id: OF-094
+  split: train
   category: OFFSCREEN
   subtype: transform_outside
   html: <div class="review-root "><span id="OF-094-text" class="">buy viagra uk</span></div>
@@ -1105,6 +947,7 @@
   source: https://tiengnoichanly.com/display/DetailContent.aspx?CN=bvct&bv=157
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(transform_document_coords -> transform_outside)'
 - id: OF-095
+  split: train
   category: OFFSCREEN
   subtype: transform_outside
   html: <div class="review-root "><span id="OF-095-text" class="">buy accutane cream</span></div>
@@ -1118,6 +961,7 @@
   source: https://tiengnoichanly.com/display/DetailContent.aspx?CN=bvct&bv=157
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(transform_document_coords -> transform_outside)'
 - id: OF-096
+  split: train
   category: OFFSCREEN
   subtype: transform_outside
   html: <div class="review-root "><span id="OF-096-text" class="">buy abortion pill online</span></div>
@@ -1133,6 +977,7 @@
   source: https://tiengnoichanly.com/display/DetailContent.aspx?CN=bvct&bv=157
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(transform_document_coords -> transform_outside)'
 - id: OF-097
+  split: train
   category: OFFSCREEN
   subtype: transform_outside
   html: <div class="review-root "><span id="OF-097-text" class="">risperdal</span></div>
@@ -1148,6 +993,7 @@
   source: https://tiengnoichanly.com/display/DetailContent.aspx?CN=bvct&bv=157
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(transform_document_coords -> transform_outside)'
 - id: OF-098
+  split: val
   category: OFFSCREEN
   subtype: transform_outside
   html: <div class="review-root "><span id="OF-098-text" class="">Payday loans</span></div>
@@ -1163,6 +1009,7 @@
   source: https://cognitiveseo.com/blog/1914/new-black-hat-technique-beats-the-google-penguin-and-emd-updates/
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(transform_document_coords -> transform_outside)'
 - id: OF-099
+  split: val
   category: OFFSCREEN
   subtype: transform_outside
   html: <div class="review-root "><span id="OF-099-text" class="">choi game</span></div>
@@ -1178,6 +1025,7 @@
   source: https://cognitiveseo.com/blog/1914/new-black-hat-technique-beats-the-google-penguin-and-emd-updates/
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(transform_document_coords -> transform_outside)'
 - id: OF-100
+  split: val
   category: OFFSCREEN
   subtype: transform_outside
   html: <div class="review-root "><span id="OF-100-text" class="">phim hay</span></div>
@@ -1193,6 +1041,7 @@
   source: https://cognitiveseo.com/blog/1914/new-black-hat-technique-beats-the-google-penguin-and-emd-updates/
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-05: subtype 을 계획서 5종으로 통일(transform_document_coords -> transform_outside)'
 - id: OF-215
+  split: train
   category: OFFSCREEN
   subtype: visibility_hidden
   html: <div class="review-root "><span id="OF-215-text" class="invisible">pay day loan online</span></div>
@@ -1204,6 +1053,7 @@
   source: https://www.sitepoint.com/community/t/div-id-hidemeya-added-to-the-source-code-of-my-website/39004
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-06: 원문 OF-208 문구에 Bootstrap .invisible(visibility:hidden) 규칙을 건 보충분'
 - id: OF-216
+  split: train
   category: OFFSCREEN
   subtype: visibility_hidden
   html: <div class="review-root invisible"><span id="OF-216-text">viagra coupon pfizer</span></div>
@@ -1215,6 +1065,7 @@
   source: https://www.sitepoint.com/community/t/div-id-hidemeya-added-to-the-source-code-of-my-website/39004
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-06: 원문 OF-209 문구에 Bootstrap .invisible(visibility:hidden) 규칙을 건 보충분'
 - id: OF-217
+  split: train
   category: OFFSCREEN
   subtype: visibility_hidden
   html: <div class="review-root invisible"><div><span id="OF-217-text">order viagras online</span></div></div>
@@ -1226,6 +1077,7 @@
   source: https://www.sitepoint.com/community/t/div-id-hidemeya-added-to-the-source-code-of-my-website/39004
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-06: 원문 OF-210 문구에 Bootstrap .invisible(visibility:hidden) 규칙을 건 보충분'
 - id: OF-218
+  split: train
   category: OFFSCREEN
   subtype: visibility_hidden
   html: <div class="review-root "><span id="OF-218-text" class="invisible">levitra coupon</span></div>
@@ -1237,6 +1089,7 @@
   source: https://www.sitepoint.com/community/t/div-id-hidemeya-added-to-the-source-code-of-my-website/39004
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-06: 원문 OF-211 문구에 Bootstrap .invisible(visibility:hidden) 규칙을 건 보충분'
 - id: OF-219
+  split: train
   category: OFFSCREEN
   subtype: visibility_hidden
   html: <div class="review-root invisible"><span id="OF-219-text">cialis cheapest price</span></div>
@@ -1248,6 +1101,7 @@
   source: https://www.sitepoint.com/community/t/div-id-hidemeya-added-to-the-source-code-of-my-website/39004
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-06: 원문 OF-212 문구에 Bootstrap .invisible(visibility:hidden) 규칙을 건 보충분'
 - id: OF-220
+  split: train
   category: OFFSCREEN
   subtype: visibility_hidden
   html: <div class="review-root invisible"><div><span id="OF-220-text">viagra food</span></div></div>
@@ -1259,6 +1113,7 @@
   source: https://www.sitepoint.com/community/t/div-id-hidemeya-added-to-the-source-code-of-my-website/39004
   notes: '사용자가 승인한 원문 문구에 라이브러리 CSS 또는 명시한 파생 변형을 적용한 시험용 샘플. 실제 사이트 원문 HTML/CSS와 다름. / 2026-10-06: 원문 OF-213 문구에 Bootstrap .invisible(visibility:hidden) 규칙을 건 보충분'
 - id: OF-221
+  split: train
   category: OFFSCREEN
   subtype: visibility_hidden
   html: <div class="review-root "><span id="OF-221-text" class="invisible">online cialis</span></div>

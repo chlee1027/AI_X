@@ -11,7 +11,7 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=16
   source_type: real
-  split: test
+  split: train
   page_location: tr:nth-of-type(6) > td.kboard-list-title:nth-of-type(2) > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=16
@@ -33,7 +33,7 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=23
   source_type: real
-  split: test
+  split: train
   page_location: tr:nth-of-type(8) > td.kboard-list-title:nth-of-type(2) > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=23
@@ -55,7 +55,7 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=28
   source_type: real
-  split: test
+  split: train
   page_location: tr:nth-of-type(7) > td.kboard-list-title:nth-of-type(2) > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=28

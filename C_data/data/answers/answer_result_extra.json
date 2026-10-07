@@ -9,33 +9,6 @@
   },
   "findings": [
     {
-      "id": "ET-001_LINK_CLOAKING",
-      "url": "https://contil.cau.ac.kr/",
-      "is_violation": true,
-      "location": "a",
-      "evidence_text": "https://wwnnh.com/gate/kr/kr072750.html",
-      "technique": "ETC",
-      "extra_finding": "LINK_CLOAKING"
-    },
-    {
-      "id": "ET-002_LINK_CLOAKING",
-      "url": "https://dreamcatch.changwon.ac.kr/sso/index.jsp?play=wise+toto",
-      "is_violation": true,
-      "location": "a",
-      "evidence_text": "http://bit.ly/heimao_krclub",
-      "technique": "ETC",
-      "extra_finding": "LINK_CLOAKING"
-    },
-    {
-      "id": "ET-003_LINK_CLOAKING",
-      "url": "https://germania.cau.ac.kr/_files/?play=%EC%95%88%EC%A0%84%EB%86%80%EC%9D%B4%ED%84%B0+%EC%88%9C%EC%9C%84",
-      "is_violation": true,
-      "location": "a",
-      "evidence_text": "https://bit.ly/heimao_krclub",
-      "technique": "ETC",
-      "extra_finding": "LINK_CLOAKING"
-    },
-    {
       "id": "ET-004_LINK_CLOAKING",
       "url": "https://ipsi.chu.ac.kr/board/?date=03-30&go=%EB%B2%94%ED%8D%BC%EC%B9%B4%ED%86%A0%ED%86%A0&language=kr&module=page",
       "is_violation": true,
@@ -108,42 +81,6 @@
       "extra_finding": "ENCODING"
     },
     {
-      "id": "ET-012_ZERO_WIDTH",
-      "url": "http://cuma.or.kr/bbs/board.php?bo_table=bbs4&wr_id=98107",
-      "is_violation": true,
-      "location": "span.bo_v_tit",
-      "evidence_text": "비­아그라시알리스구매 & 비­아그라 사용후기 & 천사약국 비­아그라",
-      "technique": "ETC",
-      "extra_finding": "ZERO_WIDTH"
-    },
-    {
-      "id": "ET-013_ZERO_WIDTH",
-      "url": "http://cuma.or.kr/bbs/board.php?bo_table=bbs4&wr_id=98107",
-      "is_violation": true,
-      "location": "a",
-      "evidence_text": "비­아그라뉴스 & 비­아그라미국 & 비­아그라 파는곳",
-      "technique": "ETC",
-      "extra_finding": "ZERO_WIDTH"
-    },
-    {
-      "id": "ET-014_ZERO_WIDTH",
-      "url": "http://cuma.or.kr/bbs/board.php?bo_table=bbs4&wr_id=98107",
-      "is_violation": true,
-      "location": "a",
-      "evidence_text": "비­아그라 여자가먹으면 & 비­아그라협심증 & 비­아그라 구하는법",
-      "technique": "ETC",
-      "extra_finding": "ZERO_WIDTH"
-    },
-    {
-      "id": "ET-015_ZERO_WIDTH",
-      "url": "http://cuma.or.kr/bbs/board.php?bo_table=bbs4&wr_id=98107",
-      "is_violation": true,
-      "location": "a",
-      "evidence_text": "시­알리스판매사이트 & 시­알리스 가격 & 시­알리스직거래",
-      "technique": "ETC",
-      "extra_finding": "ZERO_WIDTH"
-    },
-    {
       "id": "ET-016_ENCODING",
       "url": "https://jnbburi.or.kr/bbs/board.php?bo_table=notice&wr_id=638869",
       "is_violation": true,
@@ -187,78 +124,6 @@
       "evidence_text": "%EC%B0%A8%EB%8F%99%EC%9D%98%EB%A1%9C%EB%98%90%EB%94%94%EB%B9%84%EA%B0%80%EA%B2%A9%E2%9D%86%EC%8B%A4%EC%8B%9C%EA%B0%84%EC%A3%BC%EC%8B%9D%EB%94%94%EB%B9%84%EC%BD%9C%E2%8B%85%ED%95%B4%ED%82%B9DB%ED%8C%9D%EB%8B%88%EB%8B%A4%F0%9F%8F%81%EA%B8%89%EC%A0%84%EB%94%94%EB%B9%84%EA%B5%AC%EB%A7%A4%E2%98%9D",
       "technique": "ETC",
       "extra_finding": "ENCODING"
-    },
-    {
-      "id": "ET-021_ENCODING",
-      "url": "https://ypcd.or.kr/bbs/board.php?bo_table=notice4&wr_id=1047986",
-      "is_violation": true,
-      "location": "a",
-      "evidence_text": "%E2%90%9C%EC%9C%88%EB%8F%84%EC%9A%B0AD%ED%95%B4%ED%82%B9%F0%9F%8E%80%40futin888%E2%81%BA%ED%8B%B0%EC%97%A0%EC%BD%94%EC%9D%B8%EB%94%94%EB%B9%84%EC%97%85%EC%9E%90%E2%8D%AB",
-      "technique": "ETC",
-      "extra_finding": "ENCODING"
-    },
-    {
-      "id": "ET-022_ENCODING",
-      "url": "https://ypcd.or.kr/bbs/board.php?bo_table=notice4&wr_id=1047986",
-      "is_violation": true,
-      "location": "a",
-      "evidence_text": "%F0%9F%90%AD%EC%B9%B4%EB%B0%9C%EC%8B%A0%EA%B7%9C%EB%A1%9C%EB%98%90%EB%94%94%EB%B9%84%F0%9F%A5%B2%EB%94%94%EB%B9%84%EC%B6%94%EC%B6%9C%EC%9D%98%EB%A2%B0%F0%9F%9E%B9%40futin888%E2%89%B1%EC%B5%9C%EC%8B%A0%EC%A6%9D%EA%B6%8C%EB%94%94%EB%B9%84%EA%B5%AC%EC%9E%85%EA%B8%88%EC%95%A1%E2%B9%84%EC%BD%94%EC%9D%B8%ED%88%AC%EC%9E%90%EC%9E%90%EB%AA%85%EB%B6%80%F0%9F%8E%B8",
-      "technique": "ETC",
-      "extra_finding": "ENCODING"
-    },
-    {
-      "id": "ET-023_ENCODING",
-      "url": "https://ypcd.or.kr/bbs/board.php?bo_table=notice4&wr_id=1047986",
-      "is_violation": true,
-      "location": "a",
-      "evidence_text": "%EC%B0%A8%EB%8F%99%EC%9D%98%ED%95%B4%ED%82%B9DB%ED%8C%9D%EB%8B%88%EB%8B%A4%F0%9F%A4%B2%EC%9C%A0%ED%8A%9C%EB%B8%8C1%EC%B0%A8%EB%8F%99%EC%9D%98%EB%A1%9C%EB%98%90DB%F0%9F%81%BA%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%AC%B8%EC%9E%90%EC%A3%BC%EC%8B%9D%EB%94%94%EB%B9%84%ED%8C%90%EB%A7%A4%F0%9F%A4%B0",
-      "technique": "ETC",
-      "extra_finding": "ENCODING"
-    },
-    {
-      "id": "ET-024_ENCODING",
-      "url": "https://ypcd.or.kr/bbs/board.php?bo_table=notice4&wr_id=1047986",
-      "is_violation": true,
-      "location": "a",
-      "evidence_text": "%F0%9F%81%80%EC%9E%AC%ED%85%8C%ED%81%AC%ED%95%B4%ED%82%B9DB%ED%8C%9D%EB%8B%88%EB%8B%A4%F0%9F%A4%B3%EC%8A%A4%EC%9B%A8%EB%94%94%EC%8B%9CDB%EC%97%85%EC%9E%90%E2%A5%95%EC%B5%9C%EC%8B%A0%EC%BD%94%EC%9D%B8DB%EC%97%90%EC%9D%B4%EC%A0%84%EC%8B%9C%F0%9F%A5%BD%EC%8B%A0%EA%B7%9C%EA%B3%A8%ED%94%84%EC%9E%A5%EB%94%94%EB%B9%84%E2%BB%80",
-      "technique": "ETC",
-      "extra_finding": "ENCODING"
-    },
-    {
-      "id": "ET-025_ENCODING",
-      "url": "https://ypcd.or.kr/bbs/board.php?bo_table=notice4&wr_id=1047986",
-      "is_violation": true,
-      "location": "a",
-      "evidence_text": "%E2%9A%AF%EC%A3%BC%EC%8B%9DDB%EC%82%AC%EC%9A%A9%EC%9E%90DB%E2%AB%BE",
-      "technique": "ETC",
-      "extra_finding": "ENCODING"
-    },
-    {
-      "id": "ET-026_ZERO_WIDTH",
-      "url": "http://pizzabrothers.co.kr/box/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=47853438&t=board",
-      "is_violation": true,
-      "location": "span._comment_body_._comment_body_c202504230c5d01381c5b8",
-      "evidence_text": "‌‌레비트라 LEVITRA는 성관계의 질을 향상시킬 수 있는 새로운 경구용 발기부전 치료제로서 복용 15분 후 부터 효과를 발휘하여, 다른 PDE-5 억제제와 비교할 때 가장 빠르게 작용합니다.",
-      "technique": "ETC",
-      "extra_finding": "ZERO_WIDTH"
-    },
-    {
-      "id": "ET-028_ZERO_WIDTH",
-      "url": "http://pizzabrothers.co.kr/box/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=47855104&t=board",
-      "is_violation": true,
-      "location": "span._comment_body_._comment_body_c20250605f76781432407d",
-      "evidence_text": "시알리스지속시간   필름형비아그라후기   정품 씨알리스 종류   정품 시알리스 구입   시알리스 5mg 가격   프릴리지가격   센트립 구매   정품시알­리스구매할수있는방법   비아그라   발기부전치료제 온라인 구입방법   시알리스 처방   비아그라 빠른배송   정력제   정품비아그라 부작용   비아그라 약국 가격   시알리스 필름   시알리스 10mg 가격   시알리스 복제약 종류   시알.리스 처방전없이 살수있나요   비아그라구입사이트   정품 시알리스 인터넷 구매약국   시알리스   정품 비아그라 구입 사이트   시알리스 구입   천연비아그라   정품 씨알리스 후기   씨알리스 파는곳   비아그라 정품 판매처   비아그라 후기   카마그라 구입",
-      "technique": "ETC",
-      "extra_finding": "ZERO_WIDTH"
-    },
-    {
-      "id": "ET-029_ZERO_WIDTH",
-      "url": "http://pizzabrothers.co.kr/box/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=47863138&t=board",
-      "is_violation": true,
-      "location": "span._comment_body_._comment_body_c20250619037d4f90c4d91",
-      "evidence_text": "파워맨비아그라파워맨  남성클리닉 사이트 모든제품 1+1 서비스 빵빵 드려요!!!비아그라+시알리스 구입 구매 재구매 1위 사이트파워맨 사이트 바로가기      ‌‌비아그라사이트 바로가기   ‌‌ 카톡 문의하기         ‌‌‌ 파워맨의 모든 제품은 100%수입산 제품입니다. 파워맨은오랜 구매대행경험과 각 종류별 수입산 발기,조루 제품을취급하는 종합 쇼핑몰입니다~많은 분들의 관심과 사랑에 보답하기 위해서 파워맨은 1+1 이벤트를 진행하고 있습니다.‌많이 이용부탁드립니다.^^비아그라.비아그라구입.비아그라구매.비아그라가격.처방없이 구매.비아그라약국.비아그라구입방법.정품비아그라.정품비아그라구입.정품비아그라구매.정품비아그라파는곳.정품비아그라구매처.비아그라구매처.정품비아그라구입방법.파워맨",
-      "technique": "ETC",
-      "extra_finding": "ZERO_WIDTH"
     },
     {
       "id": "ET-030_LINK_CLOAKING",
@@ -331,15 +196,6 @@
       "evidence_text": "http://www.qkc709.com/?ac=r20149",
       "technique": "ETC",
       "extra_finding": "LINK_CLOAKING"
-    },
-    {
-      "id": "ET-038_ZERO_WIDTH",
-      "url": "http://cuma.or.kr/bbs/board.php?bo_table=bbs4&wr_id=98087",
-      "is_violation": true,
-      "location": "a",
-      "evidence_text": "정품시알­리스구매할수있는방법",
-      "technique": "ETC",
-      "extra_finding": "ZERO_WIDTH"
     },
     {
       "id": "ET-039_LINK_CLOAKING",
@@ -567,15 +423,6 @@
       "extra_finding": "ENCODING"
     },
     {
-      "id": "ET-064_ZERO_WIDTH",
-      "url": "http://pizzabrothers.co.kr/box/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=47852488&t=board",
-      "is_violation": true,
-      "location": "span._comment_body_._comment_body_c202506279b684a7c78851",
-      "evidence_text": "발기부전 치료제 효능 순위   시알리스 5mg 구매   비아그라 복용후기   파워 맨 사이트   비아그라 가격   정품 비아그라 구매 사이트   정품시알­리스구매할수있는방법   시알리스 복용   정품 레비트라효과   정품 온라인 약국 시알리스   비아.그라 가격   비아그라효과   시알리스 c100 가격   시알리스 정품   비아그라효능   레비트라 구매   정품 비아그라판매처사이트   비아그라부작용   정품비아그라 먹으면나타나는증상   약국 발기   정품비아그라판매사이트   정품 비아그라 찾기   레비트라구매 사이트   국산비아그라   카마그라할인   정품 비아그라 약국가격   시알리스 5mg 가격   정품 비아그라구입처   타다라필 구입 방법   골드시알리스",
-      "technique": "ETC",
-      "extra_finding": "ZERO_WIDTH"
-    },
-    {
       "id": "ET-065_ZERO_WIDTH",
       "url": "https://bienworks.co.kr/board/product/read.html?no=145065&board_no=6",
       "is_violation": true,
@@ -628,33 +475,6 @@
       "evidence_text": "https://qb-700.com/?code=2080",
       "technique": "ETC",
       "extra_finding": "LINK_CLOAKING"
-    },
-    {
-      "id": "ET-072_ZERO_WIDTH",
-      "url": "http://pizzabrothers.co.kr/box/?q=YToyOntzOjQ6InBhZ2UiO2k6MztzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=47839216&t=board",
-      "is_violation": true,
-      "location": "span._comment_body_._comment_body_c20250504da1fefb0bee81",
-      "evidence_text": "반값으로 할인?! 파워맨 모든제품 절반가격으로!파워맨은오랜 구매대행경험과 각 종류별 수입산 발기,조루 제품을취급하는 종합 쇼핑몰입니다~많은 분들의 관심과 사랑에 보답하기 위해서 파워맨은 1+1 이벤트를 진행하고 있습니다.‌많이 이용부탁드립니다.비아그라+시알리스 구입 구매 재구매 1위 사이트파워맨  남성클리닉 사이트 모든제품 1+1 서비스 빵빵 드려요!!!파워맨 사이트 바로가기      ‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌비아그라사이트 바로가기   ‌‌‌‌‌‌‌‌‌‌‌‌‌ 카톡 문의하기파워맨의 모든 제품은 100%수입산 제품입니다. 파워맨은오랜 구매대행경험과 각 종류별 수입산 발기,조루 제품을취급하는 종합 쇼핑몰입니다~",
-      "technique": "ETC",
-      "extra_finding": "ZERO_WIDTH"
-    },
-    {
-      "id": "ET-073_LINK_CLOAKING",
-      "url": "http://pizzabrothers.co.kr/box/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=47851686&t=board",
-      "is_violation": true,
-      "location": "a",
-      "evidence_text": "https://xn--hz2bk7cm4n84f.com/",
-      "technique": "ETC",
-      "extra_finding": "LINK_CLOAKING"
-    },
-    {
-      "id": "ET-074_ZERO_WIDTH",
-      "url": "http://pizzabrothers.co.kr/box/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=47851686&t=board",
-      "is_violation": true,
-      "location": "span._comment_body_._comment_body_c2025042684e30f06a35c9",
-      "evidence_text": "반값으로 할인?! 하나약국 모든제품 절반가격으로!하나약국은오랜 구매대행경험과 각 종류별 수입산 발기,조루 제품을취급하는 종합 쇼핑몰입니다~많은 분들의 관심과 사랑에 보답하기 위해서 하나약국은 1+1 이벤트를 진행하고 있습니다.‌많이 이용부탁드립니다.비아그라+시알리스 구입 구매 재구매 1위 사이트하나약국  남성클리닉 사이트 모든제품 1+1 서비스 빵빵 드려요!!!하나약국 사이트 바로가기      ‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌비아그라사이트 바로가기   ‌‌‌‌‌‌‌‌‌‌‌‌‌ 카톡 문의하기하나약국의 모든 제품은 100%수입산 제품입니다. 하나약국은오랜 구매대행경험과 각 종류별 수입산 발기,조루 제품을취급하는 종합 쇼핑몰입니다~",
-      "technique": "ETC",
-      "extra_finding": "ZERO_WIDTH"
     },
     {
       "id": "ET-075_ZERO_WIDTH",
@@ -725,51 +545,6 @@
       "is_violation": true,
       "location": "a",
       "evidence_text": "트레이딩벳❤️ KC7979.COM ❤️인터넷슬­롯머신모바일슬­롯머신해외온­라인슬­롯해외슬­롯사­이트온­라인슬­롯조작온­라인슬­롯카­지노온­라인슬­롯추천",
-      "technique": "ETC",
-      "extra_finding": "ZERO_WIDTH"
-    },
-    {
-      "id": "ET-083_ZERO_WIDTH",
-      "url": "http://kmc1958.or.kr/bbs/board.php?bo_table=sub01_03&wr_id=420",
-      "is_violation": true,
-      "location": "p",
-      "evidence_text": "정품미국비­아그라복제약구매   대젤로페성기확대젤정품포장   시­알리스체험기   정품여성흥분제리퀴드섹스   대전정자검사   천장관절   페이로니병   해바라기링   미국레­비트라제네릭구매   미국정품카마그라부작용   칙치기   정품비아그라 가격   타다라필 여성   일본정품여성흥분제꽃물판매   비닉스약국   시알리스 복제약   비아그라종류   노인요실금   비­아그라장기복용부작용   수입산미국비아그라 구매방법   한방치료   시알리스 50mg   대구이룸비뇨기과   미국 시알리스   강남연세우노비뇨기과   정품비아그라 복용 후기   미국정품비아그라 인터넷구매   정품여성흥분제해바라기구매   교통사고도수치료   남성해바라기수술",
-      "technique": "ETC",
-      "extra_finding": "ZERO_WIDTH"
-    },
-    {
-      "id": "ET-085_ZERO_WIDTH",
-      "url": "http://kmc1958.or.kr/bbs/board.php?bo_table=sub01_03&wr_id=420",
-      "is_violation": true,
-      "location": "p",
-      "evidence_text": "‌‌레비트라 LEVITRA는 성관계의 질을 향상시킬 수 있는 새로운 경구용 발기부전 치료제로서 복용 15분 후 부터 효과를 발휘하여, 다른 PDE-5 억제제와 비교할 때 가장 빠르게 작용합니다.",
-      "technique": "ETC",
-      "extra_finding": "ZERO_WIDTH"
-    },
-    {
-      "id": "ET-087_ZERO_WIDTH",
-      "url": "http://kmc1958.or.kr/bbs/board.php?bo_table=sub01_03&wr_id=420",
-      "is_violation": true,
-      "location": "p",
-      "evidence_text": "남성의 발기부전 치료에 사용되는 약물로 비아그라,시알리스보다 늦은 출시임에도 불구하고 현재 많은 사람들이 찾는 발기부전제입니다‌레비트라 LEVITRA는 성관계의 질을 향상시킬 수 있는 새로운 경구용 발기부전 치료제로서 복용 15분 후 부터 효과를 발휘하여, 다른 PDE-5 억제제와 비교할 때 가장 빠르게 작용합니다.‌효능 지속시간은 5시간이며 매번 복용 시 충분한 강직도와 지속적인 성관계를 가능케 하며 정확한 복용법1일 1회을 지키면 매일 사용해도 안전한 것으로 밝혀졌습니다.레비트라의 특징복용  15분 후 부터 약효를 보기 때문에 기다릴 필요가 없습니다 시알리스를 선호하는 이유는적은 부작용",
-      "technique": "ETC",
-      "extra_finding": "ZERO_WIDTH"
-    },
-    {
-      "id": "ET-089_ZERO_WIDTH",
-      "url": "http://kmc1958.or.kr/bbs/board.php?bo_table=sub01_03&wr_id=420",
-      "is_violation": true,
-      "location": "p",
-      "evidence_text": "무료상담 지금 받아보세요‌‌시알리스시알리스Cialis는 노바르티스Novartis의 제약 회사인 엘리릴리Lilly가 개발하고 생산하는 약물입니다.",
-      "technique": "ETC",
-      "extra_finding": "ZERO_WIDTH"
-    },
-    {
-      "id": "ET-091_ZERO_WIDTH",
-      "url": "http://kmc1958.or.kr/bbs/board.php?bo_table=sub01_03&wr_id=420",
-      "is_violation": true,
-      "location": "p",
-      "evidence_text": "파워맨비아그라파워맨  남성클리닉 사이트 모든제품 1+1 서비스 빵빵 드려요!!!비아그라+시알리스 구입 구매 재구매 1위 사이트파워맨 사이트 바로가기      ‌‌비아그라사이트 바로가기   ‌‌ 카톡 문의하기         ‌‌‌ 파워맨의 모든 제품은 100%수입산 제품입니다. 파워맨은오랜 구매대행경험과 각 종류별 수입산 발기,조루 제품을취급하는 종합 쇼핑몰입니다~많은 분들의 관심과 사랑에 보답하기 위해서 파워맨은 1+1 이벤트를 진행하고 있습니다.‌많이 이용부탁드립니다.^^비아그라.비아그라구입.비아그라구매.비아그라가격.처방없이 구매.비아그라약국.비아그라구입방법.정품비아그라.정품비아그라구입.정품비아그라구매.정품비아그라파는곳.정품비아그라구매처.비아그라구매처.정품비아그라구입방법.파워맨",
       "technique": "ETC",
       "extra_finding": "ZERO_WIDTH"
     },
@@ -862,42 +637,6 @@
       "evidence_text": "http://www.qkc709.com/?ac=r20149",
       "technique": "ETC",
       "extra_finding": "LINK_CLOAKING"
-    },
-    {
-      "id": "ET-102_ZERO_WIDTH",
-      "url": "https://www.smh-hospital.co.kr/bbs/board.php?bo_table=free&wr_id=14282",
-      "is_violation": true,
-      "location": "h1#hd_h1",
-      "evidence_text": "시­알리스 30정 & 시­알리스구매 & 씨알리스 처방 > 자유게시판",
-      "technique": "ETC",
-      "extra_finding": "ZERO_WIDTH"
-    },
-    {
-      "id": "ET-103_ZERO_WIDTH",
-      "url": "https://www.smh-hospital.co.kr/bbs/board.php?bo_table=free&wr_id=14282",
-      "is_violation": true,
-      "location": "a",
-      "evidence_text": "비­아그라먹은후기분 & 비­아그라복제약처방전 & Viagra Korea",
-      "technique": "ETC",
-      "extra_finding": "ZERO_WIDTH"
-    },
-    {
-      "id": "ET-104_ZERO_WIDTH",
-      "url": "https://www.smh-hospital.co.kr/bbs/board.php?bo_table=free&wr_id=14282",
-      "is_violation": true,
-      "location": "a",
-      "evidence_text": "시­알리스 나무위키 & 씨알리스 효과 & 씨알에스부작용",
-      "technique": "ETC",
-      "extra_finding": "ZERO_WIDTH"
-    },
-    {
-      "id": "ET-105_ZERO_WIDTH",
-      "url": "https://www.smh-hospital.co.kr/bbs/board.php?bo_table=free&wr_id=14282",
-      "is_violation": true,
-      "location": "a",
-      "evidence_text": "시­알리스가짜 & 시­알리스 구매 & 시­알리스 장기 복용 부작용",
-      "technique": "ETC",
-      "extra_finding": "ZERO_WIDTH"
     },
     {
       "id": "ET-106_ZERO_WIDTH",
@@ -1404,42 +1143,6 @@
       "extra_finding": "ENCODING"
     },
     {
-      "id": "ET-162_LINK_CLOAKING",
-      "url": "https://gonggam.zieo.net/bbs/board.php?bo_table=free&wr_id=1847127",
-      "is_violation": true,
-      "location": "a.contact-button",
-      "evidence_text": "https://nam-111.com/",
-      "technique": "ETC",
-      "extra_finding": "LINK_CLOAKING"
-    },
-    {
-      "id": "ET-163_ZERO_WIDTH",
-      "url": "https://gonggam.zieo.net/bbs/board.php?bo_table=free&wr_id=1847134",
-      "is_violation": true,
-      "location": "h2",
-      "evidence_text": "2025년 2월 TOP1 토토​ 사이트 추천 - 원탑",
-      "technique": "ETC",
-      "extra_finding": "ZERO_WIDTH"
-    },
-    {
-      "id": "ET-164_ZERO_WIDTH",
-      "url": "https://gonggam.zieo.net/bbs/board.php?bo_table=free&wr_id=1847134",
-      "is_violation": true,
-      "location": "p",
-      "evidence_text": "원탑 토토​사이트는 자체 제작 솔루션으로 업계 최고의 배팅 솔루션을 제공하며, 300억 이상의 자본금을 바탕으로 신뢰성을 갖춘 빠른 고객 지원 서비스를 제공합니다. 메이저사이트 원탑을 이용하시면 최고의 안전성과 다양한 베팅 옵션을 경험하실 수 있습니다.",
-      "technique": "ETC",
-      "extra_finding": "ZERO_WIDTH"
-    },
-    {
-      "id": "ET-165_ZERO_WIDTH",
-      "url": "https://gonggam.zieo.net/bbs/board.php?bo_table=free&wr_id=1847134",
-      "is_violation": true,
-      "location": "p",
-      "evidence_text": "안전한토토​사이트 이용을 위해 위의 장점을 참고하여 원탑을 선택해 보세요.",
-      "technique": "ETC",
-      "extra_finding": "ZERO_WIDTH"
-    },
-    {
       "id": "ET-166_ENCODING",
       "url": "https://ymhitech.hdib.gethompy.com/bbs/board.php?bo_table=0301&wr_id=3849",
       "is_violation": true,
@@ -1573,24 +1276,6 @@
       "evidence_text": "◆ 짜릿한 바둑이게임 ◆ BET114.NET ◆ 【 바 둑 이 】【 바 카 라 】【 슬 롯 】【 홀 덤 】【 맞 고 】【PC+모바일OK!】 (현재, 블루게임 (구,바이브게임) (구, 챔피언게임 , 체리게임, 루비게임, 엘리트게임",
       "technique": "ETC",
       "extra_finding": "META_CLOAKING"
-    },
-    {
-      "id": "ET-182_LINK_CLOAKING",
-      "url": "https://ysgsa.yonsei.ac.kr/board4/?bmode=view&idx=170493168",
-      "is_violation": true,
-      "location": "a",
-      "evidence_text": "http://xn--910b82xd2r.com",
-      "technique": "ETC",
-      "extra_finding": "LINK_CLOAKING"
-    },
-    {
-      "id": "ET-183_LINK_CLOAKING",
-      "url": "https://ysgsa.yonsei.ac.kr/board4/?bmode=view&idx=170493168",
-      "is_violation": true,
-      "location": "a",
-      "evidence_text": "http://xn--pk3bl5o9i.net",
-      "technique": "ETC",
-      "extra_finding": "LINK_CLOAKING"
     },
     {
       "id": "ET-184_ZERO_WIDTH",
@@ -1872,15 +1557,6 @@
       "extra_finding": "ENCODING"
     },
     {
-      "id": "ET-217_ENCODING",
-      "url": "https://svarogday.com/",
-      "is_violation": true,
-      "location": "li.wp-block-post.post-8.post > div.entry-content.wp-block-post-content.is-layout-flow > p > a",
-      "evidence_text": "&#49836;&#47215;&#49324;&#51060;&#53944;",
-      "technique": "ETC",
-      "extra_finding": "ENCODING"
-    },
-    {
       "id": "ET-218_ENCODING",
       "url": "https://thebestofcafucus.com/",
       "is_violation": true,
@@ -1931,60 +1607,6 @@
       "is_violation": true,
       "location": "article#post-16 > div.entry-content > p > a",
       "evidence_text": "&#53664;&#53664;&#49324;&#51060;&#53944;",
-      "technique": "ETC",
-      "extra_finding": "ENCODING"
-    },
-    {
-      "id": "ET-224_ENCODING",
-      "url": "https://www.ptep-online.com/",
-      "is_violation": true,
-      "location": "div.main-content > div.content-area > h2 > strong",
-      "evidence_text": "&#50728;&#46972;&#51064; &#48288;&#54021; &#44172;&#51076;&#51012; &#51600;&#44600; &#49688; &#51080;&#45716; &#52852;&#51648;&#45432;&#49324;&#51060;&#53944;",
-      "technique": "ETC",
-      "extra_finding": "ENCODING"
-    },
-    {
-      "id": "ET-225_ENCODING",
-      "url": "https://www.ptep-online.com/",
-      "is_violation": true,
-      "location": "div.main-content > div.content-area > p > span",
-      "evidence_text": "&#52852;&#51648;&#45432;&#49324;&#51060;&#53944;&#47484; &#51060;&#50857;&#54616;&#44592; &#51204;&#50640; &#50508;&#50500;&#46160;&#47732; &#51339;&#51008; &#47751; &#44032;&#51648; &#54017;&#51012; &#44277;&#50976;&#54633;&#45768;&#45796;. &#50728;&#46972;&#51064;&#51004;&#47196; &#50689;&#50669;&#51060; &#54869;&#51109;&#46108; &#52852;&#51648;&#45432; &#44172;&#51076;&#51008; &#50616;&#51228; &#50612;&#46356;&#49436;&#45208; &#45796;&#50577;&#54620; &#44592;&#44592;&#47196; &#51217;&#44540;&#54624; &#49688; &#51080;&#51004;&#47728; &#44036;&#54200;&#54620; &#54924;&#50896;&#44032;&#51077; &#48143; &#51077;&#52636;&#44552; &#44208;&#51228; &#49884;&#49828;&#53596;&#51012; &#51648;&#50896;&#54616;&#44256; &#51080;&#49845;&#45768;&#45796;. &#47784;&#46304; &#52852;&#51648;&#45432;&#49324;&#51060;&#53944;&#44032; &#44057;&#51008; &#49436;&#48708;&#49828;&#47484; &#51648;&#50896;&#54616;&#44256; &#51080;&#51648; &#50506;&#44592; &#46412;&#47928;&#50640; &#49324;&#50857;&#51088; &#51077;&#51109;&#50640;&#49436; &#48376;&#51064;&#44284; &#44032;&#51109; &#51201;&#54633;&#54620; &#54540;&#47019;&#54268;&#51012; &#44208;&#51221;&#54616;&#49492;&#50556; &#54633;&#45768;&#45796;",
-      "technique": "ETC",
-      "extra_finding": "ENCODING"
-    },
-    {
-      "id": "ET-226_ENCODING",
-      "url": "https://www.readytalk.com/",
-      "is_violation": true,
-      "location": "div.single-entry-content > h2.c13 > strong > span.c7",
-      "evidence_text": "&#45380; &#51064;&#44592; &#52852;&#51648;&#45432;&#49324;&#51060;&#53944; &#52628;&#52380; &#49692;&#50948;",
-      "technique": "ETC",
-      "extra_finding": "ENCODING"
-    },
-    {
-      "id": "ET-227_ENCODING",
-      "url": "https://www.readytalk.com/",
-      "is_violation": true,
-      "location": "div.campaign-shortcode-table_offers-list.campaign__voting_list > div.campaign-list-item.brand_table_custom_cl > div.campaign-list-item_key-features.mobile > p",
-      "evidence_text": "&#47588;&#51068; &#52395;&#52649;&#51204;&#49884; &#52572;&#45824; 100% &#45817;&#52392;&#46104;&#45716; &#50896;&#45908;&#55072; &#51648;&#44553;",
-      "technique": "ETC",
-      "extra_finding": "ENCODING"
-    },
-    {
-      "id": "ET-228_ENCODING",
-      "url": "https://www.snappytv.com/",
-      "is_violation": true,
-      "location": "div.main-container > div.container.content-part-area > h1 > strong",
-      "evidence_text": "&#45380; &#52572;&#44256;&#51032; &#50728;&#46972;&#51064;&#49836;&#47215; &#44221;&#54744;&#51012; &#50948;&#54620; &#50756;&#48317; &#44032;&#51060;&#46300;",
-      "technique": "ETC",
-      "extra_finding": "ENCODING"
-    },
-    {
-      "id": "ET-229_ENCODING",
-      "url": "https://www.snappytv.com/",
-      "is_violation": true,
-      "location": "div.main-container > div.container.content-part-area > p",
-      "evidence_text": "&#45380;, &#52572;&#44256;&#51032; &#50728;&#46972;&#51064;&#49836;&#47215; &#44221;&#54744;&#51012; &#52286;&#44256; &#44228;&#49888;&#44032;&#50836;? &#49688;&#47566;&#51008; &#52852;&#51648;&#45432;&#49324;&#51060;&#53944; &#49549;&#50640;&#49436; &#50612;&#46500; &#49836;&#47215; &#44172;&#51076;&#51060; &#44032;&#51109; &#45458;&#51008; &#48176;&#45817;&#47456;&#51012; &#51228;&#44277;&#54616;&#45716;&#51648;, &#44536;&#47532;&#44256; &#50612;&#46500; &#49324;&#51060;&#53944;&#44032; &#44032;&#51109; &#49888;&#47280;&#54624; &#49688; &#51080;&#45716;&#51648; &#44396;&#48324;&#54616;&#44592;&#46976; &#49789;&#51648; &#50506;&#49845;&#45768;&#45796;. &#49836;&#47215; &#44172;&#51076;&#51008; &#45800;&#49692;&#55176; &#50868;&#50640;&#47564; &#51032;&#51316;&#54616;&#45716; &#44036;&#45800;&#54620; &#44172;&#51076;&#51012; &#45336;&#50612;, &#51060;&#51228;&#45716; &#45458;&#51008; &#54872;&#49688;&#50984;",
       "technique": "ETC",
       "extra_finding": "ENCODING"
     },
@@ -2484,51 +2106,6 @@
       "extra_finding": "ZERO_WIDTH"
     },
     {
-      "id": "CB-039_CASE_MIX",
-      "url": "https://bajuca.co.kr/board/product/read.html?no=11445&board_no=6",
-      "is_violation": true,
-      "location": "td",
-      "evidence_text": "블루게임민트↙블루게임.coM↙^0 10. XXXX .^XX.XX  블루게임 (bibegm.coM) #블루게임홀덤 ^ 블루게임바둑이 ^ 블루game 성피pc 온라인 에이전시^^  #바이브게임 #그랜드 #챔피언게임 #블루게임맞고",
-      "technique": "ETC",
-      "extra_finding": "CASE_MIX"
-    },
-    {
-      "id": "CB-039_SYMBOL_SEPARATOR",
-      "url": "https://bajuca.co.kr/board/product/read.html?no=11445&board_no=6",
-      "is_violation": true,
-      "location": "td",
-      "evidence_text": "블루게임민트↙블루게임.coM↙^0 10. XXXX .^XX.XX  블루게임 (bibegm.coM) #블루게임홀덤 ^ 블루게임바둑이 ^ 블루game 성피pc 온라인 에이전시^^  #바이브게임 #그랜드 #챔피언게임 #블루게임맞고",
-      "technique": "ETC",
-      "extra_finding": "SYMBOL_SEPARATOR"
-    },
-    {
-      "id": "CB-040_SYMBOL_SEPARATOR",
-      "url": "https://bajuca.co.kr/board/product/read.html?no=11358&board_no=6",
-      "is_violation": true,
-      "location": "td",
-      "evidence_text": "화정동룸싸롱 ⚡O1O-XXXX-XXXX⚡ 화정동쓰리노 화정동룸싸롱 주대",
-      "technique": "ETC",
-      "extra_finding": "SYMBOL_SEPARATOR"
-    },
-    {
-      "id": "CB-041_SYMBOL_SEPARATOR",
-      "url": "https://bajuca.co.kr/board/product/read.html?no=11363&board_no=6",
-      "is_violation": true,
-      "location": "td",
-      "evidence_text": "지산동풀싸롱 ▲O1O-XXXX-XXXX▲ 지산동룸싸롱 지산동룸싸롱 공휴일",
-      "technique": "ETC",
-      "extra_finding": "SYMBOL_SEPARATOR"
-    },
-    {
-      "id": "CB-042_SYMBOL_SEPARATOR",
-      "url": "https://bajuca.co.kr/board/product/read.html?no=11407&board_no=6",
-      "is_violation": true,
-      "location": "td",
-      "evidence_text": "우산동룸싸롱 ☎직통상담☎ O1O XXXX XXXX 우산동풀싸롱 우산동2차노래뱡 골프모임",
-      "technique": "ETC",
-      "extra_finding": "SYMBOL_SEPARATOR"
-    },
-    {
       "id": "CB-043_KEYWORD_SPACING",
       "url": "https://biam.co.kr/info-6/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=174810206&t=board",
       "is_violation": true,
@@ -2610,231 +2187,6 @@
       "extra_finding": "KEYWORD_SPACING"
     },
     {
-      "id": "CB-050_PUNCT_VARIANT",
-      "url": "https://h-codi.co.kr/article/자료실/7/209798/page/2/",
-      "is_violation": true,
-      "location": "p",
-      "evidence_text": "서대문백마출장안마 | ✴️【o10⸺XXXX➖XXXX】✴️ | 군포러시아출장안마 부천러시아출장안마 의정부러시아출장안마서대문백마출장안마 | ✴️【o10–XXXX‒XXXX】✴️ | 군포러시아출장안마 부천러시아출장안마 의정부러시아출장안마✴️【o10‒XXXX—XXXX】✴️      ☀️【o10⸺XXXX⸻XXXX】☀️\n러시아출장 전부 퀼리티좋은 20대명품관리사들로 러시아ˏ 우주베키스탄، 카자흐스탄ˏ 남미¸ 유럽등 다양한 외국국적의 미녀관리사들을 보유하고 있으며 고객님들이 직접 업소를 찾아 이동하는 번거러움없이 계신 장소에서 편하게 퀼리티 좋은 명품급 20대러시아 에이스미녀들에게 최고의 안마서비스를 제공하고 지친 하루의 피곤함을 풀어드릴것을 약속하며 마음속의 따뜻한 힐링까지 고객님에게 만족시킬수 있는 다년간 운영해온 마사지기법으로 고객님들이 필요로 찾으시면 언제든 고객님들께 빠르게 이동하여 최상의 러시아출장안마 서비스를 받아보실수 있습니다. 만족도높은 힐링이 필요로하실때 러시아출장안마를 찾아주시면 내상없이 행복한 서비스를 받아보실수 있습니다.\n저희 콜걸은​수년간의 노하우를 가지고 고객위한 최고의 마인드를 관리사들에게 수시로 교육하고 있으며 색다른 마사지기법으로 고객님께 높은 만족도를 얻고있는 1등업체 입니다 절대 내상없이 러시아출장안마를 받으실수 있도록 약속드립니다^^출장마사지출장안마출장마사지출장안마출장마사지출장안마출장안마출장마사지",
-      "technique": "ETC",
-      "extra_finding": "PUNCT_VARIANT"
-    },
-    {
-      "id": "CB-050_SYMBOL_SEPARATOR",
-      "url": "https://h-codi.co.kr/article/자료실/7/209798/page/2/",
-      "is_violation": true,
-      "location": "p",
-      "evidence_text": "서대문백마출장안마 | ✴️【o10⸺XXXX➖XXXX】✴️ | 군포러시아출장안마 부천러시아출장안마 의정부러시아출장안마서대문백마출장안마 | ✴️【o10–XXXX‒XXXX】✴️ | 군포러시아출장안마 부천러시아출장안마 의정부러시아출장안마✴️【o10‒XXXX—XXXX】✴️      ☀️【o10⸺XXXX⸻XXXX】☀️\n러시아출장 전부 퀼리티좋은 20대명품관리사들로 러시아ˏ 우주베키스탄، 카자흐스탄ˏ 남미¸ 유럽등 다양한 외국국적의 미녀관리사들을 보유하고 있으며 고객님들이 직접 업소를 찾아 이동하는 번거러움없이 계신 장소에서 편하게 퀼리티 좋은 명품급 20대러시아 에이스미녀들에게 최고의 안마서비스를 제공하고 지친 하루의 피곤함을 풀어드릴것을 약속하며 마음속의 따뜻한 힐링까지 고객님에게 만족시킬수 있는 다년간 운영해온 마사지기법으로 고객님들이 필요로 찾으시면 언제든 고객님들께 빠르게 이동하여 최상의 러시아출장안마 서비스를 받아보실수 있습니다. 만족도높은 힐링이 필요로하실때 러시아출장안마를 찾아주시면 내상없이 행복한 서비스를 받아보실수 있습니다.\n저희 콜걸은​수년간의 노하우를 가지고 고객위한 최고의 마인드를 관리사들에게 수시로 교육하고 있으며 색다른 마사지기법으로 고객님께 높은 만족도를 얻고있는 1등업체 입니다 절대 내상없이 러시아출장안마를 받으실수 있도록 약속드립니다^^출장마사지출장안마출장마사지출장안마출장마사지출장안마출장안마출장마사지",
-      "technique": "ETC",
-      "extra_finding": "SYMBOL_SEPARATOR"
-    },
-    {
-      "id": "CB-050_ZERO_WIDTH",
-      "url": "https://h-codi.co.kr/article/자료실/7/209798/page/2/",
-      "is_violation": true,
-      "location": "p",
-      "evidence_text": "서대문백마출장안마 | ✴️【o10⸺XXXX➖XXXX】✴️ | 군포러시아출장안마 부천러시아출장안마 의정부러시아출장안마서대문백마출장안마 | ✴️【o10–XXXX‒XXXX】✴️ | 군포러시아출장안마 부천러시아출장안마 의정부러시아출장안마✴️【o10‒XXXX—XXXX】✴️      ☀️【o10⸺XXXX⸻XXXX】☀️\n러시아출장 전부 퀼리티좋은 20대명품관리사들로 러시아ˏ 우주베키스탄، 카자흐스탄ˏ 남미¸ 유럽등 다양한 외국국적의 미녀관리사들을 보유하고 있으며 고객님들이 직접 업소를 찾아 이동하는 번거러움없이 계신 장소에서 편하게 퀼리티 좋은 명품급 20대러시아 에이스미녀들에게 최고의 안마서비스를 제공하고 지친 하루의 피곤함을 풀어드릴것을 약속하며 마음속의 따뜻한 힐링까지 고객님에게 만족시킬수 있는 다년간 운영해온 마사지기법으로 고객님들이 필요로 찾으시면 언제든 고객님들께 빠르게 이동하여 최상의 러시아출장안마 서비스를 받아보실수 있습니다. 만족도높은 힐링이 필요로하실때 러시아출장안마를 찾아주시면 내상없이 행복한 서비스를 받아보실수 있습니다.\n저희 콜걸은​수년간의 노하우를 가지고 고객위한 최고의 마인드를 관리사들에게 수시로 교육하고 있으며 색다른 마사지기법으로 고객님께 높은 만족도를 얻고있는 1등업체 입니다 절대 내상없이 러시아출장안마를 받으실수 있도록 약속드립니다^^출장마사지출장안마출장마사지출장안마출장마사지출장안마출장안마출장마사지",
-      "technique": "ETC",
-      "extra_finding": "ZERO_WIDTH"
-    },
-    {
-      "id": "CB-051_SYMBOL_SEPARATOR",
-      "url": "https://h-codi.co.kr/article/자료실/7/209867/",
-      "is_violation": true,
-      "location": "a",
-      "evidence_text": "노원러시아출장안마 ✴️【o10–XXXX➖XXXX】✴️ 계양구러시아출장안마 남동구러시아출장안마 인천서구러시아출장안마",
-      "technique": "ETC",
-      "extra_finding": "SYMBOL_SEPARATOR"
-    },
-    {
-      "id": "CB-052_PUNCT_VARIANT",
-      "url": "https://h-codi.co.kr/article/자료실/7/209772/page/3/",
-      "is_violation": true,
-      "location": "p",
-      "evidence_text": "구글찌라시 ✅【찌라시｡COM】✅ | 010계정구매 구글출장홍보 스포츠사이트광고 | 법인장광고 대포폰광고 대출광고✅ 구글 SEO 상위노출 · 웹문서 홍보 전문\n\n기업، 브랜드ˎ 개인 모두에게 필요한 것은 검색 상위 노출입니다｡\n전문적인 구글 SEO 최적화와 웹문서 자동 홍보 시스템을 통해\n안전하고 합법적인 방식으로 온라인 노출을 극대화하세요｡\n\n구글찌라시 ╱ 구글찌라시프로그램 ⁄ 웹문서찌라시 ⧸ 웹문서프로그램대행을 활용한\n자동화 홍보 시스템은 수백 개 웹문서에 빠르게 등록되어\n브랜드 인지도와 검색 도달률을 동시에 높여드립니다.\n\n？ 주요 서비스\n\n구글SEO최적화 ⁄ 구글상위노출대행 ⁄ 백링크관리\n\n웹문서자동홍보 ／ 프로그램대행 ⁄ 키워드분석\n\n구글마케팅대행 ⧸ 웹문서배포 ⁄ 블로그콘텐츠홍보\n\n브랜드홍보 ∕ 검색노출향상 ⧸ 트래픽유입증대\n\n❓ 차별화된 기술력\n\n최신 구글 알고리즘 기반 SEO 구조 설계\n\n자동화 시스템을 통한 웹문서 대량 홍보\n\n키워드 최적화로 1페이지 노출 강화\n\n장기 노출이 유지되는 백링크 네트워크 구축\n\n⸮ 함께하는 이유\n\n안전하고 합법적인 검색엔진 중심 홍보 시스템\n\n수동작업 대비 10배 빠른 자동배포 기술\n\n노출 분석 및 지속 관리 지원\n\n구글‚ 네이버 등 주요 플랫폼 대응",
-      "technique": "ETC",
-      "extra_finding": "PUNCT_VARIANT"
-    },
-    {
-      "id": "CB-052_SYMBOL_SEPARATOR",
-      "url": "https://h-codi.co.kr/article/자료실/7/209772/page/3/",
-      "is_violation": true,
-      "location": "p",
-      "evidence_text": "구글찌라시 ✅【찌라시｡COM】✅ | 010계정구매 구글출장홍보 스포츠사이트광고 | 법인장광고 대포폰광고 대출광고✅ 구글 SEO 상위노출 · 웹문서 홍보 전문\n\n기업، 브랜드ˎ 개인 모두에게 필요한 것은 검색 상위 노출입니다｡\n전문적인 구글 SEO 최적화와 웹문서 자동 홍보 시스템을 통해\n안전하고 합법적인 방식으로 온라인 노출을 극대화하세요｡\n\n구글찌라시 ╱ 구글찌라시프로그램 ⁄ 웹문서찌라시 ⧸ 웹문서프로그램대행을 활용한\n자동화 홍보 시스템은 수백 개 웹문서에 빠르게 등록되어\n브랜드 인지도와 검색 도달률을 동시에 높여드립니다.\n\n？ 주요 서비스\n\n구글SEO최적화 ⁄ 구글상위노출대행 ⁄ 백링크관리\n\n웹문서자동홍보 ／ 프로그램대행 ⁄ 키워드분석\n\n구글마케팅대행 ⧸ 웹문서배포 ⁄ 블로그콘텐츠홍보\n\n브랜드홍보 ∕ 검색노출향상 ⧸ 트래픽유입증대\n\n❓ 차별화된 기술력\n\n최신 구글 알고리즘 기반 SEO 구조 설계\n\n자동화 시스템을 통한 웹문서 대량 홍보\n\n키워드 최적화로 1페이지 노출 강화\n\n장기 노출이 유지되는 백링크 네트워크 구축\n\n⸮ 함께하는 이유\n\n안전하고 합법적인 검색엔진 중심 홍보 시스템\n\n수동작업 대비 10배 빠른 자동배포 기술\n\n노출 분석 및 지속 관리 지원\n\n구글‚ 네이버 등 주요 플랫폼 대응",
-      "technique": "ETC",
-      "extra_finding": "SYMBOL_SEPARATOR"
-    },
-    {
-      "id": "CB-053_PUNCT_VARIANT",
-      "url": "https://h-codi.co.kr/article/자료실/7/209732/page/3/",
-      "is_violation": true,
-      "location": "p",
-      "evidence_text": "구글찌라시 ✅【찌라시｡COM】✅ | 무료웹툰홍보방법 무료웹툰광고사이트 | 법인장광고 대포폰광고 대출광고구글찌라시 ✅【찌라시.COM】✅ | 무료웹툰홍보방법 무료웹툰광고사이트 | 법인장광고 대포폰광고 대출광고구글찌라시 ✅【찌라시｡COM】✅ | 무료웹툰홍보방법 무료웹툰광고사이트 | 법인장광고 대포폰광고 대출광고구글찌라시 · 네이버찌라시 · 웹문서찌라시 전문 홍보온라인 마케팅에서 가장 강력한 무기는 바로찌라시 홍보입니다.저희는 다년간의 노하우를 바탕으로구글찌라시ˎ 네이버찌라시، 웹문서찌라시를\n    효과적으로 배포하고 있으며ˎ 맞춤형 프로그램을 통해 빠른 상위 노출을 실현합니다｡구글찌라시 ✅【찌라시.COM】✅ | 무료웹툰홍보방법 무료웹툰광고사이트 | 법인장광고 대포폰광고 대출광고⸮ 제공 서비스구글찌라시ˎ 구글찌라시프로그램ˏ 웹문서찌라시ˎ 웹문서찌라시프로그램ˎ네이버찌라시‚ 네이버찌라시프로그램¸ 구글도배ˏ 구글도배프로그램¸웹문서도배‚ 웹문서도배프로그램ˎ 찌라시광고، 찌라시홍보ˏ구글찌라시광고¸ 구글찌라시홍보، 네이버찌라시프로그램، 찌라시광고프로그램구글찌라시 ✅【찌라시｡COM】✅ | 무료웹툰홍보방법 무료웹툰광고사이트 | 법인장광고 대포폰광고 대출광고⁇ 블랙키워드 & 언더키워드 전문단순한 키워드 광고가 아닌‚ 경쟁이 치열한 분야에서 필요한블랙키워드／언더키워드까지\n    안전하고 효과적으로 홍보합니다.블랙키워드홍보¸ 블랙키워드도배ˏ 구글블랙키워드도배ˎ 구글블랙키워드광고ˏ블랙키워드상단노출، 블랙키워드상위노출‚ 언더키워드광고ˏ 언더키워드홍보ˏ구글언더키워드광고¸ 구글언더키워드홍보‚ 언더키워드상위노출، 언더키워드1페이지구글찌라시 ✅【찌라시.COM】✅ | 무료웹툰홍보방법 무료웹툰광고사이트 | 법인장광고 대포폰광고 대출광고❓ 1페이지 상위 노출 전략“검색결과 1페이지 노출”은 모든 광고주의 목표입니다.저희는 다년간 축적된 기술력으로1페이지광고ˏ 1페이지홍보¸ 구글 1페이지광고를\n    안정적으로 진행해 드립니다｡구글 1페이지홍보ˏ 구글 1페이지광고방법¸ 구글 1페이지홍보방법 등\n    구체적인 최적화 솔루션을 제공합니다｡구글찌라시 ✅【찌라시.COM】✅ | 무료웹툰홍보방법 무료웹툰광고사이트 | 법인장광고 대포폰광고 대출광고✅ 선택해야 하는 이유✔ 최신 알고리즘을 반영한 안정적인찌라시프로그램운영✔웹문서찌라시와구글도배를 통한 대량 배포 시스템✔ 단기 성과 + 장기적 노출까지 고려한SEO 최적화 전략✔ 블랙키워드⫽언더키워드까지 소화 가능한 전문팀✔1페이지 상위 노출로 매출 상승 효과 입증구글찌라시 ✅【찌라시｡COM】✅ | 무료웹툰홍보방법 무료웹툰광고사이트 | 법인장광고 대포폰광고 대출광고⁇ 광고·홍보 문의텔레그램으로 편하게 문의 주세요.⸮@·@·@？@·@·@·@⁇ 공식사이트 ︰찌라시.COM구글찌라시 ✅【찌라시｡COM】✅ | 무료웹툰홍보방법 무료웹툰광고사이트 | 법인장광고 대포폰광고 대출광고？ 마무리구글ˎ 네이버¸ 웹 전반에 걸친 찌라시홍보는 단순한 광고가 아닙니다.브랜드 신뢰도 상승ˎ 트래픽 증대‚ 매출 향상까지 연결되는최고의 마케팅 솔루션입니다.효과적인 홍보ˎ 안정적인 상위 노출، 빠른 결과를 원하신다면 지금 바로 문의하세요｡",
-      "technique": "ETC",
-      "extra_finding": "PUNCT_VARIANT"
-    },
-    {
-      "id": "CB-053_SYMBOL_SEPARATOR",
-      "url": "https://h-codi.co.kr/article/자료실/7/209732/page/3/",
-      "is_violation": true,
-      "location": "p",
-      "evidence_text": "구글찌라시 ✅【찌라시｡COM】✅ | 무료웹툰홍보방법 무료웹툰광고사이트 | 법인장광고 대포폰광고 대출광고구글찌라시 ✅【찌라시.COM】✅ | 무료웹툰홍보방법 무료웹툰광고사이트 | 법인장광고 대포폰광고 대출광고구글찌라시 ✅【찌라시｡COM】✅ | 무료웹툰홍보방법 무료웹툰광고사이트 | 법인장광고 대포폰광고 대출광고구글찌라시 · 네이버찌라시 · 웹문서찌라시 전문 홍보온라인 마케팅에서 가장 강력한 무기는 바로찌라시 홍보입니다.저희는 다년간의 노하우를 바탕으로구글찌라시ˎ 네이버찌라시، 웹문서찌라시를\n    효과적으로 배포하고 있으며ˎ 맞춤형 프로그램을 통해 빠른 상위 노출을 실현합니다｡구글찌라시 ✅【찌라시.COM】✅ | 무료웹툰홍보방법 무료웹툰광고사이트 | 법인장광고 대포폰광고 대출광고⸮ 제공 서비스구글찌라시ˎ 구글찌라시프로그램ˏ 웹문서찌라시ˎ 웹문서찌라시프로그램ˎ네이버찌라시‚ 네이버찌라시프로그램¸ 구글도배ˏ 구글도배프로그램¸웹문서도배‚ 웹문서도배프로그램ˎ 찌라시광고، 찌라시홍보ˏ구글찌라시광고¸ 구글찌라시홍보، 네이버찌라시프로그램، 찌라시광고프로그램구글찌라시 ✅【찌라시｡COM】✅ | 무료웹툰홍보방법 무료웹툰광고사이트 | 법인장광고 대포폰광고 대출광고⁇ 블랙키워드 & 언더키워드 전문단순한 키워드 광고가 아닌‚ 경쟁이 치열한 분야에서 필요한블랙키워드／언더키워드까지\n    안전하고 효과적으로 홍보합니다.블랙키워드홍보¸ 블랙키워드도배ˏ 구글블랙키워드도배ˎ 구글블랙키워드광고ˏ블랙키워드상단노출، 블랙키워드상위노출‚ 언더키워드광고ˏ 언더키워드홍보ˏ구글언더키워드광고¸ 구글언더키워드홍보‚ 언더키워드상위노출، 언더키워드1페이지구글찌라시 ✅【찌라시.COM】✅ | 무료웹툰홍보방법 무료웹툰광고사이트 | 법인장광고 대포폰광고 대출광고❓ 1페이지 상위 노출 전략“검색결과 1페이지 노출”은 모든 광고주의 목표입니다.저희는 다년간 축적된 기술력으로1페이지광고ˏ 1페이지홍보¸ 구글 1페이지광고를\n    안정적으로 진행해 드립니다｡구글 1페이지홍보ˏ 구글 1페이지광고방법¸ 구글 1페이지홍보방법 등\n    구체적인 최적화 솔루션을 제공합니다｡구글찌라시 ✅【찌라시.COM】✅ | 무료웹툰홍보방법 무료웹툰광고사이트 | 법인장광고 대포폰광고 대출광고✅ 선택해야 하는 이유✔ 최신 알고리즘을 반영한 안정적인찌라시프로그램운영✔웹문서찌라시와구글도배를 통한 대량 배포 시스템✔ 단기 성과 + 장기적 노출까지 고려한SEO 최적화 전략✔ 블랙키워드⫽언더키워드까지 소화 가능한 전문팀✔1페이지 상위 노출로 매출 상승 효과 입증구글찌라시 ✅【찌라시｡COM】✅ | 무료웹툰홍보방법 무료웹툰광고사이트 | 법인장광고 대포폰광고 대출광고⁇ 광고·홍보 문의텔레그램으로 편하게 문의 주세요.⸮@·@·@？@·@·@·@⁇ 공식사이트 ︰찌라시.COM구글찌라시 ✅【찌라시｡COM】✅ | 무료웹툰홍보방법 무료웹툰광고사이트 | 법인장광고 대포폰광고 대출광고？ 마무리구글ˎ 네이버¸ 웹 전반에 걸친 찌라시홍보는 단순한 광고가 아닙니다.브랜드 신뢰도 상승ˎ 트래픽 증대‚ 매출 향상까지 연결되는최고의 마케팅 솔루션입니다.효과적인 홍보ˎ 안정적인 상위 노출، 빠른 결과를 원하신다면 지금 바로 문의하세요｡",
-      "technique": "ETC",
-      "extra_finding": "SYMBOL_SEPARATOR"
-    },
-    {
-      "id": "CB-054_PUNCT_VARIANT",
-      "url": "https://h-codi.co.kr/article/자료실/7/209792/page/2/",
-      "is_violation": true,
-      "location": "p",
-      "evidence_text": "❇️[라인 hy9968]❇️ [sexyclub77｡com] 자양동출장마사지 출장마사지\n\n\n\n문의ː ★★★이미지 상단클릭후  문의▼▼▼▼▼★★★\n\n문의꞉ ★★★이미지 상단클릭후  문의▼▼▼▼▼★★★\n\n문의∶ ★★★이미지 상단클릭후  문의▼▼▼▼▼★★★\n\n문의︰ ★★★이미지 상단클릭후  문의▼▼▼▼▼★★★\n\n문의꞉ ★★★이미지 상단클릭후  문의▼▼▼▼▼★★★\n\n\n\n저희 출장안마 & 출장 마사지 출장소에서는 스트레스에 대한 사람들을 수용하는 사람들에게 특별한 친분링을 느낄 수 있게 느껴질 수 있습니다｡\n\n\n\n\n\n\n\n365일 24시간 유동적인 최고의 서비스만 제공하는 출장안마의 유명인 출장안마 전문 업체입니다. \n\n\n\n\n\n\n\n신뢰와 품질을 만족시키는 24시 출장안마 서비스ⵑ 보내주세요｡ 걱정하지 않으셔도 됩니다. \n\n\n\n\n\n\n\n대한민국 최고의 퀄리티와 최상의서비스로 무장된 유일무의 no.1 class로 업계 최고를 자랑하는\n\n\n\n24시간운영하는 출장마사지 shop 입니다 ‼！\n\n\n\n모든 코스는 이유불문 무조건 100% 후불제로 진행되고 있으며 쾌적하고 깔끔한\n\n\n\n\n\n언제 어디서나 ‼！ 자택ˎ 호텔‚ 모텔، 오피스텔까지 전국어디에서도 볼수 없는\n\n\n\n프리미엄급 매니저들이 어디든 총알처럼 찾아 갑니다. \n\n\n\n출장안마이용 장점❗\n\n\n\n출장마사지는 직접 찾아가는 그리고 방문하는 개념의 단어이기도 합니다\n\n\n\n그렇기에 말 그대로 직접방문이 아닌 찾아가는 서비스이기 때문에 개인적인\n\n\n\n프라이빗한 공간에서 힐링을 받으실수 있기 때문에 깔끔하고 청결한 것을 첫번째로 꼽을수 있겠습니다\n\n\n\n그리고 전 매니저 20대초반으로 구성된 실력 & 마인드 & 미모를 겸비한 타업체에서 흉내 낼수 없는 관리사들로 즐비해 있습니다.\n\n\n\n꾸주한 관리사 영입을위해 저희 GIRLMOONCLUB 은 엄청난 노력을 하고 있습니다.\n\n\n\n전국 어디에서도 볼 수 없었던 퀄리티는 물론 합리적인 가격과 시스템으로 게릴라성 이벤트 그리고 코스마다 특색이 있습니다.\n\n\n\n고객님들과의 약속ⵑ\n\n\n\n약속1. 고객님들의 개인정보 저장을 절대로 하지 않겠습니다\n\n\n\n약속2｡ 고객님들의 말씀에 귀기울여 반영될 수 있도록 최대한 노력하겠습니다\n\n\n\n약속3. 합리적인 가격ˎ 다양한 코스연구로 어떻게 하면 고객님들이 힐링이 될지 매번연구 하고 개발하는 업체가 되겠습니다｡\n\n\n\n약속4. 고객님들이 원하는 스타일이 없을시에는 과감하게 다음에 이용부탁드린다는 말씀 전해드릴수 있는 업체가 되겠습니다.\n\n\n\n약속5｡ 이용하시는 금액에 비해 돈아깝다는 생각이 들지 않도록 노력하겠습니다｡\n\n\n\n약속6. 최상의 서비스로 고객님들의 스트레스를 책임지고 날려드리겠습니다｡\n\n\n\n출장마사지 코스안내ⵑ\n\n\n\n코스A⦂ 3시간 15만원\n\n\n\n코스B⸳ 10시간 25만원\n\n\n\n코스C⦂ 24시간시간 48만원\n\n\n\n문의꞉ ★★★이미지 상단클릭 ↑↑↑↑↑↑ ★★★\n\n문의ː ★★★이미지 상단클릭 ↑↑↑↑↑↑ ★★★\n\n문의⸳ ★★★이미지 상단클릭 ↑↑↑↑↑↑ ★★★\n\n문의꞉ ★★★이미지 상단클릭 ↑↑↑↑↑↑ ★★★\n\n문의∶ ★★★이미지 상단클릭 ↑↑↑↑↑↑ ★★★\n\n\n\n\n\n❇️[라인 hy9968]❇️ [sexyclub77.com] 자양동출장마사지 출장마사지",
-      "technique": "ETC",
-      "extra_finding": "PUNCT_VARIANT"
-    },
-    {
-      "id": "CB-054_SYMBOL_SEPARATOR",
-      "url": "https://h-codi.co.kr/article/자료실/7/209792/page/2/",
-      "is_violation": true,
-      "location": "p",
-      "evidence_text": "❇️[라인 hy9968]❇️ [sexyclub77｡com] 자양동출장마사지 출장마사지\n\n\n\n문의ː ★★★이미지 상단클릭후  문의▼▼▼▼▼★★★\n\n문의꞉ ★★★이미지 상단클릭후  문의▼▼▼▼▼★★★\n\n문의∶ ★★★이미지 상단클릭후  문의▼▼▼▼▼★★★\n\n문의︰ ★★★이미지 상단클릭후  문의▼▼▼▼▼★★★\n\n문의꞉ ★★★이미지 상단클릭후  문의▼▼▼▼▼★★★\n\n\n\n저희 출장안마 & 출장 마사지 출장소에서는 스트레스에 대한 사람들을 수용하는 사람들에게 특별한 친분링을 느낄 수 있게 느껴질 수 있습니다｡\n\n\n\n\n\n\n\n365일 24시간 유동적인 최고의 서비스만 제공하는 출장안마의 유명인 출장안마 전문 업체입니다. \n\n\n\n\n\n\n\n신뢰와 품질을 만족시키는 24시 출장안마 서비스ⵑ 보내주세요｡ 걱정하지 않으셔도 됩니다. \n\n\n\n\n\n\n\n대한민국 최고의 퀄리티와 최상의서비스로 무장된 유일무의 no.1 class로 업계 최고를 자랑하는\n\n\n\n24시간운영하는 출장마사지 shop 입니다 ‼！\n\n\n\n모든 코스는 이유불문 무조건 100% 후불제로 진행되고 있으며 쾌적하고 깔끔한\n\n\n\n\n\n언제 어디서나 ‼！ 자택ˎ 호텔‚ 모텔، 오피스텔까지 전국어디에서도 볼수 없는\n\n\n\n프리미엄급 매니저들이 어디든 총알처럼 찾아 갑니다. \n\n\n\n출장안마이용 장점❗\n\n\n\n출장마사지는 직접 찾아가는 그리고 방문하는 개념의 단어이기도 합니다\n\n\n\n그렇기에 말 그대로 직접방문이 아닌 찾아가는 서비스이기 때문에 개인적인\n\n\n\n프라이빗한 공간에서 힐링을 받으실수 있기 때문에 깔끔하고 청결한 것을 첫번째로 꼽을수 있겠습니다\n\n\n\n그리고 전 매니저 20대초반으로 구성된 실력 & 마인드 & 미모를 겸비한 타업체에서 흉내 낼수 없는 관리사들로 즐비해 있습니다.\n\n\n\n꾸주한 관리사 영입을위해 저희 GIRLMOONCLUB 은 엄청난 노력을 하고 있습니다.\n\n\n\n전국 어디에서도 볼 수 없었던 퀄리티는 물론 합리적인 가격과 시스템으로 게릴라성 이벤트 그리고 코스마다 특색이 있습니다.\n\n\n\n고객님들과의 약속ⵑ\n\n\n\n약속1. 고객님들의 개인정보 저장을 절대로 하지 않겠습니다\n\n\n\n약속2｡ 고객님들의 말씀에 귀기울여 반영될 수 있도록 최대한 노력하겠습니다\n\n\n\n약속3. 합리적인 가격ˎ 다양한 코스연구로 어떻게 하면 고객님들이 힐링이 될지 매번연구 하고 개발하는 업체가 되겠습니다｡\n\n\n\n약속4. 고객님들이 원하는 스타일이 없을시에는 과감하게 다음에 이용부탁드린다는 말씀 전해드릴수 있는 업체가 되겠습니다.\n\n\n\n약속5｡ 이용하시는 금액에 비해 돈아깝다는 생각이 들지 않도록 노력하겠습니다｡\n\n\n\n약속6. 최상의 서비스로 고객님들의 스트레스를 책임지고 날려드리겠습니다｡\n\n\n\n출장마사지 코스안내ⵑ\n\n\n\n코스A⦂ 3시간 15만원\n\n\n\n코스B⸳ 10시간 25만원\n\n\n\n코스C⦂ 24시간시간 48만원\n\n\n\n문의꞉ ★★★이미지 상단클릭 ↑↑↑↑↑↑ ★★★\n\n문의ː ★★★이미지 상단클릭 ↑↑↑↑↑↑ ★★★\n\n문의⸳ ★★★이미지 상단클릭 ↑↑↑↑↑↑ ★★★\n\n문의꞉ ★★★이미지 상단클릭 ↑↑↑↑↑↑ ★★★\n\n문의∶ ★★★이미지 상단클릭 ↑↑↑↑↑↑ ★★★\n\n\n\n\n\n❇️[라인 hy9968]❇️ [sexyclub77.com] 자양동출장마사지 출장마사지",
-      "technique": "ETC",
-      "extra_finding": "SYMBOL_SEPARATOR"
-    },
-    {
-      "id": "CB-055_PUNCT_VARIANT",
-      "url": "https://h-codi.co.kr/article/자료실/7/209831/page/2/",
-      "is_violation": true,
-      "location": "p",
-      "evidence_text": "구글찌라시 ✅【찌라시｡COM】✅ | 웹툰사이트순위 무료웹툰사이트순위 | 웹문서찌라시상위 웹문서찌라시상단 웹문서찌라시1페이지구글찌라시 ✅【찌라시.COM】✅ | 웹툰사이트순위 무료웹툰사이트순위 | 웹문서찌라시상위 웹문서찌라시상단 웹문서찌라시1페이지구글찌라시 ✅【찌라시.COM】✅ | 웹툰사이트순위 무료웹툰사이트순위 | 웹문서찌라시상위 웹문서찌라시상단 웹문서찌라시1페이지구글찌라시 · 네이버찌라시 · 웹문서찌라시 전문 홍보온라인 마케팅에서 가장 강력한 무기는 바로찌라시 홍보입니다.저희는 다년간의 노하우를 바탕으로구글찌라시، 네이버찌라시ˎ 웹문서찌라시를\n    효과적으로 배포하고 있으며ˎ 맞춤형 프로그램을 통해 빠른 상위 노출을 실현합니다.구글찌라시 ✅【찌라시.COM】✅ | 웹툰사이트순위 무료웹툰사이트순위 | 웹문서찌라시상위 웹문서찌라시상단 웹문서찌라시1페이지⸮ 제공 서비스구글찌라시¸ 구글찌라시프로그램¸ 웹문서찌라시، 웹문서찌라시프로그램ˏ네이버찌라시‚ 네이버찌라시프로그램، 구글도배، 구글도배프로그램‚웹문서도배‚ 웹문서도배프로그램، 찌라시광고‚ 찌라시홍보¸구글찌라시광고، 구글찌라시홍보ˏ 네이버찌라시프로그램، 찌라시광고프로그램구글찌라시 ✅【찌라시｡COM】✅ | 웹툰사이트순위 무료웹툰사이트순위 | 웹문서찌라시상위 웹문서찌라시상단 웹문서찌라시1페이지⸮ 블랙키워드 & 언더키워드 전문단순한 키워드 광고가 아닌¸ 경쟁이 치열한 분야에서 필요한블랙키워드⫻언더키워드까지\n    안전하고 효과적으로 홍보합니다｡블랙키워드홍보¸ 블랙키워드도배ˏ 구글블랙키워드도배ˏ 구글블랙키워드광고¸블랙키워드상단노출ˏ 블랙키워드상위노출ˏ 언더키워드광고ˎ 언더키워드홍보ˏ구글언더키워드광고‚ 구글언더키워드홍보¸ 언더키워드상위노출¸ 언더키워드1페이지구글찌라시 ✅【찌라시｡COM】✅ | 웹툰사이트순위 무료웹툰사이트순위 | 웹문서찌라시상위 웹문서찌라시상단 웹문서찌라시1페이지❓ 1페이지 상위 노출 전략“검색결과 1페이지 노출”은 모든 광고주의 목표입니다｡저희는 다년간 축적된 기술력으로1페이지광고‚ 1페이지홍보ˏ 구글 1페이지광고를\n    안정적으로 진행해 드립니다.구글 1페이지홍보‚ 구글 1페이지광고방법ˎ 구글 1페이지홍보방법 등\n    구체적인 최적화 솔루션을 제공합니다.구글찌라시 ✅【찌라시.COM】✅ | 웹툰사이트순위 무료웹툰사이트순위 | 웹문서찌라시상위 웹문서찌라시상단 웹문서찌라시1페이지✅ 선택해야 하는 이유✔ 최신 알고리즘을 반영한 안정적인찌라시프로그램운영✔웹문서찌라시와구글도배를 통한 대량 배포 시스템✔ 단기 성과 + 장기적 노출까지 고려한SEO 최적화 전략✔ 블랙키워드╱언더키워드까지 소화 가능한 전문팀✔1페이지 상위 노출로 매출 상승 효과 입증구글찌라시 ✅【찌라시｡COM】✅ | 웹툰사이트순위 무료웹툰사이트순위 | 웹문서찌라시상위 웹문서찌라시상단 웹문서찌라시1페이지❓ 광고·홍보 문의텔레그램으로 편하게 문의 주세요｡⸮@·@·@？@·@·@·@⸮ 공식사이트 ∶찌라시｡COM구글찌라시 ✅【찌라시｡COM】✅ | 웹툰사이트순위 무료웹툰사이트순위 | 웹문서찌라시상위 웹문서찌라시상단 웹문서찌라시1페이지？ 마무리구글ˏ 네이버، 웹 전반에 걸친 찌라시홍보는 단순한 광고가 아닙니다.브랜드 신뢰도 상승، 트래픽 증대¸ 매출 향상까지 연결되는최고의 마케팅 솔루션입니다｡효과적인 홍보¸ 안정적인 상위 노출¸ 빠른 결과를 원하신다면 지금 바로 문의하세요.",
-      "technique": "ETC",
-      "extra_finding": "PUNCT_VARIANT"
-    },
-    {
-      "id": "CB-055_SYMBOL_SEPARATOR",
-      "url": "https://h-codi.co.kr/article/자료실/7/209831/page/2/",
-      "is_violation": true,
-      "location": "p",
-      "evidence_text": "구글찌라시 ✅【찌라시｡COM】✅ | 웹툰사이트순위 무료웹툰사이트순위 | 웹문서찌라시상위 웹문서찌라시상단 웹문서찌라시1페이지구글찌라시 ✅【찌라시.COM】✅ | 웹툰사이트순위 무료웹툰사이트순위 | 웹문서찌라시상위 웹문서찌라시상단 웹문서찌라시1페이지구글찌라시 ✅【찌라시.COM】✅ | 웹툰사이트순위 무료웹툰사이트순위 | 웹문서찌라시상위 웹문서찌라시상단 웹문서찌라시1페이지구글찌라시 · 네이버찌라시 · 웹문서찌라시 전문 홍보온라인 마케팅에서 가장 강력한 무기는 바로찌라시 홍보입니다.저희는 다년간의 노하우를 바탕으로구글찌라시، 네이버찌라시ˎ 웹문서찌라시를\n    효과적으로 배포하고 있으며ˎ 맞춤형 프로그램을 통해 빠른 상위 노출을 실현합니다.구글찌라시 ✅【찌라시.COM】✅ | 웹툰사이트순위 무료웹툰사이트순위 | 웹문서찌라시상위 웹문서찌라시상단 웹문서찌라시1페이지⸮ 제공 서비스구글찌라시¸ 구글찌라시프로그램¸ 웹문서찌라시، 웹문서찌라시프로그램ˏ네이버찌라시‚ 네이버찌라시프로그램، 구글도배، 구글도배프로그램‚웹문서도배‚ 웹문서도배프로그램، 찌라시광고‚ 찌라시홍보¸구글찌라시광고، 구글찌라시홍보ˏ 네이버찌라시프로그램، 찌라시광고프로그램구글찌라시 ✅【찌라시｡COM】✅ | 웹툰사이트순위 무료웹툰사이트순위 | 웹문서찌라시상위 웹문서찌라시상단 웹문서찌라시1페이지⸮ 블랙키워드 & 언더키워드 전문단순한 키워드 광고가 아닌¸ 경쟁이 치열한 분야에서 필요한블랙키워드⫻언더키워드까지\n    안전하고 효과적으로 홍보합니다｡블랙키워드홍보¸ 블랙키워드도배ˏ 구글블랙키워드도배ˏ 구글블랙키워드광고¸블랙키워드상단노출ˏ 블랙키워드상위노출ˏ 언더키워드광고ˎ 언더키워드홍보ˏ구글언더키워드광고‚ 구글언더키워드홍보¸ 언더키워드상위노출¸ 언더키워드1페이지구글찌라시 ✅【찌라시｡COM】✅ | 웹툰사이트순위 무료웹툰사이트순위 | 웹문서찌라시상위 웹문서찌라시상단 웹문서찌라시1페이지❓ 1페이지 상위 노출 전략“검색결과 1페이지 노출”은 모든 광고주의 목표입니다｡저희는 다년간 축적된 기술력으로1페이지광고‚ 1페이지홍보ˏ 구글 1페이지광고를\n    안정적으로 진행해 드립니다.구글 1페이지홍보‚ 구글 1페이지광고방법ˎ 구글 1페이지홍보방법 등\n    구체적인 최적화 솔루션을 제공합니다.구글찌라시 ✅【찌라시.COM】✅ | 웹툰사이트순위 무료웹툰사이트순위 | 웹문서찌라시상위 웹문서찌라시상단 웹문서찌라시1페이지✅ 선택해야 하는 이유✔ 최신 알고리즘을 반영한 안정적인찌라시프로그램운영✔웹문서찌라시와구글도배를 통한 대량 배포 시스템✔ 단기 성과 + 장기적 노출까지 고려한SEO 최적화 전략✔ 블랙키워드╱언더키워드까지 소화 가능한 전문팀✔1페이지 상위 노출로 매출 상승 효과 입증구글찌라시 ✅【찌라시｡COM】✅ | 웹툰사이트순위 무료웹툰사이트순위 | 웹문서찌라시상위 웹문서찌라시상단 웹문서찌라시1페이지❓ 광고·홍보 문의텔레그램으로 편하게 문의 주세요｡⸮@·@·@？@·@·@·@⸮ 공식사이트 ∶찌라시｡COM구글찌라시 ✅【찌라시｡COM】✅ | 웹툰사이트순위 무료웹툰사이트순위 | 웹문서찌라시상위 웹문서찌라시상단 웹문서찌라시1페이지？ 마무리구글ˏ 네이버، 웹 전반에 걸친 찌라시홍보는 단순한 광고가 아닙니다.브랜드 신뢰도 상승، 트래픽 증대¸ 매출 향상까지 연결되는최고의 마케팅 솔루션입니다｡효과적인 홍보¸ 안정적인 상위 노출¸ 빠른 결과를 원하신다면 지금 바로 문의하세요.",
-      "technique": "ETC",
-      "extra_finding": "SYMBOL_SEPARATOR"
-    },
-    {
-      "id": "CB-056_PUNCT_VARIANT",
-      "url": "https://h-codi.co.kr/article/자료실/7/209858/",
-      "is_violation": true,
-      "location": "p",
-      "evidence_text": "구글찌라시 ✅【찌라시｡COM】✅ | 노래방광고 | 구글오피광고프로그램 구글오피홍보프로그램✅ 구글 SEO 상위노출 · 웹문서 홍보 전문\n\n기업¸ 브랜드ˏ 개인 모두에게 필요한 것은 검색 상위 노출입니다｡\n전문적인 구글 SEO 최적화와 웹문서 자동 홍보 시스템을 통해\n안전하고 합법적인 방식으로 온라인 노출을 극대화하세요.\n\n구글찌라시 ∕ 구글찌라시프로그램 ⁄ 웹문서찌라시 ⫻ 웹문서프로그램대행을 활용한\n자동화 홍보 시스템은 수백 개 웹문서에 빠르게 등록되어\n브랜드 인지도와 검색 도달률을 동시에 높여드립니다.\n\n❓ 주요 서비스\n\n구글SEO최적화 ⫻ 구글상위노출대행 ∕ 백링크관리\n\n웹문서자동홍보 ⧸ 프로그램대행 ⁄ 키워드분석\n\n구글마케팅대행 ⧸ 웹문서배포 ⫽ 블로그콘텐츠홍보\n\n브랜드홍보 ／ 검색노출향상 ⧸ 트래픽유입증대\n\n⸮ 차별화된 기술력\n\n최신 구글 알고리즘 기반 SEO 구조 설계\n\n자동화 시스템을 통한 웹문서 대량 홍보\n\n키워드 최적화로 1페이지 노출 강화\n\n장기 노출이 유지되는 백링크 네트워크 구축\n\n⁇ 함께하는 이유\n\n안전하고 합법적인 검색엔진 중심 홍보 시스템\n\n수동작업 대비 10배 빠른 자동배포 기술\n\n노출 분석 및 지속 관리 지원\n\n구글ˏ 네이버 등 주요 플랫폼 대응",
-      "technique": "ETC",
-      "extra_finding": "PUNCT_VARIANT"
-    },
-    {
-      "id": "CB-056_SYMBOL_SEPARATOR",
-      "url": "https://h-codi.co.kr/article/자료실/7/209858/",
-      "is_violation": true,
-      "location": "p",
-      "evidence_text": "구글찌라시 ✅【찌라시｡COM】✅ | 노래방광고 | 구글오피광고프로그램 구글오피홍보프로그램✅ 구글 SEO 상위노출 · 웹문서 홍보 전문\n\n기업¸ 브랜드ˏ 개인 모두에게 필요한 것은 검색 상위 노출입니다｡\n전문적인 구글 SEO 최적화와 웹문서 자동 홍보 시스템을 통해\n안전하고 합법적인 방식으로 온라인 노출을 극대화하세요.\n\n구글찌라시 ∕ 구글찌라시프로그램 ⁄ 웹문서찌라시 ⫻ 웹문서프로그램대행을 활용한\n자동화 홍보 시스템은 수백 개 웹문서에 빠르게 등록되어\n브랜드 인지도와 검색 도달률을 동시에 높여드립니다.\n\n❓ 주요 서비스\n\n구글SEO최적화 ⫻ 구글상위노출대행 ∕ 백링크관리\n\n웹문서자동홍보 ⧸ 프로그램대행 ⁄ 키워드분석\n\n구글마케팅대행 ⧸ 웹문서배포 ⫽ 블로그콘텐츠홍보\n\n브랜드홍보 ／ 검색노출향상 ⧸ 트래픽유입증대\n\n⸮ 차별화된 기술력\n\n최신 구글 알고리즘 기반 SEO 구조 설계\n\n자동화 시스템을 통한 웹문서 대량 홍보\n\n키워드 최적화로 1페이지 노출 강화\n\n장기 노출이 유지되는 백링크 네트워크 구축\n\n⁇ 함께하는 이유\n\n안전하고 합법적인 검색엔진 중심 홍보 시스템\n\n수동작업 대비 10배 빠른 자동배포 기술\n\n노출 분석 및 지속 관리 지원\n\n구글ˏ 네이버 등 주요 플랫폼 대응",
-      "technique": "ETC",
-      "extra_finding": "SYMBOL_SEPARATOR"
-    },
-    {
-      "id": "CB-057_ZERO_WIDTH",
-      "url": "http://ichcenter.or.kr/sub/sub03_01.php?mNum=3&sNum=1&boardid=freeb&mode=view&idx=2055",
-      "is_violation": true,
-      "location": "div.body",
-      "evidence_text": "슈퍼카마그라사정지연제품   비아그라 약국   여의사한의원   비맥스정품구매사이트   수입산미국비아그라 약국   수입산독일해포쿠판매   부산가다실   남성정력제   개포동한의원   미국정품프로코밀부작용   타다라필 여성   가다실9가가격   비아그라필름   누리그라   수입산미국씨­알리스복제약？   미국정품시­알리스처방   신기환구매사이트   kamagra 구입방법   칙칙이정품구매   전립선한방치료   지루치료   수입산미국비­아그라직구   비­아그라효과시간   비아그라 구입 방법   Remens 칙칙이정품판매사이트   시알리스 복용법   혈뇨원인   비­아그라구입처   꽃물지속시간   센트립구매",
-      "technique": "ETC",
-      "extra_finding": "ZERO_WIDTH"
-    },
-    {
-      "id": "CB-059_DOMAIN_SPACING",
-      "url": "https://jirisanpapas.com/?page_id=1323&uid=61142&mod=document&pageid=1",
-      "is_violation": true,
-      "location": "p",
-      "evidence_text": "꽁 머니 bmania4 사이트 🤝 텔 [TDTD1111] [ 구 글 찌 라 시 . C O M ] 토토 사이트 추천 bmania4 토토 벳 매니아 검증 강남 노래방 구글 상위 노출 회사 찌라시프로그램",
-      "technique": "ETC",
-      "extra_finding": "DOMAIN_SPACING"
-    },
-    {
-      "id": "CB-059_KEYWORD_SPACING",
-      "url": "https://jirisanpapas.com/?page_id=1323&uid=61142&mod=document&pageid=1",
-      "is_violation": true,
-      "location": "p",
-      "evidence_text": "꽁 머니 bmania4 사이트 🤝 텔 [TDTD1111] [ 구 글 찌 라 시 . C O M ] 토토 사이트 추천 bmania4 토토 벳 매니아 검증 강남 노래방 구글 상위 노출 회사 찌라시프로그램",
-      "technique": "ETC",
-      "extra_finding": "KEYWORD_SPACING"
-    },
-    {
-      "id": "CB-062_KANA_SEPARATOR",
-      "url": "http://kmc1958.or.kr/bbs/board.php?bo_table=sub01_03&wr_id=420",
-      "is_violation": true,
-      "location": "#c_8667 > p",
-      "evidence_text": "【전북콜걸24시1순위】 | 전북출장안마ㅣ전북출장마사지＃전북출장샵＃전북조건만남＃전북출장만남 ワ 전북애인대행 ワ 전북콜걸만남 ワ 전북마사지 ワ 전북모텔콜걸 Q 전북모텔??",
-      "technique": "ETC",
-      "extra_finding": "KANA_SEPARATOR"
-    },
-    {
-      "id": "CB-067_KEYWORD_SPACING",
-      "url": "http://m.tsgasul.co.kr/community/board02/?method=view&no=1163",
-      "is_violation": true,
-      "location": "p",
-      "evidence_text": "펀치홀덤오마하홀덤,펀치홀덤캐쉬게임 호두게임 땅콩게임 문의 : O 1 O - X X X X - X X X X 카 톡 텔 레: asa373  땅콩바둑이 땅콩홀덤",
-      "technique": "ETC",
-      "extra_finding": "KEYWORD_SPACING"
-    },
-    {
-      "id": "CB-068_KEYWORD_SPACING",
-      "url": "http://m.tsgasul.co.kr/community/board02/?method=view&no=1163",
-      "is_violation": true,
-      "location": "b",
-      "evidence_text": "팬텀솔져게임 챔피언게임주소,챔피언게임관리자주소,챔피언게임홀덤 문의 : O 1 O - X X X X - X X X X 카 톡 텔 레: asa373 / 챔피언게임 땅콩바둑이게임 365일 24시간 안내합니다.",
-      "technique": "ETC",
-      "extra_finding": "KEYWORD_SPACING"
-    },
-    {
-      "id": "CB-069_SYMBOL_SEPARATOR",
-      "url": "https://navidcook.co.kr/article/%EA%B0%A4%EB%9F%AC%EB%A6%AC/8/7238/",
-      "is_violation": true,
-      "location": "span#comment_contents775",
-      "evidence_text": "⑵⑷시 콜센터 ( 김 정 은 실 장 )  ⓞ①ⓞ - X X X X , X X X X [ ㅋㅑ톡: T A L k 3 1 0 2 ]",
-      "technique": "ETC",
-      "extra_finding": "SYMBOL_SEPARATOR"
-    },
-    {
-      "id": "CB-071_PUNCT_VARIANT",
-      "url": "https://newbain.co.kr/article/상품-qa/6/96333/",
-      "is_violation": true,
-      "location": "a",
-      "evidence_text": "명동역하코[０１0ㅡXXXXㅡXXXX정석 대표]명동룸싸롱접대용 회현터치룸술값",
-      "technique": "ETC",
-      "extra_finding": "PUNCT_VARIANT"
-    },
-    {
-      "id": "CB-072_PUNCT_VARIANT",
-      "url": "https://newbain.co.kr/article/상품-qa/6/96310/page/3/",
-      "is_violation": true,
-      "location": "td",
-      "evidence_text": "동대문역사문화공원역오피스룸[01０ㅡXXXXㅡXXXX정석 대표]광장시장3NO요금 청구멤버십룸손님리뷰",
-      "technique": "ETC",
-      "extra_finding": "PUNCT_VARIANT"
-    },
-    {
-      "id": "CB-073_SYMBOL_SEPARATOR",
-      "url": "http://pizzabrothers.co.kr/box/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=47857751&t=board",
-      "is_violation": true,
-      "location": "span._comment_body_._comment_body_c20241217a6022d4602f18",
-      "evidence_text": "정품이 아니거나 효과 없을시 전액 환불클­릭­이­동 ­ ☞­☞ 구매사이트비아그라 카톡비아그라 텔레",
-      "technique": "ETC",
-      "extra_finding": "SYMBOL_SEPARATOR"
-    },
-    {
-      "id": "CB-073_ZERO_WIDTH",
-      "url": "http://pizzabrothers.co.kr/box/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=47857751&t=board",
-      "is_violation": true,
-      "location": "span._comment_body_._comment_body_c20241217a6022d4602f18",
-      "evidence_text": "정품이 아니거나 효과 없을시 전액 환불클­릭­이­동 ­ ☞­☞ 구매사이트비아그라 카톡비아그라 텔레",
-      "technique": "ETC",
-      "extra_finding": "ZERO_WIDTH"
-    },
-    {
       "id": "CB-074_KEYWORD_SPACING",
       "url": "https://politics.mokpo.ac.kr/bbs/economy/254/262610/artclView.do",
       "is_violation": true,
@@ -2860,24 +2212,6 @@
       "evidence_text": "참피언게임 바두기-사이트 홀-덤-게임 o1o-XX XX- X X XX",
       "technique": "ETC",
       "extra_finding": "KEYWORD_SPACING"
-    },
-    {
-      "id": "CB-077_CASE_MIX",
-      "url": "https://signblue.co.kr/article/%EC%83%81%ED%92%88-qa/6/49395/",
-      "is_violation": true,
-      "location": "td",
-      "evidence_text": "엠카지노 BiS55닷CoM 라이트닝 바카라 카지노 사이트 M카지노 합법 스포츠 토토 먹튀 검증 무료 체험 HLJ",
-      "technique": "ETC",
-      "extra_finding": "CASE_MIX"
-    },
-    {
-      "id": "CB-077_DOT_SUBSTITUTION",
-      "url": "https://signblue.co.kr/article/%EC%83%81%ED%92%88-qa/6/49395/",
-      "is_violation": true,
-      "location": "td",
-      "evidence_text": "엠카지노 BiS55닷CoM 라이트닝 바카라 카지노 사이트 M카지노 합법 스포츠 토토 먹튀 검증 무료 체험 HLJ",
-      "technique": "ETC",
-      "extra_finding": "DOT_SUBSTITUTION"
     },
     {
       "id": "CB-078_PUNCT_VARIANT",
@@ -3049,123 +2383,6 @@
       "evidence_text": "[알바문의=010⛶XXXX➖XXXX] | 이천가라오케알바 이천가라오케도우미 이천가라오케구인 | 수원즉시출근알바 수원당일면접알바 수원바로출근알바이천유흥알바 이천유흥구인 이천여성알바ˏ\n\n이천고수익알바 이천야간알바 이천당일지급알바ˏ\n\n이천단기알바 이천장기알바 이천초보알바ˎ\n\n이천노래방알바 이천노래방도우미 이천노래방구인‚\n\n이천가라오케알바 이천가라오케도우미 이천가라오케구인‚\n\n이천룸알바 이천룸도우미 이천룸구인‚\n\n이천바알바 이천BAR알바 이천클럽알바ˎ\n\n\n\n창전동유흥알바 창전동유흥구인 창전동여성알바ˏ\n\n중리동유흥알바 중리동유흥구인 중리동여성알바‚\n\n관고동유흥알바 관고동유흥구인 관고동여성알바ˎ\n\n증포동유흥알바 증포동유흥구인 증포동여성알바‚\n\n송정동유흥알바 송정동유흥구인 송정동여성알바،\n\n\n\n이천즉시출근알바 이천당일면접알바 이천바로출근알바،\n\n이천24시상담 이천문자상담 이천카톡상담ˏ\n\n이천고페이알바 이천일당알바 이천주급알바،\n\n이천팁많은알바 이천보장수입 이천출근자유알바ˏ\n\n\n\n경기도이천유흥알바 경기도이천노래방알바 경기도이천가라오케알바‚\n\n경기도이천룸알바 경기도이천여성알바 경기도이천고수익알바،\n\n수원유흥알바 수원유흥구인 수원여성알바‚\n\n수원고수익알바 수원야간알바 수원당일지급알바،\n\n수원단기알바 수원장기알바 수원초보알바¸\n\n수원노래방알바 수원노래방도우미 수원노래방구인،\n\n수원가라오케알바 수지가라오케도우미 수원가라오케구인¸\n\n수원룸알바 수원룸도우미 수원룸구인ˏ\n\n수원바알바 수원BAR알바 수원클럽알바¸\n\n수원텐프로알바 수원하이퍼블릭알바 수원접객알바ˏ\n\n\n\n영통유흥알바 영통유흥구인 영통여성알바ˎ\n\n영통고수익알바 영통야간알바 영통당일지급알바ˎ\n\n영통노래방알바 영통노래방도우미 영통노래방구인‚\n\n영통가라오케알바 영통가라오케도우미 영통룸알바‚\n\n\n\n인계동유흥알바 인계동유흥구인 인계동여성알바ˎ\n\n인계동고수익알바 인계동야간알바 인계동당일지급알바ˎ\n\n인계동노래방알바 인계동노래방도우미 인계동노래방구인،\n\n인계동가라오케알바 인계동가라오케도우미 인계동룸알바ˏ\n\n\n\n매탄동유흥알바 매탄동유흥구인 매탄동여성알바ˏ\n\n권선동유흥알바 권선동유흥구인 권선동여성알바،\n\n세류동유흥알바 세류동유흥구인 세류동여성알바ˏ\n\n팔달구유흥알바 팔달구유흥구인 팔달구여성알바‚\n\n\n\n수원즉시출근알바 수원당일면접알바 수원바로출근알바ˎ\n\n수원24시상담 수원문자상담 수원카톡상담ˎ\n\n수원고페이알바 수원일당알바 수원주급알바‚\n\n수원팁많은알바 수원보장수입 수원출근자유알바‚\n\n\n\n수원초보여성알바 수원경력무관알바 수원20대알바‚\n\n수원30대알바 수원대학생알바 수원투잡알바ˏ\n\n수원주부알바 수원야간여성알바 수원단기고수익알바ˎ\n\n\n\n경기도수원유흥알바 경기도수원노래방알바 경기도수원가라오케알바‚\n\n경기도수원룸알바 경기도수원여성알바 경기도수원고수익알바،\n\n\n\n수원역유흥알바 수원역노래방알바 수원역가라오케알바،\n\n영통역유흥알바 영통역노래방알바 영통역가라오케알바¸\n\n인계동술집알바 인계동룸알바 인계동야간알바¸",
       "technique": "ETC",
       "extra_finding": "SYMBOL_SEPARATOR"
-    },
-    {
-      "id": "CB-090_SYMBOL_SEPARATOR",
-      "url": "http://sunjineng.net/bbs/board.php?bo_table=free&wr_id=73089",
-      "is_violation": true,
-      "location": "p",
-      "evidence_text": "옥수일본출장마사지 텔레 ⓓⓒⓚⓘⓜ➑➑➑ 폰０５０ ８２０２ ９０６０",
-      "technique": "ETC",
-      "extra_finding": "SYMBOL_SEPARATOR"
-    },
-    {
-      "id": "CB-091_SYMBOL_SEPARATOR",
-      "url": "http://sunjineng.net/bbs/board.php?bo_table=free&wr_id=73095",
-      "is_violation": true,
-      "location": "p",
-      "evidence_text": "화양동일본출장안마 텔레 ⓓⓒⓚⓘⓜ➇➇➇ 폰⓿⑤⓿ ⑧②⓿② ⑨⓿⑥⓿",
-      "technique": "ETC",
-      "extra_finding": "SYMBOL_SEPARATOR"
-    },
-    {
-      "id": "CB-092_SYMBOL_SEPARATOR",
-      "url": "http://sunjineng.net/bbs/board.php?bo_table=free&wr_id=73089",
-      "is_violation": true,
-      "location": "h1#hd_h1",
-      "evidence_text": "용두동일본출장마사지 텔레 ⓓⓒⓚⓘⓜ⁸⁸⁸ 폰⁰⑤⁰ ⁸②⁰² ⁹⓪⁶⁰ > 자유게시판",
-      "technique": "ETC",
-      "extra_finding": "SYMBOL_SEPARATOR"
-    },
-    {
-      "id": "CB-093_SYMBOL_SEPARATOR",
-      "url": "https://superilla.kr/article/자유게시판/5/1505289/",
-      "is_violation": true,
-      "location": "a",
-      "evidence_text": "이태원역시크릿바 정석대표←０１０〓XXXX〓XXXX←한강로멤버십바저렴한곳 이촌오피스룸룸컨디션",
-      "technique": "ETC",
-      "extra_finding": "SYMBOL_SEPARATOR"
-    },
-    {
-      "id": "CB-094_SYMBOL_SEPARATOR",
-      "url": "https://uisp.ikw.ac.kr/bbs/board.php?bo_table=qa&wr_id=134",
-      "is_violation": true,
-      "location": "a",
-      "evidence_text": "구글찌라시 광고 ｜ 구글웹문서 배포 대행 ｜ 구글찌라시 프로그램 ｜ 구글찌라시.net ｜ 하이퍼블릭 광고대행 ｜ 업소 광고대행 ｜ 비아그라 광고대행 ｜ 시알리스 광고대행 ｜ 유흥찌라시 대행 ｜ 유흥 광고대행 ｜ 미러룸 광고대행 ｜ 풀싸롱 광고대행 ｜ 출장샵 광고대행 ｜ 개인장 광고대행 ｜ 법인장 광고대행 ｜ 테더환전 광고대행 ｜ 코인환전 광고대행 ｜ 스틸녹스 광고대행 ｜ 작대 광고대행 ｜ 현금화 광고대행 ｜ 대출광고.com ｜ 레플리카 광고대행 ｜ 미러급 광고대행 ｜ 출장마사지 광고대행 ｜ 출장스웨디시 광고대행 ｜ 작업대출 광고대행 ｜ 당일급전 광고대행 ｜ 홈타이 광고대행 ｜ 텐카페 광고대행 ｜ VIP룸 광고대행 ｜ 하이엔드 광고대행 ｜ 인증업체 광고대행 ｜ 황제투어 광고대행 ｜ 업소광고.com",
-      "technique": "ETC",
-      "extra_finding": "SYMBOL_SEPARATOR"
-    },
-    {
-      "id": "CB-095_SYMBOL_SEPARATOR",
-      "url": "https://uisp.ikw.ac.kr/bbs/board.php?bo_table=qa&wr_id=345",
-      "is_violation": true,
-      "location": "a.s_txt",
-      "evidence_text": "구글찌라시 웹문서 백링크｜상위노출｜✳️ 구글찌라시.net ✳️｜텔레 : novanulltrace",
-      "technique": "ETC",
-      "extra_finding": "SYMBOL_SEPARATOR"
-    },
-    {
-      "id": "CB-096_SYMBOL_SEPARATOR",
-      "url": "https://www.cnpgroup.net/3-4/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173421602&t=board",
-      "is_violation": true,
-      "location": "div.margin-top-xxl._comment_body_m20260706f87ec48c5821a > div",
-      "evidence_text": "드림팩토리｜솔루션 무료 합리적인 안전시스템 아너링크최저가｜아너링크알｜카지노솔루션최저가",
-      "technique": "ETC",
-      "extra_finding": "SYMBOL_SEPARATOR"
-    },
-    {
-      "id": "CB-097_KEYWORD_SPACING",
-      "url": "https://www.cnpgroup.net/3-4/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173427009&t=board",
-      "is_violation": true,
-      "location": "span.secret_icon",
-      "evidence_text": "카­지노SOLUTIONㅣ토지노SOLUTIONㅣ슬롯SOLUTIONㅣ[[ 텔 레  : dreamfactory365 ]]",
-      "technique": "ETC",
-      "extra_finding": "KEYWORD_SPACING"
-    },
-    {
-      "id": "CB-097_ZERO_WIDTH",
-      "url": "https://www.cnpgroup.net/3-4/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173427009&t=board",
-      "is_violation": true,
-      "location": "span.secret_icon",
-      "evidence_text": "카­지노SOLUTIONㅣ토지노SOLUTIONㅣ슬롯SOLUTIONㅣ[[ 텔 레  : dreamfactory365 ]]",
-      "technique": "ETC",
-      "extra_finding": "ZERO_WIDTH"
-    },
-    {
-      "id": "CB-098_KEYWORD_SPACING",
-      "url": "https://www.cnpgroup.net/3-4/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173430566&t=board",
-      "is_violation": true,
-      "location": "p",
-      "evidence_text": "에볼알, Evolution, 바 카 라알, 슬롯알, 정품통합알, 카­지노분양, 성인pc , 카­지노사이트, 파싱알,드림팩토리솔­루션,드림솔­루션",
-      "technique": "ETC",
-      "extra_finding": "KEYWORD_SPACING"
-    },
-    {
-      "id": "CB-098_ZERO_WIDTH",
-      "url": "https://www.cnpgroup.net/3-4/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173430566&t=board",
-      "is_violation": true,
-      "location": "p",
-      "evidence_text": "에볼알, Evolution, 바 카 라알, 슬롯알, 정품통합알, 카­지노분양, 성인pc , 카­지노사이트, 파싱알,드림팩토리솔­루션,드림솔­루션",
-      "technique": "ETC",
-      "extra_finding": "ZERO_WIDTH"
-    },
-    {
-      "id": "CB-099_KEYWORD_SPACING",
-      "url": "https://www.cnpgroup.net/3-4/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173430566&t=board",
-      "is_violation": true,
-      "location": "p",
-      "evidence_text": "슬롯분양, 에볼제작, 바 카 라제작, 카­지노사이트임대, 슬롯사이트임대, 블루game , 토토솔­루션,스포츠제작,밴더사",
-      "technique": "ETC",
-      "extra_finding": "KEYWORD_SPACING"
-    },
-    {
-      "id": "CB-099_ZERO_WIDTH",
-      "url": "https://www.cnpgroup.net/3-4/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173430566&t=board",
-      "is_violation": true,
-      "location": "p",
-      "evidence_text": "슬롯분양, 에볼제작, 바 카 라제작, 카­지노사이트임대, 슬롯사이트임대, 블루game , 토토솔­루션,스포츠제작,밴더사",
-      "technique": "ETC",
-      "extra_finding": "ZERO_WIDTH"
     },
     {
       "id": "CB-103_SYMBOL_SEPARATOR",
@@ -4824,33 +4041,6 @@
       "extra_finding": "SYMBOL_SEPARATOR"
     },
     {
-      "id": "CB-193_SYMBOL_SEPARATOR",
-      "url": "https://ysgsa.yonsei.ac.kr/board4/?bmode=view&idx=170493168",
-      "is_violation": true,
-      "location": "h1.view_tit",
-      "evidence_text": "2026 🧊 바카라사이트쿠폰정리 ⎛ 여왕벌.𝐧𝐞𝐭 추천코드 𝐾𝐾𝟷𝟺 ⎞ 🧊 축구배팅사이트순위 · 야구배팅사이트찾기 · 환전빠른토토사이트비교",
-      "technique": "ETC",
-      "extra_finding": "SYMBOL_SEPARATOR"
-    },
-    {
-      "id": "CB-194_ZERO_WIDTH",
-      "url": "http://baejinmetal.co.kr/bbs/board.php?bo_table=K060400&wr_id=8713",
-      "is_violation": true,
-      "location": "span#writeContents",
-      "evidence_text": "플레이텍로­얄카­지노먹­튀 카­지노바­카라 커뮤니티 프라그마틱카­지노 실시간영상아이 슬­롯머신 islotgame〃아이슬롯.COM〃카­지노 에볼루션 아이슬­롯 플레이텍로­얄카­지노먹­튀 카­지노바­카라 커뮤니티 프라그마틱카­지노 실시간영상아이 슬­롯머신 islotgame〃아이슬롯.COM〃카­지노 에볼루션 아이슬­롯 플레이텍로­얄카­지노먹­튀 카­지노바­카라 커뮤니티 프라그마틱카­지노 실시간영상아이 슬­롯머신 islotgame〃아이슬롯.COM〃카­지노 에볼루션 아이슬­롯 플레이텍로­얄카­지노먹­튀 카­지노바­카라 커뮤니티 프라그마틱카­지노",
-      "technique": "ETC",
-      "extra_finding": "ZERO_WIDTH"
-    },
-    {
-      "id": "CB-195_SYMBOL_SEPARATOR",
-      "url": "https://dkhrainbow.com/article/상품-qa/6/6407/page/3/",
-      "is_violation": true,
-      "location": "td",
-      "evidence_text": "홀덤게임  사이트 ⓞ①ⓞ-XXXX-XXXX 팬텀솔져홀덤 피스톨바둑이게임 챔피언홀덤 pc홀덤",
-      "technique": "ETC",
-      "extra_finding": "SYMBOL_SEPARATOR"
-    },
-    {
       "id": "CB-196_ZERO_WIDTH",
       "url": "https://m.gmad.kr/board/product/read.html?no=4811&board_no=6",
       "is_violation": true,
@@ -4896,24 +4086,6 @@
       "extra_finding": "SPELLING_VARIANT"
     },
     {
-      "id": "CB-199_SYMBOL_SEPARATOR",
-      "url": "https://jangpanmart.com/article/%EC%83%81%ED%92%88-qa/6/337091/",
-      "is_violation": true,
-      "location": "a",
-      "evidence_text": "에볼casi­nogame ㉨카 텔\"  tst365 ㈅AA-AKgame 바­두­기매­장슬­롯 인디고game API솔루션",
-      "technique": "ETC",
-      "extra_finding": "SYMBOL_SEPARATOR"
-    },
-    {
-      "id": "CB-199_ZERO_WIDTH",
-      "url": "https://jangpanmart.com/article/%EC%83%81%ED%92%88-qa/6/337091/",
-      "is_violation": true,
-      "location": "a",
-      "evidence_text": "에볼casi­nogame ㉨카 텔\"  tst365 ㈅AA-AKgame 바­두­기매­장슬­롯 인디고game API솔루션",
-      "technique": "ETC",
-      "extra_finding": "ZERO_WIDTH"
-    },
-    {
       "id": "CB-200_KEYWORD_SPACING",
       "url": "https://jinsansports.co.kr/board/product/read.html?no=966&board_no=6",
       "is_violation": true,
@@ -4921,33 +4093,6 @@
       "evidence_text": "에볼루션 미니게임 슬롯사이트 텔 레 깨똑 : 가장 위험한 지정학적 갈등 중 하나입니다.tst365 \" 블루게임。COM \" 온라인슬롯게임 안전검증게임",
       "technique": "ETC",
       "extra_finding": "KEYWORD_SPACING"
-    },
-    {
-      "id": "CB-201_ZERO_WIDTH",
-      "url": "https://khmosi.com/article/%EA%B0%A4%EB%9F%AC%EB%A6%AC/8/21088/",
-      "is_violation": true,
-      "location": "caption",
-      "evidence_text": "슬롯정품인증[blgm7.컴] 블불루게임[홀­덤 인디고 (indigo)라­이브] \" spgm77。COM \"라­이브홀­덤 인디고 (indigo)",
-      "technique": "ETC",
-      "extra_finding": "ZERO_WIDTH"
-    },
-    {
-      "id": "CB-202_PUNCT_VARIANT",
-      "url": "https://koreawax.com/article/%EC%83%81%ED%92%88-qa/6/30465/",
-      "is_violation": true,
-      "location": "p",
-      "evidence_text": "❓ 실시간 룸 현황 및 다이렉트 예약ː O1O➖XXXX﹘XXXX\n⁇ 구로룸싸롱 ⸳ 신촌·홍대 상권 최상급 프라이빗 룸 라운지\n\n시끄러운 인파를 벗어나 우리만의 완벽한 시간이 필요하신가요❓\n신촌과 홍대 중심에 위치한 이곳은 100% 예약제로 운영되는 프리미엄 노래 공간입니다. 1인 혼술부터 10인 이상 단체 모임까지ˏ 방문 목적에 딱 맞는 세팅을 제공합니다｡\n\n단순한 노래방이 아닙니다. 가라오케¸ 룸싸롱¸ 셔츠룸 시스템 중 고객님의 니즈에 맞는 맞춤형 세팅을 한 공간에서 완벽하게 지원합니다｡ 최고급 하이엔드 음향 기기와 쾌적한 모던 인테리어로 노래와 대화ˏ 두 마리 토끼를 모두 잡으세요.\n\n✔️ 이런 분들께 자신 있게 추천합니다\n\n외부 시선 완벽 차단︕ 우리끼리만 노는 조용한 단독룸이 필요한 분\n\n찢어지는 마이크는 그만، 콘서트홀급 음향 시스템을 찾는 분\n\n갑작스러운 당일 회식이나 모임 장소가 급히 필요하신 분\n\n1인 방문도 눈치 보지 않고 VVIP 대우를 받으며 즐기고 싶은 분\n\n？ 핵심 이용 정보\n\n[위치] 2호선 신촌역 도보 3분 거리 （홍대 진입 및 이동 매우 용이❩\n\n[시간] 24시간 연중무휴 ﹙심야 및 새벽 방문، 당일 급행 예약 환영❩\n\n[목적] 비즈니스 접대‚ 생일 파티‚ 커플 데이트ˎ 소규모 미팅ˏ 혼자만의 힐링 등\n\n⁇ 실제 방문 고객 리얼 후기\n”방음이 너무 잘 돼서 중요한 얘기 나누기 딱 좋았습니다.”\n〃신촌에서 이 정도 깔끔한 시설에 음향까지 갖춘 곳은 처음이네요｡”\n❞인원이 많았는데 방이 넓고 쾌적해서 다들 대만족했습니다.❝\n\n？ [예약 마감 주의]\n주말 및 심야 피크 타임에는 인기 룸이 빠르게 만실됩니다.\n헛걸음하시지 않도록 방문 전 가볍게 전화 한 통 주시면ˏ 대기 없는 빠른 안내와 최적의 룸 배정을 도와드립니다.\n\n⸮ 24시간 예약⫽문의︰ O1O–XXXX﹣XXXX",
-      "technique": "ETC",
-      "extra_finding": "PUNCT_VARIANT"
-    },
-    {
-      "id": "CB-202_SYMBOL_SEPARATOR",
-      "url": "https://koreawax.com/article/%EC%83%81%ED%92%88-qa/6/30465/",
-      "is_violation": true,
-      "location": "p",
-      "evidence_text": "❓ 실시간 룸 현황 및 다이렉트 예약ː O1O➖XXXX﹘XXXX\n⁇ 구로룸싸롱 ⸳ 신촌·홍대 상권 최상급 프라이빗 룸 라운지\n\n시끄러운 인파를 벗어나 우리만의 완벽한 시간이 필요하신가요❓\n신촌과 홍대 중심에 위치한 이곳은 100% 예약제로 운영되는 프리미엄 노래 공간입니다. 1인 혼술부터 10인 이상 단체 모임까지ˏ 방문 목적에 딱 맞는 세팅을 제공합니다｡\n\n단순한 노래방이 아닙니다. 가라오케¸ 룸싸롱¸ 셔츠룸 시스템 중 고객님의 니즈에 맞는 맞춤형 세팅을 한 공간에서 완벽하게 지원합니다｡ 최고급 하이엔드 음향 기기와 쾌적한 모던 인테리어로 노래와 대화ˏ 두 마리 토끼를 모두 잡으세요.\n\n✔️ 이런 분들께 자신 있게 추천합니다\n\n외부 시선 완벽 차단︕ 우리끼리만 노는 조용한 단독룸이 필요한 분\n\n찢어지는 마이크는 그만، 콘서트홀급 음향 시스템을 찾는 분\n\n갑작스러운 당일 회식이나 모임 장소가 급히 필요하신 분\n\n1인 방문도 눈치 보지 않고 VVIP 대우를 받으며 즐기고 싶은 분\n\n？ 핵심 이용 정보\n\n[위치] 2호선 신촌역 도보 3분 거리 （홍대 진입 및 이동 매우 용이❩\n\n[시간] 24시간 연중무휴 ﹙심야 및 새벽 방문، 당일 급행 예약 환영❩\n\n[목적] 비즈니스 접대‚ 생일 파티‚ 커플 데이트ˎ 소규모 미팅ˏ 혼자만의 힐링 등\n\n⁇ 실제 방문 고객 리얼 후기\n”방음이 너무 잘 돼서 중요한 얘기 나누기 딱 좋았습니다.”\n〃신촌에서 이 정도 깔끔한 시설에 음향까지 갖춘 곳은 처음이네요｡”\n❞인원이 많았는데 방이 넓고 쾌적해서 다들 대만족했습니다.❝\n\n？ [예약 마감 주의]\n주말 및 심야 피크 타임에는 인기 룸이 빠르게 만실됩니다.\n헛걸음하시지 않도록 방문 전 가볍게 전화 한 통 주시면ˏ 대기 없는 빠른 안내와 최적의 룸 배정을 도와드립니다.\n\n⸮ 24시간 예약⫽문의︰ O1O–XXXX﹣XXXX",
-      "technique": "ETC",
-      "extra_finding": "SYMBOL_SEPARATOR"
     },
     {
       "id": "CB-203_SPELLING_VARIANT",
@@ -5013,56 +4158,11 @@
       "extra_finding": "SPELLING_VARIANT"
     },
     {
-      "id": "CB-209_PUNCT_VARIANT",
-      "url": "https://shesga.com/article/%EC%83%81%ED%92%88-qa/6/6858859",
-      "is_violation": true,
-      "location": "p",
-      "evidence_text": "용산룸싸롱 이용 후기｜혼자도¸ 여럿이서도 부담 없었던 곳\n문의 O1O=XXXX◆XXXX\n\n신촌에서 깔끔하고 편안한 셔츠룸을 찾고 있다면 참고해볼 만한 곳이다｡\n최근 지인 소개로 신촌역 인근 셔츠룸을 방문했는데‚ 위치가 좋아 이동이 편했고 예약 과정도 생각보다 간단했다.\n처음 이용하는 입장이었지만 O1O―XXXX—XXXX로 문의하니 안내가 친절해서 큰 어려움 없이 방문할 수 있었다.\n\n⸻\n\n⸮ 위치 & 이동 편의성\n신촌 중심가에 자리 잡고 있어 지하철에서 내려 도보로 이동하기 어렵지 않다｡\n직장인 퇴근 후 방문이나 친구 모임‚ 가벼운 약속 장소로도 무난한 위치다.\n\n⸻\n\n❓ 이용 요금 & 혜택\n기본은 1인 기준 셔츠룸 가격으로 시작하며‚\n요일이나 시간대에 따라 할인 이벤트가 적용된다｡\n사전 예약 시 추가 혜택도 가능하니 방문 전 확인해보는 것이 좋다｡\n\n⸻\n\n⁇ 내부 구성 & 이용 방식\n혼자 방문해도 부담 없는 프라이빗 공간이 마련돼 있고،\n단체나 남자 모임도 충분히 수용 가능한 구조다.\n비즈니스 접대룸¸ 가라오케룸، 초이스룸 등 다양한 선택지가 있어\n상황에 맞게 이용할 수 있는 점이 장점이다｡\n\n24시간 운영이라 시간 제약 없이 이용 가능했고¸\n룸 컨디션도 전반적으로 깔끔하게 관리되고 있었다｡\n직원 응대 역시 차분하고 친절한 편이라 전체적인 만족도가 높았다｡\n\n⸻\n\n✅ 이런 분들께 잘 맞아요\n\n신촌 셔츠룸이 처음이라 무난한 곳을 찾는 분\n\n혼자 조용히 이용할 수 있는 공간을 원하는 분\n\n단체 모임이나 비즈니스 접대 장소가 필요한 경우\n\n가격과 시설 모두 균형 잡힌 곳을 선호하는 분\n\n과하지 않은 분위기와 안정적인 운영 덕분에\n재방문 이야기가 나오는 이유를 알 수 있었던 신촌 셔츠룸이었다｡#신촌셔츠룸 #셔츠룸후기 #셔츠룸가격 #셔츠룸예약 #셔츠룸24시 #셔츠룸혼자가기 #초이스룸 #접대룸 #가라오케룸 #셔츠룸추천 #서울셔츠룸",
-      "technique": "ETC",
-      "extra_finding": "PUNCT_VARIANT"
-    },
-    {
-      "id": "CB-209_SYMBOL_SEPARATOR",
-      "url": "https://shesga.com/article/%EC%83%81%ED%92%88-qa/6/6858859",
-      "is_violation": true,
-      "location": "p",
-      "evidence_text": "용산룸싸롱 이용 후기｜혼자도¸ 여럿이서도 부담 없었던 곳\n문의 O1O=XXXX◆XXXX\n\n신촌에서 깔끔하고 편안한 셔츠룸을 찾고 있다면 참고해볼 만한 곳이다｡\n최근 지인 소개로 신촌역 인근 셔츠룸을 방문했는데‚ 위치가 좋아 이동이 편했고 예약 과정도 생각보다 간단했다.\n처음 이용하는 입장이었지만 O1O―XXXX—XXXX로 문의하니 안내가 친절해서 큰 어려움 없이 방문할 수 있었다.\n\n⸻\n\n⸮ 위치 & 이동 편의성\n신촌 중심가에 자리 잡고 있어 지하철에서 내려 도보로 이동하기 어렵지 않다｡\n직장인 퇴근 후 방문이나 친구 모임‚ 가벼운 약속 장소로도 무난한 위치다.\n\n⸻\n\n❓ 이용 요금 & 혜택\n기본은 1인 기준 셔츠룸 가격으로 시작하며‚\n요일이나 시간대에 따라 할인 이벤트가 적용된다｡\n사전 예약 시 추가 혜택도 가능하니 방문 전 확인해보는 것이 좋다｡\n\n⸻\n\n⁇ 내부 구성 & 이용 방식\n혼자 방문해도 부담 없는 프라이빗 공간이 마련돼 있고،\n단체나 남자 모임도 충분히 수용 가능한 구조다.\n비즈니스 접대룸¸ 가라오케룸، 초이스룸 등 다양한 선택지가 있어\n상황에 맞게 이용할 수 있는 점이 장점이다｡\n\n24시간 운영이라 시간 제약 없이 이용 가능했고¸\n룸 컨디션도 전반적으로 깔끔하게 관리되고 있었다｡\n직원 응대 역시 차분하고 친절한 편이라 전체적인 만족도가 높았다｡\n\n⸻\n\n✅ 이런 분들께 잘 맞아요\n\n신촌 셔츠룸이 처음이라 무난한 곳을 찾는 분\n\n혼자 조용히 이용할 수 있는 공간을 원하는 분\n\n단체 모임이나 비즈니스 접대 장소가 필요한 경우\n\n가격과 시설 모두 균형 잡힌 곳을 선호하는 분\n\n과하지 않은 분위기와 안정적인 운영 덕분에\n재방문 이야기가 나오는 이유를 알 수 있었던 신촌 셔츠룸이었다｡#신촌셔츠룸 #셔츠룸후기 #셔츠룸가격 #셔츠룸예약 #셔츠룸24시 #셔츠룸혼자가기 #초이스룸 #접대룸 #가라오케룸 #셔츠룸추천 #서울셔츠룸",
-      "technique": "ETC",
-      "extra_finding": "SYMBOL_SEPARATOR"
-    },
-    {
       "id": "CB-210_SYMBOL_SEPARATOR",
       "url": "https://vestmall.co.kr/article/%EC%83%81%ED%92%88-%EC%82%AC%EC%9A%A9%ED%9B%84%EA%B8%B0/4/4305559/",
       "is_violation": true,
       "location": "a",
       "evidence_text": "홀덤 게임 하는곳◈ㄴㄲㅏ톡 탤ㄹㅔ sk5775 ◈바둑이홀덤보증사이트 #전국홀덤 #홀텍사스홀덤 #사이트추천 #모바일홀덤 #인터넷홀덤   홀덤 게임 하는곳∪ㄴㄲㅏ톡 탤ㄹㅔ sk5775 ¿ 바둑이홀덤보증사이트   https://b",
-      "technique": "ETC",
-      "extra_finding": "SYMBOL_SEPARATOR"
-    },
-    {
-      "id": "CB-211_SYMBOL_SEPARATOR",
-      "url": "https://xn--ok0bu9bww1apc75nnxdxz8a.com/article/상품-qa/6/99/",
-      "is_violation": true,
-      "location": "div.fr-view.fr-view-article",
-      "evidence_text": "모바일한게임카지노게임머니팝니다 ⑥ 나에게도 인연이 있긴 한 걸까 ⑦ ◐텔례@A9975◑",
-      "technique": "ETC",
-      "extra_finding": "SYMBOL_SEPARATOR"
-    },
-    {
-      "id": "CB-212_PUNCT_VARIANT",
-      "url": "https://yellowpost.co.kr/board/product/read.html?no=251713&board_no=6",
-      "is_violation": true,
-      "location": "p",
-      "evidence_text": "구글찌라시 ✅【찌라시.COM】✅ | 휴게텔 소액결제 구글찌라시작업광고 | 출장마사지광고대행 출장마사지홍보대행✅ 구글 SEO 상위노출 · 웹문서 홍보 전문\n\n기업، 브랜드¸ 개인 모두에게 필요한 것은 검색 상위 노출입니다｡\n전문적인 구글 SEO 최적화와 웹문서 자동 홍보 시스템을 통해\n안전하고 합법적인 방식으로 온라인 노출을 극대화하세요.\n\n구글찌라시 ⧸ 구글찌라시프로그램 ⁄ 웹문서찌라시 ⁄ 웹문서프로그램대행을 활용한\n자동화 홍보 시스템은 수백 개 웹문서에 빠르게 등록되어\n브랜드 인지도와 검색 도달률을 동시에 높여드립니다｡\n\n？ 주요 서비스\n\n구글SEO최적화 ／ 구글상위노출대행 ⟋ 백링크관리\n\n웹문서자동홍보 ／ 프로그램대행 ⧸ 키워드분석\n\n구글마케팅대행 ⁄ 웹문서배포 ⁄ 블로그콘텐츠홍보\n\n브랜드홍보 ╱ 검색노출향상 ⟋ 트래픽유입증대\n\n⁇ 차별화된 기술력\n\n최신 구글 알고리즘 기반 SEO 구조 설계\n\n자동화 시스템을 통한 웹문서 대량 홍보\n\n키워드 최적화로 1페이지 노출 강화\n\n장기 노출이 유지되는 백링크 네트워크 구축\n\n⸮ 함께하는 이유\n\n안전하고 합법적인 검색엔진 중심 홍보 시스템\n\n수동작업 대비 10배 빠른 자동배포 기술\n\n노출 분석 및 지속 관리 지원\n\n구글ˏ 네이버 등 주요 플랫폼 대응",
-      "technique": "ETC",
-      "extra_finding": "PUNCT_VARIANT"
-    },
-    {
-      "id": "CB-212_SYMBOL_SEPARATOR",
-      "url": "https://yellowpost.co.kr/board/product/read.html?no=251713&board_no=6",
-      "is_violation": true,
-      "location": "p",
-      "evidence_text": "구글찌라시 ✅【찌라시.COM】✅ | 휴게텔 소액결제 구글찌라시작업광고 | 출장마사지광고대행 출장마사지홍보대행✅ 구글 SEO 상위노출 · 웹문서 홍보 전문\n\n기업، 브랜드¸ 개인 모두에게 필요한 것은 검색 상위 노출입니다｡\n전문적인 구글 SEO 최적화와 웹문서 자동 홍보 시스템을 통해\n안전하고 합법적인 방식으로 온라인 노출을 극대화하세요.\n\n구글찌라시 ⧸ 구글찌라시프로그램 ⁄ 웹문서찌라시 ⁄ 웹문서프로그램대행을 활용한\n자동화 홍보 시스템은 수백 개 웹문서에 빠르게 등록되어\n브랜드 인지도와 검색 도달률을 동시에 높여드립니다｡\n\n？ 주요 서비스\n\n구글SEO최적화 ／ 구글상위노출대행 ⟋ 백링크관리\n\n웹문서자동홍보 ／ 프로그램대행 ⧸ 키워드분석\n\n구글마케팅대행 ⁄ 웹문서배포 ⁄ 블로그콘텐츠홍보\n\n브랜드홍보 ╱ 검색노출향상 ⟋ 트래픽유입증대\n\n⁇ 차별화된 기술력\n\n최신 구글 알고리즘 기반 SEO 구조 설계\n\n자동화 시스템을 통한 웹문서 대량 홍보\n\n키워드 최적화로 1페이지 노출 강화\n\n장기 노출이 유지되는 백링크 네트워크 구축\n\n⸮ 함께하는 이유\n\n안전하고 합법적인 검색엔진 중심 홍보 시스템\n\n수동작업 대비 10배 빠른 자동배포 기술\n\n노출 분석 및 지속 관리 지원\n\n구글ˏ 네이버 등 주요 플랫폼 대응",
       "technique": "ETC",
       "extra_finding": "SYMBOL_SEPARATOR"
     },
@@ -5074,24 +4174,6 @@
       "evidence_text": "에볼루션 미니게임 슬롯사이트 텔 레 깨똑 : tst365 \" BIBEGM。COM \" 온라인슬롯게임 안전검증게임",
       "technique": "ETC",
       "extra_finding": "KEYWORD_SPACING"
-    },
-    {
-      "id": "CB-214_SYMBOL_SEPARATOR",
-      "url": "http://baejinmetal.co.kr/bbs/board.php?bo_table=K060400&wr_id=5458",
-      "is_violation": true,
-      "location": "span#writeContents",
-      "evidence_text": "바둑이게­임사이트 아이폰holdem♪ ㅋㅏ톡/텔ㄹㅔ :  T S T 3 6 5⇘인디고게­임 사이트 온라인holdem게­임하는곳",
-      "technique": "ETC",
-      "extra_finding": "SYMBOL_SEPARATOR"
-    },
-    {
-      "id": "CB-214_ZERO_WIDTH",
-      "url": "http://baejinmetal.co.kr/bbs/board.php?bo_table=K060400&wr_id=5458",
-      "is_violation": true,
-      "location": "span#writeContents",
-      "evidence_text": "바둑이게­임사이트 아이폰holdem♪ ㅋㅏ톡/텔ㄹㅔ :  T S T 3 6 5⇘인디고게­임 사이트 온라인holdem게­임하는곳",
-      "technique": "ETC",
-      "extra_finding": "ZERO_WIDTH"
     },
     {
       "id": "CB-216_ZERO_WIDTH",
@@ -5202,24 +4284,6 @@
       "extra_finding": "SYMBOL_SEPARATOR"
     },
     {
-      "id": "CB-224_PUNCT_VARIANT",
-      "url": "https://yellowpost.co.kr/board/product/read.html?no=251728&board_no=6",
-      "is_violation": true,
-      "location": "p",
-      "evidence_text": "강남하이퍼블릭 [문의 010⸻XXXX–XXXX] 강남가라오케 강남하이퍼블릭\n강남가라오케 [강남NO｡1판식대표፡ 010➖XXXX﹣XXXX] 강남셔츠룸서비스요금 강남룸싸롱가격 강남노래빠 강남하이퍼블릭\n\n\n\n강남역·신사역 기준 하이퍼블릭 라인업❗\n\n↔ 강남가라오케، 강남셔츠룸서비스요금ˏ 강남룸싸롱가격، 강남노래빠ˏ 강남하이퍼블릭 까지 전 구간 빠짐없이 커버돼요‼︕\n\n\n\n▲ 복잡하지 않고 조용한 공간\n\n강남레깅스룸¸ 강남풀싸롱리뷰¸ 강남하이쩜오혼자방문ˎ 강남퍼블릭무료픽업¸ 강남노래주점보도 까지 마음대로 조합·선택 가능합니다❗\n\n\n\n▲ 지금 제일 문의 많은 강남 지역 정리했어요\n\n강남하이터치룸ˏ 강남룸، 강남쩜오후기‚ 강남퍼블릭ˎ 강남셔츠초이스‚ 강남노래주점블로그후기‚ 강남세미쩜오‚ 강남노래빠¸ 강남레깅스룸사용후기ˏ 강남퍼블릭룸안내\n\n\n\n▲ 전화 연결 후 모든 게 훨씬 간단해집니다‼\n\n— [o1o¶XXXX¶XXXX] 복잡한 과정 없이 바로 연결됩니다\n\n\n\n▲ 지금 바로가기 눌러서 정보 확인하세요\n\n\n\n\n▲ 필요할 때마다 열려있는 강남 가라오케‼ 주대·분위기 고려한 실속형 매칭도 가능해요❗ ↔ 초이스·가격·분위기 다 챙기고 싶다면 지금︕ 처음 찾는다면 꼭 알아야 할 강남가라오케 이용포인트 막상 가기 전에는 잘 몰랐던 정보들이 너무 많았어요 주변에서 들은 얘기랑 인터넷 평판을 하나씩 비교해봤어요 무엇보다 불필요한 광고 요소가 없다는 게 가장 맘에 들었어요 과하지 않으면서도 필요한 건 다 있는 느낌이었어요 검색에 지친 분들께 간단하고 확실한 정보를 드리고 싶었어요 강남가라오케 솔직 후기 예약부터 응대까지 흐름이 매끄럽고 부담이 없었어요 한 명 한 명 응대하는 태도가 정중하고 인상 깊었어요 광고에서 강조하던 포인트가 실제로도 일치했어요 대화가 자연스럽게 이어지도록 분위기를 잘 이끌어줘요 이제 막 알아보는 분들께는 더없이 좋은 출발점이 될 거예요 강남가라오케를 더 잘 이용하기 위해 알아야 할 것들 정리된 정보보다 현장 흐름이 중요한데 그건 알기 어렵더라고요 예약 시간이나 조건을 직접 확인하며 진행해줘서 신뢰가 생겼어요 기다리는 동안 불안하지 않도록 응대가 계속 이어졌어요 응대 중간중간 상황 확인을 해줘서 부담이 줄었어요 한 번 경험해보니 다음 예약도 자신 있게 할 수 있을 것 같아요 모든 게 명확해진 건 다녀온 이후였어요 시간이 흐를수록 더 편안함을 느낄 수 있었어요 예상보다 훨씬 여유롭고 부드러운 분위기였어요 누군가 추천한 이유가 이제야 제대로 이해됐어요 여기선 마무리도 그냥 끝나는 게 아니라 정리된 느낌이었어요 그저 소비가 아니라 감정이 남는 체험이었어요 이 정도면 다른 데 갈 필요가 없다고 느껴졌어요 응대자 한 명의 태도만 봐도 교육의 차이가 느껴졌어요 강남 유흥 중에서도 이렇게 편한 곳은 처음이었어요 다른 곳은 흐름이 느슨하거나 강압적인데 여긴 아니었어요 지나고 나면 기억에 남는 곳은 결국 이런 곳이에요 한 번의 경험이 기준을 완전히 바꿔놓을 수 있다는 걸 알게 됐어요 이용 후 만족도가 이렇게 오래가는 건 처음이었어요 이 정도 만족이라면 다음에도 고민할 필요가 없겠더라고요 응대의 정중함만으로도 충분히 만족할 수 있었어요 불필요한 설명 없이 필요한 것만 전해주는 느낌이었어요 다녀온 이후에도 지인에게 자연스럽게 소개하게 되더라고요 편안함과 진심이 함께했던 몇 안 되는 경험이었습니다 강남가라오케는 강남 유흥의 새로운 기준이었습니다 이 정도 퀄리티면 소개하고 싶어지는 건 당연한 것 같아요 보여주기식이 아니라 실제로 편안했던 시간이었습니다 한 번 다녀오면 그다음은 고민하지 않게 될 거예요 감정적으로도 안정된 분위기가 참 좋았어요 궁금한 부분은 따로 문의하시면 빠르게 응대받을 수 있습니다",
-      "technique": "ETC",
-      "extra_finding": "PUNCT_VARIANT"
-    },
-    {
-      "id": "CB-224_SYMBOL_SEPARATOR",
-      "url": "https://yellowpost.co.kr/board/product/read.html?no=251728&board_no=6",
-      "is_violation": true,
-      "location": "p",
-      "evidence_text": "강남하이퍼블릭 [문의 010⸻XXXX–XXXX] 강남가라오케 강남하이퍼블릭\n강남가라오케 [강남NO｡1판식대표፡ 010➖XXXX﹣XXXX] 강남셔츠룸서비스요금 강남룸싸롱가격 강남노래빠 강남하이퍼블릭\n\n\n\n강남역·신사역 기준 하이퍼블릭 라인업❗\n\n↔ 강남가라오케، 강남셔츠룸서비스요금ˏ 강남룸싸롱가격، 강남노래빠ˏ 강남하이퍼블릭 까지 전 구간 빠짐없이 커버돼요‼︕\n\n\n\n▲ 복잡하지 않고 조용한 공간\n\n강남레깅스룸¸ 강남풀싸롱리뷰¸ 강남하이쩜오혼자방문ˎ 강남퍼블릭무료픽업¸ 강남노래주점보도 까지 마음대로 조합·선택 가능합니다❗\n\n\n\n▲ 지금 제일 문의 많은 강남 지역 정리했어요\n\n강남하이터치룸ˏ 강남룸، 강남쩜오후기‚ 강남퍼블릭ˎ 강남셔츠초이스‚ 강남노래주점블로그후기‚ 강남세미쩜오‚ 강남노래빠¸ 강남레깅스룸사용후기ˏ 강남퍼블릭룸안내\n\n\n\n▲ 전화 연결 후 모든 게 훨씬 간단해집니다‼\n\n— [o1o¶XXXX¶XXXX] 복잡한 과정 없이 바로 연결됩니다\n\n\n\n▲ 지금 바로가기 눌러서 정보 확인하세요\n\n\n\n\n▲ 필요할 때마다 열려있는 강남 가라오케‼ 주대·분위기 고려한 실속형 매칭도 가능해요❗ ↔ 초이스·가격·분위기 다 챙기고 싶다면 지금︕ 처음 찾는다면 꼭 알아야 할 강남가라오케 이용포인트 막상 가기 전에는 잘 몰랐던 정보들이 너무 많았어요 주변에서 들은 얘기랑 인터넷 평판을 하나씩 비교해봤어요 무엇보다 불필요한 광고 요소가 없다는 게 가장 맘에 들었어요 과하지 않으면서도 필요한 건 다 있는 느낌이었어요 검색에 지친 분들께 간단하고 확실한 정보를 드리고 싶었어요 강남가라오케 솔직 후기 예약부터 응대까지 흐름이 매끄럽고 부담이 없었어요 한 명 한 명 응대하는 태도가 정중하고 인상 깊었어요 광고에서 강조하던 포인트가 실제로도 일치했어요 대화가 자연스럽게 이어지도록 분위기를 잘 이끌어줘요 이제 막 알아보는 분들께는 더없이 좋은 출발점이 될 거예요 강남가라오케를 더 잘 이용하기 위해 알아야 할 것들 정리된 정보보다 현장 흐름이 중요한데 그건 알기 어렵더라고요 예약 시간이나 조건을 직접 확인하며 진행해줘서 신뢰가 생겼어요 기다리는 동안 불안하지 않도록 응대가 계속 이어졌어요 응대 중간중간 상황 확인을 해줘서 부담이 줄었어요 한 번 경험해보니 다음 예약도 자신 있게 할 수 있을 것 같아요 모든 게 명확해진 건 다녀온 이후였어요 시간이 흐를수록 더 편안함을 느낄 수 있었어요 예상보다 훨씬 여유롭고 부드러운 분위기였어요 누군가 추천한 이유가 이제야 제대로 이해됐어요 여기선 마무리도 그냥 끝나는 게 아니라 정리된 느낌이었어요 그저 소비가 아니라 감정이 남는 체험이었어요 이 정도면 다른 데 갈 필요가 없다고 느껴졌어요 응대자 한 명의 태도만 봐도 교육의 차이가 느껴졌어요 강남 유흥 중에서도 이렇게 편한 곳은 처음이었어요 다른 곳은 흐름이 느슨하거나 강압적인데 여긴 아니었어요 지나고 나면 기억에 남는 곳은 결국 이런 곳이에요 한 번의 경험이 기준을 완전히 바꿔놓을 수 있다는 걸 알게 됐어요 이용 후 만족도가 이렇게 오래가는 건 처음이었어요 이 정도 만족이라면 다음에도 고민할 필요가 없겠더라고요 응대의 정중함만으로도 충분히 만족할 수 있었어요 불필요한 설명 없이 필요한 것만 전해주는 느낌이었어요 다녀온 이후에도 지인에게 자연스럽게 소개하게 되더라고요 편안함과 진심이 함께했던 몇 안 되는 경험이었습니다 강남가라오케는 강남 유흥의 새로운 기준이었습니다 이 정도 퀄리티면 소개하고 싶어지는 건 당연한 것 같아요 보여주기식이 아니라 실제로 편안했던 시간이었습니다 한 번 다녀오면 그다음은 고민하지 않게 될 거예요 감정적으로도 안정된 분위기가 참 좋았어요 궁금한 부분은 따로 문의하시면 빠르게 응대받을 수 있습니다",
-      "technique": "ETC",
-      "extra_finding": "SYMBOL_SEPARATOR"
-    },
-    {
       "id": "CB-225_ZERO_WIDTH",
       "url": "https://yewonpub.co.kr/board/product/read.html?no=387450&board_no=6",
       "is_violation": true,
@@ -5227,24 +4291,6 @@
       "evidence_text": "블루 (bluegame) 게임 web 텍사스 홀­덤 포커게임 사이트.【 bibegm。COM 】 펀치게임-AKGAME바둑이 랩터게임 에볼루션 카지노정보 슬롯머신게임",
       "technique": "ETC",
       "extra_finding": "ZERO_WIDTH"
-    },
-    {
-      "id": "CB-226_SPELLING_VARIANT",
-      "url": "https://dkhrainbow.com/article/상품-qa/6/6409/page/3/",
-      "is_violation": true,
-      "location": "a",
-      "evidence_text": "△ 챔피언매장  룰루본사  인터넷홀덤┳ 까똑 탤래▥  asa373 ┳ 팬텀홀덤바둑이게임 택사스땅콩홀덤 실전안전 프라그마틱슬롯",
-      "technique": "ETC",
-      "extra_finding": "SPELLING_VARIANT"
-    },
-    {
-      "id": "CB-226_SYMBOL_SEPARATOR",
-      "url": "https://dkhrainbow.com/article/상품-qa/6/6409/page/3/",
-      "is_violation": true,
-      "location": "a",
-      "evidence_text": "△ 챔피언매장  룰루본사  인터넷홀덤┳ 까똑 탤래▥  asa373 ┳ 팬텀홀덤바둑이게임 택사스땅콩홀덤 실전안전 프라그마틱슬롯",
-      "technique": "ETC",
-      "extra_finding": "SYMBOL_SEPARATOR"
     },
     {
       "id": "CB-227_SYMBOL_SEPARATOR",

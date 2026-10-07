@@ -71,13 +71,6 @@
       "subtype": "a11y_sr_only"
     },
     {
-      "id": "DC-010",
-      "url": "https://www.gg.go.kr/",
-      "location": "dt.sr-only",
-      "evidence_text": "기관안내",
-      "subtype": "a11y_sr_only"
-    },
-    {
       "id": "DC-011",
       "url": "https://www.gimhae.go.kr/main.web",
       "location": "h3.blind",
@@ -99,13 +92,6 @@
       "subtype": "a11y_sr_only"
     },
     {
-      "id": "DC-014",
-      "url": "https://www.hanabank.com/easyone_index_en.html",
-      "location": "h2.hide",
-      "evidence_text": "Banking",
-      "subtype": "a11y_sr_only"
-    },
-    {
       "id": "DC-015",
       "url": "https://www.hscity.go.kr/www/information/ntcnInfo/hhcLocal/localInfo.jsp",
       "location": "caption",
@@ -124,13 +110,6 @@
       "url": "https://www.jindo.go.kr/tour/tour/info/experience.cs?m=25",
       "location": "legend",
       "evidence_text": "'게시판명' 검색",
-      "subtype": "a11y_sr_only"
-    },
-    {
-      "id": "DC-018",
-      "url": "https://www.kaist.ac.kr/kr/",
-      "location": "legend",
-      "evidence_text": "홈페이지검색",
       "subtype": "a11y_sr_only"
     },
     {
@@ -173,13 +152,6 @@
       "url": "https://www.korea.kr/main.do",
       "location": "h1.sr-only",
       "evidence_text": "대한민국 정책브리핑 홈",
-      "subtype": "a11y_sr_only"
-    },
-    {
-      "id": "DC-025",
-      "url": "https://www.kosaf.go.kr/ko/main.do",
-      "location": "span.sr-only",
-      "evidence_text": "열기",
       "subtype": "a11y_sr_only"
     },
     {
@@ -253,13 +225,6 @@
       "subtype": "a11y_sr_only"
     },
     {
-      "id": "DC-036",
-      "url": "https://www.nps.or.kr/chn/main.do",
-      "location": "span.blind",
-      "evidence_text": "open",
-      "subtype": "a11y_sr_only"
-    },
-    {
       "id": "DC-037",
       "url": "https://www.police.go.kr/user/bbs/BD_selectBbsList.do?q_bbsCode=1001",
       "location": "label.sr-only",
@@ -271,48 +236,6 @@
       "url": "https://www.pusan.ac.kr/kor/CMS/Contents/Contents.do?mCode=MN300",
       "location": "h1.blind",
       "evidence_text": "스킵네비게이션",
-      "subtype": "a11y_sr_only"
-    },
-    {
-      "id": "DC-039",
-      "url": "https://e-lib.sen.go.kr/contents/bookInf",
-      "location": "span.sound_only",
-      "evidence_text": "메뉴 닫기",
-      "subtype": "a11y_sr_only"
-    },
-    {
-      "id": "DC-040",
-      "url": "https://www.snu.ac.kr/",
-      "location": "p.blind",
-      "evidence_text": "푸터",
-      "subtype": "a11y_sr_only"
-    },
-    {
-      "id": "DC-041",
-      "url": "https://www.snuh.org/main.do",
-      "location": "a#nonCiChkBtn2",
-      "evidence_text": "본인인증",
-      "subtype": "a11y_sr_only"
-    },
-    {
-      "id": "DC-042",
-      "url": "https://www.ulsan.go.kr/u/rep/transfer/director/list.ulsan?mId=001003002003000000",
-      "location": "span.sound_only",
-      "evidence_text": "홈 바로가기",
-      "subtype": "a11y_sr_only"
-    },
-    {
-      "id": "DC-043",
-      "url": "https://www.wooribank.com/",
-      "location": "a",
-      "evidence_text": "웹접근성 이용안내 바로가기",
-      "subtype": "a11y_sr_only"
-    },
-    {
-      "id": "DC-044",
-      "url": "https://www.yes24.com/Main/default.aspx",
-      "location": "em.bgFooter.fCName",
-      "evidence_text": "예스이십사(주)",
       "subtype": "a11y_sr_only"
     },
     {
@@ -379,13 +302,6 @@
       "subtype": "a11y_sr_only"
     },
     {
-      "id": "DC-054",
-      "url": "https://gnews.gg.go.kr/news/news_detail.do?number=202105311315394244C052&s_code=C052",
-      "location": "a#btn_search",
-      "evidence_text": "검색하기 열기",
-      "subtype": "a11y_sr_only"
-    },
-    {
       "id": "DC-055",
       "url": "https://www.gimhae.go.kr/main.web",
       "location": "em.blind",
@@ -407,13 +323,6 @@
       "subtype": "a11y_sr_only"
     },
     {
-      "id": "DC-058",
-      "url": "https://www.hanabank.com/easyone_index_en.html",
-      "location": "h2.hid",
-      "evidence_text": "KEB하나은행 유용한 메뉴",
-      "subtype": "a11y_sr_only"
-    },
-    {
       "id": "DC-059",
       "url": "https://www.hscity.go.kr/www/information/ntcnInfo/hhcLocal/localInfo.jsp",
       "location": "a#share_btn",
@@ -425,13 +334,6 @@
       "url": "https://www.incheon.go.kr/IC010101/view?nttNo=2046188",
       "location": "legend.hidden",
       "evidence_text": "통합검색",
-      "subtype": "a11y_sr_only"
-    },
-    {
-      "id": "DC-061",
-      "url": "https://www.kaist.ac.kr/kr/",
-      "location": "span.more",
-      "evidence_text": "KAIST HISTORY MORE",
       "subtype": "a11y_sr_only"
     },
     {
@@ -474,13 +376,6 @@
       "url": "https://www.korea.kr/main.do",
       "location": "i",
       "evidence_text": "영상",
-      "subtype": "a11y_sr_only"
-    },
-    {
-      "id": "DC-068",
-      "url": "https://www.kosaf.go.kr/ko/main.do",
-      "location": "span",
-      "evidence_text": "희망봇 새 창 열림",
       "subtype": "a11y_sr_only"
     },
     {
@@ -537,13 +432,6 @@
       "url": "https://www.ncmh.go.kr/ncmh/board/boardView.do?no=9822&fno=106&menu_cd=04_02_00_01&bn=newsView",
       "location": "span.hdn",
       "evidence_text": "너비 1180px 이상",
-      "subtype": "a11y_sr_only"
-    },
-    {
-      "id": "DC-077",
-      "url": "https://ngcc.go.kr/police/faq.do",
-      "location": "a.zm-i",
-      "evidence_text": "화면 확대",
       "subtype": "a11y_sr_only"
     },
     {
@@ -645,13 +533,6 @@
       "subtype": "hidden_menu"
     },
     {
-      "id": "DC-092",
-      "url": "https://gnews.gg.go.kr/news/news_detail.do?number=202105311315394244C052&s_code=C052",
-      "location": "h2.blind",
-      "evidence_text": "검색팝업",
-      "subtype": "hidden_menu"
-    },
-    {
       "id": "DC-093",
       "url": "https://www.gimhae.go.kr/main.web",
       "location": "a",
@@ -670,13 +551,6 @@
       "url": "https://www.gwangju.go.kr/boardList.do?boardId=BD_0000000267&pageId=www1071",
       "location": "h2",
       "evidence_text": "소통ㆍ참여",
-      "subtype": "hidden_menu"
-    },
-    {
-      "id": "DC-096",
-      "url": "https://www.hanabank.com/easyone_index_en.html",
-      "location": "span",
-      "evidence_text": "All Menus",
       "subtype": "hidden_menu"
     },
     {
@@ -705,13 +579,6 @@
       "url": "https://www.jindo.go.kr/tour/tour/info/experience.cs?m=25",
       "location": "span",
       "evidence_text": "테마관광",
-      "subtype": "hidden_menu"
-    },
-    {
-      "id": "DC-101",
-      "url": "https://www.kaist.ac.kr/kr/",
-      "location": "span",
-      "evidence_text": "메뉴 열기",
       "subtype": "hidden_menu"
     },
     {
@@ -761,13 +628,6 @@
       "url": "https://www.korea.kr/main.do",
       "location": "span",
       "evidence_text": "상단으로 이동",
-      "subtype": "hidden_menu"
-    },
-    {
-      "id": "DC-109",
-      "url": "https://www.kosaf.go.kr/ko/main.do",
-      "location": "button.accordion-toggle",
-      "evidence_text": "한눈에 보는 학자금 지원구간",
       "subtype": "hidden_menu"
     },
     {
@@ -827,24 +687,10 @@
       "subtype": "hidden_menu"
     },
     {
-      "id": "DC-118",
-      "url": "https://ngcc.go.kr/police/faq.do",
-      "location": "a.fake-link",
-      "evidence_text": "자료실",
-      "subtype": "hidden_menu"
-    },
-    {
       "id": "DC-119",
       "url": "https://www.nhis.or.kr/nhis/index.do",
       "location": "span",
       "evidence_text": "제도안내",
-      "subtype": "hidden_menu"
-    },
-    {
-      "id": "DC-120",
-      "url": "https://www.nps.or.kr/chn/main.do",
-      "location": "span",
-      "evidence_text": "Menu",
       "subtype": "hidden_menu"
     },
     {
@@ -869,52 +715,10 @@
       "subtype": "hidden_menu"
     },
     {
-      "id": "DC-124",
-      "url": "https://e-lib.sen.go.kr/contents/bookInf",
-      "location": "a",
-      "evidence_text": "대출도서",
-      "subtype": "hidden_menu"
-    },
-    {
-      "id": "DC-125",
-      "url": "https://www.snu.ac.kr/",
-      "location": "span",
-      "evidence_text": "Oct",
-      "subtype": "hidden_menu"
-    },
-    {
-      "id": "DC-126",
-      "url": "https://www.snuh.org/global/en/main.do",
-      "location": "a.btnTop-mo",
-      "evidence_text": "상단으로 가기",
-      "subtype": "hidden_menu"
-    },
-    {
-      "id": "DC-127",
-      "url": "https://www.ulsan.go.kr/u/rep/main.ulsan",
-      "location": "span.blind",
-      "evidence_text": "재생",
-      "subtype": "hidden_menu"
-    },
-    {
       "id": "DC-128",
       "url": "https://spot.wooribank.com/pot/Dream?withyou=FXFXG0067",
       "location": "dt",
       "evidence_text": "회원관련 서비스",
-      "subtype": "hidden_menu"
-    },
-    {
-      "id": "DC-129",
-      "url": "https://nol.yanolja.com/member/wishlist",
-      "location": "span._placeholderText_1prb5_33",
-      "evidence_text": "검색어를 입력하세요",
-      "subtype": "hidden_menu"
-    },
-    {
-      "id": "DC-130",
-      "url": "https://www.yes24.com/Main/default.aspx",
-      "location": "a.bgYUI",
-      "evidence_text": "이전 오늘의 책 보기",
       "subtype": "hidden_menu"
     },
     {
@@ -1072,27 +876,6 @@
       "subtype": "policy_text"
     },
     {
-      "id": "DC-153",
-      "url": "https://www.ngcc.go.kr/police/plan/5_1.do",
-      "location": "p.plan-right",
-      "evidence_text": "사행산업통합감독위원회법 제16조에 따라 사행산업의 통합적 관리·감독 및 건전화, 불법도박 근절을 위해 5년마다\n\t\t\t\t\t\t\t「사행산업 건전발전 종합계획」수립",
-      "subtype": "policy_text"
-    },
-    {
-      "id": "DC-154",
-      "url": "https://www.ngcc.go.kr/police/report.do",
-      "location": "li",
-      "evidence_text": "누구든지 불법사행산업 또는 사행산업사업자의 과도한 사행심 유발행위나 준수사항 위반행위를 알게 된 경우에는 이를 위원회에 신고할 수 있다.",
-      "subtype": "policy_text"
-    },
-    {
-      "id": "DC-155",
-      "url": "https://www.ngcc.go.kr/police/report.do",
-      "location": "li",
-      "evidence_text": "사행산업통합감독위원회 불법사행행위 신고전화(1855-0112)를 이용하여 신고",
-      "subtype": "policy_text"
-    },
-    {
       "id": "DC-156",
       "url": "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=901&ccfNo=3&cciNo=1&cnpClsNo=3",
       "location": "div.plv3a",
@@ -1177,27 +960,6 @@
       "subtype": "policy_text"
     },
     {
-      "id": "DC-168",
-      "url": "https://www.ngcc.go.kr/police/plan/5_1.do",
-      "location": "li",
-      "evidence_text": "사행산업 광고 심의 본연의 목적인 광고의 건전성 보장과 광고윤리 확립을 통해 과도한 사행심 조장\n\t\t\t\t\t\t\t\t광고를 사전 예방하는 기조 유지 및 활성화",
-      "subtype": "policy_text"
-    },
-    {
-      "id": "DC-169",
-      "url": "https://www.ngcc.go.kr/police/report.do",
-      "location": "li",
-      "evidence_text": "불법사행행위 신고서를 작성하고 증빙자료를 첨부하여 사행산업통합감독위원회 불법사행산업감시신고센터로 발송",
-      "subtype": "policy_text"
-    },
-    {
-      "id": "DC-170",
-      "url": "https://www.ngcc.go.kr/police/report.do",
-      "location": "li",
-      "evidence_text": "불법사행행위 신고에 대하여 소관 행정기관 및 관련기관에 조치의뢰 한 이후 형사입건 등 실질적인 조치가 이뤄지는 경우 사행행위 신고대상 및 포상금 지급기준에 따라 포상금을 지급",
-      "subtype": "policy_text"
-    },
-    {
       "id": "DC-171",
       "url": "http://news.gm.go.kr/news/articleView.html?idxno=22044",
       "location": "p",
@@ -1209,13 +971,6 @@
       "url": "https://www.suwon.go.kr/web/board/BD_board.view.do?bbsCd=1399&seq=20250220104911124",
       "location": "span.p-table__subject_text",
       "evidence_text": "수원페이 인센티브 지급시간 변경 안내 (2025. 3월 부터)",
-      "subtype": "risky_word_normal"
-    },
-    {
-      "id": "DC-173",
-      "url": "https://www.yes24.com/notice/FirstClass/InfoFreeDlv.aspx",
-      "location": "strong",
-      "evidence_text": "YES포인트 2,000원 추가적립 안내",
       "subtype": "risky_word_normal"
     },
     {
@@ -1296,13 +1051,6 @@
       "subtype": "risky_word_normal"
     },
     {
-      "id": "DC-185",
-      "url": "https://www.kosaf.go.kr/ko/main.do",
-      "location": "div.txt",
-      "evidence_text": "챗봇상담: 24시 채팅상담: 9시~18시",
-      "subtype": "risky_word_normal"
-    },
-    {
       "id": "DC-186",
       "url": "https://www.gimhae.go.kr/minsaeng/",
       "location": "p.t1",
@@ -1324,13 +1072,6 @@
       "subtype": "risky_word_normal"
     },
     {
-      "id": "DC-189",
-      "url": "https://www.kosaf.go.kr/ko/scholar.do?pg=scholarship_submain01&naviParam=JH,02,00,00",
-      "location": "p.note",
-      "evidence_text": "※ 장학금 신청 시 국가장학금 Ⅰ·Ⅱ유형, 다자녀 국가장학금, 지역인재 장학금 일괄 신청되며 개별 장학금의 수혜 자격 요건 충족 시 해당 장학금을 지급받을 수 있습니다.",
-      "subtype": "risky_word_normal"
-    },
-    {
       "id": "DC-190",
       "url": "https://www.nhis.or.kr/nhis/index.do",
       "location": "a.tit",
@@ -1342,27 +1083,6 @@
       "url": "https://www.nts.go.kr/",
       "location": "a",
       "evidence_text": "국세청 대표 상담전화는 전국 어디서나 국번 없이 126번(유료)",
-      "subtype": "risky_word_normal"
-    },
-    {
-      "id": "DC-192",
-      "url": "https://www.yes24.com/notice/FirstClass/InfoFreeDlv.aspx",
-      "location": "p.desc_p",
-      "evidence_text": "예스24에서는 도서 15,000원 이상 구매 시 배송비 무료 정책을 시행하고 있습니다.",
-      "subtype": "risky_word_normal"
-    },
-    {
-      "id": "DC-193",
-      "url": "https://www.yes24.com/notice/FirstClass/InfoYespoint.aspx",
-      "location": "li",
-      "evidence_text": "상품 구매에 따라 상품별로 적립 받습니다. 상품마다 가격 할인 쿠폰 외에 YES포인트도 지급합니다.",
-      "subtype": "risky_word_normal"
-    },
-    {
-      "id": "DC-194",
-      "url": "https://www.yes24.com/notice/FirstClass/InfoYespoint.aspx",
-      "location": "li",
-      "evidence_text": "YES마니아 회원에게는 회원 등급별로 상품금액의 1~3%를 더 적립해 드립니다.",
       "subtype": "risky_word_normal"
     },
     {
