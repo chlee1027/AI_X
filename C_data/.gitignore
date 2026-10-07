@@ -1,0 +1,4 @@
+# 모의 사이트는 생성물: build_mocksite.py 로 다시 만든다
+tests/mocksite/site/
+tests/mocksite/answers/
+tests/mocksite/index.html

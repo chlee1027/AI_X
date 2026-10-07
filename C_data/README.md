@@ -305,7 +305,7 @@
 | `negatives.json` | 정답 아님. 숨김 신호가 있는 정상 요소라 여기에 걸리면 오탐(정답 추출 정확도 35점) | 160, 학습·검증 몫 (나누기 전 200) |
 
 - 검출 1건 = `(url + location + technique)`. 한 요소에 기법이 겹치면 기법마다 객체를 따로 만들었다(요강 붙임4). `id` 는 `샘플id_기법`(예: `CB-003_HOMOGLYPH`).
-- `url` 은 샘플을 잘라 온 실제 페이지 주소, `location` 은 잘라 낸 조각(`html`) 안의 유일 선택자다. 그래서 지금은 **조각 단위 채점**만 된다. 페이지 단위 채점은 mocksite 에 조각을 심은 뒤 그 주소로 다시 만든다.
+- `url` 은 샘플을 잘라 온 실제 페이지 주소, `location` 은 잘라 낸 조각(`html`) 안의 유일 선택자다. 이 파일만으로는 **조각 단위 채점**이다. 페이지 단위 채점은 2026-10-07 에 만든 모의 사이트로 한다(아래 「모의 사이트」).
 - 조합 250개 중 72개는 4종 코드가 없어 `answer_result_extra.json` 에만 들어간다. 이 72개는 적격평가 점수에 기여하지 않는다.
 - **적격평가 4종 중 TRANSPARENT 는 실측 정답이 0건이다.** 재현율은 생성 데이터로만 잴 수 있다.
 - **OFFSCREEN 원문 100건의 `url`:**
@@ -336,7 +336,7 @@ python -m pytest tests/test_scorer.py -q                    # 채점기 자체 �
    - encoding 의 Base64 형태 (엔티티는 10-07 에 실측 20건을 넣었다)
    - 숨김+난독화 조합
    - 적격평가 4종 중 TRANSPARENT 정답
-2. **mocksite:** `tests/mocksite/` 에 조각을 심어 페이지 단위 정답셋을 만든다. 지금 정답셋은 조각 단위라 같은 선택자가 겹쳐 합쳐진다.
+2. **모의 사이트:** 10-07 에 만들었다(아래 「모의 사이트」). `tests/mocksite/build_mocksite.py` 가 조각마다 제 페이지를 만들어 페이지 단위 정답셋을 낸다.
 3. **팀 결정:** 위 「결정이 필요한 것」의 도메인 가명화·encoding 인정 여부. (git 원격은 10-04 에 비공개로 돌렸다.)
 4. **일정:** 10-09 F1 0.85 게이트, 10-16 클린 VM, 10-21 풀런 3회, 10-22 제출.
 
@@ -344,13 +344,21 @@ python -m pytest tests/test_scorer.py -q                    # 채점기 자체 �
 
 > 10-06 까지 남은 일이던 「JAMO·OFFSCREEN 을 정답셋에 넣기」는 10-06 에 했다. `to_answer.py` 가 jamo.yaml 147건과 OFFSCREEN 원문 100건을 읽어 `answer_result.json` 이 187 -> 430건이 되었다(위 「요강 기준 정답셋」, 10-06 중복 정리 뒤 숫자).
 
+## 모의 사이트 (페이지 단위 채점, 2026-10-07)
+
+정답셋의 `url` 이 실제 페이지라 한 페이지에서 여러 조각을 뜯어 오면 채점기 안에서 겹쳐 합쳐진다(학습·검증 몫 641 -> 441). `tests/mocksite/build_mocksite.py` 가 조각마다 제 페이지(`site/<샘플id>.html`)를 만들고, `url` 을 그 페이지로 바꾼 정답셋을 낸다. 기법 판정·중복 제거는 `to_answer.py` 를 그대로 쓴다.
+
+- 만들기·띄우기·채점은 `tests/mocksite/README.md` 참고. 띄울 때 `127.0.0.1` 만 연다.
+- 확인(학습·검증 몫): 페이지 1,039장, 빌드 때 `(url+location+기법)` 겹침 0, 자기 채점(`--resolve dom`) F1 1.0·합침 0.
+- `site/`·`answers/`·`index.html` 은 생성물이라 git 에 올리지 않는다. 봉인한 테스트 몫은 `--data`·`--out`·`--base` 로 따로 만든다.
+
 ## 폴더
 
 총계획서 §3.4 저장소 구조 가운데 **역할 C 몫**(`tests/mocksite/`, `tests/scorer.py`, `data/patterns/`)을 같은 자리에 맞춰 둔 작업 공간이다. 라벨·생성 로직은 B 에게 공개하지 않고, B 는 채점기 점수만 본다(§9.3).
 
 ```
 tests/
-  mocksite/             (아직 비어 있음) generate.py · labels.json 자리 — SPEC 60쪽, 4기법 x 25, decoy 40/30/15/10
+  mocksite/             build_mocksite.py (조각 -> 페이지), README. site/·answers/ 는 생성물이라 git 에 안 올린다
   scorer.py             요강 붙임4 「평가 참고사항」을 재현하는 채점기 (아래 「채점기」 절)
   test_scorer.py        채점기 테스트 24개 (요강 예시 URL·iframe·중복·스키마 규칙)
 data/
