@@ -2213,3 +2213,639 @@
   extra_finding: null
   source: '공지사항(상세) : HOME > 분야별정보 > 경제·기업 > 수원시 지역화폐 > 공지사항 | https://www.suwon.go.kr/web/board/BD_board.view.do?bbsCd=1399&seq=20250220104911124'
   notes: '실측 2026-10-03. 화면에 보이는 정상 본문. css 는 브라우저 CSSOM 직렬화 규칙(원 시트: 없음(인라인 또는 규칙 불필요)). 조각 렌더링으로 재현 확인'
+- id: DC-205
+  category: DECOY
+  subtype: homoglyph_like_normal
+  html: "<dl>\n                                                                <dt>[국문] 콘텐츠센터&gt;지도이야기&gt;지도제작과정</dt>\n  \
+    \                                                              <dd class=\"date\">\t\t\t\t- 계획된 <strong class=\"red\"\
+    >비</strong>행선을 따라 필요한 축척으로 촬영\n\n\t\t\t\t\t\t\t(1)<strong class=\"red\">비</strong>행방향으로 60% 중복촬영\n\n\t\t\t\t\t\t\t(2)인접방향으로\
+    \ 30% 중복촬영\n\t\t\t\t\t\t\n항공사진촬영\n항공사진제작\n항공사진 종류별 항공사진제작 <strong class=\"red\">비</strong>교 설명\n구분\n아날로그항공사진\n디지털항공사진\n\
+    축척\n지상고도<strong class=\"red\">비</strong>\n지상표본거리\n성능\n필름: 0.015%이하 신축율\n전정색 필름 원칙\n영상데이터: 일반적인 영상포맷 사용, 손실 없이 저장, 노이즈\
+    \ 최소화, 고화질 영상 출력\n성과\n양화필름: 세부도화에 사용\n밀착사진: 지상기준점(평면,표고)에 사용\n확대사진: 지리조사에 사용 등\n영상데이터 등\n지상기준점 측량\n\n                \
+    \            항공삼각측량 작업에 필요한 기준점의 성과를 얻기 위하여 현지에서 실시하는 지상측량\n\t\t\t\t\t\t\t- 측량방법 : 삼각측량, TS측량, GPS측량, Level측량\n\t\t\t\t\
+    \t\t\n항공사진 종류별 지상기준점 측량 <strong class=\"red\">비</strong>교 설명\n구분\n아날로그항공사진\n디지털항공사진\n평면기준점 배치\n블록의 외곽에 우선적으로 배치하되 촬영 진행방향으로\
+    \ 6모델마다 1점\n촬영 직각방향으로 코스 중복 부분마다 1점씩 배치\n촬영 진행방향으로 지상표본거리 12㎝ 이내일 때 평균 5.5㎞ 당 1점 이상, \n지상표본거리 25㎝ 이상일 때 평균 11㎞ 당 1점 이상씩\
+    \ 배치하는 것을 원칙\n표고기준점 배치\n사진 상 1mm이상 크기로 나타나는 평탄한 위치, 블록의 외곽을 우선적으로 배치하되 \n각 촬영진행 방향으로 4모델 간격으로 1점, \n촬영 직각방향으로 코스 중복부분마다\
+    \ 1점씩 배치\n80화소 이상 크기로 나타나는 평탄한 위치, \n촬영 진행방향으로 지상표본거리 12㎝ 이내일 때 평균 5.5㎞ 당 1점 이상, \n지상표본거리 25㎝ 이상일 때 평균 11㎞ 당 1점 이상씩 배치하는\
+    \ 것을 원칙\n항공삼각측량\n\n                            도화기 또는 좌표측정기에 의하여 항공사진상에서 측정된 지점의 모델좌표 또는 사진좌표를 지상기준점 및 GNSS/INS 외부표정 요소를\
+    \ 기준으로 지상좌표로 전환시키는 작업\n\t\t\t\t\t\t\n항공사진 종류별 항공삼각측량 <strong class=\"red\">비</strong>교 설명\n구분\n아날로그항공사진\n디지털항공사진\n점각\n\
+    선점된 연결점 및 결합점은 항공사진 및 양화필름에 정확히 점각\n자동매칭에 의한 방법으로 수행, 광속조정법(Bundle adjustment)을 사용\n관측\n도화기를 이용할 경우 상호표정 후 잔여시차는 0.02㎜이내\n\
+    X, Y의 각 교차가 0.5화소(pixel) 이내\n세부도화\n\n\t\t\t\t\t\t\t- 계획서 제출 후, 각종 축척 및 정확도를 유지할 수 있는 성능을 가진 도화기 사용\n\n               \
+    \             - 아날로그항공사진의 내부표정은 4개 이상의 지표와 카메라 제원(초점거리, 렌즈왜곡수차 등)을 사용하나 디지털항공사진을 이용할 경우 생략 가능\n\n                    \
+    \        - 세부도화에 표현되는 대상 및 기호는 항공사진촬영 당시의 지형ㆍ지물로 함\n\n                            - 영속성이 없는 지형ㆍ지물이라도 필요하다고 인정되는 것 또는 지형ㆍ지물을\
+    \ 표현하지 않으면 표현상 불합리하게 되는 것 등은 표시\n\n                            - 세부도화 되는 모든 데이터는 3차원 좌표(X, Y, Z)값이 존재하여야 함\n\t\t\t\t\t\
+    \t\n지리조사 및 현지보완측량\n\n\t\t\t\t\t\t\t- 도화데이터의 출력도면을 야장으로 이용하여 정밀측량장<strong class=\"red\">비</strong> 등을 이용\n\n          \
+    \                  - 법정지명, 행정지명, 동리명, 부락명, 인공지물명, 등 지명의 조사\n\n                            - 도화에서 판독 및 묘사하지 못한 사항(사각지대\
+    \ 등)은 실측함\n\t\t\t\t\t\t\n정위치/구조화 편집(수치지형도 제작)\n\n\t\t\t\t\t\t\t- 수치도화성과를 기준성과로 이용하여 지리조사내용을 적용 편집함\n\n               \
+    \             - 모델단위의 도화Data를 도곽단위로 구성 및 인접처리\n\n                            - 코드확인 및 부여, Data 구조상태 확인 및 보완편집\n\t\t\t\t\
+    \t\t\n품질검사\n\n\t\t\t\t\t\t\t- 정보의 완전성: 수치지도상의 지형ㆍ지물 또는 그에 대한 각각의 정보가 빠지지 아니하여야 함\n\n                            - 논리의\
+    \ 일관성: 수치지도의 형식 및 수치지도상의 지형ㆍ지물의 표현이 작성기준에 따라 일관되어야 함\n\n                            - 위치정확도: 수치지도상의 지형ㆍ지물의 위치가 원시자료(原始資料)\
+    \ 또는 실제 지형ㆍ지물과 대비하여 정확히 일치하여야 함\n\n                            - 시간정확도: 수치지도 작성의 기준시점은 원시자료 또는 조사자료의 취득시점과 일치하여야 함\n\n\
+    \                            - 주제정확도: 지형ㆍ지물과 속성의 연계 및 지형ㆍ지물의 분류가 정확하여야 함\n\t\t\t\t\t\t\n도면제작 편집(지형도 제작)\n\n\t\t\t\t\t\t\
+    \t- 수치지형도를 가공하여 인쇄.출력용 원판.파일을 제작\n\n                            - 도식적용규정에 준한 일반화, 상징화, 과장화\n\n                       \
+    \     - 난외주기의 추가\n\t\t\t\t\t\t\n정위치도면\n도면제작\n지도원도 제도 및 인쇄\n\n\t\t\t\t\t\t\t- 각 지형.지물의 표시색별로 색 분리 제도\n\n\t\t\t\t\t\t\t\
+    - 색분리하여 제도한 지도원도를 사용하여 색도별 인쇄\n\n\t\t\t\t\t\t\t- 각 판별 구성\n\t\t\t\t\t\t\n지도원도 각 판별 구성\n구분\n내용\n흑색\n도곽, 좌표, 인공지물, 지명 등\n\
+    갈색\n등고선, 표고수치, 제방 등\n청색\n수애선, 하천, 호수, 강명칭 등\n적색\n시가지, 포장도로 등\n</dd>\n                                                \
+    \            </dl>"
+  css: ''
+  evidence_text: "- 계획된 비행선을 따라 필요한 축척으로 촬영\n\n\t\t\t\t\t\t\t(1)비행방향으로 60% 중복촬영\n\n\t\t\t\t\t\t\t(2)인접방향으로 30% 중복촬영\n\t\t\t\
+    \t\t\t\n항공사진촬영\n항공사진제작\n항공사진 종류별 항공사진제작"
+  expected_location: dd.date
+  is_positive: false
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · https://www.ngii.go.kr/kor/search.do?keyword=7%E2%94%B8%EC%A3%BC%EC%8B%9D%EB%94%94%EB%B9%84%E2%88%97%EF%B9%9D%ED%85%94%E3%84%B9%E3%85%94dbkoa%EF%B9%9E%EC%A3%BC%EC%8B%9DDB%E3%88%8A%EC%A3%BC%EC%8B%9DDB%EA%B5%AC%EB%A7%A4%E2%99%A0%EC%A3%BC%EC%8B%9D%EB%94%94%EB%B9%84+%EC%82%BD%EB%8B%88%EB%8B%A4%E2%A6%88%EC%B5%9C%EC%8B%A0%EC%A3%BC%EC%8B%9D%EB%94%94%EB%B9%84~%EC%A3%BC%EC%8B%9DDB%E2%8B%B6%EC%A3%BC%EC%8B%9Ddb%EA%B0%80%EA%B2%A9
+  notes: '역할 C 검수 채택(2026-10-08): 항공사진 설명. 정상 콘텐츠의 전각·원문자·구분자 [원 DC-RH-0006]'
+  split: train
+- id: DC-206
+  category: DECOY
+  subtype: homoglyph_like_normal
+  html: "<dl>\n                                                                    <dt>「제21회 전국 어린이 지도 그리기 대회」 공모 안내</dt>\n\
+    \                                                                    <dd> 8월 18일(화)<strong class=\"red\">∼</strong>2026년\
+    \ 10월 6일(화) 오후 6시까지 \nㅇ 작품주제: '일상생활의 지도'(Map In Everyday Life)\n \n- 세계지도를 상상력과 창의력으로 자유롭게 일상생활의 지도로 표현하세요!\nㅇ 응모방법 \n\
+     \n- 개별 제출 또는 각 학교별 취합 제출(1인 1작품 한정) \n- 직접제출·등기·택배 등 접수기간 내에 도착분에 한함 \n* 등기 및 택배 발송 시 2026. 10. 6.(화) 소인분까지 유효합니다. \n\
+    - 규격: A3(42㎝×30㎝, ※ 규격 엄수)\n- 제출처: 국토교통부 국토지리정보원 국립지도박물관 \n- 제출주소: (16517) 경기도 수원시 영통구 월드컵로 92, 국토지리정보원 \n※ 문의사항: 031-210-2667,\
+    \ 2640\n- 작품 뒷면에 참가신청서를 부착해 제출\n붙 임\n  \n 공모전 참가신청서(작품 뒷면에 부착해 제출해주시기 바랍니다.)\n \n접수번호\n접수처 기재\n신 청 인\n성 명\n \n생 년 월 일\n\
+     \n소 속\n초등학교     학년     반\n주 소\n □ 학교 :\n □ 자택 :\n(학교 또는 자택 중 한 곳으로 반드시 작성바랍니다.)\n전화번호\n □ 학교 :\n □ 자택 :\n(학교 또는 자택 중\
+    \ 한 곳으로 반드시 작성바랍니다.)\n법정 대리인\n(필수 기재)\n성 명\n \n관 계\n \n연 락 처\n \n작 품 명\n작 품 설 명\n \n개인정보 제공\n및 활용동의\n「제21회 전국 어린이 지도 그리기\
+    \ 대회」 공모전 참가 신청과 관련하여 아래와 같이 개인정보를 수집·이용에 대해 확인하고 동의합니다.\n \n1. 수집 항목: 성명, 생년월일, 소속학교, 주소, 전화번호\n2. 수집목적: 참가자격 확인, 작품\
+    \ 접수·관리, 심사결과 안내, 시상품 발송\n3. 보유 및 이용 기간: 공모전 종료 후 3개월까지 보관 후 파기\n4. 동의 거부 시 참가신청이 제한될 수 있습니다.\n \n□동의함  □동의하지 않음\n신청인(법정대리인)\
+    \ :               (인 또는 서명)\n출품작 저작권\n및 사용동의\n본인은 출품작과 관련하여 다음 사항에 동의합니다.\n \n1. 출품작은 본인이 직접 창작한 순수 창작물이며, 타인의 저작권을 침해하지\
+    \ 않았음을 확인합니다.\n2. 출품작은 <strong class=\"red\">비</strong>영리 홍보 및 기록 목적으로 별도 협의 없이 사용될 수 있음에 동의합니다.\n \n□동의함  □동의하지 않음\n\
+    신청인(법정대리인) :               (인 또는 서명)\n■ 입상자 발표\n \nㅇ 2026년 11월 중(홈페이지 게시 및 개별 통지 예정)\n \n■ 시상내역\n구 분\n인원\n시 상 명\n부 상\n\
+    <strong class=\"red\">비</strong> 고\n대 상\n1명\n국토교통부장관상\n문화상품권\n30만원\n \n우수학교상\n1개교\n국토교통부장관상\n국토지리정보원\n제작상품\n응모작품이\n많은\
+    \ 학교\n최우수상\n3명\n국토지리정보원장상\n문화상품권\n20만원\n1∼2학년, 1명\n3∼4학년, 1명\n5∼6학년, 1명\n우 수 상\n6명\n국토지리정보원장상\n문화상품권\n10만원\n1∼2학년, 2명\n\
+    3∼4학년, 2명\n5∼6학년, 2명\n장 려 상\n12명\n국토지리정보원장상\n문화상품권\n5만원\n1∼2학년, 4명\n3∼4학년, 4명\n5∼6학년, 4명\n특 별 상\n5명\n(사)한국지도학회장상\n특별상품\n\
+    학회에서 준<strong class=\"red\">비</strong> \n※ 대상 및 최우수상(3명 중 대상 수상 학년대 수상자 1명 제외) 입상 작품은 2027년 ‘바버라 페추닉 어린이 세계지도 경연대회’에 출품\
+    \ 예정\n  \n■ 기타사항\nㅇ 기존 캐릭터, 만화, 게임, 영화 등을 모사·재현한 작품 및 세계지도를 그리지 않은 작품은 심사에서 제외합니다.\nㅇ 제출된 작품은 반환하지 않으며 입상작을 <strong class=\"\
+    red\">비</strong>롯하여 제출한 작품에 대한 소유 및 이용권은 국토지리정보원에 귀속됩니다. \nㅇ 작품 응모에 소요되는 모든 <strong class=\"red\">비</strong>용은 응모자 부담이며,\
+    \ 정해진 입상 외에는 상품·기념품 등은 지급하지 않습니다.\nㅇ 제출한 출품작은 접수 이후 수정이 불가합니다. \nㅇ 작품은 평평하고 두께가 5mm를 넘지 않아야 하며, 그림이 아닌 기타 입체 재료 등을 붙인\
+    \ 작품은 접수하지 않습니다. \nㅇ 작품이 규격(A3, 42*30cm)을 초과하는 경우, 심사하지 않습니다. \nㅇ 심사내용은 공개하지 않으며 심사 결과에 대해 이의를 제기할 수 없습니다. \nㅇ 응모작은 온·오프라인을\
+    \ 통해 불특정 다수에게 공개될 수 있습니다. \nㅇ 시상을 위하여 신분증, 통장사본 등 개인정보를 요구할 수 있으며, 이에 미동의 시 시상금 지급이 제한될 수 있습니다. \nㅇ 기타 자세한 사항 및 문의사항은\
+    \ 우리원(031-210-2667, 2640)으로 문의하여 주시기 바랍니다.\n</dd>\n\n                                                                \
+    \    <dd class=\"date\"><span>[박물관] &gt;게시판&gt;공지사항｜</span>\n                                                        \
+    \                <span>\n\t\t\t\t\t\t\t\t\t2026-08-18</span>\n                                                       \
+    \             </dd>\n                                                                </dl>"
+  css: ''
+  evidence_text: '8월 18일(화)∼2026년 10월 6일(화) 오후 6시까지 
+
+    ㅇ 작품주제: ''일상생활의 지도''(Map In Everyday Life)
+
+     
+
+    - 세계지도를 상상력과 창의력으로 자유롭게 일상생활의 지도로 표현하세요!'
+  expected_location: dd:nth-of-type(1)
+  is_positive: false
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · https://www.ngii.go.kr/kor/search.do?keyword=7%E2%94%B8%EC%A3%BC%EC%8B%9D%EB%94%94%EB%B9%84%E2%88%97%EF%B9%9D%ED%85%94%E3%84%B9%E3%85%94dbkoa%EF%B9%9E%EC%A3%BC%EC%8B%9DDB%E3%88%8A%EC%A3%BC%EC%8B%9DDB%EA%B5%AC%EB%A7%A4%E2%99%A0%EC%A3%BC%EC%8B%9D%EB%94%94%EB%B9%84+%EC%82%BD%EB%8B%88%EB%8B%A4%E2%A6%88%EC%B5%9C%EC%8B%A0%EC%A3%BC%EC%8B%9D%EB%94%94%EB%B9%84~%EC%A3%BC%EC%8B%9DDB%E2%8B%B6%EC%A3%BC%EC%8B%9Ddb%EA%B0%80%EA%B2%A9
+  notes: '역할 C 검수 채택(2026-10-08): 공모전 안내. 정상 콘텐츠의 전각·원문자·구분자 [원 DC-RH-0007]'
+  split: train
+- id: DC-207
+  category: DECOY
+  subtype: homoglyph_like_normal
+  html: "<dl>\n                                                                    <dt>「제21회 전국 어린이 지도 그리기 대회」 공모 안내</dt>\n\
+    \                                                                    <dd> 8월 18일(화)<strong class=\"red\">∼</strong>2026년\
+    \ 10월 6일(화) 오후 6시까지 \nㅇ 작품주제: '일상생활의 지도'(Map In Everyday Life)\n \n- 세계지도를 상상력과 창의력으로 자유롭게 일상생활의 지도로 표현하세요!\nㅇ 응모방법 \n\
+     \n- 개별 제출 또는 각 학교별 취합 제출(1인 1작품 한정) \n- 직접제출·등기·택배 등 접수기간 내에 도착분에 한함 \n* 등기 및 택배 발송 시 2026. 10. 6.(화) 소인분까지 유효합니다. \n\
+    - 규격: A3(42㎝×30㎝, ※ 규격 엄수)\n- 제출처: 국토교통부 국토지리정보원 국립지도박물관 \n- 제출주소: (16517) 경기도 수원시 영통구 월드컵로 92, 국토지리정보원 \n※ 문의사항: 031-210-2667,\
+    \ 2640\n- 작품 뒷면에 참가신청서를 부착해 제출\n붙 임\n  \n 공모전 참가신청서(작품 뒷면에 부착해 제출해주시기 바랍니다.)\n \n접수번호\n접수처 기재\n신 청 인\n성 명\n \n생 년 월 일\n\
+     \n소 속\n초등학교     학년     반\n주 소\n □ 학교 :\n □ 자택 :\n(학교 또는 자택 중 한 곳으로 반드시 작성바랍니다.)\n전화번호\n □ 학교 :\n □ 자택 :\n(학교 또는 자택 중\
+    \ 한 곳으로 반드시 작성바랍니다.)\n법정 대리인\n(필수 기재)\n성 명\n \n관 계\n \n연 락 처\n \n작 품 명\n작 품 설 명\n \n개인정보 제공\n및 활용동의\n「제21회 전국 어린이 지도 그리기\
+    \ 대회」 공모전 참가 신청과 관련하여 아래와 같이 개인정보를 수집·이용에 대해 확인하고 동의합니다.\n \n1. 수집 항목: 성명, 생년월일, 소속학교, 주소, 전화번호\n2. 수집목적: 참가자격 확인, 작품\
+    \ 접수·관리, 심사결과 안내, 시상품 발송\n3. 보유 및 이용 기간: 공모전 종료 후 3개월까지 보관 후 파기\n4. 동의 거부 시 참가신청이 제한될 수 있습니다.\n \n□동의함  □동의하지 않음\n신청인(법정대리인)\
+    \ :               (인 또는 서명)\n출품작 저작권\n및 사용동의\n본인은 출품작과 관련하여 다음 사항에 동의합니다.\n \n1. 출품작은 본인이 직접 창작한 순수 창작물이며, 타인의 저작권을 침해하지\
+    \ 않았음을 확인합니다.\n2. 출품작은 <strong class=\"red\">비</strong>영리 홍보 및 기록 목적으로 별도 협의 없이 사용될 수 있음에 동의합니다.\n \n□동의함  □동의하지 않음\n\
+    신청인(법정대리인) :               (인 또는 서명)\n■ 입상자 발표\n \nㅇ 2026년 11월 중(홈페이지 게시 및 개별 통지 예정)\n \n■ 시상내역\n구 분\n인원\n시 상 명\n부 상\n\
+    <strong class=\"red\">비</strong> 고\n대 상\n1명\n국토교통부장관상\n문화상품권\n30만원\n \n우수학교상\n1개교\n국토교통부장관상\n국토지리정보원\n제작상품\n응모작품이\n많은\
+    \ 학교\n최우수상\n3명\n국토지리정보원장상\n문화상품권\n20만원\n1∼2학년, 1명\n3∼4학년, 1명\n5∼6학년, 1명\n우 수 상\n6명\n국토지리정보원장상\n문화상품권\n10만원\n1∼2학년, 2명\n\
+    3∼4학년, 2명\n5∼6학년, 2명\n장 려 상\n12명\n국토지리정보원장상\n문화상품권\n5만원\n1∼2학년, 4명\n3∼4학년, 4명\n5∼6학년, 4명\n특 별 상\n5명\n(사)한국지도학회장상\n특별상품\n\
+    학회에서 준<strong class=\"red\">비</strong> \n※ 대상 및 최우수상(3명 중 대상 수상 학년대 수상자 1명 제외) 입상 작품은 2027년 ‘바버라 페추닉 어린이 세계지도 경연대회’에 출품\
+    \ 예정\n  \n■ 기타사항\nㅇ 기존 캐릭터, 만화, 게임, 영화 등을 모사·재현한 작품 및 세계지도를 그리지 않은 작품은 심사에서 제외합니다.\nㅇ 제출된 작품은 반환하지 않으며 입상작을 <strong class=\"\
+    red\">비</strong>롯하여 제출한 작품에 대한 소유 및 이용권은 국토지리정보원에 귀속됩니다. \nㅇ 작품 응모에 소요되는 모든 <strong class=\"red\">비</strong>용은 응모자 부담이며,\
+    \ 정해진 입상 외에는 상품·기념품 등은 지급하지 않습니다.\nㅇ 제출한 출품작은 접수 이후 수정이 불가합니다. \nㅇ 작품은 평평하고 두께가 5mm를 넘지 않아야 하며, 그림이 아닌 기타 입체 재료 등을 붙인\
+    \ 작품은 접수하지 않습니다. \nㅇ 작품이 규격(A3, 42*30cm)을 초과하는 경우, 심사하지 않습니다. \nㅇ 심사내용은 공개하지 않으며 심사 결과에 대해 이의를 제기할 수 없습니다. \nㅇ 응모작은 온·오프라인을\
+    \ 통해 불특정 다수에게 공개될 수 있습니다. \nㅇ 시상을 위하여 신분증, 통장사본 등 개인정보를 요구할 수 있으며, 이에 미동의 시 시상금 지급이 제한될 수 있습니다. \nㅇ 기타 자세한 사항 및 문의사항은\
+    \ 우리원(031-210-2667, 2640)으로 문의하여 주시기 바랍니다.\n</dd>\n\n                                                                \
+    \    <dd class=\"date\"><span>[박물관] &gt;게시판&gt;공지사항｜</span>\n                                                        \
+    \                <span>\n\t\t\t\t\t\t\t\t\t2026-08-18</span>\n                                                       \
+    \             </dd>\n                                                                </dl>"
+  css: ''
+  evidence_text: '[박물관] &gt;게시판&gt;공지사항｜'
+  expected_location: span:nth-of-type(1)
+  is_positive: false
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · https://www.ngii.go.kr/kor/search.do?keyword=7%E2%94%B8%EC%A3%BC%EC%8B%9D%EB%94%94%EB%B9%84%E2%88%97%EF%B9%9D%ED%85%94%E3%84%B9%E3%85%94dbkoa%EF%B9%9E%EC%A3%BC%EC%8B%9DDB%E3%88%8A%EC%A3%BC%EC%8B%9DDB%EA%B5%AC%EB%A7%A4%E2%99%A0%EC%A3%BC%EC%8B%9D%EB%94%94%EB%B9%84+%EC%82%BD%EB%8B%88%EB%8B%A4%E2%A6%88%EC%B5%9C%EC%8B%A0%EC%A3%BC%EC%8B%9D%EB%94%94%EB%B9%84~%EC%A3%BC%EC%8B%9DDB%E2%8B%B6%EC%A3%BC%EC%8B%9Ddb%EA%B0%80%EA%B2%A9
+  notes: '역할 C 검수 채택(2026-10-08): 게시판 breadcrumb ｜. 정상 콘텐츠의 전각·원문자·구분자 [원 DC-RH-0008]'
+  split: train
+- id: DC-208
+  category: DECOY
+  subtype: homoglyph_like_normal
+  html: "<dl>\n                                                                    <dt>일반측량의 공공측량 지정고시((주)<strong class=\"\
+    red\">비</strong>에스한양)</dt>\n                                                                    <dd>(2단계) GIS <strong\
+    \ class=\"red\">DB</strong>구축 용역\n2. 공공측량의 개요\nㅇ 목적 :도시기반시설물 관련 정보들에 대한 통합관리 체계를 구축하여, 기구축이 완료된 지역의지형 및 지물의 변동사항 발생시 신속하게\
+    \ 갱신함으로써 광양시 지리정보시스템의 유효성 및 정확성을 향상하는데 있다.\nㅇ 지역 : 전남 광양시 황금동일원\nㅇ 규모 : 연장(L) = 16.833km\nㅇ 기간 : 2026. 7. 17 <strong class=\"\
+    red\">~</strong> 2026. 9. 30   \nㅇ 종류 : 지하시설물 측량\nㅇ 시행자 : (주)<strong class=\"red\">비</strong>에스한양\nㅇ 수행자 : ㈜고원공간정보\n</dd>\n\
+    \n                                                                    <dd class=\"date\"><span>[국문] &gt;알림&gt;고시｜</span>\n\
+    \                                                                        <span>\n\t\t\t\t\t\t\t\t\t2026-07-13</span>\n\
+    \                                                                    </dd>\n                                         \
+    \                       </dl>"
+  css: ''
+  evidence_text: '[국문] &gt;알림&gt;고시｜'
+  expected_location: span:nth-of-type(1)
+  is_positive: false
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · https://www.ngii.go.kr/kor/search.do?keyword=7%E2%94%B8%EC%A3%BC%EC%8B%9D%EB%94%94%EB%B9%84%E2%88%97%EF%B9%9D%ED%85%94%E3%84%B9%E3%85%94dbkoa%EF%B9%9E%EC%A3%BC%EC%8B%9DDB%E3%88%8A%EC%A3%BC%EC%8B%9DDB%EA%B5%AC%EB%A7%A4%E2%99%A0%EC%A3%BC%EC%8B%9D%EB%94%94%EB%B9%84+%EC%82%BD%EB%8B%88%EB%8B%A4%E2%A6%88%EC%B5%9C%EC%8B%A0%EC%A3%BC%EC%8B%9D%EB%94%94%EB%B9%84~%EC%A3%BC%EC%8B%9DDB%E2%8B%B6%EC%A3%BC%EC%8B%9Ddb%EA%B0%80%EA%B2%A9
+  notes: '역할 C 검수 채택(2026-10-08): 알림 breadcrumb ｜. 정상 콘텐츠의 전각·원문자·구분자 [원 DC-RH-0009]'
+  split: train
+- id: DC-209
+  category: DECOY
+  subtype: homoglyph_like_normal
+  html: "<dl>\n                                                                    <dt>「제20회 전국 어린이 지도 그리기 대회」 공모 안내</dt>\n\
+    \                                                                    <dd>;15일 <strong class=\"red\">∼</strong> 10월 17일\
+    \ 오후 6시까지 \n \nㅇ 작품주제 : “일상생활의 지도”(Map in Everyday Life)\n \n- 우리의 일상생활을 담은 세계지도를 창의적으로 자유롭게 표현해주세요!\n \nㅇ 응모 방법\n \n\
+    - 방 법 :  개별 제출 또는 각 학교별 취합(1인 1작품 한정)\n- 직접제출, 우편, 택배 등 기간 내에 도착분에 한함 \n* 우편, 택배 발송 시 '25. 10. 17(금) 소인분까지 유효합니다. \n- 크\
+    \ 기 : A3 (42㎝ × 30㎝, ※ 규격 엄수)\n \n- 제출처 : 국토교통부 국토지리정보원 국립지도박물관\n※ 제출주소 :  경기도 수원시 영통구 월드컵로 92, 국토지리정보원 (16517) \n   \
+    \ 문의사항 031-210-2646, 2640, 2667\n    \n- 작품 뒷면에 참가신청서를 부착해 제출\n「제20회 전국 어린이 지도 그리기 대회」참가신청서\n작 품 명\n \n학교 및 학년반\n     \
+    \      초등학교       학년       반 \n성 명\n \n전 화 번호\n학교:\n집:\n 상장 및 상금을 받을 때 사용되니 정확히 입력 바랍니다\n \n주 소\n \n □ 학교:\n \n □ 집:\n\
+        □안에 상장 및 상금을 받을 주소를 체크 바랍니다\n작 품 설명\n \n \n \n      \n \n \n※ 개인정보 제공 및 활용에 동의□ <strong class=\"red\">비</strong>동의□\n\
+    ■ 입상자 발표\n \nㅇ `25. 10월 말 : 국토지리정보원 홈페이지에 게시하고, 개별 통지(예정)\n \n■ 시상내역\n구 분\n인원\n시 상 명\n부 상\n<strong class=\"red\">비</strong>\
+    \ 고\n대 상\n1명\n국토교통부장관상\n문화상품권\n30만원 상당\n \n우수학교상\n1개교\n국토교통부장관상\n국토지리정보원\n제작상품\n응모작품이 많은 학교\n최우수상\n3명\n국토지리정보원장상\n문화상품권\n\
+    20만원상당\n1∼2학년, 1명\n3∼4학년, 1명\n5∼6학년, 1명\n우 수 상\n6명\n국토지리정보원장상\n문화상품권\n10만원상당\n1∼2학년, 2명\n3∼4학년, 2명\n5∼6학년, 2명\n장 려 상\n\
+    12명\n국토지리정보원장상\n문화상품권\n5만원상당\n1∼2학년, 4명\n3∼4학년, 4명\n5∼6학년, 4명\n특 별 상\n5명\n(사)한국지도학회장상\n특별상품\n학회에서 준<strong class=\"red\"\
+    >비</strong> \n※ 대상 (1명),   최우수상 (3명 중 대상 수상 학년대 수상자 1명은 제외)  입상작품은 2027년 ‘바버라 페추닉 어린이 세계지도 그리기 대회’에 출품 기회 제공(예정)\n \n\
+    ■ 기타사항\n \nㅇ 제출된 작품은 반환하지 않으며 입상작을 <strong class=\"red\">비</strong>롯하여, 제출한 작품에 대한 소유 및 이용권은 국토지리정보원에 귀속됩니다.\n \nㅇ 작품\
+    \ 응모에 소요되는 모든 <strong class=\"red\">비</strong>용은 응모자 부담이며, 정해진 입상 외에는 상품 및 기념품 등은 지급하지 않습니다.\n \nㅇ 제출한 출품작은 접수 이후 수정이\
+    \ 불가합니다.\n \nㅇ 작품은 평평하고 두께가 5mm를 넘지 않아야 하며, 그림이 아닌 기타 입체 재료 등을 붙인 작품은 접수하지 않습니다.\n \nㅇ 작품이 규격(A3)을 초과하는 경우, 심사하지 않습니다.\n\
+     \nㅇ 심사내용은 공개하지 않으며 심사 결과에 대해 이의를 제기할 수 없습니다.\n \nㅇ 응모작은 온오프라인을 통해 불특정 다수에게 공개될 수 있습니다.\n \nㅇ 시상을 위하여 신분증, 통장사본 등 개인정보를\
+    \ 요구할 수 있으며, 이에 미동의 시 시상금 지급이 제한될 수 있습니다.\n \nㅇ 기타 자세한 사항 및 문의사항은 우리원 (031-210-2646, 2640, 2667)으로 문의하여 주시기 바랍니다.\n \n\
+    </dd>\n\n                                                                    <dd class=\"date\"><span>[박물관] &gt;게시판&gt;공지사항｜</span>\n\
+    \                                                                        <span>\n\t\t\t\t\t\t\t\t\t2025-09-09</span>\n\
+    \                                                                    </dd>\n                                         \
+    \                       </dl>"
+  css: ''
+  evidence_text: ';15일 ∼ 10월 17일 오후 6시까지 
+
+     
+
+    ㅇ 작품주제 : “일상생활의 지도”(Map in Everyday Life)
+
+     
+
+    - 우리의 일상생활을 담은 세계지도를 창의적으로 자유롭게 표현해주세요!
+
+     
+
+    ㅇ 응모 방법'
+  expected_location: dd:nth-of-type(1)
+  is_positive: false
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · https://www.ngii.go.kr/kor/search.do?keyword=7%E2%94%B8%EC%A3%BC%EC%8B%9D%EB%94%94%EB%B9%84%E2%88%97%EF%B9%9D%ED%85%94%E3%84%B9%E3%85%94dbkoa%EF%B9%9E%EC%A3%BC%EC%8B%9DDB%E3%88%8A%EC%A3%BC%EC%8B%9DDB%EA%B5%AC%EB%A7%A4%E2%99%A0%EC%A3%BC%EC%8B%9D%EB%94%94%EB%B9%84+%EC%82%BD%EB%8B%88%EB%8B%A4%E2%A6%88%EC%B5%9C%EC%8B%A0%EC%A3%BC%EC%8B%9D%EB%94%94%EB%B9%84~%EC%A3%BC%EC%8B%9DDB%E2%8B%B6%EC%A3%BC%EC%8B%9Ddb%EA%B0%80%EA%B2%A9
+  notes: '역할 C 검수 채택(2026-10-08): 공모전 안내. 정상 콘텐츠의 전각·원문자·구분자 [원 DC-RH-0010]'
+  split: train
+- id: DC-210
+  category: DECOY
+  subtype: homoglyph_like_normal
+  html: <ul class="cate_ul"><li><a onclick="get_notice_latest()" class="active">ALL</a></li><li><a onclick="get_notice_latest('Admissions')">Admissions</a></li><li><a
+    onclick="get_notice_latest('Incoming')">Incoming</a></li><li><a onclick="get_notice_latest('Outgoing')">Outgoing</a></li><li><a
+    onclick="get_notice_latest('Events＆Jobs')">Events＆Jobs</a></li></ul>
+  css: ''
+  evidence_text: Events＆Jobs
+  expected_location: li:nth-of-type(5) > a
+  is_positive: false
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · https://oiaglobal.bufs.ac.kr/index.php?mid=event&page=1
+  notes: '역할 C 검수 채택(2026-10-08): Events＆Jobs 전각. 정상 콘텐츠의 전각·원문자·구분자 [원 DC-RH-0011]'
+  split: train
+- id: DC-212
+  category: DECOY
+  subtype: homoglyph_like_normal
+  html: "<ul class=\"cate_ul swiper-wrapper\">\n\n\t\t<li class=\"active swiper-slide\"><a href=\"https://www.bufs.ac.kr/bbs/board.php?bo_table=biz_board\"\
+    >전체</a></li>\t\t\t\t<li class=\" swiper-slide\">\n\n\t\t\t\t\t\t<a href=\"https://www.bufs.ac.kr/bbs/board.php?bo_table=biz_board&amp;sca=%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD\"\
+    >공지사항</a>\n\n\t\t\t\t\t</li>\n\n\t\t\t\t<li class=\" swiper-slide\">\n\n\t\t\t\t\t\t<a href=\"https://www.bufs.ac.kr/bbs/board.php?bo_table=biz_board&amp;sca=%ED%95%99%EC%83%9D%ED%9A%8C+%EA%B3%B5%EC%A7%80\"\
+    >학생회 공지</a>\n\n\t\t\t\t\t</li>\n\n\t\t\t\t<li class=\" swiper-slide\">\n\n\t\t\t\t\t\t<a href=\"https://www.bufs.ac.kr/bbs/board.php?bo_table=biz_board&amp;sca=%EC%96%91%EC%8B%9D+%EC%84%9C%EB%A5%98%ED%95%A8\"\
+    >양식 서류함</a>\n\n\t\t\t\t\t</li>\n\n\t\t\t\t<li class=\" swiper-slide\">\n\n\t\t\t\t\t\t<a href=\"https://www.bufs.ac.kr/bbs/board.php?bo_table=biz_board&amp;sca=%EC%A7%88%EB%AC%B8+%EF%BC%86+%EB%8B%B5%EB%B3%80\"\
+    >질문 ＆ 답변</a>\n\n\t\t\t\t\t</li>\n\n\t\t\t\t<li class=\" swiper-slide\">\n\n\t\t\t\t\t\t<a href=\"https://www.bufs.ac.kr/bbs/board.php?bo_table=biz_board&amp;sca=%EB%B3%B4%EB%8F%84%EC%9E%90%EB%A3%8C\"\
+    >보도자료</a>\n\n\t\t\t\t\t</li>\n\n\t\t\t</ul>"
+  css: ''
+  evidence_text: 질문 ＆ 답변
+  expected_location: li.swiper-slide:nth-of-type(5) > a
+  is_positive: false
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · https://www.bufs.ac.kr/bbs/board.php?bo_table=biz_board&page=1
+  notes: '역할 C 검수 채택(2026-10-08): 질문＆답변. 정상 콘텐츠의 전각·원문자·구분자 [원 DC-RH-0013]'
+  split: train
+- id: DC-213
+  category: DECOY
+  subtype: homoglyph_like_normal
+  html: "<ul class=\"depth_list depth5_list\">\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t<li class=\"depth_item depth5_item\"><a data-menu-key=\"\
+    3230\" href=\"/www/contents.do?key=3230&amp;\" class=\"depth_text depth5_text\" target=\"_self\">임시운행허가</a>\n\n\t\t\t\t\
+    \t\t\t\t\t\t\t\t\t</li>\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t<li class=\"depth_item depth5_item\"><a data-menu-key=\"3231\" href=\"\
+    /www/contents.do?key=3231&amp;\" class=\"depth_text depth5_text\" target=\"_self\">신규등록</a>\n\n\t\t\t\t\t\t\t\t\t\t\t\t\
+    \t</li>\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t<li class=\"depth_item depth5_item\"><a data-menu-key=\"3232\" href=\"https://www.guro.go.kr/www/selectBbsNttView.do?bbsNo=638&amp;nttNo=29178&amp;pageUnit=10&amp;key=1691&amp;pageIndex=1&amp;\"\
+    \ class=\"depth_text depth5_text\" target=\"_self\">이전등록</a>\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t</li>\n\n\t\t\t\t\t\t\t\t\t\t\
+    \t\t\t<li class=\"depth_item depth5_item\"><a data-menu-key=\"3233\" href=\"https://www.guro.go.kr/www/selectBbsNttView.do?bbsNo=638&amp;nttNo=29176&amp;pageUnit=10&amp;key=1691&amp;pageIndex=1&amp;\"\
+    \ class=\"depth_text depth5_text\" target=\"_self\">변경등록</a>\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t</li>\n\n\t\t\t\t\t\t\t\t\t\t\
+    \t\t\t<li class=\"depth_item depth5_item\"><a data-menu-key=\"3234\" href=\"/www/selectBbsNttView.do?bbsNo=638&amp;nttNo=97914&amp;pageUnit=10&amp;key=1691&amp;pageIndex=1&amp;\"\
+    \ class=\"depth_text depth5_text\" target=\"_self\">말소등록</a>\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t</li>\n\n\t\t\t\t\t\t\t\t\t\t\
+    \t\t\t<li class=\"depth_item depth5_item\"><a data-menu-key=\"3235\" href=\"/www/contents.do?key=3235&amp;\" class=\"\
+    depth_text depth5_text\" target=\"_self\">저당권등록（설정, 말소）</a>\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t</li>\n\n\t\t\t\t\t\t\t\t\t\t\
+    \t\t\t<li class=\"depth_item depth5_item\"><a data-menu-key=\"3236\" href=\"https://www.guro.go.kr/www/selectBbsNttView.do?bbsNo=638&amp;nttNo=29174&amp;pageUnit=10&amp;key=1691&amp;pageIndex=1&amp;\"\
+    \ class=\"depth_text depth5_text\" target=\"_self\">건설기계등록</a>\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t</li>\n\n\t\t\t\t\t\t\t\t\t\
+    \t\t\t\t<li class=\"depth_item depth5_item\"><a data-menu-key=\"3237\" href=\"https://www.guro.go.kr/www/selectBbsNttView.do?bbsNo=638&amp;nttNo=29177&amp;pageUnit=10&amp;key=1691&amp;pageIndex=1&amp;\"\
+    \ class=\"depth_text depth5_text\" target=\"_self\">이륜자동차등록</a>\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t</li>\n\n\t             \
+    \                          \t\t</ul>"
+  css: ''
+  evidence_text: 저당권등록（설정, 말소）
+  expected_location: li.depth_item.depth5_item:nth-of-type(6) > a.depth_text.depth5_text
+  is_positive: false
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · https://www.guro.go.kr/www/selectBbsNttList.do?key=1728&bbsNo=653&pageIndex=1
+  notes: '역할 C 검수 채택(2026-10-08): 저당권등록 전각괄호. 정상 콘텐츠의 전각·원문자·구분자 [원 DC-RH-0014]'
+  split: train
+- id: DC-214
+  category: DECOY
+  subtype: homoglyph_like_normal
+  html: "<div class=\"footer_info\">\n\n\t\t\t\t\t\n\n\t\t\t\t\t\t<img src=\"/search/images/new_2024/logo_search.png\" alt=\"\
+    SMART GURO\"/>\n\n\t\t\t\t\t\n\n\t\t\t\t\t\t<address><span class=\"address\">[08284] 서울특별시 구로구 가마산로 245 （구로동, 구로구청） </span>대표번호\
+    \ 02-860-2114,2127~9（120 서울시 응답소로 연결）| 당직실(야간,공휴일) : 02-860-2669 | FAX:02-864-9595\n\n\t\t\t\t\t\t</address>\n\n\t\t\t\
+    \t\t\t\n\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\n\t\t\t\t\t</div>"
+  css: ''
+  evidence_text: '대표번호 02-860-2114,2127~9（120 서울시 응답소로 연결）| 당직실(야간,공휴일) : 02-860-2669 | FAX:02-864-9595'
+  expected_location: address
+  is_positive: false
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · https://www.guro.go.kr/www/selectBbsNttList.do?key=1728&bbsNo=653&pageIndex=1
+  notes: '역할 C 검수 채택(2026-10-08): 기관 대표번호/FAX ｜. 정상 콘텐츠의 전각·원문자·구분자 [원 DC-RH-0015]'
+  split: train
+- id: DC-215
+  category: DECOY
+  subtype: homoglyph_like_normal
+  html: "<address><span class=\"address\">[08284] 서울특별시 구로구 가마산로 245 （구로동, 구로구청） </span>대표번호 02-860-2114,2127~9（120 서울시 응답소로\
+    \ 연결）| 당직실(야간,공휴일) : 02-860-2669 | FAX:02-864-9595\n\n\t\t\t\t\t\t</address>"
+  css: ''
+  evidence_text: '[08284] 서울특별시 구로구 가마산로 245 （구로동, 구로구청）'
+  expected_location: span.address
+  is_positive: false
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · https://www.guro.go.kr/www/selectBbsNttList.do?key=1728&bbsNo=653&pageIndex=1
+  notes: '역할 C 검수 채택(2026-10-08): 구청 주소 전각괄호. 정상 콘텐츠의 전각·원문자·구분자 [원 DC-RH-0016]'
+  split: train
+- id: DC-216
+  category: DECOY
+  subtype: homoglyph_like_normal
+  html: <p>Copyright（C） GURO-GU. ALL RIGHTS RESERVED.</p>
+  css: ''
+  evidence_text: Copyright（C） GURO-GU. ALL RIGHTS RESERVED.
+  expected_location: p
+  is_positive: false
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · https://www.guro.go.kr/www/selectBbsNttList.do?key=1728&bbsNo=653&pageIndex=1
+  notes: '역할 C 검수 채택(2026-10-08): Copyright（C）. 정상 콘텐츠의 전각·원문자·구분자 [원 DC-RH-0017]'
+  split: train
+- id: DC-219
+  category: DECOY
+  subtype: homoglyph_like_normal
+  html: "<a href=\"/board/view.gimje?boardId=BBS_0000048&amp;paging=ok&amp;startPage=81&amp;dataSid=227697\">\n\t\t\t\t\t\
+    <strong>\n\t\t\t\t\t2024 동강국제사진제 전국 초등학생 사진일기 공모전\n\t\t\t\t\t<i class=\"ico_file\">첨부파일 있음</i>\n\t\t\t\t\t\n\t\t\t\t\t\
+    </strong>\n\t\t\t\t\t<span class=\"txt\">1. 대    상 : 전국 초등학생(홈스쿨링 초등학생)\n\n2. 작품내용 : 미발표 자유작\n\n3. 작품규격 : A3사이즈의 두꺼운 흰\
+    \ 종이, 사진 8×10인치 크기(사진규격엄수)\n\n4. 출품매수 : 1인 3점이내(출품료없음)\n\n5. 출품요령\n\n① A3 규격의 바탕종이 위쪽에 딱풀로 사진(사진전용지 인화)을 붙이고 10줄 이내의 일기를\
+    \ 써서 그림일기와 같은...</span> \n\t\t\t\t\t<em class=\"info\"><span>작성자 : 정한솔</span><span>작성일 : 2024.06.21</span><span>조회수 :\
+    \ 219</span></em> \n\t\t\t\t</a>"
+  css: ''
+  evidence_text: '1. 대    상 : 전국 초등학생(홈스쿨링 초등학생)
+
+
+    2. 작품내용 : 미발표 자유작
+
+
+    3. 작품규격 : A3사이즈의 두꺼운 흰 종이, 사진 8×10인치 크기(사진규격엄수)
+
+
+    4. 출품매수 : 1인 3점이내(출품료없음)
+
+
+    5'
+  expected_location: span.txt
+  is_positive: false
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · https://www.gimje.go.kr/town/board/list.gimje?boardId=BBS_0000048&listRow=10&listCel=1&paging=ok&startPage=81
+  notes: '역할 C 검수 채택(2026-10-08): 공모전 규격 안내. 정상 콘텐츠의 전각·원문자·구분자 [원 DC-RH-0040]'
+  split: train
+- id: DC-220
+  category: DECOY
+  subtype: homoglyph_like_normal
+  html: "<a href=\"/board/view.gimje?boardId=BBS_0000048&amp;paging=ok&amp;startPage=105&amp;dataSid=191801\">\n\t\t\t\t\t\
+    <strong>\n\t\t\t\t\t-[동강국제사진제]-  전국 초등학생 사진일기 공모전\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t</strong>\n\t\t\t\t\t<span class=\"\
+    txt\">1. 대 상 : 전국 초등학생\n\n \n\n2. 작품내용 : 미발표 자유작\n\n \n\n3. 작품규격 : 바탕종이 30×42cm(두꺼운 흰 종이), 사진 8×10인치 크기(사진규격엄수)\n\n \n\
+    \n4. 출품매수 : 1인 3점이내(출품료없음)\n\n \n\n5. 출품요령\n\n① 규격의 바탕종이 위쪽에 딱풀로 사진(사진전용지 인화)을 붙이고 10줄 이내의 일기를 써서 ...</span> \n\t\t\t\t\
+    \t<em class=\"info\"><span>작성자 : 정한솔</span><span>작성일 : 2023.05.14</span><span>조회수 : 194</span></em> \n\t\t\t\t</a>"
+  css: ''
+  evidence_text: "1. 대 상 : 전국 초등학생\n\n \n\n2. 작품내용 : 미발표 자유작\n\n \n\n3. 작품규격 : 바탕종이 30×42cm(두꺼운 흰 종이), 사진 8×10인치 크기(사진규격엄수)\n\
+    \n \n\n4. 출품매수 : 1인 3점이내(출품료없음)\n\n \n\n5. 출품"
+  expected_location: span.txt
+  is_positive: false
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · https://www.gimje.go.kr/town/board/list.gimje?boardId=BBS_0000048&listRow=10&listCel=1&paging=ok&startPage=105
+  notes: '역할 C 검수 채택(2026-10-08): 공모전 규격 안내. 정상 콘텐츠의 전각·원문자·구분자 [원 DC-RH-0041]'
+  split: train
+- id: DC-221
+  category: DECOY
+  subtype: homoglyph_like_normal
+  html: "<a href=\"/board/view.gimje?boardId=BBS_0000048&amp;paging=ok&amp;startPage=121&amp;dataSid=180867\">\n\t\t\t\t\t\
+    <strong>\n\t\t\t\t\t＜ 탄저.연작장해 확실히 잡고 다수확＞\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t</strong>\n\t\t\t\t\t<span class=\"txt\"\
+    >&lt;풍산게르마늄&gt;살포로 탄저, 썩음병 연작장해 잡고 수년간 비료. 농약 없이 다수확하세요.\n\n\n\n비료. 농약 없이 병충해 예방하며 주기적으로 꾸준히 사용하시면 2배이상 생산량이 다수확 되는 친환경\
+    \ 유기농 \n\n토양개량 및 작물생육촉진제 풍산게르마늄을 안내하오니&lt;투입효과&gt;와 &lt;작물별사용법&gt;을 홈피에서 살펴보시거나\n\n요청하여 받아보시기 바랍니다.\n\n...</span> \n\t\
+    \t\t\t\t<em class=\"info\"><span>작성자 : 임민영</span><span>작성일 : 2022.04.27</span><span>조회수 : 109</span></em> \n\t\t\t\t</a>"
+  css: ''
+  evidence_text: ＜ 탄저.연작장해 확실히 잡고 다수확＞
+  expected_location: strong
+  is_positive: false
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · https://www.gimje.go.kr/town/board/list.gimje?boardId=BBS_0000048&listRow=10&listCel=1&paging=ok&startPage=121
+  notes: '역할 C 검수 채택(2026-10-08): 농작물 안내 전각괄호. 정상 콘텐츠의 전각·원문자·구분자 [원 DC-RH-0042]'
+  split: train
+- id: DC-222
+  category: DECOY
+  subtype: homoglyph_like_normal
+  html: "<a href=\"/board/view.gimje?boardId=BBS_0000048&amp;paging=ok&amp;startPage=153&amp;dataSid=163395\">\n\t\t\t\t\t\
+    <strong>\n\t\t\t\t\t김제 통합관제센터 관제요원 모집 관련 면접절차 및 합격자 발표관련 공고\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t</strong>\n\t\t\t\t\t<span\
+    \ class=\"txt\">김제 통합관제센터 관제요원 모집 관련 면접절차 및 합격자 발표관련 공고\n\n \n\n□ 모집 개요\n\n○ 모집기간 : ‘20.12.09 ～ 12.15 (면접일 개별통보)\n\n○\
+    \ 모집인원 : 8명\n\n○ 근무기간 : ‘21. 1. 1 ～12. 31 (12개월)\n\n○ 근 무 지 : 김제시청 신관2층 U-김제 통합관제센터\n\n○ 근무시간 : 4조 2교대\n\n(주간:08:4...</span>\
+    \ \n\t\t\t\t\t<em class=\"info\"><span>작성자 : 이춘송</span><span>작성일 : 2020.12.18</span><span>조회수 : 128</span></em> \n\t\t\
+    \t\t</a>"
+  css: ''
+  evidence_text: "김제 통합관제센터 관제요원 모집 관련 면접절차 및 합격자 발표관련 공고\n\n \n\n□ 모집 개요\n\n○ 모집기간 : ‘20.12.09 ～ 12.15 (면접일 개별통보)\n\n○ 모집인원\
+    \ : 8명\n\n○ 근무기간 : ‘21. 1. 1 ～12"
+  expected_location: span.txt
+  is_positive: false
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · https://www.gimje.go.kr/town/board/list.gimje?boardId=BBS_0000048&listRow=10&listCel=1&paging=ok&startPage=153
+  notes: '역할 C 검수 채택(2026-10-08): 관제요원 모집 공고. 정상 콘텐츠의 전각·원문자·구분자 [원 DC-RH-0043]'
+  split: train
+- id: DC-223
+  category: DECOY
+  subtype: homoglyph_like_normal
+  html: "<a href=\"/board/view.gimje?boardId=BBS_0000048&amp;paging=ok&amp;startPage=213&amp;dataSid=139740\">\n\t\t\t\t\t\
+    <strong>\n\t\t\t\t\t전국 초등학생 사진일기 공모전\n\t\t\t\t\t<i class=\"ico_file\">첨부파일 있음</i>\n\t\t\t\t\t\n\t\t\t\t\t</strong>\n\t\
+    \t\t\t\t<span class=\"txt\">\n\n-동강국제사진제- 전국 초등학생 사진일기 공모전\n\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t❍ 동강사진마을운영위원회는 미래의\
+    \ 영상시대를 열어갈 인재를 길러 내기 위해 제18회 동강국제사진제 ＜전국 초등학생 사진일기＞를 공모합니다.\n\n\n\n\t\t\t❍ 가족과 친구, 이웃 그리고 학교생활 등 학생들이 일상에서 체험하는 다양한 이야기들을\
+    \ 사진과 일기로 꾸며서 보내주세요\n\n\t\t\t\n\n\t\t\n\n...</span> \n\t\t\t\t\t<em class=\"info\"><span>작성자 : 김수영</span><span>작성일 : 2019.04.24</span><span>조회수\
+    \ : 71</span></em> \n\t\t\t\t</a>"
+  css: ''
+  evidence_text: "-동강국제사진제- 전국 초등학생 사진일기 공모전\n\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t❍ 동강사진마을운영위원회는 미래의 영상시대를 열어갈 인재를 길러\
+    \ 내기 위해 제18회 동강국제사진제 ＜전국 초등학생 사진일기＞를 공모합니다.\n\n\n\n\t\t\t❍ 가족과 친구, 이웃 그리"
+  expected_location: span.txt
+  is_positive: false
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · https://www.gimje.go.kr/town/board/list.gimje?boardId=BBS_0000048&listRow=10&listCel=1&paging=ok&startPage=213
+  notes: '역할 C 검수 채택(2026-10-08): 사진공모전 안내. 정상 콘텐츠의 전각·원문자·구분자 [원 DC-RH-0044]'
+  split: train
+- id: DC-224
+  category: DECOY
+  subtype: homoglyph_like_normal
+  html: "<a href=\"/board/view.gimje?boardId=BBS_0000048&amp;paging=ok&amp;startPage=213&amp;dataSid=139676\">\n\t\t\t\t\t\
+    <strong>\n\t\t\t\t\t지역사회와 함께하는 어울림장터\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t</strong>\n\t\t\t\t\t<span class=\"txt\">\n\n\t\
+    지역사회와 함께하는 어울림 장터\n\n\n\n\n\n\n\n김제시건강가정·다문화가족지원센터에서 주관하는 ［지역사회와 함께하는 어울림장터］에 지역민을 초대합니다.\n\n\n\n* 일 시 : 2019년 4월 27일(토)\n\
+    \n\n\n* 장 소 : 요촌근린공원 운동장\n\n\n\n* 내 용: \n\n\n\n1. 나라별 부스운영(5개국) - 필리핀, 베트남, 중국, 캄보디아, 일본\n\n\n\n2. 기타 판매 부...</span> \n\
+    \t\t\t\t\t<em class=\"info\"><span>작성자 : 이다정</span><span>작성일 : 2019.04.23</span><span>조회수 : 66</span></em> \n\t\t\t\t\
+    </a>"
+  css: ''
+  evidence_text: '지역사회와 함께하는 어울림 장터
+
+
+
+
+
+
+
+
+    김제시건강가정·다문화가족지원센터에서 주관하는 ［지역사회와 함께하는 어울림장터］에 지역민을 초대합니다.
+
+
+
+
+    * 일 시 : 2019년 4월 27일(토)
+
+
+
+
+    * 장 소 : 요촌근린공원 운동장
+
+
+
+
+    * '
+  expected_location: span.txt
+  is_positive: false
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · https://www.gimje.go.kr/town/board/list.gimje?boardId=BBS_0000048&listRow=10&listCel=1&paging=ok&startPage=213
+  notes: '역할 C 검수 채택(2026-10-08): 어울림장터 안내. 정상 콘텐츠의 전각·원문자·구분자 [원 DC-RH-0045]'
+  split: train
+- id: DC-225
+  category: DECOY
+  subtype: homoglyph_like_normal
+  html: "<a href=\"/board/view.gimje?boardId=BBS_0000048&amp;paging=ok&amp;startPage=245&amp;dataSid=64530\">\n\t\t\t\t\t\
+    <strong>\n\t\t\t\t\t구수한 무생채비빔밥\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t</strong>\n\t\t\t\t\t<span class=\"txt\">？우리집에는 참 반찬\
+    \ 재료가 풍부하다.\n\n들기름, 고추장, 계란, 무생채.\n\n출출할 땐 어김없이 계란 후라이를 해서 흩흐리고,\n\n후라이팬 위에 밥을 얹고, 위에 생채를 얹고, 아! 참 고추장도,\n\n들기름을 두 숟가락\
+    \ 뿌려 흩흐린 후라이를 섞어 버무리니\n\n세상에서 참으로 맛있는 음식이 된다.\n\n </span> \n\t\t\t\t\t<em class=\"info\"><span>작성자 : 이귀남</span><span>작성일\
+    \ : 2013.02.26</span><span>조회수 : 2015</span></em> \n\t\t\t\t</a>"
+  css: ''
+  evidence_text: '？우리집에는 참 반찬 재료가 풍부하다.
+
+
+    들기름, 고추장, 계란, 무생채.
+
+
+    출출할 땐 어김없이 계란 후라이를 해서 흩흐리고,
+
+
+    후라이팬 위에 밥을 얹고, 위에 생채를 얹고, 아! 참 고추장도,
+
+
+    들기름을 두 숟가락 뿌려 '
+  expected_location: span.txt
+  is_positive: false
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · https://www.gimje.go.kr/town/board/list.gimje?boardId=BBS_0000048&listRow=10&listCel=1&paging=ok&startPage=245
+  notes: '역할 C 검수 채택(2026-10-08): 마을 블로그 반찬글 전각？. 정상 콘텐츠의 전각·원문자·구분자 [원 DC-RH-0046]'
+  split: train
+- id: DC-226
+  category: DECOY
+  subtype: homoglyph_like_normal
+  html: "<a href=\"/kr/board/view.do?bbsId=BBS_000000000000430&amp;pageIndex=79&amp;nttId=55114&amp;menuNo=106001001000&amp;searchCategory1=&amp;searchCategory2=&amp;searchCategory3=\"\
+    >\n\n\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t옥과면 축사 매매(대지 1181㎡,  건축면적 555㎡,  태양광 설치 80kw)\n\n\t\t\t\t\t\t\t\t\t</a>"
+  css: ''
+  evidence_text: 옥과면 축사 매매(대지 1181㎡,  건축면적 555㎡,  태양광 설치 80kw)
+  expected_location: a
+  is_positive: false
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · https://www.gokseong.go.kr/kr/board/list.do?bbsId=BBS_000000000000430&menuNo=106001001000&pageIndex=79
+  notes: '역할 C 검수 채택(2026-10-08): 축사 매매 개인 분류글 ㎡. 정상 콘텐츠의 전각·원문자·구분자 [원 DC-RH-0048]'
+  split: val
+- id: DC-227
+  category: DECOY
+  subtype: homoglyph_like_normal
+  html: <a href="/customer/board.php?ptype=view&amp;idx=9736&amp;page=12&amp;code=board">[석유화학 입문교육Ⅱ] 올레핀·폴리올레핀·아로마틱 제품 및
+    주요 공정과 원료변화의 이해!</a>
+  css: ''
+  evidence_text: '[석유화학 입문교육Ⅱ] 올레핀·폴리올레핀·아로마틱 제품 및 주요 공정과 원료변화의 이해!'
+  expected_location: a
+  is_positive: false
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · http://www.kcoal.or.kr/customer/board.php?code=board&page=12
+  notes: '역할 C 검수 채택(2026-10-08): 석유화학 교육Ⅱ 로마숫자. 정상 콘텐츠의 전각·원문자·구분자 [원 DC-RH-0060]'
+  split: train
+- id: DC-228
+  category: DECOY
+  subtype: homoglyph_like_normal
+  html: <a href="/customer/board.php?ptype=view&amp;idx=9620&amp;page=12&amp;code=board">폴리머교육Ⅱ - EP와 플라스틱 압출 및 사출공정의 이해와
+    응용 [8/29-30]</a>
+  css: ''
+  evidence_text: 폴리머교육Ⅱ - EP와 플라스틱 압출 및 사출공정의 이해와 응용 [8/29-30]
+  expected_location: a
+  is_positive: false
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · http://www.kcoal.or.kr/customer/board.php?code=board&page=12
+  notes: '역할 C 검수 채택(2026-10-08): 폴리머 교육Ⅱ. 정상 콘텐츠의 전각·원문자·구분자 [원 DC-RH-0061]'
+  split: train
+- id: DC-229
+  category: DECOY
+  subtype: homoglyph_like_normal
+  html: <a href="/customer/board.php?ptype=view&amp;idx=9460&amp;page=13&amp;code=board">석유화학 입문교육Ⅱ - 주요공정 및 탄소중립을 위한 신공정
+    교육 개최![4/25-26]</a>
+  css: ''
+  evidence_text: 석유화학 입문교육Ⅱ - 주요공정 및 탄소중립을 위한 신공정 교육 개최![4/25-26]
+  expected_location: a
+  is_positive: false
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · http://www.kcoal.or.kr/customer/board.php?code=board&page=13
+  notes: '역할 C 검수 채택(2026-10-08): 석유화학 교육Ⅱ. 정상 콘텐츠의 전각·원문자·구분자 [원 DC-RH-0062]'
+  split: train
+- id: DC-230
+  category: DECOY
+  subtype: homoglyph_like_normal
+  html: <a href="/customer/board.php?ptype=view&amp;idx=9380&amp;page=13&amp;code=board">24년도 폴리머 교육(Ⅰ) - 5대 범용 폴리머의 이해 및
+    활용</a>
+  css: ''
+  evidence_text: 24년도 폴리머 교육(Ⅰ) - 5대 범용 폴리머의 이해 및 활용
+  expected_location: a
+  is_positive: false
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · http://www.kcoal.or.kr/customer/board.php?code=board&page=13
+  notes: '역할 C 검수 채택(2026-10-08): 폴리머 교육Ⅰ. 정상 콘텐츠의 전각·원문자·구분자 [원 DC-RH-0063]'
+  split: train
+- id: DC-231
+  category: DECOY
+  subtype: homoglyph_like_normal
+  html: <a href="/customer/board.php?ptype=view&amp;idx=9345&amp;page=13&amp;code=board">폴리머교육(Ⅲ)-복합재 특성 및 성형기술 개최! [11/23-24]</a>
+  css: ''
+  evidence_text: 폴리머교육(Ⅲ)-복합재 특성 및 성형기술 개최! [11/23-24]
+  expected_location: a
+  is_positive: false
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · http://www.kcoal.or.kr/customer/board.php?code=board&page=13
+  notes: '역할 C 검수 채택(2026-10-08): 폴리머 교육Ⅲ. 정상 콘텐츠의 전각·원문자·구분자 [원 DC-RH-0064]'
+  split: train
+- id: DC-232
+  category: DECOY
+  subtype: homoglyph_like_normal
+  html: <a href="/customer/board.php?ptype=view&amp;idx=5345&amp;page=16&amp;code=board">［공지］건축 및 산업용 단열재 기술 세미나 (할인중)</a>
+  css: ''
+  evidence_text: ［공지］건축 및 산업용 단열재 기술 세미나 (할인중)
+  expected_location: a
+  is_positive: false
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · http://www.kcoal.or.kr/customer/board.php?code=board&page=16
+  notes: '역할 C 검수 채택(2026-10-08): 단열재 세미나 공지. 정상 콘텐츠의 전각·원문자·구분자 [원 DC-RH-0065]'
+  split: train
+- id: DC-233
+  category: DECOY
+  subtype: homoglyph_like_normal
+  html: <a href="/zbxe/index.php?mid=board2&amp;page=22&amp;document_srl=128097">한국장애인고용안정협회 구성원분들을 위한 의료복지（약 650개 진료 프로그램）</a>
+  css: ''
+  evidence_text: 한국장애인고용안정협회 구성원분들을 위한 의료복지（약 650개 진료 프로그램）
+  expected_location: a
+  is_positive: false
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · http://www.kesad.or.kr/zbxe/index.php?mid=board2&page=22
+  notes: '역할 C 검수 채택(2026-10-08): 협회 의료복지 전각괄호. 정상 콘텐츠의 전각·원문자·구분자 [원 DC-RH-0066]'
+  split: val
+- id: DC-234
+  category: DECOY
+  subtype: homoglyph_like_normal
+  html: <a href="/zbxe/index.php?mid=board2&amp;page=24&amp;document_srl=127753">1. 어문 규정에 제시된 10개의 단모음을 모음의 분류 기준에 따라 IPA를
+    밝혀 제시하십시오.(5주차 강의 참고)， 2. 1번의 모음 중에서 표준어를 구사하는 모국어 화자의 실제 언어생활에서 이중모음으로 발음하거나 그 소릿값을 변별하지 못하는 모음을 찾아 쓰십시오. (6주차 강의 참고)，
+    3. 2번의 모음들을 표준발음법에 맞게 단모음으로 발음하려면 어떤 노력을 해야 할지 구체적으로 설명하십시오.</a>
+  css: ''
+  evidence_text: 1. 어문 규정에 제시된 10개의 단모음을 모음의 분류 기준에 따라 IPA를 밝혀 제시하십시오.(5주차 강의 참고)， 2. 1번의 모음 중에서 표준어를 구사하는 모국어 화자의 실제 언어생활에서
+    이중모음으로 발음하거나
+  expected_location: a
+  is_positive: false
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · http://www.kesad.or.kr/zbxe/index.php?mid=board2&page=24
+  notes: '역할 C 검수 채택(2026-10-08): 어문규정 과제 전각쉼표. 정상 콘텐츠의 전각·원문자·구분자 [원 DC-RH-0067]'
+  split: val
+- id: DC-235
+  category: DECOY
+  subtype: homoglyph_like_normal
+  html: <a href="/zbxe/index.php?mid=board2&amp;page=28&amp;document_srl=127565">고려시대와 조선시대의 정치구조，사회경제적 차이점을 정리하여 제출하시오.</a>
+  css: ''
+  evidence_text: 고려시대와 조선시대의 정치구조，사회경제적 차이점을 정리하여 제출하시오.
+  expected_location: a
+  is_positive: false
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · http://www.kesad.or.kr/zbxe/index.php?mid=board2&page=28
+  notes: '역할 C 검수 채택(2026-10-08): 역사 과제 전각쉼표. 정상 콘텐츠의 전각·원문자·구분자 [원 DC-RH-0068]'
+  split: val
+- id: DC-236
+  category: DECOY
+  subtype: homoglyph_like_normal
+  html: <a href="/zbxe/index.php?mid=board2&amp;page=33&amp;document_srl=127319">한국 문화 교수요목 설계 시 고려해야 할 것은 무엇인지 생각해 봅시다. (유학생／
+    여성결혼이민자／ 외국인 근로자)</a>
+  css: ''
+  evidence_text: 한국 문화 교수요목 설계 시 고려해야 할 것은 무엇인지 생각해 봅시다. (유학생／ 여성결혼이민자／ 외국인 근로자)
+  expected_location: a
+  is_positive: false
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · http://www.kesad.or.kr/zbxe/index.php?mid=board2&page=33
+  notes: '역할 C 검수 채택(2026-10-08): 한국문화 과제 전각슬래시. 정상 콘텐츠의 전각·원문자·구분자 [원 DC-RH-0069]'
+  split: val
+- id: DC-237
+  category: DECOY
+  subtype: homoglyph_like_normal
+  html: <a href="/zbxe/index.php?mid=board2&amp;page=55&amp;document_srl=125967">과제는 사회복지사로서 프로그램을 개발해보는 것입니다. 다음의 목차를 참고해보세요.
+    Ⅰ. 사회문제와 욕구가 사회(혹은 본인의 실생활)에서 어떻게 드러나는지 설명. 예를 들어, ‘청소년 미혼모 가정의 빈곤’, ‘학교 폭력 피해자의 학업중퇴 문제’</a>
+  css: ''
+  evidence_text: 과제는 사회복지사로서 프로그램을 개발해보는 것입니다. 다음의 목차를 참고해보세요. Ⅰ. 사회문제와 욕구가 사회(혹은 본인의 실생활)에서 어떻게 드러나는지 설명. 예를 들어, ‘청소년 미혼모
+    가정의 빈곤’, ‘학교 폭
+  expected_location: a
+  is_positive: false
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · http://www.kesad.or.kr/zbxe/index.php?mid=board2&page=55
+  notes: '역할 C 검수 채택(2026-10-08): 사회복지 과제 로마숫자. 정상 콘텐츠의 전각·원문자·구분자 [원 DC-RH-0070]'
+  split: val
+- id: DC-239
+  category: DECOY
+  subtype: homoglyph_like_normal
+  html: '<p><span style="font-size: 16px;">사회복지법인 소화자매원 소화천사의집  </span><span style="font-size: 16px;">│ 광주광역시 남구 용대로74번길 25-1
+     </span></p>'
+  css: ''
+  evidence_text: │ 광주광역시 남구 용대로74번길 25-1
+  expected_location: span:nth-of-type(2)
+  is_positive: false
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · http://sohwa-cs.or.kr/42/?page=1
+  notes: '역할 C 검수 채택(2026-10-08): 기관 주소 │. 정상 콘텐츠의 전각·원문자·구분자 [원 DC-RH-0073]'
+  split: val
+- id: DC-240
+  category: DECOY
+  subtype: homoglyph_like_normal
+  html: '<p><span style="font-size: 16px;"><strong>전화</strong> 062-675-4020  │ <strong>팩스</strong> 062-675-0805  │ <strong>이메일</strong>
+    <a href="mailto:sohwa-cs@hanmail.net">sohwa-cs@hanmail.net</a></span></p>'
+  css: ''
+  evidence_text: 전화 062-675-4020  │ 팩스 062-675-0805  │ 이메일 sohwa-cs@hanmail.net
+  expected_location: span
+  is_positive: false
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · http://sohwa-cs.or.kr/42/?page=1
+  notes: '역할 C 검수 채택(2026-10-08): 기관 전화/팩스/이메일 footer. 정상 콘텐츠의 전각·원문자·구분자 [원 DC-RH-0074]'
+  split: val

@@ -1126,6 +1126,230 @@
       "location": "u",
       "evidence_text": "09:00 이후 충전 즉시 지급",
       "subtype": "risky_word_normal"
+    },
+    {
+      "id": "DC-205",
+      "url": "https://www.ngii.go.kr/kor/search.do?keyword=7%E2%94%B8%EC%A3%BC%EC%8B%9D%EB%94%94%EB%B9%84%E2%88%97%EF%B9%9D%ED%85%94%E3%84%B9%E3%85%94dbkoa%EF%B9%9E%EC%A3%BC%EC%8B%9DDB%E3%88%8A%EC%A3%BC%EC%8B%9DDB%EA%B5%AC%EB%A7%A4%E2%99%A0%EC%A3%BC%EC%8B%9D%EB%94%94%EB%B9%84+%EC%82%BD%EB%8B%88%EB%8B%A4%E2%A6%88%EC%B5%9C%EC%8B%A0%EC%A3%BC%EC%8B%9D%EB%94%94%EB%B9%84~%EC%A3%BC%EC%8B%9DDB%E2%8B%B6%EC%A3%BC%EC%8B%9Ddb%EA%B0%80%EA%B2%A9",
+      "location": "dd.date",
+      "evidence_text": "- 계획된 비행선을 따라 필요한 축척으로 촬영\n\n\t\t\t\t\t\t\t(1)비행방향으로 60% 중복촬영\n\n\t\t\t\t\t\t\t(2)인접방향으로 30% 중복촬영\n\t\t\t\t\t\t\n항공사진촬영\n항공사진제작\n항공사진 종류별 항공사진제작",
+      "subtype": "homoglyph_like_normal"
+    },
+    {
+      "id": "DC-206",
+      "url": "https://www.ngii.go.kr/kor/search.do?keyword=7%E2%94%B8%EC%A3%BC%EC%8B%9D%EB%94%94%EB%B9%84%E2%88%97%EF%B9%9D%ED%85%94%E3%84%B9%E3%85%94dbkoa%EF%B9%9E%EC%A3%BC%EC%8B%9DDB%E3%88%8A%EC%A3%BC%EC%8B%9DDB%EA%B5%AC%EB%A7%A4%E2%99%A0%EC%A3%BC%EC%8B%9D%EB%94%94%EB%B9%84+%EC%82%BD%EB%8B%88%EB%8B%A4%E2%A6%88%EC%B5%9C%EC%8B%A0%EC%A3%BC%EC%8B%9D%EB%94%94%EB%B9%84~%EC%A3%BC%EC%8B%9DDB%E2%8B%B6%EC%A3%BC%EC%8B%9Ddb%EA%B0%80%EA%B2%A9",
+      "location": "dd:nth-of-type(1)",
+      "evidence_text": "8월 18일(화)∼2026년 10월 6일(화) 오후 6시까지 \nㅇ 작품주제: '일상생활의 지도'(Map In Everyday Life)\n \n- 세계지도를 상상력과 창의력으로 자유롭게 일상생활의 지도로 표현하세요!",
+      "subtype": "homoglyph_like_normal"
+    },
+    {
+      "id": "DC-207",
+      "url": "https://www.ngii.go.kr/kor/search.do?keyword=7%E2%94%B8%EC%A3%BC%EC%8B%9D%EB%94%94%EB%B9%84%E2%88%97%EF%B9%9D%ED%85%94%E3%84%B9%E3%85%94dbkoa%EF%B9%9E%EC%A3%BC%EC%8B%9DDB%E3%88%8A%EC%A3%BC%EC%8B%9DDB%EA%B5%AC%EB%A7%A4%E2%99%A0%EC%A3%BC%EC%8B%9D%EB%94%94%EB%B9%84+%EC%82%BD%EB%8B%88%EB%8B%A4%E2%A6%88%EC%B5%9C%EC%8B%A0%EC%A3%BC%EC%8B%9D%EB%94%94%EB%B9%84~%EC%A3%BC%EC%8B%9DDB%E2%8B%B6%EC%A3%BC%EC%8B%9Ddb%EA%B0%80%EA%B2%A9",
+      "location": "span:nth-of-type(1)",
+      "evidence_text": "[박물관] &gt;게시판&gt;공지사항｜",
+      "subtype": "homoglyph_like_normal"
+    },
+    {
+      "id": "DC-208",
+      "url": "https://www.ngii.go.kr/kor/search.do?keyword=7%E2%94%B8%EC%A3%BC%EC%8B%9D%EB%94%94%EB%B9%84%E2%88%97%EF%B9%9D%ED%85%94%E3%84%B9%E3%85%94dbkoa%EF%B9%9E%EC%A3%BC%EC%8B%9DDB%E3%88%8A%EC%A3%BC%EC%8B%9DDB%EA%B5%AC%EB%A7%A4%E2%99%A0%EC%A3%BC%EC%8B%9D%EB%94%94%EB%B9%84+%EC%82%BD%EB%8B%88%EB%8B%A4%E2%A6%88%EC%B5%9C%EC%8B%A0%EC%A3%BC%EC%8B%9D%EB%94%94%EB%B9%84~%EC%A3%BC%EC%8B%9DDB%E2%8B%B6%EC%A3%BC%EC%8B%9Ddb%EA%B0%80%EA%B2%A9",
+      "location": "span:nth-of-type(1)",
+      "evidence_text": "[국문] &gt;알림&gt;고시｜",
+      "subtype": "homoglyph_like_normal"
+    },
+    {
+      "id": "DC-209",
+      "url": "https://www.ngii.go.kr/kor/search.do?keyword=7%E2%94%B8%EC%A3%BC%EC%8B%9D%EB%94%94%EB%B9%84%E2%88%97%EF%B9%9D%ED%85%94%E3%84%B9%E3%85%94dbkoa%EF%B9%9E%EC%A3%BC%EC%8B%9DDB%E3%88%8A%EC%A3%BC%EC%8B%9DDB%EA%B5%AC%EB%A7%A4%E2%99%A0%EC%A3%BC%EC%8B%9D%EB%94%94%EB%B9%84+%EC%82%BD%EB%8B%88%EB%8B%A4%E2%A6%88%EC%B5%9C%EC%8B%A0%EC%A3%BC%EC%8B%9D%EB%94%94%EB%B9%84~%EC%A3%BC%EC%8B%9DDB%E2%8B%B6%EC%A3%BC%EC%8B%9Ddb%EA%B0%80%EA%B2%A9",
+      "location": "dd:nth-of-type(1)",
+      "evidence_text": ";15일 ∼ 10월 17일 오후 6시까지 \n \nㅇ 작품주제 : “일상생활의 지도”(Map in Everyday Life)\n \n- 우리의 일상생활을 담은 세계지도를 창의적으로 자유롭게 표현해주세요!\n \nㅇ 응모 방법",
+      "subtype": "homoglyph_like_normal"
+    },
+    {
+      "id": "DC-210",
+      "url": "https://oiaglobal.bufs.ac.kr/index.php?mid=event&page=1",
+      "location": "li:nth-of-type(5) > a",
+      "evidence_text": "Events＆Jobs",
+      "subtype": "homoglyph_like_normal"
+    },
+    {
+      "id": "DC-212",
+      "url": "https://www.bufs.ac.kr/bbs/board.php?bo_table=biz_board&page=1",
+      "location": "li.swiper-slide:nth-of-type(5) > a",
+      "evidence_text": "질문 ＆ 답변",
+      "subtype": "homoglyph_like_normal"
+    },
+    {
+      "id": "DC-213",
+      "url": "https://www.guro.go.kr/www/selectBbsNttList.do?key=1728&bbsNo=653&pageIndex=1",
+      "location": "li.depth_item.depth5_item:nth-of-type(6) > a.depth_text.depth5_text",
+      "evidence_text": "저당권등록（설정, 말소）",
+      "subtype": "homoglyph_like_normal"
+    },
+    {
+      "id": "DC-214",
+      "url": "https://www.guro.go.kr/www/selectBbsNttList.do?key=1728&bbsNo=653&pageIndex=1",
+      "location": "address",
+      "evidence_text": "대표번호 02-860-2114,2127~9（120 서울시 응답소로 연결）| 당직실(야간,공휴일) : 02-860-2669 | FAX:02-864-9595",
+      "subtype": "homoglyph_like_normal"
+    },
+    {
+      "id": "DC-215",
+      "url": "https://www.guro.go.kr/www/selectBbsNttList.do?key=1728&bbsNo=653&pageIndex=1",
+      "location": "span.address",
+      "evidence_text": "[08284] 서울특별시 구로구 가마산로 245 （구로동, 구로구청）",
+      "subtype": "homoglyph_like_normal"
+    },
+    {
+      "id": "DC-216",
+      "url": "https://www.guro.go.kr/www/selectBbsNttList.do?key=1728&bbsNo=653&pageIndex=1",
+      "location": "p",
+      "evidence_text": "Copyright（C） GURO-GU. ALL RIGHTS RESERVED.",
+      "subtype": "homoglyph_like_normal"
+    },
+    {
+      "id": "DC-219",
+      "url": "https://www.gimje.go.kr/town/board/list.gimje?boardId=BBS_0000048&listRow=10&listCel=1&paging=ok&startPage=81",
+      "location": "span.txt",
+      "evidence_text": "1. 대    상 : 전국 초등학생(홈스쿨링 초등학생)\n\n2. 작품내용 : 미발표 자유작\n\n3. 작품규격 : A3사이즈의 두꺼운 흰 종이, 사진 8×10인치 크기(사진규격엄수)\n\n4. 출품매수 : 1인 3점이내(출품료없음)\n\n5",
+      "subtype": "homoglyph_like_normal"
+    },
+    {
+      "id": "DC-220",
+      "url": "https://www.gimje.go.kr/town/board/list.gimje?boardId=BBS_0000048&listRow=10&listCel=1&paging=ok&startPage=105",
+      "location": "span.txt",
+      "evidence_text": "1. 대 상 : 전국 초등학생\n\n \n\n2. 작품내용 : 미발표 자유작\n\n \n\n3. 작품규격 : 바탕종이 30×42cm(두꺼운 흰 종이), 사진 8×10인치 크기(사진규격엄수)\n\n \n\n4. 출품매수 : 1인 3점이내(출품료없음)\n\n \n\n5. 출품",
+      "subtype": "homoglyph_like_normal"
+    },
+    {
+      "id": "DC-221",
+      "url": "https://www.gimje.go.kr/town/board/list.gimje?boardId=BBS_0000048&listRow=10&listCel=1&paging=ok&startPage=121",
+      "location": "strong",
+      "evidence_text": "＜ 탄저.연작장해 확실히 잡고 다수확＞",
+      "subtype": "homoglyph_like_normal"
+    },
+    {
+      "id": "DC-222",
+      "url": "https://www.gimje.go.kr/town/board/list.gimje?boardId=BBS_0000048&listRow=10&listCel=1&paging=ok&startPage=153",
+      "location": "span.txt",
+      "evidence_text": "김제 통합관제센터 관제요원 모집 관련 면접절차 및 합격자 발표관련 공고\n\n \n\n□ 모집 개요\n\n○ 모집기간 : ‘20.12.09 ～ 12.15 (면접일 개별통보)\n\n○ 모집인원 : 8명\n\n○ 근무기간 : ‘21. 1. 1 ～12",
+      "subtype": "homoglyph_like_normal"
+    },
+    {
+      "id": "DC-223",
+      "url": "https://www.gimje.go.kr/town/board/list.gimje?boardId=BBS_0000048&listRow=10&listCel=1&paging=ok&startPage=213",
+      "location": "span.txt",
+      "evidence_text": "-동강국제사진제- 전국 초등학생 사진일기 공모전\n\n\n\n\n\n\t\n\n\t\t\n\n\t\t\t\n\n\t\t\t❍ 동강사진마을운영위원회는 미래의 영상시대를 열어갈 인재를 길러 내기 위해 제18회 동강국제사진제 ＜전국 초등학생 사진일기＞를 공모합니다.\n\n\n\n\t\t\t❍ 가족과 친구, 이웃 그리",
+      "subtype": "homoglyph_like_normal"
+    },
+    {
+      "id": "DC-224",
+      "url": "https://www.gimje.go.kr/town/board/list.gimje?boardId=BBS_0000048&listRow=10&listCel=1&paging=ok&startPage=213",
+      "location": "span.txt",
+      "evidence_text": "지역사회와 함께하는 어울림 장터\n\n\n\n\n\n\n\n김제시건강가정·다문화가족지원센터에서 주관하는 ［지역사회와 함께하는 어울림장터］에 지역민을 초대합니다.\n\n\n\n* 일 시 : 2019년 4월 27일(토)\n\n\n\n* 장 소 : 요촌근린공원 운동장\n\n\n\n* ",
+      "subtype": "homoglyph_like_normal"
+    },
+    {
+      "id": "DC-225",
+      "url": "https://www.gimje.go.kr/town/board/list.gimje?boardId=BBS_0000048&listRow=10&listCel=1&paging=ok&startPage=245",
+      "location": "span.txt",
+      "evidence_text": "？우리집에는 참 반찬 재료가 풍부하다.\n\n들기름, 고추장, 계란, 무생채.\n\n출출할 땐 어김없이 계란 후라이를 해서 흩흐리고,\n\n후라이팬 위에 밥을 얹고, 위에 생채를 얹고, 아! 참 고추장도,\n\n들기름을 두 숟가락 뿌려 ",
+      "subtype": "homoglyph_like_normal"
+    },
+    {
+      "id": "DC-226",
+      "url": "https://www.gokseong.go.kr/kr/board/list.do?bbsId=BBS_000000000000430&menuNo=106001001000&pageIndex=79",
+      "location": "a",
+      "evidence_text": "옥과면 축사 매매(대지 1181㎡,  건축면적 555㎡,  태양광 설치 80kw)",
+      "subtype": "homoglyph_like_normal"
+    },
+    {
+      "id": "DC-227",
+      "url": "http://www.kcoal.or.kr/customer/board.php?code=board&page=12",
+      "location": "a",
+      "evidence_text": "[석유화학 입문교육Ⅱ] 올레핀·폴리올레핀·아로마틱 제품 및 주요 공정과 원료변화의 이해!",
+      "subtype": "homoglyph_like_normal"
+    },
+    {
+      "id": "DC-228",
+      "url": "http://www.kcoal.or.kr/customer/board.php?code=board&page=12",
+      "location": "a",
+      "evidence_text": "폴리머교육Ⅱ - EP와 플라스틱 압출 및 사출공정의 이해와 응용 [8/29-30]",
+      "subtype": "homoglyph_like_normal"
+    },
+    {
+      "id": "DC-229",
+      "url": "http://www.kcoal.or.kr/customer/board.php?code=board&page=13",
+      "location": "a",
+      "evidence_text": "석유화학 입문교육Ⅱ - 주요공정 및 탄소중립을 위한 신공정 교육 개최![4/25-26]",
+      "subtype": "homoglyph_like_normal"
+    },
+    {
+      "id": "DC-230",
+      "url": "http://www.kcoal.or.kr/customer/board.php?code=board&page=13",
+      "location": "a",
+      "evidence_text": "24년도 폴리머 교육(Ⅰ) - 5대 범용 폴리머의 이해 및 활용",
+      "subtype": "homoglyph_like_normal"
+    },
+    {
+      "id": "DC-231",
+      "url": "http://www.kcoal.or.kr/customer/board.php?code=board&page=13",
+      "location": "a",
+      "evidence_text": "폴리머교육(Ⅲ)-복합재 특성 및 성형기술 개최! [11/23-24]",
+      "subtype": "homoglyph_like_normal"
+    },
+    {
+      "id": "DC-232",
+      "url": "http://www.kcoal.or.kr/customer/board.php?code=board&page=16",
+      "location": "a",
+      "evidence_text": "［공지］건축 및 산업용 단열재 기술 세미나 (할인중)",
+      "subtype": "homoglyph_like_normal"
+    },
+    {
+      "id": "DC-233",
+      "url": "http://www.kesad.or.kr/zbxe/index.php?mid=board2&page=22",
+      "location": "a",
+      "evidence_text": "한국장애인고용안정협회 구성원분들을 위한 의료복지（약 650개 진료 프로그램）",
+      "subtype": "homoglyph_like_normal"
+    },
+    {
+      "id": "DC-234",
+      "url": "http://www.kesad.or.kr/zbxe/index.php?mid=board2&page=24",
+      "location": "a",
+      "evidence_text": "1. 어문 규정에 제시된 10개의 단모음을 모음의 분류 기준에 따라 IPA를 밝혀 제시하십시오.(5주차 강의 참고)， 2. 1번의 모음 중에서 표준어를 구사하는 모국어 화자의 실제 언어생활에서 이중모음으로 발음하거나",
+      "subtype": "homoglyph_like_normal"
+    },
+    {
+      "id": "DC-235",
+      "url": "http://www.kesad.or.kr/zbxe/index.php?mid=board2&page=28",
+      "location": "a",
+      "evidence_text": "고려시대와 조선시대의 정치구조，사회경제적 차이점을 정리하여 제출하시오.",
+      "subtype": "homoglyph_like_normal"
+    },
+    {
+      "id": "DC-236",
+      "url": "http://www.kesad.or.kr/zbxe/index.php?mid=board2&page=33",
+      "location": "a",
+      "evidence_text": "한국 문화 교수요목 설계 시 고려해야 할 것은 무엇인지 생각해 봅시다. (유학생／ 여성결혼이민자／ 외국인 근로자)",
+      "subtype": "homoglyph_like_normal"
+    },
+    {
+      "id": "DC-237",
+      "url": "http://www.kesad.or.kr/zbxe/index.php?mid=board2&page=55",
+      "location": "a",
+      "evidence_text": "과제는 사회복지사로서 프로그램을 개발해보는 것입니다. 다음의 목차를 참고해보세요. Ⅰ. 사회문제와 욕구가 사회(혹은 본인의 실생활)에서 어떻게 드러나는지 설명. 예를 들어, ‘청소년 미혼모 가정의 빈곤’, ‘학교 폭",
+      "subtype": "homoglyph_like_normal"
+    },
+    {
+      "id": "DC-239",
+      "url": "http://sohwa-cs.or.kr/42/?page=1",
+      "location": "span:nth-of-type(2)",
+      "evidence_text": "│ 광주광역시 남구 용대로74번길 25-1",
+      "subtype": "homoglyph_like_normal"
+    },
+    {
+      "id": "DC-240",
+      "url": "http://sohwa-cs.or.kr/42/?page=1",
+      "location": "span",
+      "evidence_text": "전화 062-675-4020  │ 팩스 062-675-0805  │ 이메일 sohwa-cs@hanmail.net",
+      "subtype": "homoglyph_like_normal"
     }
   ]
 }
