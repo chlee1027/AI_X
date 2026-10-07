@@ -15,7 +15,7 @@
 | 파일 | 개수 | 구성 | 검증 |
 |---|---|---|---|
 | `data/samples/decoy.yaml` | **200** | a11y_sr_only 80 · hidden_menu 60 · policy_text 30 · risky_word_normal 30 | 오류 0. 53개 기관·업체 사이트 실측 |
-| `data/samples/etc.yaml` | **200** | zero_width 99 · link_cloaking 41 · encoding 40 · meta_cloaking 20 · css_content 0 | 오류 0. 39개 사이트. css_content 만 쿼터(20)에 못 미친다. 10-06 중복 정리(아래 「10-06 중복 정리」) |
+| `data/samples/etc.yaml` | **220** | zero_width 99 · link_cloaking 41 · encoding 60(URL 퍼센트 40 · 숫자 엔티티 20) · meta_cloaking 20 · css_content 0 | 오류 0. 51개 사이트. css_content 만 쿼터(20)에 못 미친다. 10-06 중복 정리(아래 「10-06 중복 정리」), 10-07 숫자 엔티티 20 덧붙임(ET-210~229, 아래 「10-07 숫자 엔티티」) |
 | `data/samples/combo_real.yaml` | **250** | 한 요소에 회피 수법 2~5개가 겹친 실제 광고 | 오류 0. 44개 사이트. 194번부터는 「안 쏠리게」 규칙으로 덧붙인 것(아래 「덧붙이기」), CB-251~258 은 10-06 중복 정리로 채운 것 |
 | `data/samples/jamo.yaml` | **147** | 사람 4 몫 JAMO 실측 (compat_full 17 · partial_mix 58 · conjoining_u1100 20 · mixed_technique 52) | 2026-10-05 역할 C 점검·수정, 10-06 사람 4 추가분 5건(JM-143~147). `data/JAMO_LEXICON_변경요약_20261005.md` 참고 |
 | `data/offscreen/data/originals/offscreen_originals.yaml` | **100** | 사람 3 몫 OFFSCREEN 광고 원문 (font_left_display 45 · visibility_hidden 15 · clip 15 · text_indent 10 · transform_outside 15) | 계획서 쿼터 충족. 100개 모두 html·css 만 띄워 숨김 확인(`tools/validate/check_offscreen.py`). `data/offscreen/변경요약_20261005.md` 참고 |
@@ -33,9 +33,11 @@
 - **zero_width 가 많은 이유:** 「KC7979.COM」 업자 캠페인이 `토­토`, `카­지노`, `먹­튀`처럼 음절마다 소프트 하이픈을 넣은 글을 여러 사이트에 대량으로 올리고 있기 때문이다.
 - **css_content:** 0건. `::before/::after` 로 광고를 넣은 실사례가 없었다.
   - 페이지 안 style 과 사이트 자체 CSS 파일 621개를 모두 훑었다. content 에 한글이 든 규칙 137건은 전부 「학점」·「새창」·「작성자」 같은 화면 라벨이었다.
-- **encoding:** 40건, 모두 **URL 퍼센트 인코딩**이다. 숫자 엔티티·base64 로 광고를 적은 실사례는 0건이다(base64 로 잡힌 것은 모두 아임웹 사이트 설정 JSON).
+- **encoding:** 60건. 40건은 **URL 퍼센트 인코딩**(아래), 20건은 10-07 에 덧붙인 **숫자 엔티티**(아래 「10-07 숫자 엔티티」)다. base64 실사례는 0건이다(base64 로 잡힌 것은 모두 아임웹 사이트 설정 JSON).
+
+  > 10-03~10-06 판에는 「숫자 엔티티·base64 실사례 0건」으로 적었다. 숫자 엔티티는 우리가 받은 원문(국내 게시판 위주)에서 0건이었던 것이고, 10-07 에 HTML 소스 검색 엔진으로 해외 페이지를 찾아 20건을 넣었다.
   - 형태: 화면 앵커는 「신용회복가망바로가기」인데 href 는 무관한 외부 사이트의 검색 주소이고, 검색어 자리에 `%E2%82%B1%EB%8C%80%EC%B6%9C…` 처럼 인코딩된 광고 문구(「대출연체디비 토토디비판매사이트」, `@FUTIN888`)가 들어 있다.
-  - 요강의 encoding 예시(엔티티·Base64)와 수법이 다르므로 팀이 이 하위 유형으로 인정할지 확인이 필요하다(아래 「결정이 필요한 것」).
+  - 요강의 encoding 예시(엔티티·Base64)와 수법이 다르므로 팀이 이 하위 유형으로 인정할지 확인이 필요하다(아래 「결정이 필요한 것」). 인정하지 않아도 숫자 엔티티 20건은 남는다.
   - 10-04 에 `tools/analyze/scan_encoding.py` 로 원문 2,654쪽을 다시 훑었다. 속성 안 Base64(`go.php?url=aHR0c…` 꼴)·숫자 엔티티는 0건, 스크립트 안 Base64 237건은 전부 사이트 설정 JSON, `\u` 이스케이프 30,351건은 전부 아임웹이 글 데이터를 저장한 형식이었다(26,141건은 같은 문구가 화면에도 보인다. 나머지 4,210건도 모두 아임웹 페이지의 스크립트 데이터다).
 
 ## 무엇이 들어 있나
@@ -49,7 +51,7 @@
 - **policy_text·risky_word_normal:** 사감위·생활법령·교육청·관세청·복지로·지역화폐·서점 공지 등의 실제 본문이다. 후보 136개를 읽고 뜻으로 30개씩 골랐다. 「①」·「출처」·첨부파일명 같은 조각과 이미 고른 것과 같은 조문은 뺐다.
 - 100개 판은 `data/raw/decoy/decoy_100_backup.yaml` 에 있다. 앞 100개의 선택 번호는 그대로이고 뒤에 덧붙였다.
 
-### ETC 200
+### ETC 220
 
 | 하위 유형 | 출처 | 실제 형태 |
 |---|---|---|
@@ -66,8 +68,22 @@
 | encoding 25 | uisp.ikw.ac.kr·jnbburi.or.kr·ypcd.or.kr·kusta.or.kr·dspremiumlounge.com 게시판 스팸 (@FUTIN888 디비 판매) | 앵커 「신용회복가망바로가기」, href 는 `…/search?q=%E2%82%B1%EB%8C%80%EC%B6%9C…` → 디코딩하면 「₱대출연체디비⩂토토디비판매사이트…」 |
 | encoding 10 | mcmuni.com(신분 위조·대출 대행)·ymhitech.hdib.gethompy.com(테더 현금화) 게시판 | 앵커 「신원조사 의뢰」·「테더코인이체구입」, href 검색어 → 「…@lhhjjhh 소명자료 편집…작업대출 외주대행」, 「텔레@tetherzon…테더코인매입」 |
 | encoding 5 | biam.co.kr 게시판 (선불유심 대출) | 앵커 「선불유심대출」, href 검색어 → 「〘선불유심대출〘】선불유심개통】「비상금대출「…」 |
+| encoding 14 (숫자 엔티티, 가) | 넘어간 도메인 7곳: coinist.io · migraineresearchfoundation.org · sociologyinfocus.com · binaryuno.com · ptep-online.com · readytalk.com · snappytv.com. 사이트당 2건(제목 하나·본문 하나) | 페이지 전체가 한국어 도박 홍보이고 본문 한글이 전부 `&#52852;&#51648;&#45432;`(카지노) 꼴 숫자 엔티티. migraineresearchfoundation.org 는 원래 메뉴가 남은 채 테마가 바뀐 해킹 워드프레스 |
+| encoding 6 (숫자 엔티티, 나) | 해외 블로그 5곳: indexrotator.com · svarogday.com · thebestofcafucus.com(2) · valid.global · newsfiber.com | 정상 제목 페이지의 바닥글 링크 목록·본문 링크 앵커가 `&#53664;&#53664;&#49324;&#51060;&#53944;`(토토사이트) 꼴. 목적지 bio-medicine.org·upkorea.net·doteshopping.com·slatewinebar.com·verlocal.com·busiweek.com(넘어간 도메인, 미방문) |
 | meta_cloaking 10 | UNIST 헬스케어센터 Q&A | 스팸 글 본문은 지워져 404 인데 title·description·og·twitter 메타에 광고가 남음 |
 | meta_cloaking 10 | tvo.kr(테헤란밸리 오케스트라) XE 방명록 | 비회원에게 본문은 「요청한 기능을 실행할 수 있는 권한이 없습니다」로 막혀 있는데 description·og:description 에 스팸 글(내구제 대출·비아그라 판매·작업대출) 내용이 그대로 남음 |
+
+### 10-07 숫자 엔티티 (ET-210~229)
+
+요강의 encoding 예시인 HTML 숫자 엔티티 실사례를 우리 원문(국내 게시판 위주 2,654쪽)에서 못 찾아, 해외 페이지까지 넓혀 찾았다.
+- **찾은 방법:** HTML 소스를 검색하는 PublicWWW 에서 도박 어휘를 엔티티로 쓴 문자열(`&#52852;&#51648;&#45432;` 등 18개 낱말과 목적지 도메인)을 찾았다(`tools/collect/harvest_publicwww.py`). 이 엔진은 영문자 토큰만 검색해서 한글 원문으로는 못 찾고 엔티티 문자열로는 찾는다. 「카지노」 엔티티 424쪽, 「토토」 204쪽 등이 나왔지만 무료 화면은 검색어마다 앞쪽 11곳 안팎만 주소를 보여 준다.
+- **원문:** 원 사이트에는 접속하지 않고 인터넷 아카이브(Wayback) 사본만 받았다(`tools/collect/fetch_wayback.py`, 사본 39쪽). 페이지 자체가 도박 홍보인 것이 섞여 있어서다. source 칸에 원 주소와 사본 주소를 함께 적었다.
+- **고른 규칙:** `tools/analyze/find_entity.py` 가 엔티티 덩어리를 풀어 도박 어휘가 있는 가장 깊은 요소를 찾고, `tools/build/add_etc_entity.py` 가 사이트당 2건까지 골랐다(넘어간 도메인은 제목 하나·본문 하나). 휴대폰 번호 꼴이 든 요소는 뺐다. 조각은 요소 원문(엔티티 그대로)에 조상 3단을 씌운 것이다.
+- **갈래:** (가) 넘어간 도메인의 도박 홍보 페이지 7곳 14건, (나) 정상 페이지에 심은 링크 앵커 5곳 6건. 갈래는 notes 에 적었다.
+- **알게 된 것:**
+  - 같은 링크 판매 네트워크라도 앵커가 엔티티인 사이트와 평문 한글인 사이트가 섞여 있다. 목적지 도메인으로 찾은 링크 네트워크 쪽 사본 19쪽 가운데 엔티티는 0쪽이고, 7쪽은 같은 목적지로 가는 평문 한글 앵커(「안전한 토토사이트」 등)였다. 그래서 엔티티는 업자가 일부러 고른 것이라기보다 사이트(워드프레스 저장 방식 등)가 그렇게 내보낸 것일 수 있다. indexrotator·newsfiber 두 건은 같은 페이지가 키릴·일본어도 엔티티로 내보내 notes 에 적었다. 탐지기 입장에서는 소스에 엔티티로 들어 있다는 점은 같다.
+  - PublicWWW 검색에 걸린 도메인 가운데 skaratoken·karnatakavarthe·legtm·bitflip 등은 아카이브 최신 사본에 한글이 없었다(사본 시점이 다름). 넣지 않았다.
+- 덧붙이기 전 판은 `data/raw/etc_before_entity_20261007.yaml` 에 있다.
 
 선별 기준(`tools/build/build_etc_found.py`)은 이렇다.
 - **link_cloaking:**
@@ -224,7 +240,7 @@
 - **캠페인 쏠림:**
   - zero_width 대부분이 소프트 하이픈 캠페인 몇 개다.
   - link_cloaking 41개 중 30개가 같은 `qkc709.com` 캠페인이다.
-  - encoding 40개는 「@FUTIN888 디비 판매」·「선불유심 대출」·「신분 위조·대출 대행」·「테더 현금화」 네 계열이다.
+  - encoding 의 URL 퍼센트 40개는 「@FUTIN888 디비 판매」·「선불유심 대출」·「신분 위조·대출 대행」·「테더 현금화」 네 계열이다. 숫자 엔티티 20개는 12곳이지만, (나) 6개는 해외 링크 판매 네트워크 하나로 보인다(목적지 도메인이 서로 겹친다).
   - meta_cloaking 20개는 UNIST·tvo.kr 두 곳이다. 사이트당 상한을 6에서 10으로 올려 채웠다.
 - **조합 250개 중 72개가 강화군 한 게시판, 58개가 annaprez·dhtndus1004 두 곳이다.** 출처는 44곳이다. 10-04 덧붙임 57개는 사이트당 5개 이하로 퍼졌지만, 업자로 보면 「인디고게임·블루게임·아이슬롯」 계열이 대부분이다.
   - 10-04 에 다른 업자 게시판 9곳과 Goodreads 스팸 태그 15건을 더 받았지만, 대부분 수법이 하나뿐(`Oloㅡ8359`, `텔레𝘓𝘖𝘈𝘕46`)이라 조합(2개 이상)에 거의 들지 않았다. 200개를 맞추려고 같은 사이트·같은 수법 조합 상한을 4에서 7로 올렸기 때문에 쏠림이 106개 판보다 커졌다.
@@ -243,7 +259,8 @@
 - **실측 샘플의 실제 도박 도메인·텔레그램 핸들:** 원문 그대로 두었다. 테스트 데이터가 소스코드와 함께 제출되므로, 제출 전에 가명으로 바꿀지 팀에서 정해야 한다.
 - **DECOY css 칸:** 원 시트 바이트가 아니라 브라우저 CSSOM 이 직렬화한 규칙이다. 원 시트 URL 은 notes 에 있다.
 - **meta_cloaking html:** `<head>` 안에 넣을 조각이다.
-- **encoding 40건을 이 하위 유형으로 인정할지:** 요강 예시는 HTML 엔티티·Base64 인데, 실제로 찾은 것은 링크 주소 안의 URL 퍼센트 인코딩이다. 광고 문구가 사람에게는 안 보이고 인코딩된 채 소스에만 있다는 점은 같다. 인정하지 않으면 encoding 실측은 0건이다.
+- **URL 퍼센트 인코딩 40건을 encoding 으로 인정할지:** 요강 예시는 HTML 엔티티·Base64 인데, 이 40건은 링크 주소 안의 URL 퍼센트 인코딩이다. 광고 문구가 사람에게는 안 보이고 인코딩된 채 소스에만 있다는 점은 같다. 인정하지 않으면 encoding 실측은 숫자 엔티티 20건이다.
+- **숫자 엔티티 (가) 14건을 넣을지:** 정상 사이트에 심은 광고가 아니라 넘어간 도메인의 페이지 전체가 도박 홍보다. 10-07 사용자 결정으로 (가)·(나) 둘 다 넣었고 notes 에 갈래를 적었다. 빼려면 notes 에 「(가)」가 든 14건을 지운다.
 
 ## 요강 기준 정답셋 (`data/answers/`)
 
@@ -255,7 +272,7 @@
 | 파일 | 요강의 자리 | 건수 |
 |---|---|---|
 | `answer_result.json` | `result.json` — 적격평가 대상 주요 탐지 유형 4종 | 430 (HOMOGLYPH 173 · JAMO 157 · TRANSPARENT 0 · OFFSCREEN 100). JAMO 157 = jamo.yaml 145(조합과 같은 요소 2건 제외) + 조합의 JAMO 라벨 12 |
-| `answer_result_extra.json` | `result_extra.json` — 추가 유형, `technique: "ETC"` + `extra_finding` | 611 (etc 200 + 조합의 extra_findings 411) |
+| `answer_result_extra.json` | `result_extra.json` — 추가 유형, `technique: "ETC"` + `extra_finding` | 631 (etc 220 + 조합의 extra_findings 411) |
 | `negatives.json` | 정답 아님. 숨김 신호가 있는 정상 요소라 여기에 걸리면 오탐(정답 추출 정확도 35점) | 200 |
 
 - 검출 1건 = `(url + location + technique)`. 한 요소에 기법이 겹치면 기법마다 객체를 따로 만들었다(요강 붙임4). `id` 는 `샘플id_기법`(예: `CB-003_HOMOGLYPH`).
