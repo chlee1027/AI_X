@@ -5,7 +5,8 @@
     "source": [
       "combo_real.yaml",
       "jamo.yaml",
-      "offscreen/data/originals/offscreen_originals.yaml"
+      "offscreen/data/originals/offscreen_originals.yaml",
+      "homoglyph/homoglyph_real_test_capped.yaml"
     ]
   },
   "findings": [
@@ -3448,6 +3449,2958 @@
       "location": "a",
       "evidence_text": "online cialis",
       "technique": "OFFSCREEN"
+    },
+    {
+      "id": "HG-RT-0001_HOMOGLYPH",
+      "url": "https://easylaw.go.kr/CSP/UnScRlt.laf?search_put=%EB%AC%B4%EC%A7%81%EC%9E%90%EB%8C%80%EC%B6%9C%EF%B4%BE@%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%B2%F0%9D%90%AE%F0%9D%90%AD%F0%9D%90%9D%EF%B4%BF%E2%87%A4%EB%AC%B4%EC%A7%81%EC%9E%90%EB%8C%80%EC%B6%9C",
+      "is_violation": true,
+      "location": "b",
+      "evidence_text": "무직자대출﴾@𝐀𝐧𝐲𝐮𝐭𝐝﴿⇤무직자대출",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0002_HOMOGLYPH",
+      "url": "https://www.motir.go.kr/kor/search?kwd=hangame%EA%B3%84%EC%A0%95%ED%8C%90%EB%A7%A4+%CE%95%ED%85%94%EB%A0%88%EC%97%B0%EB%9D%BD+BaRo%F0%9D%9F%98%F0%9D%9F%99%F0%9D%9F%98+%CE%95+%EC%9D%B8%EC%8A%A4%ED%83%80%EC%9D%B8%EC%A6%9D%EB%8C%80%ED%96%89+%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9D%B8%EC%A6%9D%EC%97%85%EC%B2%B4%2CiHg",
+      "is_violation": true,
+      "location": "span:nth-of-type(1)",
+      "evidence_text": "hangame계정판매 Ε텔레연락 BaRo𝟘𝟙𝟘 Ε 인스타인증대행 네이버인증업체,iHg",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0003_HOMOGLYPH",
+      "url": "https://m.easylaw.go.kr/MOB/SearchEngineRetrieve.laf?action=CHECK&mb_input=%EB%8B%B9%EC%9D%BC%EB%8C%80%EC%B6%9C%EF%B9%9D@%F0%9D%99%B0%F0%9D%9A%97%F0%9D%9A%A2%F0%9D%9A%9E%F0%9D%9A%9D%F0%9D%9A%8D%EF%B9%9E%E2%87%8F%EB%8B%B9%EC%9D%BC%EB%8C%80%EC%B6%9C",
+      "is_violation": true,
+      "location": "b",
+      "evidence_text": "\"당일대출﹝@𝙰𝚗𝚢𝚞𝚝𝚍﹞⇏당일대출\"",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0004_HOMOGLYPH",
+      "url": "https://m.easylaw.go.kr/MOB/SearchEngineRetrieve.laf?srchType=detail&section=EZP_02&outmax=10&curPage=1&mb_input=%EC%86%8C%EC%95%A1%EA%B8%89%EC%A0%84%EB%8C%80%EC%B6%9C%EF%B9%9B@%F0%9D%96%A0%F0%9D%97%87%F0%9D%97%92%F0%9D%97%8E%F0%9D%97%8D%F0%9D%96%BD%EF%B9%9C%E2%86%9A%EC%86%8C%EC%95%A1%EA%B8%89%EC%A0%84%EB%8C%80%EC%B6%9C",
+      "is_violation": true,
+      "location": "b",
+      "evidence_text": "\"소액급전대출﹛@𝖠𝗇𝗒𝗎𝗍𝖽﹜↚소액급전대출\"",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0005_HOMOGLYPH",
+      "url": "https://m.easylaw.go.kr/MOB/SearchEngineRetrieve.laf?srchType=detail&section=EZP_02&outmax=10&mb_input=%EB%8C%80%EC%B6%9Cdb%ED%8C%90%EB%A7%A4%E2%96%B3%F0%93%8A%86%F0%9D%95%A4%F0%9D%95%A0%F0%9D%95%A0%F0%9D%95%9F%F0%9D%95%A4%F0%9D%95%A0%F0%9D%95%A0%F0%9D%95%99%F0%9D%95%92%F0%9D%95%9E%F0%93%8A%87%E2%96%B3%EB%8C%80%EC%B6%9Cdb%ED%8C%90%EB%A7%A4",
+      "is_violation": true,
+      "location": "b",
+      "evidence_text": "\"대출db판매△𓊆𝕤𝕠𝕠𝕟𝕤𝕠𝕠𝕙𝕒𝕞𓊇△대출db판매\"",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0006_HOMOGLYPH",
+      "url": "https://ypcd.or.kr/bbs/board.php?bo_table=notice4&wr_id=14964&sst=wr_datetime&sod=desc&sop=and&page=6381",
+      "is_violation": true,
+      "location": "span.bo_v_tit",
+      "evidence_text": "구글SEO트렌드 문의 @ʜᴏɴɢʙᴏ8288 구글찌라시 구글검색자동상위노출 찌라시봇 구글검색자동등록서비스 구글검색유입",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0007_HOMOGLYPH",
+      "url": "https://easylaw.go.kr/CSP/UnScRlt.laf?search_put=p+%EC%84%A0%EB%AC%BC%EC%98%B5%EC%85%98%EC%83%81%EB%8B%A8%EC%9E%91%EC%97%85(%E3%85%8Br%ED%86%A1+@adgogo)+%EC%84%A0%EB%AC%BC%EC%98%B5%EC%85%98%EA%B5%AC%EA%B8%80+%EC%84%A0%EB%AC%BC%EC%98%B5%EC%85%98%EA%B4%91%EA%B3%A0%C3%BE%EC%84%A0%EB%AC%BC%EC%98%B5%EC%85%98%ED%99%8D%EB%B3%B4%E3%8B%A6%EB%B6%80%EC%B2%9C%EC%9B%90%EB%AF%B8%EC%84%A0%EB%AC%BC%EC%98%B5%EC%85%98+xHD",
+      "is_violation": true,
+      "location": "b",
+      "evidence_text": "p 선물옵션상단작업(ㅋr톡 @adgogo) 선물옵션구글 선물옵션광고þ선물옵션홍보㋦부천원미선물옵션 xHD",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0008_HOMOGLYPH",
+      "url": "https://m.easylaw.go.kr/MOB/SearchEngineRetrieve.laf?mb_input=%EA%B1%9291%ED%95%9C%EA%B2%8C%EC%9E%84%EB%A8%B8%EB%8B%88%EC%83%81%EB%88%9B%EF%BC%88@+%E3%85%8Br%ED%86%A1+V8888%EF%BC%89%EA%B0%9094%EA%B2%8C%EC%9E%84%EB%A8%B8%EB%8B%88%EC%83%81%EA%B0%A414%EB%A8%B8%EB%8B%88%EC%83%81%EB%88%AC95%EA%B2%8C%EC%9E%84%EB%A8%B8%EB%8B%88%EB%88%8131%ED%95%9C%EA%B2%8C%EC%9E%84%EB%A8%B8%EB%8B%88%EA%B0%BD",
+      "is_violation": true,
+      "location": "b",
+      "evidence_text": "\"걒91한게임머니상눛（@ ㅋr톡 V8888）감94게임머니상갤14머니상눬95게임머니눁31한게임머니갽\"",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0009_HOMOGLYPH",
+      "url": "https://www.mois.go.kr/srch.jsp?query=%EC%8A%A4%EC%9C%84%EC%8A%A4%EA%B7%B8%EB%9E%9C%EB%93%9C%ED%98%B8%ED%85%94+%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4%E3%80%90%E3%85%8Br%ED%86%A1:za31%E3%80%91",
+      "is_violation": true,
+      "location": "span:nth-of-type(1)",
+      "evidence_text": "\"스위스그랜드호텔 나무위키【ㅋr톡:za31】\"",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0010_HOMOGLYPH",
+      "url": "https://www.mtu.ac.kr/mtu/search/search.do?mId=294&query=%E3%80%90%ED%85%94@+%F0%9D%97%AF%F0%9D%98%80%F0%9D%97%B2%F0%9D%97%B0%F0%9D%97%BF%F0%9D%97%B2%F0%9D%98%81%F0%9D%9F%B3%E3%80%91+%ED%9D%A5%EC%8B%A0%EC%86%8C+%ED%9E%98%EB%93%A0%EC%9D%BC%ED%95%B4%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4&searchField=all&searchPeriod=all&sortField=date",
+      "is_violation": true,
+      "location": "span.point-total-search01",
+      "evidence_text": "'【텔@ 𝗯𝘀𝗲𝗰𝗿𝗲𝘁𝟳】 흥신소 힘든일해드립니다'",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0011_HOMOGLYPH",
+      "url": "https://www.mtu.ac.kr/mtu/search/search.do?mId=294&query=%E3%80%90%ED%85%94@+%F0%9D%97%AF%F0%9D%98%80%F0%9D%97%B2%F0%9D%97%B0%F0%9D%97%BF%F0%9D%97%B2%F0%9D%98%81%F0%9D%9F%B3%E3%80%91+%ED%9D%A5%EC%8B%A0%EC%86%8C+%ED%9E%98%EB%93%A0%EC%9D%BC%ED%95%B4%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4&searchField=all&searchPeriod=all&sortField=date",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "【카톡 : 𝚜𝚙𝚢𝟽𝟿𝟽𝟿】👀인스타 해킹【카톡 : 𝚜𝚙𝚢𝟽𝟿𝟽𝟿】👀인스타 해킹👀인스타 해킹👀인스타 해킹",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0012_HOMOGLYPH",
+      "url": "https://www.mtu.ac.kr/mtu/search/search.do?mId=294&query=%E3%80%90%ED%85%94@+%F0%9D%97%AF%F0%9D%98%80%F0%9D%97%B2%F0%9D%97%B0%F0%9D%97%BF%F0%9D%97%B2%F0%9D%98%81%F0%9D%9F%B3%E3%80%91+%ED%9D%A5%EC%8B%A0%EC%86%8C+%ED%9E%98%EB%93%A0%EC%9D%BC%ED%95%B4%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4&searchField=all&searchPeriod=all&sortField=date",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "【텔레 : 𝘄𝗽𝗲𝗻𝘁𝗼_𝗴𝘀 】편안한죽음 안락사약물 안락사방법 편안한죽음 안락사약물 안락사방법【텔레 : 𝘄𝗽𝗲𝗻𝘁𝗼_𝗴𝘀 】 편안한죽음 안락사약물 안락사방법💊편안한죽음 안락사약물 안락사방법💊편안한죽음 안락사약물 안락",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0013_HOMOGLYPH",
+      "url": "https://www.mtu.ac.kr/mtu/search/search.do?mId=294&query=%E3%80%90%ED%85%94@+%F0%9D%97%AF%F0%9D%98%80%F0%9D%97%B2%F0%9D%97%B0%F0%9D%97%BF%F0%9D%97%B2%F0%9D%98%81%F0%9D%9F%B3%E3%80%91+%ED%9D%A5%EC%8B%A0%EC%86%8C+%ED%9E%98%EB%93%A0%EC%9D%BC%ED%95%B4%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4&searchField=all&searchPeriod=all&sortField=date",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "【카톡@𝘀𝗽𝘆𝟳𝟵𝟳𝟵】 인스타 해킹👀해킹 인스타【카톡@𝘀𝗽𝘆𝟳𝟵𝟳𝟵】 인스타 해킹👀인스타 해킹👀인스타 해킹👀해킹 인스타",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0015_HOMOGLYPH",
+      "url": "https://search.gangnam.go.kr/search.jsp?cwxz=xYhbh&kwd=O%EC%A6%9D%EA%B6%8C%EB%94%94%EB%B9%84%ED%8C%90%EB%A7%A4%E2%88%8D%EF%BC%9C%EA%B4%91%EA%B3%A0%ED%8C%80%ED%85%94%EB%A0%88%F0%9D%90%92%F0%9D%90%81%F0%9D%90%8C%F0%9D%90%93%F0%9D%9F%91%EF%BC%9E%EC%B5%9C%EC%8B%A0%EB%94%94%EB%B9%84%E2%9C%96%EC%A3%BC%EC%8B%9DDB%ED%8C%90%EB%A7%A4%E2%B8%A9%EC%BD%94%EC%9D%B8DB%ED%8C%90%EB%A7%A4%E2%8B%A7%ED%95%B4%EC%84%A0%EB%94%94%EB%B9%84%ED%8C%9D%EB%8B%88%EB%8B%A4%E2%89%AF",
+      "is_violation": true,
+      "location": "span.search-word",
+      "evidence_text": "O증권디비판매∍＜광고팀텔레𝐒𝐁𝐌𝐓𝟑＞최신디비✖주식DB판매⸩코인DB판매⋧해선디비팝니다≯",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0017_HOMOGLYPH",
+      "url": "https://www.mohw.go.kr/react/search/search.jsp?searchTerm=K3%EC%BD%94%EC%9D%B8db%ED%8C%90%EB%A7%A4%E2%A5%AC%E2%A6%8B%ED%85%94%E3%84%B9%E3%85%94@%C9%A2%CA%99%E1%B4%8F%E1%B4%9B7%E2%A6%8C%ED%95%B4%EC%84%A0%EB%94%94%EB%B9%84%ED%8C%90%EB%A7%A4%E2%97%91%EB%A1%9C%EB%98%90%EB%94%94%EB%B9%84%EC%82%BD%EB%8B%88%EB%8B%A4%E2%8E%94%EC%BD%94%EC%9D%B8%EB%94%94%EB%B9%84+%EC%97%85%EC%9E%90%E2%AC%A1%EB%B6%80%EB%8F%99%EC%82%B0db+%EB%8F%84%EB%B0%B0%E2%8B%90",
+      "is_violation": true,
+      "location": "li:nth-of-type(1) > span.point",
+      "evidence_text": "K3코인db판매⥬⦋텔ㄹㅔ@ɢʙᴏᴛ7⦌해선디비판매◑로또디비삽니다⎔코인디비 업자⬡부동산db 도배⋐",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0019_HOMOGLYPH",
+      "url": "https://m.easylaw.go.kr/MOB/SearchEngineRetrieve.laf?srchType=detail&curPage=3&section=EZP_02&outmax=10&mb_input=%EC%A3%BC%EC%8B%9Ddb%EF%BC%9C@%F0%9D%95%99%F0%9D%95%92%F0%9D%95%94%F0%9D%95%9C%F0%9D%95%9A%F0%9D%95%9F%F0%9D%95%98%F0%9D%95%95%F0%9D%95%93%EF%BC%9E%E2%86%AD%EC%A3%BC%EC%8B%9Ddb",
+      "is_violation": true,
+      "location": "b",
+      "evidence_text": "\"주식db＜@𝕙𝕒𝕔𝕜𝕚𝕟𝕘𝕕𝕓＞↭주식db\"",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0020_HOMOGLYPH",
+      "url": "https://www.motir.go.kr/kor/search?kwd=%E3%80%90%ED%85%94%40+%F0%9D%97%AF%F0%9D%98%80%F0%9D%97%B2%F0%9D%97%B0%F0%9D%97%BF%F0%9D%97%B2%F0%9D%98%81%F0%9D%9F%B3%E3%80%91%F0%9F%91%A8%E2%80%8D%F0%9F%92%BC%EC%96%B4%EB%A0%A4%EC%9A%B4%EC%9D%BC+%ED%9D%A5%EC%8B%A0%EC%86%8C%E3%80%90%ED%85%94%40+%F0%9D%97%AF%F0%9D%98%80%F0%9D%97%B2%F0%9D%97%B0%F0%9D%97%BF%F0%9D%97%B2%F0%9D%98%81%F0%9D%9F%B3%E3%80%91+%ED%9D%A5%EC%8B%A0%EC%86%8C+%EC%96%B4%EB%A0%A4%EC%9A%B4%EC%9D%BC%F0%9F%91%A8%E2%80%8D%F0%9F%92%BC%ED%9D%A5%EC%8B%A0%EC%86%8C+%EC%96%B4%EB%A0%A4%EC%9A%B4%EC%9D%BC%F0%9F%91%A8%E2%80%8D%F0%9F%92%BC%ED%9D%A5%EC%8B%A0%EC%86%8C+%EC%96%B4%EB%A0%A4%EC%9A%B4%EC%9D%BC%F0%9F%91%A8%E2%80%8D%F0%9F%92%BC%EC%96%B4%EB%A0%A4%EC%9A%B4%EC%9D%BC+%ED%9D%A5%EC%8B%A0%EC%86%8C",
+      "is_violation": true,
+      "location": "span:nth-of-type(1)",
+      "evidence_text": "【텔@ 𝗯𝘀𝗲𝗰𝗿𝗲𝘁𝟳】👨‍💼어려운일 흥신소【텔@ 𝗯𝘀𝗲𝗰𝗿𝗲𝘁𝟳】 흥신소 어려운일👨‍💼흥신소 어려운일👨‍💼흥신소 어려운일👨‍💼어려운일 흥신소",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0021_HOMOGLYPH",
+      "url": "https://ace.gachon.ac.kr/write/community/qna_view?uid=6994",
+      "is_violation": true,
+      "location": "h2",
+      "evidence_text": "TOP약국 여성작업제 구매 【48H.tор】 흥분제 구매",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0022_HOMOGLYPH",
+      "url": "http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?mod=document&uid=2394",
+      "is_violation": true,
+      "location": "p",
+      "evidence_text": "카지노솔루션|에보소프트.CΟΜ|슬롯솔루션|토지노솔루션|홀덤 솔루션",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0023_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=4",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "두정동노래클럽 [문의 O1O-0000-2472] 천안풀싸롱추천 천안풀싸롱가격 천안풀싸롱주대",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0024_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=14",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "두정동노래방 [문의 O1O-0000-2472] 천안셔츠룸추천 천안셔츠룸가격 천안셔츠룸주대",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0025_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=16",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "부천호빠위치O1O-0000-1155 24시간영업 l 주대10만원 l 부천호빠가격 O1O-0000-1155 …",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0026_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=18",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "⁅경산노래방도우미⁆ O1O=0000=1234 ⁅경산보도사무실⁆ ⁅경산아가씨사무실 ⁆ ⁅경산노래방알바⁆ ⁅경산…",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0027_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=26",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "수유러시아출장안마☑️olO~0000~o661☑️캬톡dagan8282 수유러시아출장마사지 수유백마출장 수유연애…",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0028_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=31",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "[알바문의 O1O=0000=4103] 안산노래방알바 독산동노래도우미알바 시흥노래방알바 시흥노래방도우미 시흥보…",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0029_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=32",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "강남풀사롱 O1O=0000=OO14 역삼세븐방이동2차룸 문의 정보 [가격,시스템,서비스,위치,노는법] 정보",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0030_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=45",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "서면풀싸롱 O1O~0000~9717 서면 유흥 해운대 유흥",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0031_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=47",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "[문의 O1O=0000=5101][카카0 TC777] 강서보도사무실 강서구룸알바",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0032_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=59",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "비지니스∴광주룸싸롱∴O1O.0000.0948 ★용봉동룸싸롱★용봉동풀싸롱★용봉동노래방★용봉동노래홀★용봉동가라오…",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0033_HOMOGLYPH",
+      "url": "https://ggtech.or.kr/bbs/board.php?bo_table=support&page=55",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "블루게임 포커대회（ O1O. 0000.3464 ） 인디고holdem사이트 카지노사이트 바둑이게임추천추천호 …",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0034_HOMOGLYPH",
+      "url": "https://ggtech.or.kr/bbs/board.php?bo_table=support&page=55",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "블루 최대%\"2 4시 :O10.0000,3464\" 블루게임맞고 블루고스톱포커른 섬 소매 가격 3,600엔 (…",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0035_HOMOGLYPH",
+      "url": "https://ggtech.or.kr/bbs/board.php?bo_table=support&page=61",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "블루바둑이 ↙ O1O. 0000.3464↙인디고게임 에이케이게임↙ 블루게임",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0036_HOMOGLYPH",
+      "url": "https://ggtech.or.kr/bbs/board.php?bo_table=support&page=67",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "블루바­둑이 ↙ O1O. 0000.3464↙인디고게­임↙ 블루게­임",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0037_HOMOGLYPH",
+      "url": "https://www.gimje.go.kr/town/board/list.gimje?boardId=BBS_0000048&listRow=10&listCel=1&paging=ok&startPage=149",
+      "is_violation": true,
+      "location": "span.txt",
+      "evidence_text": "◆21년 1학기 할인 혜택받고 사회.복지사 준비!◆ 안녕하세요! 이용수 팀장입니다. ^^ 전화 : OlO 0000 4869 요즘 점점 일자리가 줄어들고 있다는 사실을 알고 계실까요? 거기다 코로나 사태로 인해 일자리",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0038_HOMOGLYPH",
+      "url": "https://www.gimje.go.kr/town/board/list.gimje?boardId=BBS_0000048&listRow=10&listCel=1&paging=ok&startPage=149",
+      "is_violation": true,
+      "location": "span.txt",
+      "evidence_text": "◆21년 1학기 할인 혜택받고 보육.교사 준비!◆ 안녕하세요! 이용수 팀장입니다. ^^ 전화 : OlO 0000 4869 요즘 점점 일자리가 줄어들고 있다는 사실을 알고 계실까요? 거기다 코로나 사태로 인해 일자리가",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0039_HOMOGLYPH",
+      "url": "https://www.gimje.go.kr/town/board/list.gimje?boardId=BBS_0000048&listRow=10&listCel=1&paging=ok&startPage=157",
+      "is_violation": true,
+      "location": "span.txt",
+      "evidence_text": "◆ 노후대비, 재취업 준비 사회.복지사 장학 혜택받자 ◆ 안녕하세요! 이용수 학습설계 팀장입니다. OlO 0000 4869 문의 바랍니다!! 고등학교만 졸업을 하셨어도 취득은 가능한데요. 모든 수강, 시험, 과제물,",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0040_HOMOGLYPH",
+      "url": "https://www.gimje.go.kr/town/board/list.gimje?boardId=BBS_0000048&listRow=10&listCel=1&paging=ok&startPage=157",
+      "is_violation": true,
+      "location": "span.txt",
+      "evidence_text": "◆ 노후대비, 재취업 준비 보육.교사 장학 혜택받자 ◆ 안녕하세요! 이용수 학습설계 팀장입니다. OlO 0000 4869 문의 바랍니다!! 고등학교만 졸업을 하셨어도 취득은 가능한데요. 직장인이나 주부들도 쉽게 취득",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0041_HOMOGLYPH",
+      "url": "https://www.gimje.go.kr/town/board/list.gimje?boardId=BBS_0000048&listRow=10&listCel=1&paging=ok&startPage=157",
+      "is_violation": true,
+      "location": "span.txt",
+      "evidence_text": "■ 노후 대비와 재취업을 동시에 준비합시다 ■ 이름 : 김기찬 직급 : 팀장 소속 : 학습,설계팀 번호 : 010 – 0000 – 8428 로 문의 주시면 친절히 상담해 드리겠습니다. 학점,은행제를 통해 ㅈr격증 취",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0042_HOMOGLYPH",
+      "url": "https://www.gimje.go.kr/town/board/list.gimje?boardId=BBS_0000048&listRow=10&listCel=1&paging=ok&startPage=157",
+      "is_violation": true,
+      "location": "span.txt",
+      "evidence_text": "◆ 사회.복지사 장학 혜택받고 노후대비, 재취업 준비 ◆ 안녕하세요! 이용수 학습설계 팀장입니다. OlO 0000 4869 문의 바랍니다!! 고등학교만 졸업을 하셨어도 취득은 가능한데요. 모든 수강, 시험, 과제물,",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0044_HOMOGLYPH",
+      "url": "https://gwangjuguide.or.kr/bbs/board.php?bo_table=kor_gw9&page=23",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "렌즈카드▶Ol0＊0000＊88l7＊목카드▶Ol0＊0000＊88l7 * 표시카드",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0045_HOMOGLYPH",
+      "url": "https://gwangjuguide.or.kr/bbs/board.php?bo_table=kor_gw9&page=23",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "대출매니저365 ㅋr톡dcm365 작업대출전문 작업대출 24시 언제나 가능하고 언제든 상담해드립니다 문의주세…",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0046_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=1",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "80bet가입 ㅌㄹ𝐡𝐨𝐧𝐠𝐛𝐨𝟖𝟐𝟖𝟖 인사동키스방 【광고대행 @HONGBO8288】 면목역쓰리썸",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0047_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=2",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "콘텐츠이용료현금화 [o1o 0000. 9848 ] 모빌카드현금화소액결제티켓",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0048_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=2",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "한게임PC환전상 ⌈ㅋr툑R3333⌋ 한게임PC머니 한게임로우바둑이환전상시세업체 한게임모바일캐시환전사이트",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0049_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=2",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "콘텐츠이용료현금화 [o1o 0000. 9848 ] 모빌리언스카드현금화콘텐츠이용료",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0050_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=3",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "명일일본출장 텔레 ⒟⒞⒦⒤⒨❽❽❽ 폰⁰⑤⁰ ⁰⓪⁰⁰ ⁹⓪⁶⁰",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0051_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=3",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "한게임포커머니상 ㅋr툑T9999 한게임 머니 구매 한게임사천성 한게임 머니 상",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0052_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=3",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "김천출장샵출장샵 【ㄹ ㅏ인✅ 𝕜𝕜𝕘𝕜𝟝𝟚】 방문만남다방콜걸키스방",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0053_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=4",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "여수조건만남출장마사지 【L I N E♥️ 𝕜𝕜𝕘𝕜𝟝𝟚】 출장안마일일데이트업소",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0054_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=4",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "소액결제현금화 [01o 0000 . 9848] 토스후불결제현금화모빌리언스카드현금화",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0055_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=5",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "오피마트 밤밤.🅒🅞🅜 발산역핸플 여의도쓰리썸 오피타운쩜오 논현쓰리썸",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0056_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=5",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "부산달리기 밤밤.🅒🅞🅜 방배역가라오케 흑석역건마 오피파라다이스일본인출장 장안아로마",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0057_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=7",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "갈현동일본출장 텔레 ⓓⓒⓚⓘⓜ➇➇➇ 폰０５０ ００００ ９０６０",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0058_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=7",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "거제출장안마조건만남 【line☎️ 𝕞𝕨𝕨𝕞𝟠𝟠】 출장마사지출장홈타이키스방",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0059_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=8",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "남원출장마사지출장마사지 【ㄹ ㅏ 인♥️ 𝕜𝕜𝕘𝕜𝟝𝟚】 미시VIP마사지예약만남",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0060_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=8",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "컨텐츠이용료현금화 [01o 0000 . 9848] 소액결제티켓모빌카드현금화",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0061_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=10",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "익산출장마사지조건만남 【line✅ 𝕜𝕜𝕘𝕜𝟝𝟚】 조건만남출장홈타이성인미팅",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0062_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=10",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "사다리게임솔루션 임대 ㅌ＠ｅｖｏ５８８７ 라이브스포츠 솔루션 대여 라이브바카라 솔루션 프라그마틱 제작 사다리 솔루션 라이브스포츠 솔루션 분양 실시간바카라 솔루션 대여 카지노 사이트 성피 분양",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0063_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=10",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "텐카지노핑돈 【문의 ㅌ @HONGBO8288】 창동코스튬 ㅌㄹнσиgвσ8288 수유쓰리썸",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0064_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=11",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "응암일본출장마사지 텔레 ⓓⓒⓚⓘⓜ➇➇➇ 폰０⑤０ ０⓪０⓪ ９０⑥０",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0065_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=11",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "오프매장솔루션 대여 ㅌ＠ｅｖｏ５８８７ 토토 솔루션 분양 홀덤 솔루션 라이브토지노 사이트 대여 라이브슬롯 사이트 대여 사다리게임 솔루션 임대 토토사이트 제작 프라그마틱 솔루션 임대 토지노 솔루션 제작",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0066_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=12",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "갈현동일본안마 텔 ｄｃｋｉｍ❽❽❽ 폰０５０ ００００ ９０６０",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0067_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=12",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "한게임클래식환전상 ⊟ㅋr툑V8888⊟ 한게임로얄홀덤머니환전추천 한게임머니환전상사이트 한게임바둑이캐시환전상안전",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0068_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=12",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "술탄카지노평생주소 【H】【O】【N】【G】【B】【O】【8】【2】【8】【8】 온천장역노브라셔츠룸 ㅌㄹⓗⓞⓝⓖⓑⓞ⑧②⑧⑧ 안암일본인출장",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0069_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=13",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "올레벳제포 【문의 ㅌ @HONGBO8288】 강남역텐프로 ㅌㄹ🅗🅞🅝🅖🅑🅞➑➋➑➑ 구서룸싸롱",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0070_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=13",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "산타카지노먹튀 ㅌㄹ𝖍𝖔𝖓𝖌𝖇𝖔ՑշՑՑ 강남대로룸싸롱 ｈｏｎｇｂｏ８２８８ 창동백마오피",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0071_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=13",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "컨텐츠이용료현금화 [01o 0000 . 9848] 모빌카드현금화모빌리언스카드현금화",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0072_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=15",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "합정동일본출장 텔 ｄｃｋｉｍ⑧⑧⑧ 폰⓪５⓪ ００⓪０ ９⓪６⓪",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0073_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=15",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "식스검증 @𝕙𝕠𝕟𝕘𝕓𝕠𝟠𝟚𝟠𝟠 중동백마출장 ㅌㄹ𝖍𝖔𝖓𝖌𝖇𝖔ՑշՑՑ 용호동유흥주점",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0074_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=16",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "경달 밤밤.🅲🅾🅼 남포역백마오피 신림일본인오피 인천유흥가가라오케 좌동립카페",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0075_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=17",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "신원동일본마사지 텔레 ᴅᴄᴋɪᴍ⑧⑧⑧ 폰⓪５⓪ ００⓪０ ９⓪６⓪",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0076_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=17",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "한게임포커머니상 ╪ㅋr툑V8888╪ 한게임환전상안전 한게임카지노캐시환전상판매추천 한게임모바일환전상",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0077_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=18",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "베팅룸추천코드 ㅌㄹⓗⓞⓝⓖⓑⓞ⑧②⑧⑧ 사직비키니룸 【문의 ㅌ @HONGBO8288】 잠실역오피출장",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0078_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=19",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "스피드카지노신고 【H】【O】【N】【G】【B】【O】【8】【2】【8】【8】 방배역스웨디시1인샵 🅷🅾🅽🅶🅱🅾8288 서대문구하이퍼블릭",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0079_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=21",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "건대일본마사지 텔 ⒟⒞⒦⒤⒨888 폰０⑤０ ０⓪０⓪ ９０⑥０",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0080_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=22",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "유니88제포 ㅌㄹ𝖍𝖔𝖓𝖌𝖇𝖔ՑշՑՑ 합정일본인오피 ㅌㄹⱧØ₦₲฿Ø8288 구로구미러룸풀싸롱",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0081_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=23",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "에스코트 밤밤.𝓬𝓸𝓶 마곡백마오피 연남출장마사지 경달쓰리썸 방배역오피출장",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0083_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=24",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "의왕출장샵출장홈타이 【LINE♥️ 𝕜𝕜𝕘𝕜𝟝𝟚】 다방출장녀다방티켓데이트대행",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0085_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=24",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "한게임피씨머니상 ✫ㅋr툑T9999✫ 한게임모바일캐시환전안전 한게임홀덤머니상환전추천 한게임바둑이환전상시세",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0086_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=25",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "정읍출장안마조건만남 【L I N E✅ 𝕞𝕨𝕨𝕞𝟠𝟠】 호텔출장성인소개팅출장홈타이",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0092_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=26",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "파라오슬롯핑돈 【문의 ㅌ @HONGBO8288】 청담사거리호빠 🅷🅾🅽🅶🅱🅾8288 선릉역코스튬",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0093_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=26",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "용인출장마사지출장샵 【라인⭐ 𝕞𝕨𝕨𝕞𝟠𝟠】 발리마사지조건만남동남아아가씨",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0095_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=28",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "한게임머니구매 ✸⃝ㅋr툑R3333✸⃝ 한게임카지노머니상팝니다안전 한게임고스톱캐시팝니다추천 한게임모바일머니상구매사이트",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0096_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=30",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "김포출장홈타이출장홈타이 【liⓝⓔ☎️ 𝕞𝕨𝕨𝕞𝟠𝟠】 로미로미마사지안마방로미로미마사지",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0097_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=30",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "광양출장안마출장샵 【line☎️ 𝕞𝕨𝕨𝕞𝟠𝟠】 안마방만남대행만남대행",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0098_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=31",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "대흥일본출장안마 텔 ⓓⓒⓚⓘⓜ➑➑➑ 폰⓪⑤⓪ ⓪⓪⓪⓪ ⑨⓪⑥⓪",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0099_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=31",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "부평출장안마출장안마 【Line♥️ 𝕞𝕨𝕨𝕞𝟠𝟠】 호텔출장조건만남조건만남",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0100_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=32",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "라이브슬롯사이트 대여 ㅌ＠ｅｖｏ５８８７ 카지노API 임대 라이브토토 사이트 분양 토지노 솔루션 임대 라이브스포츠솔루션 임대 카지노 사이트 임대 에볼사이트 파워볼 솔루션 대여 카지노API",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0101_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=33",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "메이비카지노통협 ⓗⓞⓝⓖⓑⓞ⑧②⑧⑧ 강북구일본오피 ㅌㄹ🅗🅞🅝🅖🅑🅞➑➋➑➑ 신도림역대학생휴게텔",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0105_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=36",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "상주출장샵출장홈타이 【liⓝⓔ☎️ 𝕜𝕜𝕘𝕜𝟝𝟚】 출장만남티켓다방커피배달",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0109_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=37",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "한게임피씨머니상 ❊ㅋr툑K3333❊ 한게임고스톱머니팝니다안전 한게임카지노머니판매안전 한게임고스돕머니상삽니다안전",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0110_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=38",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "천안조건만남출장안마 【ι i nⓔ✅ 𝕞𝕨𝕨𝕞𝟠𝟠】 연애다방아가씨페이만남",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0111_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=39",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "조이카지노검증 @𝕙𝕠𝕟𝕘𝕓𝕠𝟠𝟚𝟠𝟠 북구건마 【H】【O】【N】【G】【B】【O】【8】【2】【8】【8】 혜화역노브라셔츠룸",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0114_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=41",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "한게임포커머니상 ㅋr툑W5555 한게임 피씨 환전상 한게임더블맞고 한게임 머니 상",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0115_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=41",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "사설카지노솔루션 분양 ㅌ＠ｅｖｏ５８８７ 라이브토토사이트 제작 실시간슬롯사이트 임대 라이브슬롯솔루션 에볼루션사이트 임대 실시간슬롯사이트 대여 실시간스포츠 솔루션 대여 사다리 솔루션 분양 토지노사이트",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0117_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=42",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "남자들의수다 밤밤.🅒🅞🅜 중랑구백마오피 용산구룸싸롱 광주달리기노브라셔츠룸 구서노래빠",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0118_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=43",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "문카지노검증 ㅌㄹ𝘩𝘰𝘯𝘨𝘣𝘰8288 동작구하이터치룸 🄷🄾🄽🄶🄱🄾8288 삼성타운러시안바",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0125_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=48",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "겜블시티검증 🄷🄾🄽🄶🄱🄾8288 영등포역러시안클럽 🅷🅾🅽🅶🅱🅾8288 사직노래방",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0126_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=49",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "한게임PC머니상 ㅋr툑K3333 한게임 머니 한게임더블맞고 한게임 머니 구매",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0132_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=55",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "한게임모바일환전상 ㅋr툑K3333 한게임포커머니환전사이트 한게임맞고환전상시세상사이트 한게임코인머니환전안전",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0133_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=56",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "멜론슬롯검증 ｈｏｎｇｂｏ８２８８ 수유러시안클럽 h⃞ o⃞ n⃞ g⃞ b⃞ o⃞ 8⃞ 2⃞ 8⃞ 8⃞ 송파구백마출장",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0139_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=60",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "한게임피씨머니상 ㅋr툑W5555 한게임포커환전상판매추천 한게임홀덤머니시세사이트 한게임PC캐시팝니다안전",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0143_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=62",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "벳스핀먹튀확정 【광고대행 @HONGBO8288】 중구스파 ㅌㄹнσиgвσ8288 온천장역스파",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0144_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=62",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "한게임머니판매 ㅋr툑V8888 한게임 포커 머니상 한게임포커클래식 한게임 머니 구매",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0145_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=63",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "프라그마틱 솔루션 ㅌ＠ｅｖｏ５８８７ 사설토토 사이트 라이브슬롯솔루션 분양 실시간토토사이트 대여 라이브카지노솔루션 임대 성피 제작 사설카지노사이트 임대 라이브스포츠솔루션 바카라API",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0148_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=66",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "한게임클래식환전상 ㅋr툑G3333 한게임클래식 환전상 한게임오목 한게임 환전 상",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0152_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=70",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "한게임환전상 ❅⃤ㅋr툑K3333❅⃤ 한게임머니상환전상 한게임바둑이머니판매추천 한게임PC캐시환전상",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0153_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=71",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "한게임클래식환전상 ✦⃟ㅋr툑T9999✦⃟ 한게임코인환전상시세상안전 한게임클래식캐시머니업체 한게임카지노머니팝니다업체",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0156_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=77",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "진주출장샵출장안마 【ι i nⓔ✅ bba104】 출장만남출장마사지골프동행",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0160_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=87",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "안암동일본마사지 텔 ｄｃｋｉｍ８８８ 폰０５０ ００００ ９０６０",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0161_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=88",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "논현동일본출장 텔레 ⒟⒞⒦⒤⒨❽❽❽ 폰⓪❺⓪ ⓿⓿⓪⓿ ❾⓪❻⓪",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0164_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=90",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "마월추천 ㅌㄹнσиgвσ8288 용산러시안클럽 【문의 ㅌ @HONGBO8288】 강북구대학생휴게텔",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0168_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=93",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "한게임PC환전상 ㅋr툑R3333 한게임 머니 시세 한게임하이로우 한게임 포커 머니 상",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0169_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=94",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "도쿄카지노인증 🅷🅾🅽🅶🅱🅾8288 남대문시장하이퍼블릭 🅷🅾🅽🅶🅱🅾8288 회기하퍼",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0173_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=96",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "한게임포커머니상 ◤ㅋr툑G3333◤ 한게임포커머니삽니다사이트 한게임홀덤머니가격안전 한게임모바일머니상판매추천",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0174_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=96",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "미아동일본마사지 텔 ᴅᴄᴋɪᴍ⁸⁸⁸ 폰₀₅₀ 0000 ₉₀₆₀",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0175_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=96",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "신천동일본출장 텔레 ⓓⓒⓚⓘⓜ➑➑➑ 폰⓪５⓪ ００⓪０ ９⓪６⓪",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0176_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=96",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "북아현동일본출장 텔 ⓓⓒⓚⓘⓜ➇➇➇ 폰⓪❺⓪ ⓿⓿⓪⓿ ❾⓪❻⓪",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0178_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=97",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "중림동일본출장마사지 텔 ｄｃｋｉｍ➑➑➑ 폰050 0000 9060",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0182_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=99",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "한게임PC환전상 ╔ㅋr툑T9999╗ 한게임고스돕캐시삽니다 한게임카지노환전상가격업체 한게임로얄홀덤캐시머니판매추천",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0183_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=99",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "한게임환전상 ❖ㅋr툑T9999❖ 한게임섯다머니상환전상업체 한게임럭키랜드캐시머니상판매업체 한게임7포커머니상",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0184_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=100",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "암사동일본마사지 텔 ᴅᴄᴋɪᴍ888 폰⁰⁵⁰ ⁰⁰⁰⁰ ⁹⁰⁶⁰",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0188_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=101",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "수색일본출장안마 텔 ᴅᴄᴋɪᴍ⁸⁸⁸ 폰⓪５⓪ ００⓪０ ９⓪６⓪",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0189_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=102",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "신원일본출장안마 텔레 ᴅᴄᴋɪᴍ888 폰⓿⑤⓿ ⓪⓪0⓪ ⑨⓿⑥⓿",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0190_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=104",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "마포일본출장안마 텔레 ｄｃｋｉｍ⑧⑧⑧ 폰₀₅₀ 0000 ₉₀₆₀",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0191_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=105",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "한게임모바일환전상 ㅋr툑W5555 한게임 피씨 환전상 한게임섯다&맞고 한게임 머니 팝니다",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0194_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=107",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "효창동일본출장마사지 텔레 ⓓⓒⓚⓘⓜ８８８ 폰０⑤０ ０⓪０⓪ ９０⑥０",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0197_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=108",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "한게임머니상 ⊙ㅋr툑V8888⊙ 한게임섯다머니팝니다 한게임카지노환전상구매업체 한게임모바일머니상시세사이트",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0199_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=109",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "하이카지노후기 ㅌㄹнσиgвσ8288 동래구호스트 【광고대행 @HONGBO8288】 명륜일본인오피",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0200_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=112",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "한게임환전상 ✤ㅋr툑K3333✤ 한게임머니상시세상사이트 한게임7포커환전상시세추천 한게임클래식캐시구매",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0203_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=114",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "7번가후기 ㅌㄹⓗⓞⓝⓖⓑⓞ⑧②⑧⑧ 길동안마방 ㅌㄹнσиgвσ8288 북구코스튬",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0207_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=116",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "김해출장마사지출장홈타이 【ㄹr 인♥️ bba104】 콜연애개인콜",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0208_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=117",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "한게임클래식환전상 ◱ㅋr툑R3333◱ 한게임맞고캐시팝니다추천 한게임7포커머니환전사이트 한게임로얄홀덤머니상판매안전",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0211_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=119",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "역촌일본마사지 텔레 ｄｃｋｉｍ８８８ 폰０⑤０ ０⓪０⓪ ９０⑥０",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0212_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=119",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "호빵맨평생주소 ⓗⓞⓝⓖⓑⓞ⑧②⑧⑧ 장전역노래방 ㅌㄹнσиgвσ8288 창동백마출장",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0214_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=120",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "계룡출장안마출장샵 【liⓝe♥️ GMNK36】 만남대행티켓다방골프동행",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0215_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=121",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "신사동은평일본마사지 텔 ⓓⓒⓚⓘⓜ❽❽❽ 폰⓪❺⓪ ⓿⓿⓪⓿ ❾⓪❻⓪",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0216_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=122",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "천호일본안마 텔레 ᵈᶜᵏⁱᵐ⁸⁸⁸ 폰⓿⑤⓿ ⓪⓪0⓪ ⑨⓿⑥⓿",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0217_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=122",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "종로일본출장 텔 ⓓⓒⓚⓘⓜ❽❽❽ 폰⓪⑤⓪ ⓪⓪⓪⓪ ⑨⓪⑥⓪",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0218_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=123",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "신수동일본안마 텔 ⓓⓒⓚⓘⓜ➇➇➇ 폰０５０ ００００ ９０６０",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0220_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=124",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "세곡일본안마 텔레 ⓓⓒⓚⓘⓜ➑➑➑ 폰₀₅₀ 0000 ₉₀₆₀",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0225_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=126",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "구의동일본출장마사지 텔 ｄｃｋｉｍ❽❽❽ 폰050 0000 9060",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0232_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=131",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "부평출장마사지조건만남 【ㄹr 인⭐ bba104】 개인콜키스방방문만남",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0238_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=138",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "용답동일본안마 텔레 ⓓⓒⓚⓘⓜ➑➑➑ 폰⓿⑤⓿ ⓪⓪0⓪ ⑨⓿⑥⓿",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0243_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=142",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "월곡동일본출장 텔레 ⓓⓒⓚⓘⓜ⑧⑧⑧ 폰₀₅₀ 0000 ₉₀₆₀",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0250_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=146",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "용답동일본마사지 텔레 ᴅᴄᴋɪᴍ❽❽❽ 폰⓿⑤⓿ ⓪⓪0⓪ ⑨⓿⑥⓿",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0253_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=147",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "통영출장홈타이출장마사지 【ⓛ ⓘN E⭐ YKM96】 출장홈타이안마방파트너대행",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0255_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=147",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "창신동일본마사지 텔레 ｄｃｋｉｍ⑧⑧⑧ 폰⁰⑤⁰ ⁰⓪⁰⁰ ⁹⓪⁶⁰",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0256_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=151",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "마장일본안마 텔레 ⓓⓒⓚⓘⓜ➇➇➇ 폰⓪❺⓪ ⓿⓿⓪⓿ ❾⓪❻⓪",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0259_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=154",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "사근동일본마사지 텔레 ᴅᴄᴋɪᴍ⁸⁸⁸ 폰⁰⁵⁰ ⁰⁰⁰⁰ ⁹⁰⁶⁰",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0265_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=155",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "응암일본출장 텔레 ｄｃｋｉｍ⑧⑧⑧ 폰０５０ ００００ ９０６０",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0266_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=157",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "김해조건만남출장샵 【ⓛ ⓘⓝⓔ⭐ GMNK36】 골프동행티켓다방조건만남",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0277_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=169",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "신촌일본출장 텔 ⓓⓒⓚⓘⓜ➑➑➑ 폰０５０ ００００ ９０６０",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0280_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=172",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "광화문일본출장 텔레 ｄｃｋｉｍ⑧⑧⑧ 폰⓿⑤⓿ ⓪⓪0⓪ ⑨⓿⑥⓿",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0285_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=175",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "합정동일본출장 텔레 ⒟⒞⒦⒤⒨⑻⑻⑻ 폰⓿⑤⓿ ⓪⓪0⓪ ⑨⓿⑥⓿",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0289_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=176",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "광양출장홈타이출장홈타이 【ㄹr 인♥️ bba104】 파트너대행여대생다방콜걸",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0292_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=177",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "구리조건만남조건만남 【liⓝⓔ☎️ bba104】 비즈니스동행출장안마호텔만남",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0294_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=178",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "방배동일본마사지 텔 ⓓⓒⓚⓘⓜ⑧⑧⑧ 폰⁰⑤⁰ ⁰⓪⁰⁰ ⁹⓪⁶⁰",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0297_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=179",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "방이동일본출장마사지 텔 ｄｃｋｉｍ⑧⑧⑧ 폰₀₅₀ 0000 ₉₀₆₀",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0298_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=179",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "영천출장샵조건만남 【ㄹr 인⭐ GMNK36】 유흥업소만남대행호텔만남",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0299_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=180",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "888가입 ㅌㄹⓗⓞⓝⓖⓑⓞ⑧②⑧⑧ 이수역룸싸롱 ㅌㄹнσиgвσ8288 상수유흥주점",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0306_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=185",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "한게임모바일환전상 ⊠ㅋr툑R3333⊠ 한게임포커머니사이트 한게임카지노환전상환전추천 한게임포커머니구매",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0309_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=187",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "영주출장샵출장마사지 【ι i nⓔ✅ GMNK36】 마사지만남대행로미로미마사지",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0310_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=188",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "월곡동일본출장안마 텔레 ⒟⒞⒦⒤⒨❽❽❽ 폰０５０ ００００ ９０６０",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0312_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=189",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "평창동일본출장마사지 텔 ᵈᶜᵏⁱᵐ⁸⁸⁸ 폰０⑤０ ０⓪０⓪ ９０⑥０",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0325_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=197",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "한게임머니팝니다 ㅋr툑W5555 한게임 머니 한게임7포커 한게임 모바일 머니 상",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0327_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=198",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "대조일본출장 텔 ᵈᶜᵏⁱᵐ⁸⁸⁸ 폰０⑤０ ０⓪０⓪ ９０⑥０",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0330_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=201",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "북아현동일본출장 텔 ᵈᶜᵏⁱᵐ⁸⁸⁸ 폰⓿⑤⓿ ⓪⓪0⓪ ⑨⓿⑥⓿",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0331_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=201",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "평창동일본출장 텔 ⒟⒞⒦⒤⒨⑻⑻⑻ 폰⓪５⓪ ００⓪０ ９⓪６⓪",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0334_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=202",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "염리동일본안마 텔레 ⓓⓒⓚⓘⓜ➑➑➑ 폰⓿⑤⓿ ⓪⓪0⓪ ⑨⓿⑥⓿",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0339_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=207",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "신천동일본마사지 텔 ᴅᴄᴋɪᴍ888 폰050 0000 9060",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0349_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=212",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "자곡동일본마사지 텔레 ᴅᴄᴋɪᴍ⑧⑧⑧ 폰⁰⁵⁰ ⁰⁰⁰⁰ ⁹⁰⁶⁰",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0352_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=216",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "성수일본출장안마 텔레 ᴅᴄᴋɪᴍ888 폰⓪５⓪ ００⓪０ ９⓪６⓪",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0353_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=216",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "건대일본출장 텔 ⓓⓒⓚⓘⓜ⑧⑧⑧ 폰⓿⑤⓿ ⓪⓪0⓪ ⑨⓿⑥⓿",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0364_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=225",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "회현동일본안마 텔 ᴅᴄᴋɪᴍ❽❽❽ 폰⁰⁵⁰ ⁰⁰⁰⁰ ⁹⁰⁶⁰",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0365_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=225",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "한게임모바일환전상 ❂ㅋr툑G3333❂ 한게임포커머니상상안전 한게임바둑이머니상판매안전 한게임럭키랜드머니상가격안전",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0373_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=229",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "한게임럭키랜드머니상 ㅋr툑W5555 한게임클래식 환전상 한게임오목 한게임 피씨 환전 상",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0375_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=232",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "신사동은평일본출장안마 텔레 ᴅᴄᴋɪᴍ⁸⁸⁸ 폰０⑤０ ０⓪０⓪ ９０⑥０",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0384_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=243",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "한게임머니상 ⋆ㅋr툑K0000⋆ 한게임로얄홀덤캐시구매안전 한게임카지노캐시팝니다안전 한게임럭키랜드캐시머니상가격",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0398_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=256",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "한게임피씨환전상 ◐̸ㅋr툑K0000◑̸ 한게임고스돕머니구매안전 한게임로우바둑이머니안전 한게임맞고캐시환전상안전",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0399_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=257",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "자곡동일본마사지 텔레 ᴅᴄᴋɪᴍ⁸⁸⁸ 폰⓿⑤⓿ ⓪⓪0⓪ ⑨⓿⑥⓿",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0401_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=257",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "서초동일본출장안마 텔 ⓓⓒⓚⓘⓜ➑➑➑ 폰⓪５⓪ ００⓪０ ９⓪６⓪",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0404_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=260",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "순천출장안마출장홈타이 【ㄹr 인♥️ bba104】 데이트대행출장홈타이예약만남",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0406_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=263",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "서산출장마사지조건만남 【liⓝe♥️ GMNK36】 개인방문만남비즈니스동행",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0408_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=264",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "신천일본안마 텔 ᴅᴄᴋɪᴍ❽❽❽ 폰⁰⁵⁰ ⁰⁰⁰⁰ ⁹⁰⁶⁰",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0422_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=275",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "원엑스벳제포 ㅌㄹнσиgвσ8288 대연가라오케 @𝕙𝕠𝕟𝕘𝕓𝕠𝟠𝟚𝟠𝟠 중구노브라셔츠룸",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0423_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=276",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "금호일본출장 텔레 ⓓⓒⓚⓘⓜ⑧⑧⑧ 폰⓪５⓪ ００⓪０ ９⓪６⓪",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0430_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=282",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "부암동일본출장 텔레 ⓓⓒⓚⓘⓜ⑧⑧⑧ 폰⓪５⓪ ００⓪０ ９⓪６⓪",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0432_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=283",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "망우동일본출장 텔 ᴅᴄᴋɪᴍ888 폰⓪❺⓪ ⓿⓿⓪⓿ ❾⓪❻⓪",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0437_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=287",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "옥수동일본출장마사지 텔레 ⓓⓒⓚⓘⓜ⁸⁸⁸ 폰⓪❺⓪ ⓿⓿⓪⓿ ❾⓪❻⓪",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0438_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=287",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "논현일본출장마사지 텔레 ⒟⒞⒦⒤⒨⑻⑻⑻ 폰０５０ ００００ ９０６０",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0446_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=291",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "신수동일본안마 텔레 ⓓⓒⓚⓘⓜ⑧⑧⑧ 폰０５０ ００００ ９０６０",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0447_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=292",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "황학동일본안마 텔 ᴅᴄᴋɪᴍ❽❽❽ 폰⓪５⓪ ００⓪０ ９⓪６⓪",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0458_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=301",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "서교동일본출장안마 텔 ᴅᴄᴋɪᴍ888 폰⓪❺⓪ ⓿⓿⓪⓿ ❾⓪❻⓪",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0460_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=302",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "한게임럭키랜드머니상 ◍⃝ㅋr툑K0000◍⃝ 한게임포커캐시머니상사이트 한게임홀덤캐시머니상판매안전 한게임코인머니상시세사이트",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0463_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=303",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "김포출장안마출장마사지 【ι i nⓔ✅ GMNK36】 방문만남출장녀출장마사지",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0471_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=308",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "한게임럭키랜드머니상 ㅋr툑G3333 한게임 클래식 머니상 한게임섯다&맞고 한게임 피씨 머니 상",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0483_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=317",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "번동일본출장 텔레 ᴅᴄᴋɪᴍ⁸⁸⁸ 폰０⑤０ ０⓪０⓪ ９０⑥０",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0499_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=328",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "고덕일본마사지 텔레 ⒟⒞⒦⒤⒨❽❽❽ 폰⁰⁵⁰ ⁰⁰⁰⁰ ⁹⁰⁶⁰",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0500_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=328",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "경산출장마사지출장마사지 【ㄹr 인⭐ bba104】 안마방골프동행조건만남",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0506_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=332",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "신수동일본출장 텔레 ⓓⓒⓚⓘⓜ⁸⁸⁸ 폰⓿⑤⓿ ⓪⓪0⓪ ⑨⓿⑥⓿",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0509_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=338",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "창신동일본마사지 텔레 ⒟⒞⒦⒤⒨888 폰⓪❺⓪ ⓿⓿⓪⓿ ❾⓪❻⓪",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0511_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=340",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "석관동일본출장 텔레 ᴅᴄᴋɪᴍ❽❽❽ 폰⓪⑤⓪ ⓪⓪⓪⓪ ⑨⓪⑥⓪",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0516_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=344",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "남양주출장샵출장안마 【ι i nⓔ✅ bba104】 개인미시유부녀",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0526_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=355",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "서귀포출장샵조건만남 【liⓝⓔ☎️ YKM96】 다방티켓여대생비즈니스동행",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0529_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=357",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "한게임머니구매 ㅋr툑G3333 한게임 럭키랜드 머니상 한게임파티훌라 한게임 모바일 환전 상",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0551_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=374",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "삼척출장마사지출장홈타이 【ⓛ ⓘN E⭐ YKM96】 콜걸출장샵태국전통마사지",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0561_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=381",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "9윈가입코드 ㅌㄹнσиgвσ8288 잠실역안마 ㅌㄹ𝘩𝘰𝘯𝘨𝘣𝘰8288 종각역백마오피",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0562_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=382",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "대치동일본마사지 텔레 ⓓⓒⓚⓘⓜ⁸⁸⁸ 폰０⑤０ ０⓪０⓪ ９０⑥０",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0564_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=383",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "원효로일본출장안마 텔 ⒟⒞⒦⒤⒨❽❽❽ 폰⓪５⓪ ００⓪０ ９⓪６⓪",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0565_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=71",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "대전호빠 O1O-0000-0667 세준실장 대전유성호빠 유성호빠선수 유성선수부르는곳 유성선수노래방",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0566_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=111",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "크크 역삼룸싸롱 OlO-0000-O52O 강남세인트 유미대표 역삼 룸살롱 역삼룸싸롱 역삼 룸싸롱 역삼룸싸롱 …",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0567_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=181",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "온천장룸싸롱 추천 O1O=0000=9717 동래룸살롱 동래룸사롱 동래룸 동래룸빵",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0568_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=261",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "대전호빠 O1O-0000-0667 세준실장 유성남보도 대전남자선수 유성남자선수 대전유성호빠",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0569_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=271",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "성정동노래클럽 [문의 O1O-0000-2472] 천안풀싸롱추천 천안풀싸롱가격 천안풀싸롱주대",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0570_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=291",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "연산동여성전용노래방 부산호빠 ⚠️MD수빈 O1O.0000.6611⚠️ 부산호빠 해운대호스트바 광안리호스트빠 …",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0571_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=321",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "수질∴광주룸싸롱∴O1O.0000.0948 ★치평동룸싸롱★치평동풀싸롱★치평동노래방★치평동노래클럽★치평동노래홀",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0572_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=411",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "ㅣ대전룸싸롱ㅣ☎O1O.0000.8445 유성룸싸롱ㅣ유성풀싸롱ㅣ유성가라오케ㅣ둔산동유흥주점ㅣ유성노래클럽ㅣ대전유성…",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0573_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=441",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "동래풀싸롱 추천 O1O=0000=9717 연산동풀사롱 서면풀사롱 해운대풀사롱 광안리풀사롱 동래풀사롱",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0574_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=541",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "부천노래방가격 O1O-0000-2364 신중동역노래방 상동역노래방 부천노래방 부천퍼블릭 부천가라오케",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0575_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=641",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "건대노래방보도사무실 문의전화 : O1O=0000=7675 건대여성밤알바 건대아가씨알바 건대여성고수익알바 건대…",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0576_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=681",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "[문의 O1O=0000=5101][카카0 TC777] 강서구당일알바 강서구바알바",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0577_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=731",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "연산동유흥 O1O=0000=9717 서면유흥업소",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0578_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=831",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "[문의 O1O=0000=2065] 상남동풀싸롱 [내상제로][예약문의]",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0579_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=921",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "주안호빠 부천호빠 O1O-0000-2291 부천호스트바/부천여성시대/남자도우미/인천호빠 주안호빠",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0580_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1131",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "대전호빠 O1O-0000-0667 세준실장 대전호스트바 유성여성전용노래방 대전여성전용노래방 대전호빠",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0581_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1241",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "선릉룸살롱 20대많은곳 O1O=0000=O52O 선릉cnn 선릉 룸싸롱 선릉룸사롱 선릉 룸싸롱 선릉룸살롱 선…",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0582_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1291",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "[문의 O1O=0000=5101][카카0 TC777] 강서구여우알바 강서구여자알바",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0583_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1441",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "해운대퍼블릭룸 O1O~0000~9717 연산동 유흥업소 광안리 유흥업소",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0584_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1461",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "수질굿■상무지구룸싸롱■O1O.0000.0948 ●상무지구유흥주점●상무지구풀싸롱●상무지구노래방●상무지구가라오케",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0585_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1571",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "부천호빠 부천호빠 O1O-0000-2291 부천호스트바/인천호빠/부천호스트빠 부평호빠",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0586_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1601",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "y대전유성룸바y☎O1O.0000.8445 대전가라오케y대전셔츠룸싸롱y유성하이퍼블릭y둔산동가라오케y월평동노래ㅇ…",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0587_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1601",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "[문의 O1O=0000=2065] 창원호스트바 [내상제로][예약문의]",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0588_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1671",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "인천노래방도우미 [전화 O1O-0000-8520] 주안노래방알바 주안노래방도우미 주안보도사무실",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0589_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1681",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "인천주안노래방 [O1O-0000-3859] 부천노래방주대 부천노래방2차 부평노래방가격 부평노래방추천 계산동노…",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0590_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1731",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "[순양티켓 O1O=0000 =2546] 아이폰 콘텐츠이용료 현금화 카드현금화",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0591_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1791",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "천안노래방도우미알바 O1O=0000=1669 천안노래방도우미알바 천안노래방알바 천안1등사무실",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0592_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1911",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "달토 선릉룸사롱 OlO-0000-O52O 유미대표 교대풀살롱 최고의 업소 정보 [가격,시스템,서비스,위치,…",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0593_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1921",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "빠른초이스■광주룸싸롱■O1O.0000.0948 ●광주풀싸롱●광주노래방●광주노래홀●광주노래클럽●광주가라오케",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0594_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1931",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "선릉풀사롱 O1O=0000=5863 역삼베리엔굿 방이동2차룸 위치 정보 [가격,시스템,서비스,위치,노는법…",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0595_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=65",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "검증†방이동 블렌딩 〔O1O.0000.196O〕 주대·연락처 방문팁 수실장 ❰ 방이동 가라오케 추천 ⇓ 천호…",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0596_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=217",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "[문의 O1O=0000=2065] 상남동룸싸롱 [예약문의][내상제로]",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0597_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=473",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "부천호빠 부천호빠 O1O-0000-2291 부천호스트바/부천여성시대/남자도우미/인천호빠 부천호스트바",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0598_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=529",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "인천노래방알바 [전화 O1O-0000-8520] 인천노래방알바 인천노래방도우미 인천보도사무실",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0599_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=585",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "천안노래방알바 O1O=0000=1669 천안노래방도우미알바 천안노래방알바 천안1등사무실",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0600_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=849",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "물량∴광주룸싸롱∴O1O.0000.0948 ★광주풀싸롱★광주노래방★광주유흥주점★광주가라오케★광주노래클럽",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0601_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=857",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "부천노래방 O1O-0000-2364 중동호빠룸 부천호스트바룸 부천호빠노래방",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0602_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=865",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "남양주【출장안마】❤️olO~0000~o661❤️캬톡dagan8282 남양주러시아출장마사지 남양주백마출장 남양…",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0603_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=897",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "[체리뱅크 O1O=0000 =7785] 신용카드현금화 정식업체 전북카드현금화",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0604_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1049",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "부천노래방,O1O-0000-2438,신중동퍼블릭 계산동노래방 부천노래방",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0605_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1129",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "건대노래방알바 문의전화 : O1O=0000=7675 건대룸보도 건대보도사무실 건대노래방보도",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0606_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1169",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "잠실룸보도 문의전화 : O1O=0000=7675 잠실룸보도 잠실보도사무실 잠실노래방보도",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0607_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1193",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "프리▥잠실 타임즈 【OlO.0000.196O】 비용·티씨 포함/미포함 ▪수실장 ❰ 잠실 쩜오 추천 ⬆ 방이동…",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0608_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1297",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "경산야간알바 O1O=0000=1234 경산업소알바 경산초미시사무실 경산룸알바 경산주점알바",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0609_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1385",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "역삼2차룸 O1O=0000=5863 강남세븐 방의동소프트풀 아가시 많은곳 정보 [가격,시스템,서비스,위치…",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0610_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1385",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "남자도우미 부천호빠 O1O-0000-2291 부천호스트바/인천호빠/부천호스트빠 인천호빠",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0612_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1545",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "2026년 최고의 강남풀싸롱 추천 O1O=0000=3211 친절한 하늘실장 강남풀싸롱가격 풀싸롱위치 풀싸롱 …",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0613_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1617",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "룸보도 [전화 O1O-0000-2536] 홍대노래방알바 홍대노래방도우미 홍대룸알바",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0614_HOMOGLYPH",
+      "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1705",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "룸보도 [전화 O1O-0000-2536] 홍대룸보도 홍대보도사무실 홍대퍼블릭알바 홍대가라오케알바",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0616_HOMOGLYPH",
+      "url": "http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=2",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "계산택지쓰리노 차실장 OlO 0000 5O82 계산동노래방 원하는 날짜에 맞춰 방문 계획 세우는 방법 계산동…",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0617_HOMOGLYPH",
+      "url": "http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=2",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "박촌동쓰리노 차실장 OlO 0000 5O82 계산동노래빠 방문 계획에 맞춰 예약 순서를 정리하는 방법 계산동…",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0618_HOMOGLYPH",
+      "url": "http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=2",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "계양구쓰리노 차실장 OlO 0000 5O82 박촌동쓰리노 코스 선택 후 예약 일정을 정리하는 순서 계산동유흥…",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0619_HOMOGLYPH",
+      "url": "http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=7",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "작전동쓰리노 차실장 OlO 0000 5O82 계산동룸싸롱 코스별로 필요한 준비 내용을 미리 알아보기 박촌동쓰…",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0620_HOMOGLYPH",
+      "url": "http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=7",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "효성동쓰리노 차실장 OlO 0000 5O82 계산동가라오케 여유 있는 일정으로 방문할 때 참고할 예약 팁 계…",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0621_HOMOGLYPH",
+      "url": "http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=7",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "피망머니상 ❤️ㅋr톡 pm4989 피망머니상❤️ 안전피망포커머니상 피망슬롯머니상 모바일피방포커머니상 피망머니…",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0647_HOMOGLYPH",
+      "url": "http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=31",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "옥수동호빠 o1o·0000·1030 매력만점 금호호빠 비용확인",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0648_HOMOGLYPH",
+      "url": "http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=32",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "반포하이쩜오 o1o 0000 2358 잠원쩜오 이용 전 확인사항",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0649_HOMOGLYPH",
+      "url": "http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=32",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "청계산입구역풀쌀롱 o1o·0000·9736 수준급 이용 안내｜근처 판교역풀쌀롱 확인",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0650_HOMOGLYPH",
+      "url": "http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=32",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "일산마사지 o1o 0000 9736 프리미엄 백마안마 시세문의",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0651_HOMOGLYPH",
+      "url": "http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=33",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "동탄풀사롱 o1o 0000 9736 실력파 병점풀싸롱 반송룸초이스 예약안내",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0652_HOMOGLYPH",
+      "url": "http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=33",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "신림마사지 o1o·0000·9736 정통 당곡안마 예약문의",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0653_HOMOGLYPH",
+      "url": "http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=34",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "신도림호스트빠 o1o·0000·1030 수준급 대림호빠 구로호스트바 비용확인",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0654_HOMOGLYPH",
+      "url": "http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=35",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "방이동노래방 o1o 0000 2358 송파나루노래방 이용 기준",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0655_HOMOGLYPH",
+      "url": "http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=35",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "구로디지털단지역노래방 o1o 0000 2358 수준급 선택 가이드｜근처 신대방역노래방 확인",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0656_HOMOGLYPH",
+      "url": "http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=35",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "군자역구장 o1o·0000·9736 인기폭발 예약 전 체크｜근처 어린이대공원역구장 확인",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0658_HOMOGLYPH",
+      "url": "http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=35",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "신사호빠 o1o·0000·1030 압구정호스트바 업종 비교",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0659_HOMOGLYPH",
+      "url": "http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=35",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "신림역하퍼 o1o·0000·2358 실력파 문의 전 체크｜근처 신대방역퍼블릭 확인",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0662_HOMOGLYPH",
+      "url": "http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=37",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "청담하이쩜오 o1o·0000·2358 강남구청쩜오 업종 비교",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0686_HOMOGLYPH",
+      "url": "http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=48",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "강남호빠 o1o·0000·1030 논현호스트바 위치 확인",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0689_HOMOGLYPH",
+      "url": "http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=49",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "압구정호빠 o1o·0000·1030 끝내주는 청담호빠 실시간문의",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0755_HOMOGLYPH",
+      "url": "http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=2",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "[필독] 광고문의 구글찌라시.ＣOM 구글찌라시프로그램구매 웹문서찌라시광고 웹문서찌라시홍보 적용 소액결제 하이퍼블릭 분야별 링크 모빌리언스카드현금화 구글웹문서 구글찌라시 010카톡 010홍보 구글해선솔루션홍보 구글솔루",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0758_HOMOGLYPH",
+      "url": "http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=5",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "대흥동일본출장 텔 ｄｃｋｉｍ⑧⑧⑧ 폰０５０ ００００ ９０６０",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0763_HOMOGLYPH",
+      "url": "http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=10",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "일원일본출장안마 텔레 ｄｃｋｉｍ⑧⑧⑧ 폰⓪❺⓪ ⓿⓿⓪⓿ ❾⓪❻⓪",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0785_HOMOGLYPH",
+      "url": "http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=47",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "황학동일본출장마사지 텔 ⓓⓒⓚⓘⓜ⑧⑧⑧ 폰０５０ ００００ ９０６０",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0796_HOMOGLYPH",
+      "url": "http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=167",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "한게임클래식머니상 〈ㅋr툑K0000〉 한게임고스톱환전상가격추천 한게임카지노머니상팝니다추천 한게임코인환전상시세상업체",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0804_HOMOGLYPH",
+      "url": "http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=233",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "역촌동일본출장마사지 텔 ⓓⓒⓚⓘⓜ⑧⑧⑧ 폰０５０ ００００ ９０６０",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0809_HOMOGLYPH",
+      "url": "http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=255",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "해외선물솔루션홍보 Ⓜ️ 텔@ TDTD1111",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0812_HOMOGLYPH",
+      "url": "http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=267",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "아현동일본안마 텔 ᴅᴄᴋɪᴍ⑧⑧⑧ 폰０５０ ００００ ９０６０",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0813_HOMOGLYPH",
+      "url": "http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=271",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "한게임럭키랜드머니상 ◨ㅋr툑K0000◨ 한게임클래식캐시머니판매사이트 한게임로우바둑이캐시머니상판매 한게임바둑이머니시세업체",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0817_HOMOGLYPH",
+      "url": "http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=279",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "전농동일본출장 텔레 ᵈᶜᵏⁱᵐ⁸⁸⁸ 폰０⑤０ ０⓪０⓪ ９０⑥０",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0820_HOMOGLYPH",
+      "url": "http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=289",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "거여일본마사지 텔 ⒟⒞⒦⒤⒨❽❽❽ 폰⁰⁵⁰ ⁰⁰⁰⁰ ⁹⁰⁶⁰",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0825_HOMOGLYPH",
+      "url": "http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=305",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "반포동일본마사지 텔레 ⒟⒞⒦⒤⒨❽❽❽ 폰₀₅₀ 0000 ₉₀₆₀",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0833_HOMOGLYPH",
+      "url": "http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=331",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "고덕일본출장 텔레 ᴅᴄᴋɪᴍ⁸⁸⁸ 폰０５０ ００００ ９０６０",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0836_HOMOGLYPH",
+      "url": "http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=339",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "상봉동일본출장 텔 ᴅᴄᴋɪᴍ❽❽❽ 폰⓪❺⓪ ⓿⓿⓪⓿ ❾⓪❻⓪",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0841_HOMOGLYPH",
+      "url": "http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=359",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "영덕출장마사지출장마사지 【liⓝⓔ☎️ YKM96】 개인콜개인콜개인콜",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0843_HOMOGLYPH",
+      "url": "http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=363",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "김해출장홈타이출장홈타이 【ⓛ ⓘⓝⓔ⭐ bba104】 로미로미마사지로미로미마사지로미로미마사지",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0844_HOMOGLYPH",
+      "url": "http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=363",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "영덕출장안마출장안마 【ⓛ ⓘN E⭐ YKM96】 출장업소출장업소출장업소",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0847_HOMOGLYPH",
+      "url": "http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=365",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "거제출장마사지출장마사지 【ㄹr 인♥️ GMNK36】 동남아아가씨동남아아가씨동남아아가씨",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0848_HOMOGLYPH",
+      "url": "http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=367",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "서빙고동일본출장마사지 텔 ᴅᴄᴋɪᴍ❽❽❽ 폰⓪⑤⓪ ⓪⓪⓪⓪ ⑨⓪⑥⓪",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0852_HOMOGLYPH",
+      "url": "http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=379",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "양산출장홈타이출장홈타이 【liⓝe♥️ bba104】 콜걸콜걸콜걸",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0853_HOMOGLYPH",
+      "url": "http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=381",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "군포출장홈타이출장홈타이 【ⓛ ⓘⓝⓔ⭐ SEX959】 유료만남유료만남유료만남",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0854_HOMOGLYPH",
+      "url": "http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=383",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "정읍출장홈타이출장홈타이 【ⓛ ⓘN E⭐ SEX959】 태국전통마사지태국전통마사지태국전통마사지",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0860_HOMOGLYPH",
+      "url": "http://www.kcoal.or.kr/customer/board.php?code=board&page=1",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "2026년 최신 핸드폰❤️O1O 0000 7782❤️24시티켓❤️깔끔한처리",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0861_HOMOGLYPH",
+      "url": "http://www.kcoal.or.kr/customer/board.php?code=board&page=1",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "365일 완벽한 SKT O1O 0000 7782ㅣSKT미납ㅣ휴대폰방법ㅣ 악성정책",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0862_HOMOGLYPH",
+      "url": "http://www.kcoal.or.kr/customer/board.php?code=board&page=1",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "사기걱정하지마세요-☎O1O 0000 7782-핸드폰 -다날700/50/432/605/615결제정책해결방법",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0863_HOMOGLYPH",
+      "url": "http://www.kcoal.or.kr/customer/board.php?code=board&page=1",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "365일 완벽한 휴대폰매입업체 O1O 0000 7782ㅣSKT미납ㅣ다날50결제정책해결방법ㅣ 악성정책",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0864_HOMOGLYPH",
+      "url": "http://www.kcoal.or.kr/customer/board.php?code=board&page=1",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "2026년최고가매입ㅣ아이폰 정보이용료 방법｜☎O1O 0000 7782｜SKT KT LG 통신사별 가이드 모두OK",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0866_HOMOGLYPH",
+      "url": "http://www.kcoal.or.kr/customer/board.php?code=board&page=1",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "[상승장] 내 시간과 체력에 투자하는 여성 상담사 신규 채용 -ㅋr톡:TM070",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0891_HOMOGLYPH",
+      "url": "http://ujrehab.or.kr/ujrehab/bbs/board.php?bo_table=bo_02&page=2",
+      "is_violation": true,
+      "location": "a.item-subject",
+      "evidence_text": "강남어나더❤️OlO-0000-OO53❤️친절문의환영 #강남어나더 #강남역어나더 #강남역쩜오 #역삼동쩜오",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0892_HOMOGLYPH",
+      "url": "http://ujrehab.or.kr/ujrehab/bbs/board.php?bo_table=bo_02&page=6",
+      "is_violation": true,
+      "location": "a.item-subject",
+      "evidence_text": "강남세이렌❤️OlO-0000-OO53❤️친절문의24시 #강남세이렌 #선릉세이렌 #강남쩜오 #선릉역쩜오 #대치…",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0894_HOMOGLYPH",
+      "url": "https://ypcd.or.kr/bbs/board.php?bo_table=notice4&page=4",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "인천조건만남출장샵 【ι i nⓔ✅ ????????????????????????】 연인대행업소호텔출장",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0928_HOMOGLYPH",
+      "url": "https://ypcd.or.kr/bbs/board.php?bo_table=notice4&page=801",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "가락셔츠룸 OIO.0000.3351 매혹적인 가락셔츠룸 가락미러룸 가락동셔츠룸",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-0966_HOMOGLYPH",
+      "url": "https://ypcd.or.kr/bbs/board.php?bo_table=notice4&page=1971",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "진관동일본안마 텔레 ⒟⒞⒦⒤⒨888 폰⓿⑤⓿ ⓪⓪0⓪ ⑨⓿⑥⓿",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1018_HOMOGLYPH",
+      "url": "https://ypcd.or.kr/bbs/board.php?bo_table=notice4&page=2691",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "용인조건만남조건만남 【ⓛ ⓘⓝⓔ⭐ GMNK36】 예약만남커플마사지마사지",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1026_HOMOGLYPH",
+      "url": "https://ypcd.or.kr/bbs/board.php?bo_table=notice4&page=2931",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "순천출장샵출장홈타이 【ⓛ ⓘN E⭐ YKM96】 조건만남출장녀티켓다방",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1061_HOMOGLYPH",
+      "url": "https://ypcd.or.kr/bbs/board.php?bo_table=notice4&page=3561",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "메인벳평생주소 ㅌㄹ????????????????????????➑➋➑➑ 은평구일본인출장 【H】【O】【N】【G】…",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1088_HOMOGLYPH",
+      "url": "https://ypcd.or.kr/bbs/board.php?bo_table=notice4&page=5181",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "인사동일본출장안마 텔 ⒟⒞⒦⒤⒨888 폰⓿⑤⓿ ⓪⓪0⓪ ⑨⓿⑥⓿",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1089_HOMOGLYPH",
+      "url": "https://ypcd.or.kr/bbs/board.php?bo_table=notice4&page=5211",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "원주출장홈타이조건만남 【liⓝe♥️ GMNK36】 호텔출장출장업체연애",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1092_HOMOGLYPH",
+      "url": "https://ypcd.or.kr/bbs/board.php?bo_table=notice4&page=5361",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "연희일본출장마사지 텔 ⒟⒞⒦⒤⒨❽❽❽ 폰₀₅₀ 0000 ₉₀₆₀",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1195_HOMOGLYPH",
+      "url": "https://ypcd.or.kr/bbs/board.php?bo_table=notice4&page=7041",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "강남풀사롱❤️OlO-0000-OO53❤️친절문의24시 #강남풀싸롱 #역삼동풀싸롱 #선릉풀싸롱 #대치동풀싸롱 …",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1205_HOMOGLYPH",
+      "url": "https://ypcd.or.kr/bbs/board.php?bo_table=notice4&page=7251",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "비트365입금먹튀 ㅌㄹ????????????????????????➑➋➑➑ 부암1인샵 @????????????…",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1296_HOMOGLYPH",
+      "url": "https://ysgsa.yonsei.ac.kr/board4/?page=1",
+      "is_violation": true,
+      "location": "span",
+      "evidence_text": "인디고게임실버,인디언게임관리자⋘𝟬𝟭𝟬-𝟬𝟬𝟬𝟬-𝟯𝟯𝟱𝟯⋙AK게임준회원,블루게임본사,몰디브바둑이",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1297_HOMOGLYPH",
+      "url": "https://ysgsa.yonsei.ac.kr/board4/?page=1",
+      "is_violation": true,
+      "location": "span",
+      "evidence_text": "인디언게임(인디언game) 0️⃣1️⃣0️⃣-⓿⓿⓿⓿。❸❹❻❹",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1299_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=1",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "블랙배너［ 님。com ］퍼블릭돈암동한게임카지노캐시머니업체",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1300_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=1",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "쇼핑몰배너［ 꿈·shop ］한게임PC환전상판매업체거여한게임모바일머니구매",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1301_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=2",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "블랙키워드［ 배너나라․com ］에볼루션알광고 구글해외선물솔루션광고 구글스포츠광고카지노API 대여한게임PC머니상삽니다안전",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1302_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=2",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "배너［ cafe24․site ］한게임클래식머니환전상갈현일산 마두",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1303_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=3",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "배너［ 밤ㆍshop ］한게임고스톱머니상구매업체서산한게임클래식캐시환전상추천",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1304_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=4",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "구글상단노출［ 황。com ］한게임고스톱환전상상추천네이버아이디대여정품 카지노알",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1305_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=6",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "구글도배프로그램［ 꿈·shop ］성피방 알분양매니저벳홀덤솔루션 분양",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1306_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=7",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "배너［ cafe24｡site ］한게임고스톱캐시머니상사이트서초한게임럭키랜드머니상시세",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1307_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=7",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "광고문의［ 님․com ］성피방 알가격한게임머니Melon아이디판매",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1308_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=8",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "구글찌라시 프로그램［ 배너나라。com ］성피방 카지노 API 개발업체한게임피씨환전상interpark아이디대여",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1309_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=8",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "쇼핑몰배너［ 황ㆍcom ］한게임포커머니환전상업체라이브카지노 솔루션 개발한게임코인머니시세상사이트",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1310_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=8",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "구글상단노출［ 배너나라。com ］성인pc방알 구매팝리니지한게임7포커머니사이트",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1311_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=9",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "웹문서상위노출［ 노・xyz ］한게임로우바둑이캐시삽니다가락한게임바둑이캐시환전상가격업체",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1312_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=10",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "배너［ cafe24。site ］구글도배 오피홍보 선불유심업체슬롯 사이트 분양한게임캐시머니상가격안전",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1313_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=12",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "웹문서상위노출［ 숨ㆍxyz ］토지노솔루션토토충전계좌매입한게임럭키랜드캐시구매사이트",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1314_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=12",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "구글찌라시［ 배너나라．com ］한게임모바일머니상팝니다추천카지노 사이트 제작한게임모바일머니상판매추천",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1315_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=16",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "구글도배프로그램［ 꿈．shop ］한게임7포커머니환전안전사설토지노 솔루션 제작한게임고스톱캐시머니가격안전",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1316_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=16",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "구글찌라시 프로그램［ 밤・xyz ］사설카지노솔루션 제작카지노 솔루션 렌탈재즈바",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1317_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=16",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "각종배너［ 님ㆍcom ］성피방 카지노 API 연동업체중곡동한게임고스돕머니삽니다",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1318_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=17",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "배너［ 밤ㆍxyz ］강서구와인슬롯한게임럭키랜드캐시환전상가격추천",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1319_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=18",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "구글도배프로그램［ 숨．xyz ］익선동마사지365강남 하퍼",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1320_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=19",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "모든광고［ 숨・xyz ］한게임고스톱캐시삽니다업체서교한게임포커환전상환전",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1321_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=27",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "구글찌라시［ 배너나라｡com ］한게임맞고머니상판매안전구리한게임PC환전상가격업체",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1322_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=27",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "구글1페이지노출［ cafe24ㆍsite ］한게임포커머니상상업체원주에스코트서비스",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1323_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=28",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "쇼핑몰배너［ 숨｡xyz ］한국에로영화 서양야동에볼루션 알구매한게임카지노환전상삽니다사이트",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1325_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=35",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "웹문서상위노출［ 황．com ］무료웹툰광고 무료웹툰홍보 무료웹툰상위노출에볼루션 알값한게임클래식머니상삽니다안전",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1326_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=36",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "구글도배프로그램［ 노．xyz ］한게임PC머니상환전상안전일산 셔츠데이스파",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1327_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=37",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "웹문서상위노출［ 밤｡xyz ］한게임로얄홀덤머니상구매추천라이브카지노 솔루션한게임코인환전상삽니다사이트",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1328_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=39",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "배너［ 숨・xyz ］한게임섯다머니가격라이브홀덤솔루션한게임클래식머니상시세",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1329_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=39",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "광고문의［ 꿈ㆍshop ］한게임섯다환전상추천프한게임고스돕캐시삽니다추천",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1331_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=40",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "구글도배프로그램［ cafe24・site ］남포역사설토토사이트 임대통협",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1333_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=40",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "블랙배너［ 님．com ］종로구카지노알분양한게임모바일머니구매업체",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1334_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=42",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "각종배너［ 님․com ］한남동거여동한게임고스돕캐시머니안전",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1336_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=42",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "웹상위노출［ 황ㆍcom ］한게임섯다머니상시세상업체인사동한게임코인머니판매업체",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1337_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=43",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "각종배너［ 황ㆍcom ］한게임섯다머니상구매안전혜화동휴대폰정보현금화",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1338_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=44",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "웹문서상위노출［ 노．xyz ］한게임환전상상사이트오금동한게임고스톱환전상판매사이트",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1339_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=46",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "웹문서상위노출［ 노｡xyz ］한게임로우바둑이머니상삽니다안전성북한게임모바일머니상추천",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1340_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=50",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "광고문의［ 노。xyz ］한게임로얄홀덤머니가격카지노 정품알 공급한게임클래식머니상판매추천",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1342_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=51",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "구글도배프로그램［ 밤ㆍshop ］소액결제티켓광장한게임모바일머니삽니다",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1348_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=55",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "블랙배너［ 꿈。shop ］한게임홀덤환전상팝니다안전한게임피씨머니상실시간에볼 사이트 분양",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1361_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=63",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "웹상위노출［ 밤｡xyz ］한게임포커머니상상업체강일한게임 포커 머니 상",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1365_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=67",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "블랙배너［ 밤ㆍshop ］한게임캐시매입진관동일산 풍동",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1367_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=68",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "구글상단노출［ 밤·shop ］한게임홀덤머니판매업체성내한게임로얄홀덤머니가격안전",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1376_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=76",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "웹상위노출［ 밤․xyz ］한게임맞고캐시머니안전남영동한게임맞고캐시머니상안전",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1381_HOMOGLYPH",
+      "url": "https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=80",
+      "is_violation": true,
+      "location": "div.kboard-default-cut-strings",
+      "evidence_text": "쇼핑몰배너［ 밤․shop ］한게임고스돕머니상팝니다업체한게임클래식환전상한게임고스돕환전상환전안전",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "HG-RT-1781_HOMOGLYPH",
+      "url": "https://dkhrainbow.com/article/상품-qa/6/6907/",
+      "is_violation": true,
+      "location": "a",
+      "evidence_text": "데카듀라보린 Deca-Durabolin (Nandrolone Deсanoate) #프리모구입 카톡VKP1004 #스틸녹스파는곳",
+      "technique": "HOMOGLYPH"
     }
   ]
 }

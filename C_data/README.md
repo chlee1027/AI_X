@@ -265,13 +265,15 @@
 ## 요강 기준 정답셋 (`data/answers/`)
 
 `python tools/build/to_answer.py` 가 실측 라벨을 요강 붙임4 스키마(UTF-8, BOM 없음)로 바꾼다. 원본 YAML 은 건드리지 않는다.
-- 읽는 파일: decoy·etc·combo_real·jamo, OFFSCREEN 원문(`data/offscreen/data/originals/offscreen_originals.yaml`)
-- 10-06 부터 JAMO·OFFSCREEN 도 읽는다.
+- 읽는 파일: decoy·etc·combo_real·jamo, OFFSCREEN 원문(`data/offscreen/data/originals/offscreen_originals.yaml`), 사람 2 HOMOGLYPH 권장판(`data/homoglyph/homoglyph_real_test_capped.yaml`)
+- 10-06 부터 JAMO·OFFSCREEN 도, 10-07 부터 HOMOGLYPH 권장판도 읽는다. 전체판(1,777)은 넣지 않는다.
+- HOMOGLYPH 권장판 가운데 HG-RT-1298 은 조합 CB-193 과 같은 글(연세대 대학원 게시판 목록 쪽과 글 쪽)이라 조합 쪽만 남겼다. 같은 호스트·같은 문장으로 전부 대조해 겹침은 이 하나였다.
+- HOMOGLYPH 의 url 은 `origin.url` 을 쓴다. source 칸의 주소는 검색어에 괄호가 들면 잘린다(HG-RT-0007).
 - OFFSCREEN 의 CSS 시험용 100개와 가시 대조군 7개는 실측이 아니라 파생 자료라 넣지 않는다.
 
 | 파일 | 요강의 자리 | 건수 |
 |---|---|---|
-| `answer_result.json` | `result.json` — 적격평가 대상 주요 탐지 유형 4종 | 430 (HOMOGLYPH 173 · JAMO 157 · TRANSPARENT 0 · OFFSCREEN 100). JAMO 157 = jamo.yaml 145(조합과 같은 요소 2건 제외) + 조합의 JAMO 라벨 12 |
+| `answer_result.json` | `result.json` — 적격평가 대상 주요 탐지 유형 4종 | 799 (HOMOGLYPH 542 · JAMO 157 · TRANSPARENT 0 · OFFSCREEN 100). HOMOGLYPH 542 = 조합의 HOMOGLYPH 라벨 173 + 사람 2 권장판 369(조합과 같은 요소 1건 제외). JAMO 157 = jamo.yaml 145(조합과 같은 요소 2건 제외) + 조합의 JAMO 라벨 12 |
 | `answer_result_extra.json` | `result_extra.json` — 추가 유형, `technique: "ETC"` + `extra_finding` | 631 (etc 220 + 조합의 extra_findings 411) |
 | `negatives.json` | 정답 아님. 숨김 신호가 있는 정상 요소라 여기에 걸리면 오탐(정답 추출 정확도 35점) | 200 |
 
@@ -297,19 +299,21 @@ python -m pytest tests/test_scorer.py -q                    # 채점기 자체 �
 - 요강이 정하지 않아 채점기가 정한 것: 스키마 미준수 항목은 오답으로 셈(붙임2 와 붙임4 가 다르다, `--schema-miss exclude` 로 바꿈) · `is_violation: false` 는 제출 건수에 넣고 정답으로 치지 않음 · BOM 은 0점 · 「참고 점수」는 45 x 재현율, 35 x 정밀도라는 가정 · 시간 20점은 상한 판정만.
 - 브라우저 방식은 `--allow-host`(기본 127.0.0.1, localhost)의 페이지만 연다. 실제 사이트에는 요청하지 않는다.
 
-**지금 정답셋으로 돌리면 생기는 일.** `data/answers/answer_result.json` 의 건수가 채점기 안에서 크게 줄어든다. 10-06 판은 430건이 287건으로 합쳐진다. 기법별로는 HOMOGLYPH 173 -> 102, OFFSCREEN 100 -> 28 이고 JAMO 157 은 그대로다. OFFSCREEN 은 같은 보고서·게시판 주소에서 잘라 온 조각들이 모두 `a` 같은 선택자를 쓰기 때문이다. 같은 페이지의 댓글 여러 개가 모두 `p.txt` 같은 조각 선택자를 써서 url · location · technique 가 겹치기 때문이다(채점기가 경고로 알린다). 조각 단위 정답셋으로는 페이지 단위 채점을 할 수 없다는 뜻이고, mocksite 에 조각을 하나씩 심어 페이지 주소와 페이지 안 유일 선택자를 새로 매기면 풀린다.
+**지금 정답셋으로 돌리면 생기는 일.** `data/answers/answer_result.json` 의 건수가 채점기 안에서 크게 줄어든다. 10-07 판(HOMOGLYPH 권장판 반영)은 799건이 559건으로 합쳐진다. 기법별로는 HOMOGLYPH 542 -> 374, OFFSCREEN 100 -> 28 이고 JAMO 157 은 그대로다(10-06 판은 430 -> 287). 사람 2 권장판도 게시판 목록 한 쪽의 여러 글이 같은 선택자를 써서 겹친다. OFFSCREEN 은 같은 보고서·게시판 주소에서 잘라 온 조각들이 모두 `a` 같은 선택자를 쓰기 때문이다. 같은 페이지의 댓글 여러 개가 모두 `p.txt` 같은 조각 선택자를 써서 url · location · technique 가 겹치기 때문이다(채점기가 경고로 알린다). 조각 단위 정답셋으로는 페이지 단위 채점을 할 수 없다는 뜻이고, mocksite 에 조각을 하나씩 심어 페이지 주소와 페이지 안 유일 선택자를 새로 매기면 풀린다.
 
 ## 남은 일 (10-06 기준)
 
 1. **생성 데이터:** 실측으로 못 채운 몫이다.
    - JAMO 호환자모 전체 분해 23 (실측 17/40. 10-06 사람 4 추가분 5건 포함, 공개 게시판 원문 3,638쪽에서는 실례 0건)
    - css_content 20
-   - encoding 의 엔티티·Base64 형태
+   - encoding 의 Base64 형태 (엔티티는 10-07 에 실측 20건을 넣었다)
    - 숨김+난독화 조합
    - 적격평가 4종 중 TRANSPARENT 정답
 2. **mocksite:** `tests/mocksite/` 에 조각을 심어 페이지 단위 정답셋을 만든다. 지금 정답셋은 조각 단위라 같은 선택자가 겹쳐 합쳐진다.
 3. **팀 결정:** 위 「결정이 필요한 것」의 도메인 가명화·encoding 인정 여부. (git 원격은 10-04 에 비공개로 돌렸다.)
 4. **일정:** 10-09 F1 0.85 게이트, 10-16 클린 VM, 10-21 풀런 3회, 10-22 제출.
+
+> 10-07 아침까지 남은 일이던 「HOMOGLYPH 권장판을 정답셋에 넣기」는 10-07 에 했다. `answer_result.json` 이 430 -> 799건이 되었다.
 
 > 10-06 까지 남은 일이던 「JAMO·OFFSCREEN 을 정답셋에 넣기」는 10-06 에 했다. `to_answer.py` 가 jamo.yaml 147건과 OFFSCREEN 원문 100건을 읽어 `answer_result.json` 이 187 -> 430건이 되었다(위 「요강 기준 정답셋」, 10-06 중복 정리 뒤 숫자).
 

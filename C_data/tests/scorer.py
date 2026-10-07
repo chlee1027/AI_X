@@ -368,10 +368,15 @@ def main(argv=None):
         rep = score(sub, ans, resolver, extra=a.extra, schema_miss=a.schema_miss)
     finally:
         resolver.close()
-    print_report(rep)
+    # 보고서를 먼저 쓴다. 콘솔 인쇄가 실패해도 결과 파일은 남게
     if a.report:
         Path(a.report).write_text(json.dumps(rep, ensure_ascii=False, indent=2) + "\n",
                                   encoding="utf-8", newline="\n")
+    # Windows 콘솔(cp949)로 돌리면 em dash 같은 글자에서 UnicodeEncodeError 가 나므로 못 찍는 글자는 ? 로 바꾼다
+    if hasattr(sys.stdout, "reconfigure"):
+        sys.stdout.reconfigure(errors="replace")
+    print_report(rep)
+    if a.report:
         print(f"상세 결과: {a.report}")
     return 0
 
