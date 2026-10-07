@@ -1350,6 +1350,111 @@
       "location": "span",
       "evidence_text": "전화 062-675-4020  │ 팩스 062-675-0805  │ 이메일 sohwa-cs@hanmail.net",
       "subtype": "homoglyph_like_normal"
+    },
+    {
+      "id": "DC-241",
+      "url": "https://www.guro.go.kr/www/selectBbsNttList.do?key=1728&bbsNo=653&pageIndex=7",
+      "location": "a",
+      "evidence_text": "비전공자도 ＇레저스포츠‘를 통해 단기로 건강운동관리사 응시 가능!",
+      "subtype": "legal_ad_spam"
+    },
+    {
+      "id": "DC-242",
+      "url": "https://www.guro.go.kr/www/selectBbsNttList.do?key=1728&bbsNo=653&pageIndex=25",
+      "location": "a",
+      "evidence_text": "경력단절 걱정 끝! ＇보육교사 2급＇으로 당당하게 재취업 성공하기",
+      "subtype": "legal_ad_spam"
+    },
+    {
+      "id": "DC-243",
+      "url": "https://www.guro.go.kr/www/selectBbsNttList.do?key=1728&bbsNo=653&pageIndex=25",
+      "location": "a",
+      "evidence_text": "국가유공자 혜택으로 ＇사회복지사＇ 자격증 취득하고 취업 코칭까지!",
+      "subtype": "legal_ad_spam"
+    },
+    {
+      "id": "DC-244",
+      "url": "https://www.guro.go.kr/www/selectBbsNttList.do?key=1728&bbsNo=653&pageIndex=25",
+      "location": "a",
+      "evidence_text": "[구로] 집에서 따는 ＇한국어교원 2급＇, 은퇴 없는 평생 직업 준비 끝!",
+      "subtype": "legal_ad_spam"
+    },
+    {
+      "id": "DC-245",
+      "url": "https://www.guro.go.kr/www/selectBbsNttList.do?key=1728&bbsNo=653&pageIndex=27",
+      "location": "a",
+      "evidence_text": "샵 창업 필수템 ＇미용종합면허증＇, 아직도 학원 다니며 준비하시나요?",
+      "subtype": "legal_ad_spam"
+    },
+    {
+      "id": "DC-246",
+      "url": "https://www.guro.go.kr/www/selectBbsNttList.do?key=1728&bbsNo=653&pageIndex=30",
+      "location": "a",
+      "evidence_text": "국가유공자 및 가족을 위한 ＇ 자녀혜택 교육비 0원＇ 프로젝트 (보훈 장학)",
+      "subtype": "legal_ad_spam"
+    },
+    {
+      "id": "DC-247",
+      "url": "https://www.guro.go.kr/www/selectBbsNttList.do?key=1728&bbsNo=653&pageIndex=31",
+      "location": "a",
+      "evidence_text": "[보훈혜택] 아직도 안 쓰셨나요? 국가유공자 본인·자녀 ＇200만원 장학＇ 사회복지사 취득법",
+      "subtype": "legal_ad_spam"
+    },
+    {
+      "id": "DC-248",
+      "url": "https://www.guro.go.kr/www/selectBbsNttList.do?key=1728&bbsNo=653&pageIndex=36",
+      "location": "a",
+      "evidence_text": "경력 단절? 이직 고민? ＇평생교육사 2급＇이 정답인 이유",
+      "subtype": "legal_ad_spam"
+    },
+    {
+      "id": "DC-249",
+      "url": "https://www.guro.go.kr/www/selectBbsNttList.do?key=1728&bbsNo=653&pageIndex=46",
+      "location": "a",
+      "evidence_text": "퇴직 후 제2의 인생, ＇전기기사＇ 비전공자도 늦지 않았습니다",
+      "subtype": "legal_ad_spam"
+    },
+    {
+      "id": "DC-250",
+      "url": "https://www.guro.go.kr/www/selectBbsNttList.do?key=1728&bbsNo=653&pageIndex=46",
+      "location": "a",
+      "evidence_text": "트레이너 스펙의 정점 ＇건운사＇, 비전공자도 돌아가지 않고 취득하는 법",
+      "subtype": "legal_ad_spam"
+    },
+    {
+      "id": "DC-251",
+      "url": "https://www.guro.go.kr/www/selectBbsNttList.do?key=1728&bbsNo=653&pageIndex=59",
+      "location": "a",
+      "evidence_text": "재취업 걱정 끝, ＇사회복지사＇로 제2의 인생 시작하기",
+      "subtype": "legal_ad_spam"
+    },
+    {
+      "id": "DC-253",
+      "url": "https://cheongju.go.kr/sangdang/selectBbsNttList.do?bbsNo=134&key=1015&pageIndex=64",
+      "location": "a",
+      "evidence_text": "＜올해 마지막! 장애영유아를위한 보육교사를취득해야 하는 이유＞",
+      "subtype": "legal_ad_spam"
+    },
+    {
+      "id": "DC-257",
+      "url": "https://www.jindo.go.kr/home/board/B0047.cs?m=20&pageIndex=6",
+      "location": "tr:nth-of-type(3) > td.title > a",
+      "evidence_text": "국민연금 늘리는법｜많이 받는 법·늦게 받는 방법·연기연금·크레딧",
+      "subtype": "legal_ad_spam"
+    },
+    {
+      "id": "DC-258",
+      "url": "https://www.jindo.go.kr/home/board/B0047.cs?m=20&pageIndex=7",
+      "location": "tr:nth-of-type(2) > td.title > a",
+      "evidence_text": "코로나 예방접종 무료대상 조회 기간｜2026 코로나 백신 종류·부작용·병원 비용",
+      "subtype": "legal_ad_spam"
+    },
+    {
+      "id": "DC-259",
+      "url": "https://www.jindo.go.kr/home/board/B0047.cs?m=20&pageIndex=9",
+      "location": "tr:nth-of-type(4) > td.title > a",
+      "evidence_text": "MBTI 테스트 무료 사이트｜무료 MBTI 검사·엠비티아이 성격유형 테스트·16Personalities",
+      "subtype": "legal_ad_spam"
     }
   ]
 }

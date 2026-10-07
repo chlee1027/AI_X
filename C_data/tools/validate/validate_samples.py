@@ -28,7 +28,7 @@ from playwright.sync_api import sync_playwright
 FIELDS = ["id", "category", "subtype", "html", "css", "evidence_text", "expected_location", "is_positive",
           "extra_finding", "source", "notes"]
 QUOTA = {
-    "DECOY": {"a11y_sr_only": 80, "hidden_menu": 60, "policy_text": 30, "risky_word_normal": 30, "homoglyph_like_normal": 40},  # 2026-10-04 200개로 두 배, 10-08 사람2 검수분
+    "DECOY": {"a11y_sr_only": 80, "hidden_menu": 60, "policy_text": 30, "risky_word_normal": 30, "homoglyph_like_normal": 40, "legal_ad_spam": 19},  # 2026-10-04 200개로 두 배, 10-08 사람2 검수분
     "ETC": {"zero_width": 30, "link_cloaking": 30, "css_content": 20, "meta_cloaking": 10, "encoding": 10},
 }
 EXTRA = {"zero_width": "ZERO_WIDTH", "link_cloaking": "LINK_CLOAKING", "css_content": "CSS_CONTENT",

@@ -2849,3 +2849,297 @@
   source: 직접 수집(공공 웹사이트) · http://sohwa-cs.or.kr/42/?page=1
   notes: '역할 C 검수 채택(2026-10-08): 기관 전화/팩스/이메일 footer. 정상 콘텐츠의 전각·원문자·구분자 [원 DC-RH-0074]'
   split: val
+- id: DC-241
+  category: DECOY
+  subtype: legal_ad_spam
+  html: "<a href=\"./selectBbsNttView.do?bbsNo=653&amp;nttNo=235217&amp;&amp;pageUnit=10&amp;key=1728&amp;pageIndex=7\" target=\"\
+    _self\">\n\n           \t\t\t\t\n\n\n\n           \t\t\t\t\n\n\n\n           \t\t\t\t비전공자도 ＇레저스포츠‘를 통해 단기로 건강운동관리사 응시\
+    \ 가능!\n\n           \t\t\t\t\n\n           \t\t\t\t\n\n           \t\t\t\t</a>"
+  css: ''
+  evidence_text: 비전공자도 ＇레저스포츠‘를 통해 단기로 건강운동관리사 응시 가능!
+  expected_location: a
+  is_positive: false
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · https://www.guro.go.kr/www/selectBbsNttList.do?key=1728&bbsNo=653&pageIndex=7
+  notes: '역할 C 검수(2026-10-08): 자격증·과정 광고(합법). 합법 상업광고(불법광고 아님)=오탐 방어 음성 [원 DC-RH-0018]'
+  split: train
+- id: DC-242
+  category: DECOY
+  subtype: legal_ad_spam
+  html: "<a href=\"./selectBbsNttView.do?bbsNo=653&amp;nttNo=234340&amp;&amp;pageUnit=10&amp;key=1728&amp;pageIndex=25\" target=\"\
+    _self\">\n\n           \t\t\t\t\n\n\n\n           \t\t\t\t\n\n\n\n           \t\t\t\t경력단절 걱정 끝! ＇보육교사 2급＇으로 당당하게 재취업 성공하기\n\
+    \n           \t\t\t\t\n\n           \t\t\t\t\n\n           \t\t\t\t</a>"
+  css: ''
+  evidence_text: 경력단절 걱정 끝! ＇보육교사 2급＇으로 당당하게 재취업 성공하기
+  expected_location: a
+  is_positive: false
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · https://www.guro.go.kr/www/selectBbsNttList.do?key=1728&bbsNo=653&pageIndex=25
+  notes: '역할 C 검수(2026-10-08): 자격증·과정 광고(합법). 합법 상업광고(불법광고 아님)=오탐 방어 음성 [원 DC-RH-0019]'
+  split: train
+- id: DC-243
+  category: DECOY
+  subtype: legal_ad_spam
+  html: "<a href=\"./selectBbsNttView.do?bbsNo=653&amp;nttNo=234339&amp;&amp;pageUnit=10&amp;key=1728&amp;pageIndex=25\" target=\"\
+    _self\">\n\n           \t\t\t\t\n\n\n\n           \t\t\t\t\n\n\n\n           \t\t\t\t국가유공자 혜택으로 ＇사회복지사＇ 자격증 취득하고 취업 코칭까지!\n\
+    \n           \t\t\t\t\n\n           \t\t\t\t\n\n           \t\t\t\t</a>"
+  css: ''
+  evidence_text: 국가유공자 혜택으로 ＇사회복지사＇ 자격증 취득하고 취업 코칭까지!
+  expected_location: a
+  is_positive: false
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · https://www.guro.go.kr/www/selectBbsNttList.do?key=1728&bbsNo=653&pageIndex=25
+  notes: '역할 C 검수(2026-10-08): 자격증·과정 광고(합법). 합법 상업광고(불법광고 아님)=오탐 방어 음성 [원 DC-RH-0020]'
+  split: train
+- id: DC-244
+  category: DECOY
+  subtype: legal_ad_spam
+  html: "<a href=\"./selectBbsNttView.do?bbsNo=653&amp;nttNo=234335&amp;&amp;pageUnit=10&amp;key=1728&amp;pageIndex=25\" target=\"\
+    _self\">\n\n           \t\t\t\t\n\n\n\n           \t\t\t\t\n\n\n\n           \t\t\t\t[구로] 집에서 따는 ＇한국어교원 2급＇, 은퇴 없는 평생\
+    \ 직업 준비 끝!\n\n           \t\t\t\t\n\n           \t\t\t\t\n\n           \t\t\t\t</a>"
+  css: ''
+  evidence_text: '[구로] 집에서 따는 ＇한국어교원 2급＇, 은퇴 없는 평생 직업 준비 끝!'
+  expected_location: a
+  is_positive: false
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · https://www.guro.go.kr/www/selectBbsNttList.do?key=1728&bbsNo=653&pageIndex=25
+  notes: '역할 C 검수(2026-10-08): 자격증·과정 광고(합법). 합법 상업광고(불법광고 아님)=오탐 방어 음성 [원 DC-RH-0021]'
+  split: train
+- id: DC-245
+  category: DECOY
+  subtype: legal_ad_spam
+  html: "<a href=\"./selectBbsNttView.do?bbsNo=653&amp;nttNo=234301&amp;&amp;pageUnit=10&amp;key=1728&amp;pageIndex=27\" target=\"\
+    _self\">\n\n           \t\t\t\t\n\n\n\n           \t\t\t\t\n\n\n\n           \t\t\t\t샵 창업 필수템 ＇미용종합면허증＇, 아직도 학원 다니며 준비하시나요?\n\
+    \n           \t\t\t\t\n\n           \t\t\t\t\n\n           \t\t\t\t</a>"
+  css: ''
+  evidence_text: 샵 창업 필수템 ＇미용종합면허증＇, 아직도 학원 다니며 준비하시나요?
+  expected_location: a
+  is_positive: false
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · https://www.guro.go.kr/www/selectBbsNttList.do?key=1728&bbsNo=653&pageIndex=27
+  notes: '역할 C 검수(2026-10-08): 자격증·과정 광고(합법). 합법 상업광고(불법광고 아님)=오탐 방어 음성 [원 DC-RH-0022]'
+  split: train
+- id: DC-246
+  category: DECOY
+  subtype: legal_ad_spam
+  html: "<a href=\"./selectBbsNttView.do?bbsNo=653&amp;nttNo=234238&amp;&amp;pageUnit=10&amp;key=1728&amp;pageIndex=30\" target=\"\
+    _self\">\n\n           \t\t\t\t\n\n\n\n           \t\t\t\t\n\n\n\n           \t\t\t\t국가유공자 및 가족을 위한 ＇ 자녀혜택 교육비 0원＇ 프로젝트\
+    \ (보훈 장학)\n\n           \t\t\t\t\n\n           \t\t\t\t\n\n           \t\t\t\t</a>"
+  css: ''
+  evidence_text: 국가유공자 및 가족을 위한 ＇ 자녀혜택 교육비 0원＇ 프로젝트 (보훈 장학)
+  expected_location: a
+  is_positive: false
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · https://www.guro.go.kr/www/selectBbsNttList.do?key=1728&bbsNo=653&pageIndex=30
+  notes: '역할 C 검수(2026-10-08): 자격증·과정 광고(합법). 합법 상업광고(불법광고 아님)=오탐 방어 음성 [원 DC-RH-0023]'
+  split: train
+- id: DC-247
+  category: DECOY
+  subtype: legal_ad_spam
+  html: "<a href=\"./selectBbsNttView.do?bbsNo=653&amp;nttNo=234199&amp;&amp;pageUnit=10&amp;key=1728&amp;pageIndex=31\" target=\"\
+    _self\">\n\n           \t\t\t\t\n\n\n\n           \t\t\t\t\n\n\n\n           \t\t\t\t[보훈혜택] 아직도 안 쓰셨나요? 국가유공자 본인·자녀 ＇200만원\
+    \ 장학＇ 사회복지사 취득법\n\n           \t\t\t\t\n\n           \t\t\t\t\n\n           \t\t\t\t</a>"
+  css: ''
+  evidence_text: '[보훈혜택] 아직도 안 쓰셨나요? 국가유공자 본인·자녀 ＇200만원 장학＇ 사회복지사 취득법'
+  expected_location: a
+  is_positive: false
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · https://www.guro.go.kr/www/selectBbsNttList.do?key=1728&bbsNo=653&pageIndex=31
+  notes: '역할 C 검수(2026-10-08): 자격증·과정 광고(합법). 합법 상업광고(불법광고 아님)=오탐 방어 음성 [원 DC-RH-0024]'
+  split: train
+- id: DC-248
+  category: DECOY
+  subtype: legal_ad_spam
+  html: "<a href=\"./selectBbsNttView.do?bbsNo=653&amp;nttNo=234044&amp;&amp;pageUnit=10&amp;key=1728&amp;pageIndex=36\" target=\"\
+    _self\">\n\n           \t\t\t\t\n\n\n\n           \t\t\t\t\n\n\n\n           \t\t\t\t경력 단절? 이직 고민? ＇평생교육사 2급＇이 정답인 이유\n\
+    \n           \t\t\t\t\n\n           \t\t\t\t\n\n           \t\t\t\t</a>"
+  css: ''
+  evidence_text: 경력 단절? 이직 고민? ＇평생교육사 2급＇이 정답인 이유
+  expected_location: a
+  is_positive: false
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · https://www.guro.go.kr/www/selectBbsNttList.do?key=1728&bbsNo=653&pageIndex=36
+  notes: '역할 C 검수(2026-10-08): 자격증·과정 광고(합법). 합법 상업광고(불법광고 아님)=오탐 방어 음성 [원 DC-RH-0025]'
+  split: train
+- id: DC-249
+  category: DECOY
+  subtype: legal_ad_spam
+  html: "<a href=\"./selectBbsNttView.do?bbsNo=653&amp;nttNo=233649&amp;&amp;pageUnit=10&amp;key=1728&amp;pageIndex=46\" target=\"\
+    _self\">\n\n           \t\t\t\t\n\n\n\n           \t\t\t\t\n\n\n\n           \t\t\t\t퇴직 후 제2의 인생, ＇전기기사＇ 비전공자도 늦지 않았습니다\n\
+    \n           \t\t\t\t\n\n           \t\t\t\t\n\n           \t\t\t\t</a>"
+  css: ''
+  evidence_text: 퇴직 후 제2의 인생, ＇전기기사＇ 비전공자도 늦지 않았습니다
+  expected_location: a
+  is_positive: false
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · https://www.guro.go.kr/www/selectBbsNttList.do?key=1728&bbsNo=653&pageIndex=46
+  notes: '역할 C 검수(2026-10-08): 자격증·과정 광고(합법). 합법 상업광고(불법광고 아님)=오탐 방어 음성 [원 DC-RH-0026]'
+  split: train
+- id: DC-250
+  category: DECOY
+  subtype: legal_ad_spam
+  html: "<a href=\"./selectBbsNttView.do?bbsNo=653&amp;nttNo=233648&amp;&amp;pageUnit=10&amp;key=1728&amp;pageIndex=46\" target=\"\
+    _self\">\n\n           \t\t\t\t\n\n\n\n           \t\t\t\t\n\n\n\n           \t\t\t\t트레이너 스펙의 정점 ＇건운사＇, 비전공자도 돌아가지 않고\
+    \ 취득하는 법\n\n           \t\t\t\t\n\n           \t\t\t\t\n\n           \t\t\t\t</a>"
+  css: ''
+  evidence_text: 트레이너 스펙의 정점 ＇건운사＇, 비전공자도 돌아가지 않고 취득하는 법
+  expected_location: a
+  is_positive: false
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · https://www.guro.go.kr/www/selectBbsNttList.do?key=1728&bbsNo=653&pageIndex=46
+  notes: '역할 C 검수(2026-10-08): 자격증·과정 광고(합법). 합법 상업광고(불법광고 아님)=오탐 방어 음성 [원 DC-RH-0027]'
+  split: train
+- id: DC-251
+  category: DECOY
+  subtype: legal_ad_spam
+  html: "<a href=\"./selectBbsNttView.do?bbsNo=653&amp;nttNo=233218&amp;&amp;pageUnit=10&amp;key=1728&amp;pageIndex=59\" target=\"\
+    _self\">\n\n           \t\t\t\t\n\n\n\n           \t\t\t\t\n\n\n\n           \t\t\t\t재취업 걱정 끝, ＇사회복지사＇로 제2의 인생 시작하기\n\n\
+    \           \t\t\t\t\n\n           \t\t\t\t\n\n           \t\t\t\t</a>"
+  css: ''
+  evidence_text: 재취업 걱정 끝, ＇사회복지사＇로 제2의 인생 시작하기
+  expected_location: a
+  is_positive: false
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · https://www.guro.go.kr/www/selectBbsNttList.do?key=1728&bbsNo=653&pageIndex=59
+  notes: '역할 C 검수(2026-10-08): 자격증·과정 광고(합법). 합법 상업광고(불법광고 아님)=오탐 방어 음성 [원 DC-RH-0028]'
+  split: train
+- id: DC-253
+  category: DECOY
+  subtype: legal_ad_spam
+  html: "<a href=\"../sangdang/selectBbsNttView.do?key=1015&amp;bbsNo=134&amp;nttNo=223689&amp;searchCtgry=&amp;searchCnd=all&amp;searchKrwd=&amp;pageIndex=64&amp;integrDeptCode=\"\
+    >\n\t\t\t\t\t           \t\t\t\t\n\t\t\t\t\t           \t\t\t\t＜올해 마지막! 장애영유아를위한 보육교사를취득해야 하는 이유＞\n\t\t\t\t\t        \
+    \   \t\t\t\t\n\t\t\t\t\t           \t\t\t\t\n\t\t\t\t\t           \t\t\t\t</a>"
+  css: ''
+  evidence_text: ＜올해 마지막! 장애영유아를위한 보육교사를취득해야 하는 이유＞
+  expected_location: a
+  is_positive: false
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · https://cheongju.go.kr/sangdang/selectBbsNttList.do?bbsNo=134&key=1015&pageIndex=64
+  notes: '역할 C 검수(2026-10-08): 자격증·과정 광고(합법). 합법 상업광고(불법광고 아님)=오탐 방어 음성 [원 DC-RH-0071]'
+  split: val
+- id: DC-257
+  category: DECOY
+  subtype: legal_ad_spam
+  html: "<table class=\"board_list base_board_list\">\n\n\t<caption>자유게시판 게시판 목록\n\n\t<p>\n\n\t\t번호, \n\n\t\t제목, \n\n\t\t\
+    이름, \n\n\t\t작성일, \n\n\t\t조회\n\n\t\t로 구성된 게시판 목록입니다.\n\n\t</p>\n\n\t</caption>\n\n\t<colgroup>\n\n\t\t<col class=\"num\"\
+    />\n\n\t\t<col class=\"title\"/>\n\n\t\t<col class=\"name\"/>\n\n\t\t<col class=\"date\"/>\n\n\t\t<col class=\"view\"\
+    />\n\n\t</colgroup>\n\n\t<thead>\n\n\t\t<tr>\n\n\t\t\t<th class=\"num\" scope=\"col\">번호</th>\n\n\t\t\t<th class=\"title\"\
+    \ scope=\"col\">제목</th>\n\n\t\t\t<th class=\"name\" scope=\"col\">이름</th>\n\n\t\t\t<th class=\"date\" scope=\"col\">작성일</th>\n\
+    \n\t\t\t<th class=\"view\" scope=\"col\">조회</th>\n\n\t\t</tr>\n\n\t</thead>\n\n\t<tbody>\n\n\t\t<tr class=\"notice\">\n\
+    \n\t\t\t<td class=\"num\"><span class=\"inotice\"><span class=\"txt\">공지</span></span></td>\n\n\t\t\t<td class=\"title\"\
+    >\n\n\t\t\t\t<a href=\"?act=read&amp;articleId=185928&amp;m=20&amp;searchCondition=&amp;searchKeyword=&amp;pageIndex=6\"\
+    >\n\n\t\t\t\t\t「진도군 누리집 자유게시판 이용 협조 안내」</a>\n\n\t\t\t</td>\n\n\t\t\t<td class=\"name\">진도군</td>\n\n\t\t\t<td class=\"\
+    date\">2026-04-30</td>\n\n\t\t\t<td class=\"view\">10233</td>\n\n\t\t</tr>\n\n\t\t<tr>\n\n\t\t\t<td class=\"num\">196547</td>\n\
+    \n\t\t\t<td class=\"title\">\n\n\t\t\t\t<a href=\"?act=read&amp;articleId=196547&amp;m=20&amp;searchCondition=&amp;searchKeyword=&amp;pageIndex=6\"\
+    >\n\n\t\t\t\t\t삭제된 게시물입니다.</a>\n\n\t\t\t</td>\n\n\t\t\t<td class=\"name\">김지은</td>\n\n\t\t\t<td class=\"date\">2026-09-22</td>\n\
+    \n\t\t\t<td class=\"view\">38</td>\n\n\t\t</tr>\n\n\t\t<tr>\n\n\t\t\t<td class=\"num\">196540</td>\n\n\t\t\t<td class=\"\
+    title\">\n\n\t\t\t\t<a href=\"?act=read&amp;articleId=196540&amp;m=20&amp;searchCondition=&amp;searchKeyword=&amp;pageIndex=6\"\
+    >\n\n\t\t\t\t\t국민연금 늘리는법｜많이 받는 법·늦게 받는 방법·연기연금·크레딧</a>\n\n\t\t\t</td>\n\n\t\t\t<td class=\"name\">김유진</td>\n\n\t\t\t<td\
+    \ class=\"date\">2026-09-22</td>\n\n\t\t\t<td class=\"view\">60</td>\n\n\t\t</tr>\n\n\t\t<tr>\n\n\t\t\t<td class=\"num\"\
+    >196529</td>\n\n\t\t\t<td class=\"title\">\n\n\t\t\t\t<a href=\"?act=read&amp;articleId=196529&amp;m=20&amp;searchCondition=&amp;searchKeyword=&amp;pageIndex=6\"\
+    >\n\n\t\t\t\t\t제17회 진도청소년어울마당 개최/참여접수/</a>\n\n\t\t\t</td>\n\n\t\t\t<td class=\"name\">박양우</td>\n\n\t\t\t<td class=\"date\"\
+    >2026-09-22</td>\n\n\t\t\t<td class=\"view\">93</td>\n\n\t\t</tr>\n\n\t\t<tr>\n\n\t\t\t<td class=\"num\">196526</td>\n\
+    \n\t\t\t<td class=\"title\">\n\n\t\t\t\t<a href=\"?act=read&amp;articleId=196526&amp;m=20&amp;searchCondition=&amp;searchKeyword=&amp;pageIndex=6\"\
+    >\n\n\t\t\t\t\t삭제된 게시물입니다.</a>\n\n\t\t\t</td>\n\n\t\t\t<td class=\"name\">이현수</td>\n\n\t\t\t<td class=\"date\">2026-09-22</td>\n\
+    \n\t\t\t<td class=\"view\">20</td>\n\n\t\t</tr>\n\n\t\t<tr>\n\n\t\t\t<td class=\"num\">196510</td>\n\n\t\t\t<td class=\"\
+    title\">\n\n\t\t\t\t<a href=\"?act=read&amp;articleId=196510&amp;m=20&amp;searchCondition=&amp;searchKeyword=&amp;pageIndex=6\"\
+    >\n\n\t\t\t\t\t독창적인 민속문화 자원과 해산물 먹거리를 살린 관광 콘텐츠 제안</a>\n\n\t\t\t</td>\n\n\t\t\t<td class=\"name\">김지연</td>\n\n\t\t\t<td\
+    \ class=\"date\">2026-09-21</td>\n\n\t\t\t<td class=\"view\">64</td>\n\n\t\t</tr>\n\n\t\t<tr>\n\n\t\t\t<td class=\"num\"\
+    >196493</td>\n\n\t\t\t<td class=\"title\">\n\n\t\t\t\t<a href=\"?act=read&amp;articleId=196493&amp;m=20&amp;searchCondition=&amp;searchKeyword=&amp;pageIndex=6\"\
+    >\n\n\t\t\t\t\t2026년 하반기 공정선거지원단 모집</a>\n\n\t\t\t</td>\n\n\t\t\t<td class=\"name\">한은지</td>\n\n\t\t\t<td class=\"date\"\
+    >2026-09-21</td>\n\n\t\t\t<td class=\"view\">147</td>\n\n\t\t</tr>\n\n\t\t<tr>\n\n\t\t\t<td class=\"num\">196491</td>\n\
+    \n\t\t\t<td class=\"title\">\n\n\t\t\t\t<a href=\"?act=read&amp;articleId=196491&amp;m=20&amp;searchCondition=&amp;searchKeyword=&amp;pageIndex=6\"\
+    >\n\n\t\t\t\t\t`26~`27절기 독감 및 코로나19 예방접종 안내(보건소)</a>\n\n\t\t\t</td>\n\n\t\t\t<td class=\"name\">용수진</td>\n\n\t\t\t<td\
+    \ class=\"date\">2026-09-21</td>\n\n\t\t\t<td class=\"view\">105</td>\n\n\t\t</tr>\n\n\t\t</tbody>\n\n</table>"
+  css: ''
+  evidence_text: 국민연금 늘리는법｜많이 받는 법·늦게 받는 방법·연기연금·크레딧
+  expected_location: tr:nth-of-type(3) > td.title > a
+  is_positive: false
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · https://www.jindo.go.kr/home/board/B0047.cs?m=20&pageIndex=6
+  notes: '역할 C 검수(2026-10-08): 연금 정보성 SEO 글. 합법 상업광고(불법광고 아님)=오탐 방어 음성 [원 DC-RH-0056]'
+  split: val
+- id: DC-258
+  category: DECOY
+  subtype: legal_ad_spam
+  html: "<table class=\"board_list base_board_list\">\n\n\t<caption>자유게시판 게시판 목록\n\n\t<p>\n\n\t\t번호, \n\n\t\t제목, \n\n\t\t\
+    이름, \n\n\t\t작성일, \n\n\t\t조회\n\n\t\t로 구성된 게시판 목록입니다.\n\n\t</p>\n\n\t</caption>\n\n\t<colgroup>\n\n\t\t<col class=\"num\"\
+    />\n\n\t\t<col class=\"title\"/>\n\n\t\t<col class=\"name\"/>\n\n\t\t<col class=\"date\"/>\n\n\t\t<col class=\"view\"\
+    />\n\n\t</colgroup>\n\n\t<thead>\n\n\t\t<tr>\n\n\t\t\t<th class=\"num\" scope=\"col\">번호</th>\n\n\t\t\t<th class=\"title\"\
+    \ scope=\"col\">제목</th>\n\n\t\t\t<th class=\"name\" scope=\"col\">이름</th>\n\n\t\t\t<th class=\"date\" scope=\"col\">작성일</th>\n\
+    \n\t\t\t<th class=\"view\" scope=\"col\">조회</th>\n\n\t\t</tr>\n\n\t</thead>\n\n\t<tbody>\n\n\t\t<tr class=\"notice\">\n\
+    \n\t\t\t<td class=\"num\"><span class=\"inotice\"><span class=\"txt\">공지</span></span></td>\n\n\t\t\t<td class=\"title\"\
+    >\n\n\t\t\t\t<a href=\"?act=read&amp;articleId=185928&amp;m=20&amp;searchCondition=&amp;searchKeyword=&amp;pageIndex=7\"\
+    >\n\n\t\t\t\t\t「진도군 누리집 자유게시판 이용 협조 안내」</a>\n\n\t\t\t</td>\n\n\t\t\t<td class=\"name\">진도군</td>\n\n\t\t\t<td class=\"\
+    date\">2026-04-30</td>\n\n\t\t\t<td class=\"view\">10233</td>\n\n\t\t</tr>\n\n\t\t<tr>\n\n\t\t\t<td class=\"num\">196486</td>\n\
+    \n\t\t\t<td class=\"title\">\n\n\t\t\t\t<a href=\"?act=read&amp;articleId=196486&amp;m=20&amp;searchCondition=&amp;searchKeyword=&amp;pageIndex=7\"\
+    >\n\n\t\t\t\t\t코로나 예방접종 무료대상 조회 기간｜2026 코로나 백신 종류·부작용·병원 비용</a>\n\n\t\t\t</td>\n\n\t\t\t<td class=\"name\">김유진</td>\n\n\
+    \t\t\t<td class=\"date\">2026-09-21</td>\n\n\t\t\t<td class=\"view\">61</td>\n\n\t\t</tr>\n\n\t\t<tr>\n\n\t\t\t<td class=\"\
+    num\">196468</td>\n\n\t\t\t<td class=\"title\">\n\n\t\t\t\t<a href=\"?act=read&amp;articleId=196468&amp;m=20&amp;searchCondition=&amp;searchKeyword=&amp;pageIndex=7\"\
+    >\n\n\t\t\t\t\t삭제된 게시물입니다.</a>\n\n\t\t\t</td>\n\n\t\t\t<td class=\"name\">김지은</td>\n\n\t\t\t<td class=\"date\">2026-09-21</td>\n\
+    \n\t\t\t<td class=\"view\">31</td>\n\n\t\t</tr>\n\n\t\t<tr>\n\n\t\t\t<td class=\"num\">196463</td>\n\n\t\t\t<td class=\"\
+    title\">\n\n\t\t\t\t<a href=\"?act=read&amp;articleId=196463&amp;m=20&amp;searchCondition=&amp;searchKeyword=&amp;pageIndex=7\"\
+    >\n\n\t\t\t\t\t진도군체육회 체력단련실 이용 협조 사항</a>\n\n\t\t\t</td>\n\n\t\t\t<td class=\"name\">서재봉</td>\n\n\t\t\t<td class=\"date\"\
+    >2026-09-21</td>\n\n\t\t\t<td class=\"view\">214</td>\n\n\t\t</tr>\n\n\t\t<tr>\n\n\t\t\t<td class=\"num\">196462</td>\n\
+    \n\t\t\t<td class=\"title\">\n\n\t\t\t\t<a href=\"?act=read&amp;articleId=196462&amp;m=20&amp;searchCondition=&amp;searchKeyword=&amp;pageIndex=7\"\
+    >\n\n\t\t\t\t\t여수여성인권지원센터 9월 안내글입니다.</a>\n\n\t\t\t</td>\n\n\t\t\t<td class=\"name\">장정화</td>\n\n\t\t\t<td class=\"date\"\
+    >2026-09-21</td>\n\n\t\t\t<td class=\"view\">37</td>\n\n\t\t</tr>\n\n\t\t<tr>\n\n\t\t\t<td class=\"num\">196457</td>\n\
+    \n\t\t\t<td class=\"title\">\n\n\t\t\t\t<a href=\"?act=read&amp;articleId=196457&amp;m=20&amp;searchCondition=&amp;searchKeyword=&amp;pageIndex=7\"\
+    >\n\n\t\t\t\t\t삭제된 게시물입니다.</a>\n\n\t\t\t</td>\n\n\t\t\t<td class=\"name\">이현수</td>\n\n\t\t\t<td class=\"date\">2026-09-21</td>\n\
+    \n\t\t\t<td class=\"view\">12</td>\n\n\t\t</tr>\n\n\t\t<tr>\n\n\t\t\t<td class=\"num\">196456</td>\n\n\t\t\t<td class=\"\
+    title\">\n\n\t\t\t\t<a href=\"?act=read&amp;articleId=196456&amp;m=20&amp;searchCondition=&amp;searchKeyword=&amp;pageIndex=7\"\
+    >\n\n\t\t\t\t\t진도토요민속여행 9월 25일 ★금요일★ 추석특별공연 프로그램 안내</a>\n\n\t\t\t</td>\n\n\t\t\t<td class=\"name\">진도군립민속예술단</td>\n\n\t\
+    \t\t<td class=\"date\">2026-09-21</td>\n\n\t\t\t<td class=\"view\">56</td>\n\n\t\t</tr>\n\n\t\t<tr>\n\n\t\t\t<td class=\"\
+    num\">196433</td>\n\n\t\t\t<td class=\"title\">\n\n\t\t\t\t<a href=\"?act=read&amp;articleId=196433&amp;m=20&amp;searchCondition=&amp;searchKeyword=&amp;pageIndex=7\"\
+    >\n\n\t\t\t\t\t2026년 독감예방접종 시기 무료대상 날짜·3가 4가 차이·가격비교·병원 조회</a>\n\n\t\t\t</td>\n\n\t\t\t<td class=\"name\">김유진</td>\n\n\
+    \t\t\t<td class=\"date\">2026-09-20</td>\n\n\t\t\t<td class=\"view\">280</td>\n\n\t\t</tr>\n\n\t\t</tbody>\n\n</table>"
+  css: ''
+  evidence_text: 코로나 예방접종 무료대상 조회 기간｜2026 코로나 백신 종류·부작용·병원 비용
+  expected_location: tr:nth-of-type(2) > td.title > a
+  is_positive: false
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · https://www.jindo.go.kr/home/board/B0047.cs?m=20&pageIndex=7
+  notes: '역할 C 검수(2026-10-08): 백신 정보성 SEO 글. 합법 상업광고(불법광고 아님)=오탐 방어 음성 [원 DC-RH-0057]'
+  split: val
+- id: DC-259
+  category: DECOY
+  subtype: legal_ad_spam
+  html: "<table class=\"board_list base_board_list\">\n\n\t<caption>자유게시판 게시판 목록\n\n\t<p>\n\n\t\t번호, \n\n\t\t제목, \n\n\t\t\
+    이름, \n\n\t\t작성일, \n\n\t\t조회\n\n\t\t로 구성된 게시판 목록입니다.\n\n\t</p>\n\n\t</caption>\n\n\t<colgroup>\n\n\t\t<col class=\"num\"\
+    />\n\n\t\t<col class=\"title\"/>\n\n\t\t<col class=\"name\"/>\n\n\t\t<col class=\"date\"/>\n\n\t\t<col class=\"view\"\
+    />\n\n\t</colgroup>\n\n\t<thead>\n\n\t\t<tr>\n\n\t\t\t<th class=\"num\" scope=\"col\">번호</th>\n\n\t\t\t<th class=\"title\"\
+    \ scope=\"col\">제목</th>\n\n\t\t\t<th class=\"name\" scope=\"col\">이름</th>\n\n\t\t\t<th class=\"date\" scope=\"col\">작성일</th>\n\
+    \n\t\t\t<th class=\"view\" scope=\"col\">조회</th>\n\n\t\t</tr>\n\n\t</thead>\n\n\t<tbody>\n\n\t\t<tr class=\"notice\">\n\
+    \n\t\t\t<td class=\"num\"><span class=\"inotice\"><span class=\"txt\">공지</span></span></td>\n\n\t\t\t<td class=\"title\"\
+    >\n\n\t\t\t\t<a href=\"?act=read&amp;articleId=185928&amp;m=20&amp;searchCondition=&amp;searchKeyword=&amp;pageIndex=9\"\
+    >\n\n\t\t\t\t\t「진도군 누리집 자유게시판 이용 협조 안내」</a>\n\n\t\t\t</td>\n\n\t\t\t<td class=\"name\">진도군</td>\n\n\t\t\t<td class=\"\
+    date\">2026-04-30</td>\n\n\t\t\t<td class=\"view\">10233</td>\n\n\t\t</tr>\n\n\t\t<tr>\n\n\t\t\t<td class=\"num\">196379</td>\n\
+    \n\t\t\t<td class=\"title\">\n\n\t\t\t\t<a href=\"?act=read&amp;articleId=196379&amp;m=20&amp;searchCondition=&amp;searchKeyword=&amp;pageIndex=9\"\
+    >\n\n\t\t\t\t\t*진돌이장난감도서관 9월 휴관안내*</a>\n\n\t\t\t</td>\n\n\t\t\t<td class=\"name\">정경자</td>\n\n\t\t\t<td class=\"date\"\
+    >2026-09-18</td>\n\n\t\t\t<td class=\"view\">55</td>\n\n\t\t</tr>\n\n\t\t<tr>\n\n\t\t\t<td class=\"num\">196376</td>\n\
+    \n\t\t\t<td class=\"title\">\n\n\t\t\t\t<a href=\"?act=read&amp;articleId=196376&amp;m=20&amp;searchCondition=&amp;searchKeyword=&amp;pageIndex=9\"\
+    >\n\n\t\t\t\t\t어린이상상놀이터 9월 휴관안내</a>\n\n\t\t\t</td>\n\n\t\t\t<td class=\"name\">하연임</td>\n\n\t\t\t<td class=\"date\">2026-09-18</td>\n\
+    \n\t\t\t<td class=\"view\">41</td>\n\n\t\t</tr>\n\n\t\t<tr>\n\n\t\t\t<td class=\"num\">196373</td>\n\n\t\t\t<td class=\"\
+    title\">\n\n\t\t\t\t<a href=\"?act=read&amp;articleId=196373&amp;m=20&amp;searchCondition=&amp;searchKeyword=&amp;pageIndex=9\"\
+    >\n\n\t\t\t\t\tMBTI 테스트 무료 사이트｜무료 MBTI 검사·엠비티아이 성격유형 테스트·16Personalities</a>\n\n\t\t\t</td>\n\n\t\t\t<td class=\"name\"\
+    >김유진</td>\n\n\t\t\t<td class=\"date\">2026-09-18</td>\n\n\t\t\t<td class=\"view\">62</td>\n\n\t\t</tr>\n\n\t\t<tr>\n\n\
+    \t\t\t<td class=\"num\">196368</td>\n\n\t\t\t<td class=\"title\">\n\n\t\t\t\t<a href=\"?act=read&amp;articleId=196368&amp;m=20&amp;searchCondition=&amp;searchKeyword=&amp;pageIndex=9\"\
+    >\n\n\t\t\t\t\t추석연휴 '삼락夜시장' 개최 9월24일부터 9월 26일까지 진도남문로 일대</a>\n\n\t\t\t</td>\n\n\t\t\t<td class=\"name\">진도군문화도시센터</td>\n\
+    \n\t\t\t<td class=\"date\">2026-09-18</td>\n\n\t\t\t<td class=\"view\">245</td>\n\n\t\t</tr>\n\n\t\t<tr>\n\n\t\t\t<td\
+    \ class=\"num\">196366</td>\n\n\t\t\t<td class=\"title\">\n\n\t\t\t\t<a href=\"?act=read&amp;articleId=196366&amp;m=20&amp;searchCondition=&amp;searchKeyword=&amp;pageIndex=9\"\
+    >\n\n\t\t\t\t\t삭제된 게시물입니다.</a>\n\n\t\t\t</td>\n\n\t\t\t<td class=\"name\">이현수</td>\n\n\t\t\t<td class=\"date\">2026-09-18</td>\n\
+    \n\t\t\t<td class=\"view\">21</td>\n\n\t\t</tr>\n\n\t\t<tr>\n\n\t\t\t<td class=\"num\">196364</td>\n\n\t\t\t<td class=\"\
+    title\">\n\n\t\t\t\t<a href=\"?act=read&amp;articleId=196364&amp;m=20&amp;searchCondition=&amp;searchKeyword=&amp;pageIndex=9\"\
+    >\n\n\t\t\t\t\t진도서초등학교 학생대상 테라리움 그룹수업하고왔어요 :)</a>\n\n\t\t\t</td>\n\n\t\t\t<td class=\"name\">조아라</td>\n\n\t\t\t<td class=\"\
+    date\">2026-09-18</td>\n\n\t\t\t<td class=\"view\">153</td>\n\n\t\t</tr>\n\n\t\t<tr>\n\n\t\t\t<td class=\"num\">196363</td>\n\
+    \n\t\t\t<td class=\"title\">\n\n\t\t\t\t<a href=\"?act=read&amp;articleId=196363&amp;m=20&amp;searchCondition=&amp;searchKeyword=&amp;pageIndex=9\"\
+    >\n\n\t\t\t\t\t추석명절 가족과 함께하는 「명량, 달빛을 품다」에 초대합니다</a>\n\n\t\t\t</td>\n\n\t\t\t<td class=\"name\">진도군관광협의회</td>\n\n\t\t\t\
+    <td class=\"date\">2026-09-18</td>\n\n\t\t\t<td class=\"view\">132</td>\n\n\t\t</tr>\n\n\t\t</tbody>\n\n</table>"
+  css: ''
+  evidence_text: MBTI 테스트 무료 사이트｜무료 MBTI 검사·엠비티아이 성격유형 테스트·16Personalities
+  expected_location: tr:nth-of-type(4) > td.title > a
+  is_positive: false
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · https://www.jindo.go.kr/home/board/B0047.cs?m=20&pageIndex=9
+  notes: '역할 C 검수(2026-10-08): MBTI 정보성 SEO 글. 합법 상업광고(불법광고 아님)=오탐 방어 음성 [원 DC-RH-0058]'
+  split: val
