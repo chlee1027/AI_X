@@ -26,6 +26,19 @@
   "notes": "자손 가시성 복원 또는 스크롤로 도달할 수 있는 이동 대조군. 원문 개수 및 positive 개수에 포함하지 않음."
  },
  {
+  "id": "OF-103",
+  "category": "OFFSCREEN",
+  "subtype": "visibility_hidden",
+  "html": "<div class=\"review-root invisible\"><span id=\"OF-103-text\">online cash advance</span></div>",
+  "css": ".invisible {\n  visibility: hidden;\n}\n#OF-103-text { visibility:visible; }",
+  "evidence_text": "online cash advance",
+  "expected_location": "#OF-103-text",
+  "is_positive": false,
+  "extra_finding": null,
+  "source": "https://wordpress.stackexchange.com/questions/134825/tips-for-finding-spam-links-injected-into-the-content",
+  "notes": "자손 가시성 복원 또는 스크롤로 도달할 수 있는 이동 대조군. 원문 개수 및 positive 개수에 포함하지 않음."
+ },
+ {
   "id": "OF-104",
   "category": "OFFSCREEN",
   "subtype": "transform_document_coords",

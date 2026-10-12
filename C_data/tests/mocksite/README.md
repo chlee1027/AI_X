@@ -32,7 +32,7 @@ python tests/scorer.py 제출.json tests/mocksite/answers/answer_result.json --r
 python tests/scorer.py 제출.json tests/mocksite/answers/answer_result_extra.json --resolve dom --extra
 ```
 
-봉인한 테스트 몫은 `--data`·`--out` 으로 따로 만든다(포트는 다르게).
+다른 데이터 폴더는 `--data`·`--out` 으로 따로 만든다(포트는 다르게). 10-12 에 봉인 테스트 몫을 저장소로 되돌렸으므로 지금 저장소 data 로 만들면 전체다.
 
 ```sh
 python tools/build/build_mocksite.py --data "<봉인폴더>/data" --out "<봉인폴더>/mocksite" --base http://127.0.0.1:8001/
@@ -41,7 +41,8 @@ python -m http.server 8001 --directory "<봉인폴더>/mocksite" --bind 127.0.0.
 
 ## 확인한 것 (2026-10-07)
 
-- 학습·검증 몫으로 페이지 1,039장. 정답 `answer_result.json` 641 · `answer_result_extra.json` 525 · `negatives.json` 160.
+- 10-12 전체(봉인 해제 + 새 수집분)로 페이지 2,163장, 정답 1,031 · 1,173 · 516.
+- 10-07 학습·검증 몫으로 페이지 1,039장. 정답 `answer_result.json` 641 · `answer_result_extra.json` 525 · `negatives.json` 160.
 - 빌드 때 `(url+location+기법)` 겹침이 주요 4종·추가 유형 모두 **0**.
 - 띄워서 자기 채점(`--resolve dom`)하면 중복 합침 0, F1 1.0. 조각 단위(같은 파일을 그냥 채점)에서 생기던 합침이 사라졌다.
 

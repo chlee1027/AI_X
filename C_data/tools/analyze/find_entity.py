@@ -21,8 +21,9 @@ PAGES = ROOT / "data" / "raw" / "entity" / "pages"
 OUT = ROOT / "data" / "raw" / "entity" / "entity_candidates.json"
 
 # 한글 음절(U+AC00~U+D7A3 = 44032~55203) 숫자 엔티티가 공백·문장부호를 끼고 이어진 덩어리
-HANGUL_ENT = r"&#(?:4[4-9]\d{3}|5[0-4]\d{3}|55[01]\d{2}|5520[0-3]);"
-RUN = re.compile(rf"{HANGUL_ENT}(?:(?:[\s\d%.,!?:/()\-+]|&#\d+;|&nbsp;|&amp;)*{HANGUL_ENT})*")
+HANGUL_ENT = (r"(?:&#(?:4[4-9]\d{3}|5[0-4]\d{3}|55[01]\d{2}|5520[0-3]);"  # 10진수
+              r"|&#[xX](?:[aA][c-fC-F]|[bBcC][0-9a-fA-F]|[dD][0-7])[0-9a-fA-F]{2};)")  # 16진수 AC00~D7FF (2026-10-10)
+RUN = re.compile(rf"{HANGUL_ENT}(?:(?:[\s\d%.,!?:/()\-+]|&#\d+;|&#[xX][0-9a-fA-F]+;|&nbsp;|&amp;)*{HANGUL_ENT})*")
 GAMBLING = re.compile(r"토토|카지노|바카라|슬롯|홀덤|먹튀|파워볼|놀이터|베팅|배팅|메이저사이트|꽁머니|에볼루션|스포츠북|첫충|"
                       r"룰렛|블랙잭|포커|사설|입플|롤링|환전|도박|겜블|갬블")
 PHONE = re.compile(r"01[016789][\s\-–.]*\d{3,4}[\s\-–.]*\d{4}")

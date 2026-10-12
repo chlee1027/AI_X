@@ -1,3 +1,75 @@
+- id: JM-001
+  split: test
+  category: JAMO
+  subtype: compat_full
+  html: '<span id="jm-001">기서 차사고 집삿다 낙서판 2011/12/21 20:01 http://blog.moneta.co.kr/cabin21/5580732/4334393 온라인강원랜드(→ HTTP://HOYO77.COM ←)가입시50만지급 온라인강원랜드 회원가입시 50만증정, 출금가능머니 증정 안심통장운영, 미녀딜러와 함께 HD급 화질로
+    즐기는 ㅂㅏㅋㅏㄹㅏ. 라이센스 보유업체, 국내최대회원 보유, 엄청난 잭팟, 지금 바로 가입하세요. 술한번 드실돈으로 ㅂㅏㅋㅏㄹㅏ를!한번 배팅에 2배로 불리는 지상최대의 게임!라이브ㅂㅏㅋㅏㄹㅏ! 국내 최대 온라인강원랜드 ◈◈◈ HTTP://HOYO77.COM ◈◈◈HD화면으로 끊김없이 이용하실수 있습니다. 체험머니 지급과 함께 출금 가능한 실전머니도 지급해
+    드리고 있으며 각종 이벤트를 진행중이니 이벤트를 확인해주세요. 주제 : 재태크/경제 &gt; 부동산 스크랩 0 인쇄 top ‘낙서판’ 카테고리의 다른글 목돈마련의 지름길 2011/12/21 난 여기서 차사고 집삿다 2011/12/21 1 Copyright ⓒ Paxnet. All Rights Reserved. Powered by Moneta.</span>'
+  css: ''
+  evidence_text: '기서 차사고 집삿다 낙서판 2011/12/21 20:01 http://blog.moneta.co.kr/cabin21/5580732/4334393 온라인강원랜드(→ HTTP://HOYO77.COM ←)가입시50만지급 온라인강원랜드 회원가입시 50만증정, 출금가능머니 증정 안심통장운영, 미녀딜러와 함께 HD급 화질로 즐기는 ㅂㅏㅋㅏㄹㅏ.
+    라이센스 보유업체, 국내최대회원 보유, 엄청난 잭팟, 지금 바로 가입하세요. 술한번 드실돈으로 ㅂㅏㅋㅏㄹㅏ를!한번 배팅에 2배로 불리는 지상최대의 게임!라이브ㅂㅏㅋㅏㄹㅏ! 국내 최대 온라인강원랜드 ◈◈◈ HTTP://HOYO77.COM ◈◈◈HD화면으로 끊김없이 이용하실수 있습니다. 체험머니 지급과 함께 출금 가능한 실전머니도 지급해 드리고 있으며 각종
+    이벤트를 진행중이니 이벤트를 확인해주세요. 주제 : 재태크/경제 > 부동산 스크랩 0 인쇄 top ‘낙서판’ 카테고리의 다른글 목돈마련의 지름길 2011/12/21 난 여기서 차사고 집삿다 2011/12/21 1 Copyright ⓒ Paxnet. All Rights Reserved. Powered by Moneta.'
+  expected_location: '#jm-001'
+  is_positive: true
+  extra_finding: null
+  source: http://blog.moneta.co.kr/blog.log.view.screen?blogId=cabin21&logId=5580732
+  notes: 원천 행 REAL-JM-139; 분해 단어 바카라 → ㅂㅏㅋㅏㄹㅏ; 원문 관측일 2026-10-04; 유해 범주 gambling; 실제 공개 원문 광고 검증 완료. HTML의 span 태그는 공통 샘플 양식용 래퍼이며 내부 문자열은 원문 전사를 변경하지 않음. 현재 공개 원문을 재접속해 HTTP 200, 엄격 호환자모 전체분해형, 도박 URL·가입·출금·베팅·계좌
+    광고 문맥을 직접 확인; 일반 언급·뉴스·예방 자료는 제외; 분해 판정 단어는 바카라
+- id: JM-002
+  split: test
+  category: JAMO
+  subtype: compat_full
+  html: '<span id="jm-002">목돈마련의 지름길 낙서판 2011/12/21 20:01 http://blog.moneta.co.kr/cabin21/5580733/4334393 온라인강원랜드(→ HTTP://HOYO77.COM ←)가입시50만지급 온라인강원랜드 회원가입시 50만증정, 출금가능머니 증정 안심통장운영, 미녀딜러와 함께 HD급 화질로
+    즐기는 ㅂㅏㅋㅏㄹㅏ. 라이센스 보유업체, 국내최대회원 보유, 엄청난 잭팟, 지금 바로 가입하세요. 술한번 드실돈으로 ㅂㅏㅋㅏㄹㅏ를!한번 배팅에 2배로 불리는 지상최대의 게임!라이브ㅂㅏㅋㅏㄹㅏ! 국내 최대 온라인강원랜드 ◈◈◈ HTTP://HOYO77.COM ◈◈◈HD화면으로 끊김없이 이용하실수 있습니다. 체험머니 지급과 함께 출금 가능한 실전머니도 지급해
+    드리고 있으며 각종 이벤트를 진행중이니 이벤트를 확인해주세요. 주제 : 재태크/경제 &gt; 재테크 스크랩 0 인쇄 top ‘낙서판’ 카테고리의 다른글 목돈마련의 지름길 2011/12/21 난 여기서 차사고 집삿다 2011/12/21 1 Copyright ⓒ Paxnet. All Rights Reserved. Powered by Moneta.</span>'
+  css: ''
+  evidence_text: '목돈마련의 지름길 낙서판 2011/12/21 20:01 http://blog.moneta.co.kr/cabin21/5580733/4334393 온라인강원랜드(→ HTTP://HOYO77.COM ←)가입시50만지급 온라인강원랜드 회원가입시 50만증정, 출금가능머니 증정 안심통장운영, 미녀딜러와 함께 HD급 화질로 즐기는 ㅂㅏㅋㅏㄹㅏ.
+    라이센스 보유업체, 국내최대회원 보유, 엄청난 잭팟, 지금 바로 가입하세요. 술한번 드실돈으로 ㅂㅏㅋㅏㄹㅏ를!한번 배팅에 2배로 불리는 지상최대의 게임!라이브ㅂㅏㅋㅏㄹㅏ! 국내 최대 온라인강원랜드 ◈◈◈ HTTP://HOYO77.COM ◈◈◈HD화면으로 끊김없이 이용하실수 있습니다. 체험머니 지급과 함께 출금 가능한 실전머니도 지급해 드리고 있으며 각종
+    이벤트를 진행중이니 이벤트를 확인해주세요. 주제 : 재태크/경제 > 재테크 스크랩 0 인쇄 top ‘낙서판’ 카테고리의 다른글 목돈마련의 지름길 2011/12/21 난 여기서 차사고 집삿다 2011/12/21 1 Copyright ⓒ Paxnet. All Rights Reserved. Powered by Moneta.'
+  expected_location: '#jm-002'
+  is_positive: true
+  extra_finding: null
+  source: http://blog.moneta.co.kr/blog.log.view.screen?blogId=cabin21&logId=5580733
+  notes: 원천 행 REAL-JM-140; 분해 단어 바카라 → ㅂㅏㅋㅏㄹㅏ; 원문 관측일 2026-10-04; 유해 범주 gambling; 실제 공개 원문 광고 검증 완료. HTML의 span 태그는 공통 샘플 양식용 래퍼이며 내부 문자열은 원문 전사를 변경하지 않음. 현재 공개 원문을 재접속해 HTTP 200, 엄격 호환자모 전체분해형, 도박 URL·가입·출금·베팅·계좌
+    광고 문맥을 직접 확인; 일반 언급·뉴스·예방 자료는 제외; 분해 판정 단어는 바카라
+- id: JM-003
+  split: test
+  category: JAMO
+  subtype: compat_full
+  html: <span id="jm-003">232) 2011-08-10 04:16:21 NAVER77.TOP.TO NAVER77.TOP.TO NAVER77.TOP.TO (112.XXX.XXX.232) 2011-08-10 00:19:03 NAVER77.TOP.TO NAVER77.TOP.TO 신진우 (112.XXX.XXX.209) 2011-08-09 07:28:37
+    ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ 홍서범 (112.XXX.XXX.209) 2011-08-08 16:50:18 ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ
+    ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ 홍서범 (112.XXX.XXX.209) 2011-08-08 13:25:49 ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ
+    ㅂㅏㅋㅏㄹㅏ</span>
+  css: ''
+  evidence_text: 232) 2011-08-10 04:16:21 NAVER77.TOP.TO NAVER77.TOP.TO NAVER77.TOP.TO (112.XXX.XXX.232) 2011-08-10 00:19:03 NAVER77.TOP.TO NAVER77.TOP.TO 신진우 (112.XXX.XXX.209) 2011-08-09 07:28:37 ㅂㅏㅋㅏㄹㅏ
+    ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ 홍서범 (112.XXX.XXX.209) 2011-08-08 16:50:18 ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ
+    ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ 홍서범 (112.XXX.XXX.209) 2011-08-08 13:25:49 ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ
+    ㅂㅏㅋㅏㄹㅏ
+  expected_location: '#jm-003'
+  is_positive: true
+  extra_finding: null
+  source: http://www.renews.co.kr/news/articleView.html?idxno=57828
+  notes: 원천 행 REAL-JM-141; 분해 단어 바카라 → ㅂㅏㅋㅏㄹㅏ; 원문 관측일 2026-10-04; 유해 범주 gambling; 실제 공개 원문 광고 검증 완료. HTML의 span 태그는 공통 샘플 양식용 래퍼이며 내부 문자열은 원문 전사를 변경하지 않음. 현재 공개 원문을 재접속해 HTTP 200, 엄격 호환자모 전체분해형, 도박 URL·가입·출금·베팅·계좌
+    광고 문맥을 직접 확인; 일반 언급·뉴스·예방 자료는 제외; 분해 판정 단어는 바카라
+- id: JM-004
+  split: test
+  category: JAMO
+  subtype: compat_full
+  html: <span id="jm-004">.232) 2011-08-10 04:16:12 NAVER77.TOP.TO NAVER77.TOP.TO NAVER77.TOP.TO (112.XXX.XXX.232) 2011-08-10 00:18:54 NAVER77.TOP.TO NAVER77.TOP.TO 신진우 (121.XXX.XXX.78) 2011-08-09 15:07:47
+    ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ 신진우 (121.XXX.XXX.56) 2011-08-09 11:38:07 ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ
+    ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ 신진우 (112.XXX.XXX.209) 2011-08-09 07:28:30 ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ
+    ㅂㅏㅋㅏㄹㅏ</span>
+  css: ''
+  evidence_text: .232) 2011-08-10 04:16:12 NAVER77.TOP.TO NAVER77.TOP.TO NAVER77.TOP.TO (112.XXX.XXX.232) 2011-08-10 00:18:54 NAVER77.TOP.TO NAVER77.TOP.TO 신진우 (121.XXX.XXX.78) 2011-08-09 15:07:47 ㅂㅏㅋㅏㄹㅏ
+    ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ 신진우 (121.XXX.XXX.56) 2011-08-09 11:38:07 ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ
+    ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ 신진우 (112.XXX.XXX.209) 2011-08-09 07:28:30 ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ ㅂㅏㅋㅏㄹㅏ ≫≫ 292513.ＴＯＰ.ＴＯ
+    ㅂㅏㅋㅏㄹㅏ
+  expected_location: '#jm-004'
+  is_positive: true
+  extra_finding: null
+  source: http://www.renews.co.kr/news/articleView.html?idxno=58123
+  notes: 원천 행 REAL-JM-142; 분해 단어 바카라 → ㅂㅏㅋㅏㄹㅏ; 원문 관측일 2026-10-04; 유해 범주 gambling; 실제 공개 원문 광고 검증 완료. HTML의 span 태그는 공통 샘플 양식용 래퍼이며 내부 문자열은 원문 전사를 변경하지 않음. 현재 공개 원문을 재접속해 HTTP 200, 엄격 호환자모 전체분해형, 도박 URL·가입·출금·베팅·계좌
+    광고 문맥을 직접 확인; 일반 언급·뉴스·예방 자료는 제외; 분해 판정 단어는 바카라
 - id: JM-005
   split: train
   category: JAMO
@@ -141,6 +213,90 @@
   extra_finding: null
   source: https://bizk.co.kr/board_new/new_read.php?sno=63031
   notes: 원천 행 REAL-JM-011; 분해 단어 텔레 → 텔ㄹㅔ; 원문 관측일 2026-09-30; 유해 범주 illegal_finance; 실제 공개 원문 광고 검증 완료. HTML의 span 태그는 공통 샘플 양식용 래퍼이며 내부 문자열은 원문 전사를 변경하지 않음. 텔레의 두 번째 음절 레를 호환자모 ㄹㅔ로 분해한 실제 부분 혼입형 광고
+- id: JM-014
+  split: test
+  category: JAMO
+  subtype: partial_mix
+  html: <span id="jm-014">중국명품도매 ㅋ톡 Edge0407 루이비통레플리카 광저우레플도매</span>
+  css: ''
+  evidence_text: 중국명품도매 ㅋ톡 Edge0407 루이비통레플리카 광저우레플도매
+  expected_location: '#jm-014'
+  is_positive: true
+  extra_finding: null
+  source: https://ggalsekorea.uriweb.kr/37/?bmode=view&idx=170678068
+  notes: 원천 행 REAL-JM-013; 분해 단어 카카오톡 → ㅋ톡; 원문 관측일 2026-09-30; 유해 범주 counterfeit_goods; 실제 공개 원문 광고 검증 완료. HTML의 span 태그는 공통 샘플 양식용 래퍼이며 내부 문자열은 원문 전사를 변경하지 않음. 카톡의 첫 음절을 초성자모 ㅋ으로 줄인 실제 레플리카 광고
+- id: JM-015
+  split: test
+  category: JAMO
+  subtype: partial_mix
+  html: <span id="jm-015">광저우원도매 ㅋ톡 Edge0407 명품의류도매 롤렉스레플리카 명품레플리카샵</span>
+  css: ''
+  evidence_text: 광저우원도매 ㅋ톡 Edge0407 명품의류도매 롤렉스레플리카 명품레플리카샵
+  expected_location: '#jm-015'
+  is_positive: true
+  extra_finding: null
+  source: https://ggalsekorea.uriweb.kr/37/?bmode=view&idx=172220577&q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6ODY7fQ%3D%3D&t=board
+  notes: 원천 행 REAL-JM-014; 분해 단어 카카오톡 → ㅋ톡; 원문 관측일 2026-09-30; 유해 범주 counterfeit_goods; 실제 공개 원문 광고 검증 완료. HTML의 span 태그는 공통 샘플 양식용 래퍼이며 내부 문자열은 원문 전사를 변경하지 않음. 카톡의 첫 음절을 초성자모 ㅋ으로 줄인 실제 레플리카 광고
+- id: JM-016
+  split: test
+  category: JAMO
+  subtype: partial_mix
+  html: <span id="jm-016">레플리카위탁배송 ㅋ톡 Edge0407 홍콩명품도매 ㅋ톡 Edge0407 짝퉁신발</span>
+  css: ''
+  evidence_text: 레플리카위탁배송 ㅋ톡 Edge0407 홍콩명품도매 ㅋ톡 Edge0407 짝퉁신발
+  expected_location: '#jm-016'
+  is_positive: true
+  extra_finding: null
+  source: https://ggalsekorea.uriweb.kr/37/?bmode=view&idx=173831555&q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6MTU7fQ%3D%3D&t=board
+  notes: 원천 행 REAL-JM-015; 분해 단어 카카오톡 → ㅋ톡; 원문 관측일 2026-09-30; 유해 범주 counterfeit_goods; 실제 공개 원문 광고 검증 완료. HTML의 span 태그는 공통 샘플 양식용 래퍼이며 내부 문자열은 원문 전사를 변경하지 않음. 카톡의 첫 음절을 초성자모 ㅋ으로 줄인 실제 짝퉁 상품 광고
+- id: JM-017
+  split: test
+  category: JAMO
+  subtype: partial_mix
+  html: <span id="jm-017">광저우레플리카도매 ㅋ톡 Edge0407 광저우원도매 ㅋ톡 Edge0407 레플리카사이트추천</span>
+  css: ''
+  evidence_text: 광저우레플리카도매 ㅋ톡 Edge0407 광저우원도매 ㅋ톡 Edge0407 레플리카사이트추천
+  expected_location: '#jm-017'
+  is_positive: true
+  extra_finding: null
+  source: https://ggalsekorea.uriweb.kr/37/?bmode=view&idx=173831584&q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6MTU7fQ%3D%3D&t=board
+  notes: 원천 행 REAL-JM-016; 분해 단어 카카오톡 → ㅋ톡; 원문 관측일 2026-09-30; 유해 범주 counterfeit_goods; 실제 공개 원문 광고 검증 완료. HTML의 span 태그는 공통 샘플 양식용 래퍼이며 내부 문자열은 원문 전사를 변경하지 않음. 카톡의 첫 음절을 초성자모 ㅋ으로 줄인 실제 레플리카 광고
+- id: JM-018
+  split: test
+  category: JAMO
+  subtype: partial_mix
+  html: <span id="jm-018">중국명품도매 ㅋ톡 Edge0407 광저우현지원도매 ㅋ톡 Edge0407 레플리카팝니다</span>
+  css: ''
+  evidence_text: 중국명품도매 ㅋ톡 Edge0407 광저우현지원도매 ㅋ톡 Edge0407 레플리카팝니다
+  expected_location: '#jm-018'
+  is_positive: true
+  extra_finding: null
+  source: https://ggalsekorea.uriweb.kr/37/?bmode=view&idx=173831567&q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6MTU7fQ%3D%3D&t=board
+  notes: 원천 행 REAL-JM-017; 분해 단어 카카오톡 → ㅋ톡; 원문 관측일 2026-09-30; 유해 범주 counterfeit_goods; 실제 공개 원문 광고 검증 완료. HTML의 span 태그는 공통 샘플 양식용 래퍼이며 내부 문자열은 원문 전사를 변경하지 않음. 카톡의 첫 음절을 초성자모 ㅋ으로 줄인 실제 레플리카 광고
+- id: JM-019
+  split: test
+  category: JAMO
+  subtype: partial_mix
+  html: <span id="jm-019">내구제 전문 정식업체 텔ㄹㄱ램 무직자50만원소액대출 누구나소액대출가능 비상금대출</span>
+  css: ''
+  evidence_text: 내구제 전문 정식업체 텔ㄹㄱ램 무직자50만원소액대출 누구나소액대출가능 비상금대출
+  expected_location: '#jm-019'
+  is_positive: true
+  extra_finding: null
+  source: https://harasports.net/article/%EA%B0%A4%EB%9F%AC%EB%A6%AC/8/9011/
+  notes: 원천 행 REAL-JM-023; 분해 단어 텔레그램 → 텔ㄹㄱ램; 원문 관측일 2026-09-30; 유해 범주 illegal_finance; 실제 공개 원문 광고 검증 완료. HTML의 span 태그는 공통 샘플 양식용 래퍼이며 내부 문자열은 원문 전사를 변경하지 않음. 텔레그램 내부를 호환자모 ㄹㄱ으로 치환한 실제 내구제·급전 광고
+- id: JM-020
+  split: test
+  category: JAMO
+  subtype: partial_mix
+  html: <span id="jm-020">선불유심판매 ㅌ레그램 15만원급한돈드려요 선불유심매입 핸드폰연체자급전대출</span>
+  css: ''
+  evidence_text: 선불유심판매 ㅌ레그램 15만원급한돈드려요 선불유심매입 핸드폰연체자급전대출
+  expected_location: '#jm-020'
+  is_positive: true
+  extra_finding: null
+  source: https://harasports.net/article/%EA%B0%A4%EB%9F%AC%EB%A6%AC/8/9010/
+  notes: 원천 행 REAL-JM-024; 분해 단어 텔레그램 → ㅌ레그램; 원문 관측일 2026-09-30; 유해 범주 illegal_finance; 실제 공개 원문 광고 검증 완료. HTML의 span 태그는 공통 샘플 양식용 래퍼이며 내부 문자열은 원문 전사를 변경하지 않음. 텔레그램의 첫 음절을 초성자모 ㅌ으로 치환한 실제 내구제·급전 광고
 - id: JM-021
   split: train
   category: JAMO
@@ -419,6 +575,32 @@
   source: https://sir.kr/boards/free/1727483
   notes: 원천 행 REAL-JM-048; 분해 단어 텔레그램 → 텔레ㄱㄹ; 원문 관측일 2026-09-30; 유해 범주 illegal_finance; 실제 공개 원문 광고 검증 완료. HTML의 span 태그는 공통 샘플 양식용 래퍼이며 내부 문자열은 원문 전사를 변경하지 않음. 스팸 신고로 블라인드되었지만 공개 원문 본문에 텔레그램 뒤쪽을 호환자모 ㄱㄹ로
     치환한 실제 유심·급전 광고가 유지됨 / 이전 id JM-044
+- id: JM-044
+  split: test
+  category: JAMO
+  subtype: partial_mix
+  html: <span id="jm-044">선불유심매입 텔레ㄱㄹ 대포폰유심팝니다 막심삽니다 막심팝니다 휴대폰내구제비대면</span>
+  css: ''
+  evidence_text: 선불유심매입 텔레ㄱㄹ 대포폰유심팝니다 막심삽니다 막심팝니다 휴대폰내구제비대면
+  expected_location: '#jm-044'
+  is_positive: true
+  extra_finding: null
+  source: https://molinarishop.co.kr/board/product/read.html?no=7931&board_no=6
+  notes: 원천 행 REAL-JM-049; 분해 단어 텔레그램 → 텔레ㄱㄹ; 원문 관측일 2026-09-30; 유해 범주 illegal_finance; 실제 공개 원문 광고 검증 완료. HTML의 span 태그는 공통 샘플 양식용 래퍼이며 내부 문자열은 원문 전사를 변경하지 않음. 공개 Q&A 본문에서 텔레그램 뒤쪽을 호환자모 ㄱㄹ로 치환한 실제 유심 매입·내구제
+    광고를 확인 / 이전 id JM-045
+- id: JM-045
+  split: test
+  category: JAMO
+  subtype: partial_mix
+  html: <span id="jm-045">내구제 전문 정식업체 텔ㄹㄱ램 즉시대출 핸드폰가전내구제비대면 당일급전</span>
+  css: ''
+  evidence_text: 내구제 전문 정식업체 텔ㄹㄱ램 즉시대출 핸드폰가전내구제비대면 당일급전
+  expected_location: '#jm-045'
+  is_positive: true
+  extra_finding: null
+  source: https://molinarishop.co.kr/board/product/read.html?no=7932&board_no=6
+  notes: 원천 행 REAL-JM-050; 분해 단어 텔레그램 → 텔ㄹㄱ램; 원문 관측일 2026-09-30; 유해 범주 illegal_finance; 실제 공개 원문 광고 검증 완료. HTML의 span 태그는 공통 샘플 양식용 래퍼이며 내부 문자열은 원문 전사를 변경하지 않음. 공개 Q&A 본문에서 텔레그램 중간 음절을 호환자모 ㄹㄱ으로 치환한 실제
+    내구제·급전 광고를 확인 / 이전 id JM-046
 - id: JM-046
   split: train
   category: JAMO
@@ -653,6 +835,45 @@
   source: https://gall.dcinside.com/board/view/?id=luxury&no=722994&page=1
   notes: '원천 행 REAL-JM-018; 분해 단어 카카오톡 → ㅋㅌ; 원문 관측일 2026-09-30; 유해 범주 counterfeit_goods; 실제 공개 원문 광고 검증 완료. HTML의 span 태그는 공통 샘플 양식용 래퍼이며 내부 문자열은 원문 전사를 변경하지 않음. ㅋㅌ 초성자모 약어와 영문·숫자·공백을 중첩한 디시인사이드 실제 레플리카
     광고 / 2026-10-05: 카톡 초성 축약(ㅋㅌ)뿐이라 겹친 다른 기법이 없어 mixed_technique -> partial_mix / 이전 id JM-085 / 이전 id JM-064'
+- id: JM-064
+  split: test
+  category: JAMO
+  subtype: partial_mix
+  html: <span id="jm-064">피망 머니 거래할 때 ㅋㅌ MR56으로 먼저 연락하고 진행하는 게 가장 안전한 방법인 것 같아요.</span>
+  css: ''
+  evidence_text: 피망 머니 거래할 때 ㅋㅌ MR56으로 먼저 연락하고 진행하는 게 가장 안전한 방법인 것 같아요.
+  expected_location: '#jm-064'
+  is_positive: true
+  extra_finding: null
+  source: https://xn--ob0b690cvjar2c.com/board/free/read.html?no=4643&board_no=5
+  notes: '원천 행 REAL-JM-019; 분해 단어 카카오톡 → ㅋㅌ; 원문 관측일 2026-09-30; 유해 범주 gambling; 실제 공개 원문 광고 검증 완료. HTML의 span 태그는 공통 샘플 양식용 래퍼이며 내부 문자열은 원문 전사를 변경하지 않음. ㅋㅌ 초성자모 약어와 영문·숫자·공백을 중첩한 게임머니 환전 광고 / 2026-10-05:
+    카톡 초성 축약(ㅋㅌ)뿐이라 겹친 다른 기법이 없어 mixed_technique -> partial_mix / 이전 id JM-086 / 이전 id JM-065'
+- id: JM-065
+  split: test
+  category: JAMO
+  subtype: partial_mix
+  html: <span id="jm-065">탑플레이어포커 머니 거래할 때 ㅋㅌ MR56으로 먼저 연락하고 진행하는 게 가장 안전한 방법인 것 같아요.</span>
+  css: ''
+  evidence_text: 탑플레이어포커 머니 거래할 때 ㅋㅌ MR56으로 먼저 연락하고 진행하는 게 가장 안전한 방법인 것 같아요.
+  expected_location: '#jm-065'
+  is_positive: true
+  extra_finding: null
+  source: https://oloa36.com/article/qa/6/938/
+  notes: '원천 행 REAL-JM-020; 분해 단어 카카오톡 → ㅋㅌ; 원문 관측일 2026-09-30; 유해 범주 gambling; 실제 공개 원문 광고 검증 완료. HTML의 span 태그는 공통 샘플 양식용 래퍼이며 내부 문자열은 원문 전사를 변경하지 않음. ㅋㅌ 초성자모 약어와 영문·숫자·공백을 중첩한 게임머니 환전 광고 / 2026-10-05:
+    카톡 초성 축약(ㅋㅌ)뿐이라 겹친 다른 기법이 없어 mixed_technique -> partial_mix / 이전 id JM-087 / 이전 id JM-066'
+- id: JM-066
+  split: test
+  category: JAMO
+  subtype: partial_mix
+  html: <span id="jm-066">탑플레이어포커 머니상 중에서 제일 괜찮은 곳은 ㅋㅌ MR56인 것 같아요.</span>
+  css: ''
+  evidence_text: 탑플레이어포커 머니상 중에서 제일 괜찮은 곳은 ㅋㅌ MR56인 것 같아요.
+  expected_location: '#jm-066'
+  is_positive: true
+  extra_finding: null
+  source: https://taniexpress.com/article/%EC%83%81%ED%92%88-qa/6/163/
+  notes: '원천 행 REAL-JM-021; 분해 단어 카카오톡 → ㅋㅌ; 원문 관측일 2026-09-30; 유해 범주 gambling; 실제 공개 원문 광고 검증 완료. HTML의 span 태그는 공통 샘플 양식용 래퍼이며 내부 문자열은 원문 전사를 변경하지 않음. ㅋㅌ 초성자모 약어와 영문·숫자·공백을 중첩한 게임머니 충전·환전 광고 / 2026-10-05:
+    카톡 초성 축약(ㅋㅌ)뿐이라 겹친 다른 기법이 없어 mixed_technique -> partial_mix / 이전 id JM-088 / 이전 id JM-067'
 - id: JM-067
   split: val
   category: JAMO
@@ -938,6 +1159,43 @@
   source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=26&mod=document&uid=44887
   notes: '원천 행 REAL-JM-138; 분해 단어 슬롯 → 슬롯; 원문 관측일 2026-10-04; 유해 범주 gambling; 실제 공개 원문 광고 검증 완료. HTML의 span 태그는 공통 샘플 양식용 래퍼이며 내부 문자열은 원문 전사를 변경하지 않음. LEXICON 시드 구축에 사용한 공개 상세 페이지를 실시간 재접속해 HTTP 200과
     해당 글의 title 요소를 직접 확인; 목록의 다른 글은 제외; 분해 판정 단어는 슬롯 / 2026-10-05: 전화번호 가림(앞 세 자리 모양만 남김) / 이전 id JM-075 / 이전 id JM-085 / 이전 id JM-084'
+- id: JM-089
+  split: test
+  category: JAMO
+  subtype: conjoining_u1100
+  html: '<span id="jm-089">#CASINO솔루선 #슬롯솔루션 {텔 : dreamfactory365} 홀덤솔루션</span>'
+  css: ''
+  evidence_text: '#CASINO솔루선 #슬롯솔루션 {텔 : dreamfactory365} 홀덤솔루션'
+  expected_location: '#jm-089'
+  is_positive: true
+  extra_finding: null
+  source: https://www.goodwebple.co.kr/cs/qna/?mod=document&uid=1733
+  notes: '원천: 역할 C 실측 원문(2026-10-04 polite 수집); 분해 단어 슬롯솔루션 → 슬롯솔루션; 원문 관측일 2026-10-04; 유해 범주 gambling; 글 전체가 조합자모(U+1100대)로 적힌 실제 광고. 2026-10-05 추가 / 이전 id JM-086 / 이전 id JM-085'
+- id: JM-090
+  split: test
+  category: JAMO
+  subtype: conjoining_u1100
+  html: '<span id="jm-090">성인피시방매장,성피pc방 ▶ 블루게임.ⓒⓞⓜ ▶ 인디안게임 가입 : 이0. X XXX, XX XX</span>'
+  css: ''
+  evidence_text: '성인피시방매장,성피pc방 ▶ 블루게임.ⓒⓞⓜ ▶ 인디안게임 가입 : 이0. X XXX, XX XX'
+  expected_location: '#jm-090'
+  is_positive: true
+  extra_finding: null
+  source: https://www.goodwebple.co.kr/cs/qna/?mod=document&uid=1730
+  notes: '원천: 역할 C 실측 원문(2026-10-04 polite 수집); 분해 단어 가입 → 가입; 원문 관측일 2026-10-04; 유해 범주 gambling; 글 전체가 조합자모(U+1100대)로 적힌 실제 광고. 2026-10-05 추가; 전화번호 가림 / 이전 id JM-087 / 이전 id JM-086'
+- id: JM-091
+  split: test
+  category: JAMO
+  subtype: mixed_technique
+  html: <span id="jm-091">내1구1제 텔ㄹㄱ램 가전내1구1제</span>
+  css: ''
+  evidence_text: 내1구1제 텔ㄹㄱ램 가전내1구1제
+  expected_location: '#jm-091'
+  is_positive: true
+  extra_finding: null
+  source: https://molinarishop.co.kr/board/product/read.html?no=7930&board_no=6
+  notes: 원천 행 REAL-JM-051; 분해 단어 텔레그램 → 텔ㄹㄱ램; 원문 관측일 2026-09-30; 유해 범주 illegal_finance; 실제 공개 원문 광고 검증 완료. HTML의 span 태그는 공통 샘플 양식용 래퍼이며 내부 문자열은 원문 전사를 변경하지 않음. 내구제에 숫자 1을 삽입하고 텔레그램 일부를 호환자모로 분리해 두 난독화
+    기법을 중첩한 실제 광고 / 이전 id JM-090 / 이전 id JM-088 / 이전 id JM-087
 - id: JM-092
   split: train
   category: JAMO
@@ -1470,6 +1728,18 @@
   extra_finding: null
   source: https://aptgogi.co.kr/35/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=174892160&t=board
   notes: '원천: 역할 C 실측 원문(polite 수집, 관측일 2026-10-03); 분해 단어 → ㅌ레; 유해 범주 adult; 겹친 기법: 자모 섞기 + 전각 괄호 기호 구분자; 2026-10-05 쏠림 완화용 추가(이 사이트 첫 항목)'
+- id: JM-133
+  split: test
+  category: JAMO
+  subtype: mixed_technique
+  html: '<span id="jm-133">팬텀솔져게임 문의 : O 1 O - X X X X - X X X X 까톡: eh353 / 텔ㄹㅔ그램 : eh353 365일 24시간 상담가능합니다.</span>'
+  css: ''
+  evidence_text: '팬텀솔져게임 문의 : O 1 O - X X X X - X X X X 까톡: eh353 / 텔ㄹㅔ그램 : eh353 365일 24시간 상담가능합니다.'
+  expected_location: '#jm-133'
+  is_positive: true
+  extra_finding: null
+  source: https://jirisanpapas.com/?mod=document&page_id=1323&uid=7685
+  notes: '원천: 역할 C 실측 원문(polite 수집, 관측일 ); 분해 단어 → 텔ㄹㅔ그램; 유해 범주 gambling; 겹친 기법: 자모 섞기 + 숫자 자리 영문 O 치환·띄어쓰기 번호 + 까톡 철자 변형; 2026-10-05 쏠림 완화용 추가(이 사이트 첫 항목); 전화번호 가림'
 - id: JM-134
   split: val
   category: JAMO
@@ -1518,6 +1788,18 @@
   extra_finding: null
   source: https://politics.mokpo.ac.kr/bbs/economy/254/262610/artclView.do
   notes: '원천: 역할 C 실측 원문(polite 수집, 관측일 ); 분해 단어 → ㅏ톡; 유해 범주 gambling; 겹친 기법: 자모 분해 + 자모 사이 띄어쓰기(ㅋ ㅏ톡); 2026-10-05 쏠림 완화용 추가(이 사이트 첫 항목)'
+- id: JM-138
+  split: test
+  category: JAMO
+  subtype: mixed_technique
+  html: <span id="jm-138">오다집광고대행ｅㅌ레 https://viamallm.com 룸싸롱문서광고✦유흥상위작업 소액상위노출 술집상단노출❄비아샵</span>
+  css: ''
+  evidence_text: 오다집광고대행ｅㅌ레 https://viamallm.com 룸싸롱문서광고✦유흥상위작업 소액상위노출 술집상단노출❄비아샵
+  expected_location: '#jm-138'
+  is_positive: true
+  extra_finding: null
+  source: http://www.sandblastmc.com/bbs/board.php?bo_table=qna&wr_id=19324
+  notes: '원천: 역할 C 실측 원문(polite 수집, 관측일 2026-10-04); 분해 단어 → ㅌ레; 유해 범주 gambling; 겹친 기법: 자모 섞기 + 전각 영문 ｅ 붙이기 + 기호 구분자; 2026-10-05 쏠림 완화용 추가(이 사이트 첫 항목)'
 - id: JM-139
   split: val
   category: JAMO
@@ -1530,6 +1812,30 @@
   extra_finding: null
   source: https://yellowpost.co.kr/article/qa/6/60779/
   notes: '원천: 역할 C 실측 원문(polite 수집, 관측일 ); 분해 단어 → ㅌ레; 유해 범주 gambling; 겹친 기법: 자모 섞기 + 철자 변형(카턱) + 화살표 기호 구분자; 2026-10-05 쏠림 완화용 추가(이 사이트 첫 항목)'
+- id: JM-140
+  split: test
+  category: JAMO
+  subtype: mixed_technique
+  html: '<span id="jm-140">바둑이게­임사이트 아이폰holdem♪ ㅋㅏ톡/텔ㄹㅔ : T S T 3 6 5⇘인디고게­임 사이트 온라인holdem게­임하는곳</span>'
+  css: ''
+  evidence_text: '바둑이게­임사이트 아이폰holdem♪ ㅋㅏ톡/텔ㄹㅔ : T S T 3 6 5⇘인디고게­임 사이트 온라인holdem게­임하는곳'
+  expected_location: '#jm-140'
+  is_positive: true
+  extra_finding: null
+  source: http://baejinmetal.co.kr/bbs/board.php?bo_table=K060400&wr_id=5458
+  notes: '원천: 역할 C 실측 원문(polite 수집, 관측일 ); 분해 단어 → ㅋㅏ톡; 유해 범주 gambling; 겹친 기법: 자모 섞기 + 아이디 띄어쓰기 + 화살표 기호 + 소프트 하이픈; 2026-10-05 쏠림 완화용 추가(이 사이트 첫 항목)'
+- id: JM-141
+  split: test
+  category: JAMO
+  subtype: mixed_technique
+  html: <span id="jm-141">다음글 챔피언바둑이게임 싸이트 (카 ㅌ, 텔ㄹㅔ z x z x 1225 ) 프라그마틱슬롯싸이트 프라그마틱가입 (실전홀덤게임) 팬텀솔져주소 매장 참피언 프라그마틱</span>
+  css: ''
+  evidence_text: 다음글 챔피언바둑이게임 싸이트 (카 ㅌ, 텔ㄹㅔ z x z x 1225 ) 프라그마틱슬롯싸이트 프라그마틱가입 (실전홀덤게임) 팬텀솔져주소 매장 참피언 프라그마틱
+  expected_location: '#jm-141'
+  is_positive: true
+  extra_finding: null
+  source: https://dkhrainbow.com/article/%EC%83%81%ED%92%88-qa/6/1803
+  notes: '원천: 역할 C 실측 원문(polite 수집, 관측일 ); 분해 단어 → 텔ㄹㅔ; 유해 범주 gambling; 겹친 기법: 자모 섞기 + 아이디 글자 사이 띄어쓰기(z x z x); 2026-10-05 쏠림 완화용 추가(이 사이트 첫 항목)'
 - id: JM-142
   split: val
   category: JAMO

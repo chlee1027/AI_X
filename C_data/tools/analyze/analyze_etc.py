@@ -128,7 +128,12 @@ def main(out: str, files: list[str]) -> None:
     with sync_playwright() as p:
         b = p.chromium.launch(channel="msedge")
         ctx = b.new_context(java_script_enabled=False, viewport={"width": 1280, "height": 900})
-        ctx.route("**/*", lambda r: r.abort())
+        def _abort(rt):
+            try:
+                rt.abort()
+            except Exception:  # noqa: BLE001  페이지 쪽 가로채기가 이미 응답한 요청
+                pass
+        ctx.route("**/*", _abort)
         pg = ctx.new_page()
         for f in files:
             fp = Path(f)
@@ -140,8 +145,15 @@ def main(out: str, files: list[str]) -> None:
             def run(page, keep_route: bool):
                 # location.host 가 원래 호스트가 되도록 원래 URL 로 띄운다 (응답은 저장본, 네트워크는 막힘)
                 # 주소 문자열 비교는 한글 URL 인코딩 차이로 어긋나므로, 문서 요청이면 저장본을 돌려주고 나머지는 막는다
-                page.route("**/*", lambda rt: rt.fulfill(status=200, body=raw_view, content_type="text/html; charset=utf-8")
-                           if rt.request.resource_type == "document" else rt.abort())
+                def _serve(rt):
+                    try:
+                        if rt.request.resource_type == "document":
+                            rt.fulfill(status=200, body=raw_view, content_type="text/html; charset=utf-8")
+                        else:
+                            rt.abort()
+                    except Exception:  # noqa: BLE001  이미 처리된 요청
+                        pass
+                page.route("**/*", _serve)
                 try:
                     try:
                         page.goto(url, wait_until="domcontentloaded", timeout=15000)

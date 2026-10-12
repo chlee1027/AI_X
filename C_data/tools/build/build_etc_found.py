@@ -24,7 +24,7 @@ CTA = re.compile(r"바로\s*가기|바로\s*가입|클릭|시작하기|접속|�
                  r"공식\s*(파트너|사이트)|이동|링크|사이트\s*바로|주소|안내|문의하기|신청|이벤트", re.I)
 NOT_DEST = re.compile(r"(^|\.)(t\.me|telegram\.(me|org)|open\.kakao\.com|pf\.kakao\.com|line\.me|wa\.me|notion\.so|notion\.site)$", re.I)
 # 앵커에서 안내 문구를 뺀 나머지로 허용하는 일반 낱말 (브랜드명 「인디고」 같은 것은 안 된다)
-GENERIC_RESID = re.compile(r"^(지금|공식|파트너|불가시|불가|시|사이트|여기|링크|바로|홈|안내|문의|빠른|최신|새|전용|고객)*$")
+GENERIC_RESID = re.compile(r"^(지금|공식|파트너|불가시|불가|시|사이트|여기|링크|바로|홈|안내|문의|빠른|최신|새|전용|고객|go|GO|Go|\d)*$")  # 2026-10-10 「바로가기 go !!」「1. 사이트 바로가기」
 INVIS = re.compile("[​-‏⁠-⁤﻿­͏ᅟᅠㅤﾠ᠎]")
 # 전화번호: 0 을 o 로 바꾸고 ―﹣‒⸻ 같은 대시를 쓴 꼴까지 (o10―8359﹣o661)
 # 구분자에 자모 ㅡ 도 넣는다 (Oloㅡ8359 O6611 꼴, 2026-10-04)
@@ -35,7 +35,7 @@ AD_WORD = re.compile(r"카지노|바카라|토토|슬롯|먹튀|놀이터|홀덤
 URL_ENC = re.compile(r"(?:%[0-9A-Fa-f]{2}){6,}(?:[^&#\s]*(?:%[0-9A-Fa-f]{2})+)*")
 ENC_AD = re.compile(r"해선|해킹|디비|db|대출|코인|로또|주식|증권|카지노|토토|바카라|슬롯|홀덤|비아그라|출장|텔레", re.I)
 META_JS_EMPTY = {"co-o-zam.co.kr"}
-PER_HOST = {"link_cloaking": 5, "zero_width": 10, "meta_cloaking": 10, "css_content": 5, "encoding": 5}
+PER_HOST = {"link_cloaking": 10, "zero_width": 10, "meta_cloaking": 10, "css_content": 5, "encoding": 5}
 EXTRA = {"zero_width": "ZERO_WIDTH", "link_cloaking": "LINK_CLOAKING", "css_content": "CSS_CONTENT",
          "meta_cloaking": "META_CLOAKING", "encoding": "ENCODING"}
 
@@ -90,6 +90,8 @@ def main(out: str, real: str, founds: list[str]) -> None:
     seen, rows, per_host = set(), [], _C()
     for fj in founds:
         rows += json.loads(Path(fj).read_text(encoding="utf-8"))
+    # 사이트당 상한이 소프트 하이픈(U+00AD)만 쓴 제로폭으로 먼저 차지 않게 그 행을 뒤로 (2026-10-11)
+    rows.sort(key=lambda x: x["kind"] == "zero_width" and x.get("chars") == ["U+00AD"])
     for x in rows:
         kind, host = x["kind"], urlsplit(x["url"]).netloc
         note = ""

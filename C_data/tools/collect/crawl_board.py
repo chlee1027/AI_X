@@ -32,7 +32,12 @@ _robots: dict = {}
 
 
 # 도박 홍보 사이트 자체로 확인된 곳은 요청하지 않는다 (2026-10-04, magino.co.kr = 「온라인 홀덤사이트 - 인디고게임」)
-BLOCKED_HOSTS = {"magino.co.kr"}
+BLOCKED_HOSTS = {"magino.co.kr",
+                 # 2026-10-10 사이트 이름이 「바다이야기사이트 릴게임사이트 …」인 같은 틀의 홍보 사이트(본문은 권한 오류 화면)
+                 "withpmj.co.kr", "foodvvo.co.kr", "sweetkey.co.kr", "usanhyup.co.kr", "rockytour.co.kr", "imfunong.co.kr",
+                 "kurozuya.co.kr", "gcymca.co.kr", "ickworld.co.kr", "nanjjang.kr", "madamwood.co.kr", "nihaojeju.co.kr",
+                 "sunuro.co.kr", "00100.co.kr", "pbbs.co.kr", "namdotree.co.kr", "imreelpark.kr", "hosungomc.co.kr", "hongiksports.co.kr", "tntschool.com", "busan4989.co.kr",
+                 "baramilboho.net"}  # 2026-10-10 사이트 이름 없이 낙태약·의약품 스팸 글만 있음(피해 게시판인지 가를 수 없어 제외)
 
 
 def robots_ok(url: str) -> bool:
@@ -64,7 +69,10 @@ def decode(r) -> str:
     enc = (m.group(1).decode() if m else r.apparent_encoding or "utf-8").lower()
     if enc in ("euc-kr", "ks_c_5601-1987"):
         enc = "cp949"
-    return raw.decode(enc, "replace")
+    try:
+        return raw.decode(enc, "replace")
+    except LookupError:  # charset 오타(uft-8 등)
+        return raw.decode("utf-8", "replace")
 
 
 DROP = {"page", "sst", "sod", "sop", "sfl", "stx", "device", "spt", "sca", "pageIndex", "startPage", "paging"}

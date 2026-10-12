@@ -2,9 +2,31 @@
 
 행정안전부·NIA 「공공 웹사이트 불법광고 탐지 도구 개발 공모전」(접수 마감 2026-10-23 18시)의 데이터·평가 몫이다. 요강 원문은 `공공 웹사이트 불법광고 탐지 도구 개발 공모전 모집요강.pdf`(18쪽), 팀 설계는 `총계획서_최종_공공웹사이트_불법광고_탐지도구.md` 이다.
 
-## 학습 · 검증 · 테스트 나누기 (2026-10-07)
+## 봉인 해제 · 새 수집분 합침 (2026-10-12)
 
-**이 저장소에는 학습·검증 몫만 있다. 테스트 몫(약 20%)은 역할 C 가 저장소 밖에 따로 보관한다.** 탐지기를 테스트 데이터에 맞춰 조정하지 않게 하려는 것이다. 탐지기 성능은 역할 C 가 테스트 몫으로 채점해 점수만 알린다. 단, 10-07 이전 커밋에는 테스트 몫이 들어 있으니 이력을 열어 보지 않는다.
+**10-07 에 저장소 밖으로 봉인했던 테스트 몫을 10-12 에 되돌렸다. 이제 이 저장소에 실측 전부가 있다.** 10-09~11 에 새로 모은 DECOY·ETC·조합도 함께 넣었다. 도구는 `tools/build/unseal_merge.py`, 바꾸기 전 `data/` 는 `data/raw/backup_before_unseal_20261012/`(git 밖)에 있다.
+
+| 카테고리 | 10-07 학습·검증 | 10-07 테스트(되돌림) | 10-09~11 새 수집 | 합계 | 출처 사이트 |
+|---|---:|---:|---:|---:|---:|
+| DECOY | 207 | 52 | 257 (DC-260~516) | **516** | 167 |
+| ETC | 178 | 42 | 285 (ET-230~514) | **505** | 118 |
+| 난독화 조합 | 200 | 50 | 340 (CB-260~599) - 강화군 62 | **528** | 96 |
+| JAMO | 124 | 23 | 0 | **147** | |
+| OFFSCREEN 원문 | 81 | 19 | 0 | **100** | |
+| HOMOGLYPH 권장판 | 296 | 74 | 0 | **370** | |
+| HOMOGLYPH 전체판 | 1,415 | 362 | 0 | **1,777** | |
+
+- `split` 칸은 10-07 배정 기록으로 남겼다(train·val·test). 새 수집분에는 `split` 칸이 없다. 전체 배정표는 `data/splits/split_all.csv` 이고 `split_trainval.csv` 는 지웠다. 다시 나누려면 `make_split.py` 를 새 수집분까지 넣어 돌려야 한다.
+- 조합에서 뺀 강화군 62건은 기존 조합 가운데 강화군 한 게시판 글이다(쏠림 보완, 남긴 10건은 `data/raw/combo_new/ganghwa_keep_drop.yaml`). 뺀 항목 원문은 `data/raw/combo_new/ganghwa_dropped_62.yaml`.
+- ETC 하위 유형: zero_width 262 · encoding 155(URL 퍼센트 131 · 숫자 엔티티 24) · link_cloaking 68 · meta_cloaking 20 · css_content 0.
+- OFFSCREEN 의 검수 기록·화면 20개·보고서 `시작.html`·`원문검수_보관.html` 도 되돌렸다.
+- 합친 뒤 항목 내용이 10-07 학습·검증 몫 + 봉인 몫과 하나도 다르지 않은 것을 id 별로 대조했다. 검사기(validate_samples · validate_combo · validate_homoglyph · check_offscreen) 오류 0, pytest 24 통과.
+
+> 10-07 판 설명(아래)은 기록으로 남긴다. 「이 저장소에는 학습·검증 몫만 있다」는 10-12 부터 맞지 않는다.
+
+### (기록) 학습 · 검증 · 테스트 나누기 (2026-10-07)
+
+> **이 저장소에는 학습·검증 몫만 있다. 테스트 몫(약 20%)은 역할 C 가 저장소 밖에 따로 보관한다.** (10-12 에 되돌림)
 
 - 카테고리별로 학습 6 : 검증 2 : 테스트 2 를 목표로, **같은 업자(묶음)는 한쪽에만** 넣었다(`tools/build/make_split.py`). 이렇게 묶었다.
   - 같은 카테고리 안에서 출처 사이트가 같은 것
@@ -12,7 +34,7 @@
   - 사람 2 HOMOGLYPH 의 campaign 칸이 같은 것
   - 광고 문구가 같거나, 한 문구가 다른 문구 안에 통째로 드는 것
 - 한 묶음이 어느 카테고리의 20% 를 넘으면 학습에 고정했다. 테스트가 그 업자 하나로 채워지지 않게 하려는 것이다(ETC 「시스템안정성 토­토사이트」 86, 조합 72·51, JAMO emk.kr 49).
-- 각 항목에 `split: train|val` 칸을 붙였다. 배정표는 `data/splits/split_trainval.csv` 이다. 옮기는 도구는 `tools/build/apply_split.py` 이다.
+- 각 항목에 `split: train|val` 칸을 붙였다. 배정표는 `data/splits/split_trainval.csv` 였다(10-12 에 `split_all.csv` 로 바꿈). 옮기는 도구는 `tools/build/apply_split.py` 이다.
 - 나눈 뒤 테스트와 학습·검증 사이에 같은 광고 문구(10자 이상, 포함 관계까지)·핸들·도메인·캠페인이 하나도 없는 것을 확인했다.
 
 | 카테고리 | 학습 | 검증 | 테스트(저장소 밖) | 합계 |
@@ -300,13 +322,13 @@
 
 | 파일 | 요강의 자리 | 건수 |
 |---|---|---|
-| `answer_result.json` | `result.json` — 적격평가 대상 주요 탐지 유형 4종 | 641, 학습·검증 몫 (HOMOGLYPH 429 · JAMO 131 · TRANSPARENT 0 · OFFSCREEN 81). 나누기 전 전체는 799 (HOMOGLYPH 542 · JAMO 157 · TRANSPARENT 0 · OFFSCREEN 100). HOMOGLYPH 542 = 조합의 HOMOGLYPH 라벨 173 + 사람 2 권장판 369(조합과 같은 요소 1건 제외). JAMO 157 = jamo.yaml 145(조합과 같은 요소 2건 제외) + 조합의 JAMO 라벨 12 |
-| `answer_result_extra.json` | `result_extra.json` — 추가 유형, `technique: "ETC"` + `extra_finding` | 525, 학습·검증 몫 (나누기 전 631 = etc 220 + 조합의 extra_findings 411) |
-| `negatives.json` | 정답 아님. 숨김 신호가 있는 정상 요소라 여기에 걸리면 오탐(정답 추출 정확도 35점) | 160, 학습·검증 몫 (나누기 전 200) |
+| `answer_result.json` | `result.json` — 적격평가 대상 주요 탐지 유형 4종 | **1,031 (10-12, 전체 · HOMOGLYPH 767 · JAMO 164 · TRANSPARENT 0 · OFFSCREEN 100)**. 10-07 판: 641, 학습·검증 몫 (HOMOGLYPH 429 · JAMO 131 · TRANSPARENT 0 · OFFSCREEN 81). 나누기 전 전체는 799 (HOMOGLYPH 542 · JAMO 157 · TRANSPARENT 0 · OFFSCREEN 100). HOMOGLYPH 542 = 조합의 HOMOGLYPH 라벨 173 + 사람 2 권장판 369(조합과 같은 요소 1건 제외). JAMO 157 = jamo.yaml 145(조합과 같은 요소 2건 제외) + 조합의 JAMO 라벨 12 |
+| `answer_result_extra.json` | `result_extra.json` — 추가 유형, `technique: "ETC"` + `extra_finding` | **1,173 (10-12, 전체)**. 10-07 판: 525, 학습·검증 몫 (나누기 전 631 = etc 220 + 조합의 extra_findings 411) |
+| `negatives.json` | 정답 아님. 숨김 신호가 있는 정상 요소라 여기에 걸리면 오탐(정답 추출 정확도 35점) | **516 (10-12, 전체)**. 10-07 판: 160, 학습·검증 몫 (나누기 전 200) |
 
 - 검출 1건 = `(url + location + technique)`. 한 요소에 기법이 겹치면 기법마다 객체를 따로 만들었다(요강 붙임4). `id` 는 `샘플id_기법`(예: `CB-003_HOMOGLYPH`).
 - `url` 은 샘플을 잘라 온 실제 페이지 주소, `location` 은 잘라 낸 조각(`html`) 안의 유일 선택자다. 이 파일만으로는 **조각 단위 채점**이다. 페이지 단위 채점은 2026-10-07 에 만든 모의 사이트로 한다(아래 「모의 사이트」).
-- 조합 250개 중 72개는 4종 코드가 없어 `answer_result_extra.json` 에만 들어간다. 이 72개는 적격평가 점수에 기여하지 않는다.
+- 조합 528개 중 123개(10-12. 10-07 판은 250개 중 72개)는 4종 코드가 없어 `answer_result_extra.json` 에만 들어간다. 이들은 적격평가 점수에 기여하지 않는다.
 - **적격평가 4종 중 TRANSPARENT 는 실측 정답이 0건이다.** 재현율은 생성 데이터로만 잴 수 있다.
 - **OFFSCREEN 원문 100건의 `url`:**
   - 공개 웹페이지 실측 52건은 그 페이지 주소다.
@@ -349,8 +371,9 @@ python -m pytest tests/test_scorer.py -q                    # 채점기 자체 �
 정답셋의 `url` 이 실제 페이지라 한 페이지에서 여러 조각을 뜯어 오면 채점기 안에서 겹쳐 합쳐진다(학습·검증 몫 641 -> 441). `tests/mocksite/build_mocksite.py` 가 조각마다 제 페이지(`site/<샘플id>.html`)를 만들고, `url` 을 그 페이지로 바꾼 정답셋을 낸다. 기법 판정·중복 제거는 `to_answer.py` 를 그대로 쓴다.
 
 - 만들기·띄우기·채점은 `tests/mocksite/README.md` 참고. 띄울 때 `127.0.0.1` 만 연다.
-- 확인(학습·검증 몫): 페이지 1,039장, 빌드 때 `(url+location+기법)` 겹침 0, 자기 채점(`--resolve dom`) F1 1.0·합침 0.
-- `site/`·`answers/`·`index.html` 은 생성물이라 git 에 올리지 않는다. 봉인한 테스트 몫은 `--data`·`--out`·`--base` 로 따로 만든다.
+- 10-12 전체로 다시 만들면 페이지 2,163장이다.
+- 확인(10-07 학습·검증 몫): 페이지 1,039장, 빌드 때 `(url+location+기법)` 겹침 0, 자기 채점(`--resolve dom`) F1 1.0·합침 0.
+- `site/`·`answers/`·`index.html` 은 생성물이라 git 에 올리지 않는다. 다른 데이터 폴더는 `--data`·`--out`·`--base` 로 따로 만든다.
 
 ## 폴더
 
