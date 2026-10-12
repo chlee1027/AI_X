@@ -18,6 +18,20 @@ FIELDS = ["id", "category", "subtype", "html", "css", "evidence_text", "expected
 # 구분자에 자모 ㅡ 도 넣는다 (Oloㅡ8359 O6611 꼴, 2026-10-04)
 PHONE_RAW = re.compile(r"[0oOⓞ⓪０][\W_ㅡ]{0,3}[1lI①１][\W_ㅡ]{0,3}[0oOⓞ⓪０](?:[\W_ㅡ]{0,3}[\doOlI０-９①-⓿]){7,8}")
 
+SAME_COLOR_JS = """(loc) => {
+  const rgb = s => s.match(/[\\d.]+/g).slice(0, 4).map(Number);
+  const lum = ([r, g, b]) => { const f = v => { v /= 255; return v <= 0.03928 ? v / 12.92 : ((v + 0.055) / 1.055) ** 2.4; };
+                               return 0.2126 * f(r) + 0.7152 * f(g) + 0.0722 * f(b); };
+  const el = document.querySelector(loc);
+  let bg = [255, 255, 255];
+  for (let e = el; e; e = e.parentElement) {
+    const c = rgb(getComputedStyle(e).backgroundColor);
+    if (c.length < 4 || c[3] > 0) { bg = c; break; }
+  }
+  const a = lum(rgb(getComputedStyle(el).color)), b = lum(bg);
+  return (Math.max(a, b) + 0.05) / (Math.min(a, b) + 0.05);
+}"""
+
 
 def main(path: str) -> int:
     items = yaml.safe_load(Path(path).read_text(encoding="utf-8"))
@@ -45,6 +59,11 @@ def main(path: str) -> int:
             elif not r["has"]:
                 errs.append(f"{i}: evidence 가 대상 요소의 텍스트 노드와 다름")
             got = set(A.features(x["evidence_text"])) - {"emoji"}
+            # 같은 색 숨김은 글자만으로 다시 셀 수 없으니 렌더링으로 본다: 글자색 대 가장 가까운 칠한 바탕색 대비 1.2 이하
+            if "same_color" in x["techniques"]:
+                pg.set_content(f"<!doctype html><html><head><style>{x['css']}</style></head><body>{x['html']}</body></html>")
+                if pg.evaluate(SAME_COLOR_JS, x["expected_location"]) <= 1.2:
+                    got.add("same_color")
             # 전화번호를 가린 경우 digit_sub 모양은 X 로 바뀌어 다시 셀 수 없으므로 notes 의 가림 표시로 갈음
             lost = set(x["techniques"]) - got - ({"digit_sub"} if "가림" in x["notes"] else set())
             if lost:

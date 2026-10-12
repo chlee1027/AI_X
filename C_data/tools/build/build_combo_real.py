@@ -27,7 +27,8 @@ IGNORE = {"emoji"}
 OFFICIAL = {"fullwidth": "HOMOGLYPH", "cjk_punct": "HOMOGLYPH", "homoglyph": "HOMOGLYPH", "math_alnum": "HOMOGLYPH",
             "currency_glyph": "HOMOGLYPH", "digit_sub": "HOMOGLYPH", "enclosed_alnum": "HOMOGLYPH",
             "jamo_split": "JAMO", "hidden": "OFFSCREEN", "jamo_homoglyph": "HOMOGLYPH", "smallcaps": "HOMOGLYPH",
-            "enclosed_hangul": "HOMOGLYPH", "jamo_inword": "JAMO"}
+            "enclosed_hangul": "HOMOGLYPH", "jamo_inword": "JAMO",
+            "jamo_abbrev": "JAMO", "same_color": "TRANSPARENT"}
 ETC_NAME = {"zero_width": "ZERO_WIDTH", "entity": "ENCODING", "kana_sep": "KANA_SEPARATOR",
             "domain_spacing": "DOMAIN_SPACING", "punct_variant": "PUNCT_VARIANT",
             "jamo_sep": "JAMO_SEPARATOR", "symbol_sep": "SYMBOL_SEPARATOR", "spacing": "KEYWORD_SPACING",
@@ -41,7 +42,7 @@ DESC = {"fullwidth": "전각 영숫자", "cjk_punct": "전각 마침표 등 CJK 
         "hidden": "화면 숨김", "domain_spacing": "도메인 글자 사이 공백", "enclosed_alnum": "원·괄호 숫자(ⓞ①⑵)",
         "punct_variant": "대시·쉼표를 다른 문자권 부호로 바꿈(―﹣ ، ˏ)",
         "jamo_homoglyph": "자모로 영문자 바꾸기(TㅇP, ㄹr인)", "smallcaps": "작은 대문자(ʜᴏɴɢʙᴏ)",
-        "enclosed_hangul": "원 한글로 음절 바꾸기(㉸톡)", "jamo_inword": "낱말 속 홀자음(텔ㄹ그ㄹ)",
+        "enclosed_hangul": "원 한글로 음절 바꾸기(㉸톡)", "jamo_inword": "낱말 속 홀자음(텔ㄹ그ㄹ)", "jamo_abbrev": "초성 줄임(ㅌㅌ사이트)", "same_color": "글자색과 바탕색을 같게",
         "spelling_variant": "키워드 일부러 틀리게 쓰기(캬톡·텔래그램·비아그랴)"}
 
 # 구분자에 자모 ㅡ 도 넣는다 (Oloㅡ8359 O6611 꼴, 2026-10-04)

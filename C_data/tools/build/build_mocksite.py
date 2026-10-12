@@ -121,7 +121,8 @@ def main():
     norm = lambda t: re.sub(r"\s+", "", t)  # noqa: E731
     main4 = [ta.finding(i, code) for i in combo for code in i["label_codes"]]
     combo_jamo = {(ta.page_url(i), norm(i["evidence_text"])) for i in combo if "JAMO" in i["label_codes"]}
-    jamo_dup = [i["id"] for i in jamo if (ta.page_url(i), norm(i["evidence_text"])) in combo_jamo]
+    # 같은 주소에서 evidence 가 조합 쪽 evidence 의 일부여도 같은 요소다(JM-069 는 CB-600 숨김 요소의 앞부분)
+    jamo_dup = [i["id"] for i in jamo if any(u == ta.page_url(i) and norm(i["evidence_text"]) in e for u, e in combo_jamo)]
     main4 += [ta.finding(i, "JAMO") for i in jamo if i["is_positive"] and i["id"] not in jamo_dup]
     main4 += [ta.finding(i, "OFFSCREEN") for i in offscreen if i["is_positive"]]
     from urllib.parse import urlparse

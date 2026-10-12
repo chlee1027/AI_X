@@ -80,7 +80,8 @@ def main():
     # 조합에 같은 페이지·같은 글이 이미 JAMO 라벨로 있으면(같은 요소) JAMO 샘플 쪽은 정답에 다시 넣지 않는다
     norm = lambda t: re.sub(r"\s+", "", t)  # noqa: E731
     combo_jamo = {(page_url(i), norm(i["evidence_text"])) for i in combo if "JAMO" in i["label_codes"]}
-    jamo_dup = [i["id"] for i in jamo if (page_url(i), norm(i["evidence_text"])) in combo_jamo]
+    # 같은 주소에서 evidence 가 조합 쪽 evidence 의 일부여도 같은 요소다(JM-069 는 CB-600 숨김 요소의 앞부분)
+    jamo_dup = [i["id"] for i in jamo if any(u == page_url(i) and norm(i["evidence_text"]) in e for u, e in combo_jamo)]
     main4 += [finding(i, "JAMO") for i in jamo if i["is_positive"] and i["id"] not in jamo_dup]
     main4 += [finding(i, "OFFSCREEN") for i in offscreen if i["is_positive"]]
     host = lambda u: urlparse(u).hostname  # noqa: E731

@@ -64,6 +64,16 @@ CHO = "ㄱㄲㄴㄷㄸㄹㅁㅂㅃㅅㅆㅇㅈㅉㅊㅋㅌㅍㅎ"
 JUNG = "ㅏㅐㅑㅒㅓㅔㅕㅖㅗㅘㅙㅚㅛㅜㅝㅞㅟㅠㅡㅢㅣ"
 
 
+def _cho(w: str) -> str:
+    return "".join(CHO[(ord(c) - 0xAC00) // 588] for c in w)
+
+
+# 다른 자모와 붙어 있으면(ㅋㅋㅋ, ㅌㅌㅌ) 웃음·반복으로 보고 세지 않는다
+CHO_ABBR = re.compile("(?<![ㄱ-ㅣ])(?:" + "|".join(sorted({_cho(w) for w in KW.pattern.split("|")
+                                                         if re.fullmatch("[가-힣]{2,}", w)}, key=len, reverse=True))
+                      + ")(?![ㄱ-ㅣ])")
+
+
 def recombine(s: str) -> str:
     out, i = [], 0
     s = s.replace(" ", "")
@@ -134,6 +144,9 @@ def features(t: str) -> list[str]:
     # 원·괄호 한글로 음절 바꾸기 (㉸톡 = 카톡)
     if re.search("[㈀-㈞㉠-㉾][가-힣]", t):
         f.append("enclosed_hangul")
+    # 광고 낱말을 초성만으로 줄여 씀 (ㅌㅌ사이트 = 토토사이트, ㅂㅋㄹ = 바카라). 약어는 KW 의 한글 낱말에서 만든다 (2026-10-12)
+    if CHO_ABBR.search(t):
+        f.append("jamo_abbrev")
     # 낱말 속에 홀로 낀 자음 (텔ㄹ그ㄹ = 텔레그램)
     if re.search("[가-힣][ㄱ-ㅎ][가-힣]|[가-힣][ㄱ-ㅎ](?=[\\s:：@]|$)", t):
         f.append("jamo_inword")
