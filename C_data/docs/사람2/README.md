@@ -2,7 +2,7 @@
 
 | 파일 | 건수 | 내용 |
 |---|---:|---|
-| `homoglyph/homoglyph_real_test_capped.yaml` | 372 | 권장판(캠페인당 최대 5건). tier A 327 · B 45. digit_letter 103 · enclosed_alnum 75 · fullwidth 50 · hangul_lookalike 47 · fullwidth_symbol 45 · partial_token 34 · cyrillic_greek 18 |
+| `homoglyph/homoglyph_real_test_capped.yaml` | 378 | 권장판(캠페인당 최대 5건). tier A 333 · B 45. digit_letter 109 · enclosed_alnum 75 · fullwidth 50 · hangul_lookalike 47 · fullwidth_symbol 45 · partial_token 34 · cyrillic_greek 18. 20개 사이트 · 130개 캠페인. 10-13에 geomorphology.or.kr 6건 추가, `campaign` 칸의 번호를 해시로 바꿈 |
 | `transparent/transparent_real_test_rec20.yaml` | 232 | 권장판(완전 중복을 뺀 뒤 사이트당 최대 20건). opacity_zero 110 · color_matches_bg 88 · color_alpha_zero 34. 해외 기관 26개 사이트 |
 | `transparent/transparent_real_test_rec20_render.yaml` | 232 | 권장판 샘플별 단독 렌더링 결과. 전부 `invisible` |
 | `homoglyph/README.md` · `transparent/README.md` | - | 사람 2 원본 설명서(수집 방법·필드·출처 부록·팀 확인 요청) |
@@ -12,7 +12,7 @@
 
 권장판만 쓴다. 아래는 저장소에 없다(사람 2 ZIP 에 있음).
 
-- HOMOGLYPH 전체판 `homoglyph_real_test.yaml`(1,777건)
+- HOMOGLYPH 전체판 `homoglyph_real_test.yaml`(1,791건)
 - TRANSPARENT 전체판 `transparent_real_test_full.yaml`(541건)
 - TRANSPARENT 경계 사례 `transparent_real_borderline.yaml`(22건: ejournal.unp.ac.id 20 · ojs.stiem-bongaya.ac.id 2). 사람 눈에는 안 보이지만 픽셀 비교 기준을 넘어 권장판에서 빠진 것
 

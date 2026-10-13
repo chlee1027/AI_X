@@ -7,7 +7,7 @@
 | `decoy/` | 사람 1 | `decoy.yaml` 정상 요소(오탐 확인용) · `negatives.json` 정답(음성) | 516 · 516 |
 | `etc/` | 사람 1 | `etc.yaml` 4종 밖 회피 수법 · `answer_result_extra_etc.json` 정답 · `퍼센트인코딩_손검토_20261012.csv` | 473 · 473 |
 | `combo/` | 사람 1 | `combo_real.yaml` 수법 2개 이상이 겹친 광고 · `answer_result.json` 4종 코드 정답 · `answer_result_extra_combo.json` 추가 수법 정답 | 529 · 419 · 668 |
-| `homoglyph/` | 사람 2 | `homoglyph_real_test_capped.yaml` 닮은꼴 글자 권장판(캠페인당 5건) · `README.md` | 372 |
+| `homoglyph/` | 사람 2 | `homoglyph_real_test_capped.yaml` 닮은꼴 글자 권장판(캠페인당 5건) · `README.md` | 378 |
 | `transparent/` | 사람 2 | `transparent_real_test_rec20.yaml` 투명 텍스트 권장판(사이트당 20건, 해외 기관 26곳) · `_render.yaml` 단독 렌더링 결과 · `README.md` | 232 |
 | `offscreen/` | 사람 3 | `offscreen_originals.yaml` 실제 원문(OF-108~207) · `reference_only.json` 참고 사례 · `offscreen.yaml` CSS 동작 확인용 fixture(원문에서 만든 파생, 독립 평가용 아님) · `offscreen_controls.json` 가시 대조군(음성) | 100 · 2 · 100 · 7 |
 | `jamo/` | 사람 4 | `jamo.yaml` 자모 분해 실제 원문(JM-001~130) | 130 |

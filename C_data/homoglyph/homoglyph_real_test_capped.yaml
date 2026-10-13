@@ -435,7 +435,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=4
     host: www.jgfestival.or.kr
     page_id: 8999b61b4040
-  campaign: phone:0102308
+  campaign: phone:eec0a4ff
   tier: A
   notes: ''
 - id: HG-RT-0024
@@ -454,7 +454,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=14
     host: www.jgfestival.or.kr
     page_id: 734db60d1b3a
-  campaign: phone:0102308
+  campaign: phone:eec0a4ff
   tier: A
   notes: ''
 - id: HG-RT-0025
@@ -473,7 +473,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=16
     host: www.jgfestival.or.kr
     page_id: bf1ca696db6b
-  campaign: phone:0108677
+  campaign: phone:72199893
   tier: A
   notes: ''
 - id: HG-RT-0026
@@ -492,7 +492,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=18
     host: www.jgfestival.or.kr
     page_id: dafc4ff143a0
-  campaign: phone:0105780
+  campaign: phone:6b5576d1
   tier: A
   notes: ''
 - id: HG-RT-0027
@@ -511,7 +511,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=26
     host: www.jgfestival.or.kr
     page_id: 9162f7d67619
-  campaign: phone:0108359
+  campaign: phone:ba62bc99
   tier: A
   notes: ''
 - id: HG-RT-0028
@@ -530,7 +530,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=31
     host: www.jgfestival.or.kr
     page_id: 0194232007c6
-  campaign: phone:0104879
+  campaign: phone:8423f47b
   tier: A
   notes: ''
 - id: HG-RT-0029
@@ -549,7 +549,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=32
     host: www.jgfestival.or.kr
     page_id: 7582083d7edc
-  campaign: phone:0108536
+  campaign: phone:a0a33417
   tier: A
   notes: ''
 - id: HG-RT-0030
@@ -568,7 +568,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=45
     host: www.jgfestival.or.kr
     page_id: 3e7561be31d1
-  campaign: phone:0105938
+  campaign: phone:605cf1da
   tier: A
   notes: ''
 - id: HG-RT-0031
@@ -587,7 +587,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=47
     host: www.jgfestival.or.kr
     page_id: beaf9ae2170d
-  campaign: phone:0107750
+  campaign: phone:4e688d57
   tier: A
   notes: ''
 - id: HG-RT-0032
@@ -606,7 +606,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=59
     host: www.jgfestival.or.kr
     page_id: 50396298d31d
-  campaign: phone:0105712
+  campaign: phone:5eb9bd4d
   tier: A
   notes: ''
 - id: HG-RT-0033
@@ -625,7 +625,7 @@
     url: https://ggtech.or.kr/bbs/board.php?bo_table=support&page=55
     host: ggtech.or.kr
     page_id: b6918e05e89a
-  campaign: phone:0107465
+  campaign: phone:59cf260d
   tier: A
   notes: ''
 - id: HG-RT-0034
@@ -644,7 +644,7 @@
     url: https://ggtech.or.kr/bbs/board.php?bo_table=support&page=55
     host: ggtech.or.kr
     page_id: b6918e05e89a
-  campaign: phone:0107465
+  campaign: phone:59cf260d
   tier: A
   notes: ''
 - id: HG-RT-0035
@@ -663,7 +663,7 @@
     url: https://ggtech.or.kr/bbs/board.php?bo_table=support&page=61
     host: ggtech.or.kr
     page_id: 4e78f455d38b
-  campaign: phone:0107465
+  campaign: phone:59cf260d
   tier: A
   notes: ''
 - id: HG-RT-0036
@@ -682,7 +682,7 @@
     url: https://ggtech.or.kr/bbs/board.php?bo_table=support&page=67
     host: ggtech.or.kr
     page_id: f010d7a6f1bc
-  campaign: phone:0107465
+  campaign: phone:59cf260d
   tier: A
   notes: ''
 - id: HG-RT-0037
@@ -701,7 +701,7 @@
     url: https://www.gimje.go.kr/town/board/list.gimje?boardId=BBS_0000048&listRow=10&listCel=1&paging=ok&startPage=149
     host: www.gimje.go.kr
     page_id: 91b0608a33ea
-  campaign: phone:0108540
+  campaign: phone:43341dd0
   tier: A
   notes: ''
 - id: HG-RT-0038
@@ -720,7 +720,7 @@
     url: https://www.gimje.go.kr/town/board/list.gimje?boardId=BBS_0000048&listRow=10&listCel=1&paging=ok&startPage=149
     host: www.gimje.go.kr
     page_id: 91b0608a33ea
-  campaign: phone:0108540
+  campaign: phone:43341dd0
   tier: A
   notes: ''
 - id: HG-RT-0039
@@ -739,7 +739,7 @@
     url: https://www.gimje.go.kr/town/board/list.gimje?boardId=BBS_0000048&listRow=10&listCel=1&paging=ok&startPage=157
     host: www.gimje.go.kr
     page_id: 8f2f5dd4f055
-  campaign: phone:0108540
+  campaign: phone:43341dd0
   tier: A
   notes: ''
 - id: HG-RT-0040
@@ -758,7 +758,7 @@
     url: https://www.gimje.go.kr/town/board/list.gimje?boardId=BBS_0000048&listRow=10&listCel=1&paging=ok&startPage=157
     host: www.gimje.go.kr
     page_id: 8f2f5dd4f055
-  campaign: phone:0108540
+  campaign: phone:43341dd0
   tier: A
   notes: ''
 - id: HG-RT-0041
@@ -796,7 +796,7 @@
     url: https://www.gimje.go.kr/town/board/list.gimje?boardId=BBS_0000048&listRow=10&listCel=1&paging=ok&startPage=157
     host: www.gimje.go.kr
     page_id: 8f2f5dd4f055
-  campaign: phone:0108540
+  campaign: phone:43341dd0
   tier: A
   notes: ''
 - id: HG-RT-0044
@@ -815,7 +815,7 @@
     url: https://gwangjuguide.or.kr/bbs/board.php?bo_table=kor_gw9&page=23
     host: gwangjuguide.or.kr
     page_id: 01a97dc15bb9
-  campaign: phone:0105837
+  campaign: phone:88a458ea
   tier: A
   notes: ''
 - id: HG-RT-0045
@@ -872,7 +872,7 @@
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=2
     host: counselpsy.hannam.ac.kr
     page_id: 022c7b1fdf11
-  campaign: phone:0102680
+  campaign: phone:e9e83de1
   tier: A
   notes: ''
 - id: HG-RT-0048
@@ -910,7 +910,7 @@
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=2
     host: counselpsy.hannam.ac.kr
     page_id: 022c7b1fdf11
-  campaign: phone:0102680
+  campaign: phone:e9e83de1
   tier: A
   notes: ''
 - id: HG-RT-0050
@@ -1005,7 +1005,7 @@
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=4
     host: counselpsy.hannam.ac.kr
     page_id: 7392aa35e6cb
-  campaign: phone:0102680
+  campaign: phone:e9e83de1
   tier: A
   notes: ''
 - id: HG-RT-0055
@@ -1119,7 +1119,7 @@
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=8
     host: counselpsy.hannam.ac.kr
     page_id: 952606aba15a
-  campaign: phone:0102680
+  campaign: phone:e9e83de1
   tier: A
   notes: ''
 - id: HG-RT-0061
@@ -1328,7 +1328,7 @@
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=13
     host: counselpsy.hannam.ac.kr
     page_id: 068aceb81254
-  campaign: phone:0102680
+  campaign: phone:e9e83de1
   tier: A
   notes: ''
 - id: HG-RT-0072
@@ -4064,7 +4064,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=71
     host: www.jgfestival.or.kr
     page_id: d90abaf39e04
-  campaign: phone:0108254
+  campaign: phone:930363e8
   tier: A
   notes: ''
 - id: HG-RT-0566
@@ -4083,7 +4083,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=111
     host: www.jgfestival.or.kr
     page_id: f09e4e44720f
-  campaign: phone:0105170
+  campaign: phone:39fd115e
   tier: A
   notes: ''
 - id: HG-RT-0567
@@ -4102,7 +4102,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=181
     host: www.jgfestival.or.kr
     page_id: 8b7b0cafdf7c
-  campaign: phone:0105938
+  campaign: phone:605cf1da
   tier: A
   notes: ''
 - id: HG-RT-0568
@@ -4121,7 +4121,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=261
     host: www.jgfestival.or.kr
     page_id: 696d1ff98154
-  campaign: phone:0108254
+  campaign: phone:930363e8
   tier: A
   notes: ''
 - id: HG-RT-0569
@@ -4140,7 +4140,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=271
     host: www.jgfestival.or.kr
     page_id: c6abbce61b44
-  campaign: phone:0102308
+  campaign: phone:eec0a4ff
   tier: A
   notes: ''
 - id: HG-RT-0570
@@ -4159,7 +4159,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=291
     host: www.jgfestival.or.kr
     page_id: 03f43600b227
-  campaign: phone:0102844
+  campaign: phone:31e4e251
   tier: A
   notes: ''
 - id: HG-RT-0571
@@ -4178,7 +4178,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=321
     host: www.jgfestival.or.kr
     page_id: 71661dec30bb
-  campaign: phone:0105712
+  campaign: phone:5eb9bd4d
   tier: A
   notes: ''
 - id: HG-RT-0572
@@ -4197,7 +4197,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=411
     host: www.jgfestival.or.kr
     page_id: 70c700ca9b83
-  campaign: phone:0108001
+  campaign: phone:5671ef50
   tier: A
   notes: ''
 - id: HG-RT-0573
@@ -4216,7 +4216,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=441
     host: www.jgfestival.or.kr
     page_id: 7b2b22bc1ff2
-  campaign: phone:0105938
+  campaign: phone:605cf1da
   tier: A
   notes: ''
 - id: HG-RT-0574
@@ -4235,7 +4235,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=541
     host: www.jgfestival.or.kr
     page_id: 5e450f71746b
-  campaign: phone:0102490
+  campaign: phone:4a09f983
   tier: A
   notes: ''
 - id: HG-RT-0575
@@ -4254,7 +4254,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=641
     host: www.jgfestival.or.kr
     page_id: bd72e97f4e7d
-  campaign: phone:0102171
+  campaign: phone:32e5091b
   tier: A
   notes: ''
 - id: HG-RT-0576
@@ -4273,7 +4273,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=681
     host: www.jgfestival.or.kr
     page_id: b74f2eaac728
-  campaign: phone:0107750
+  campaign: phone:4e688d57
   tier: A
   notes: ''
 - id: HG-RT-0577
@@ -4292,7 +4292,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=731
     host: www.jgfestival.or.kr
     page_id: 4499eabe776b
-  campaign: phone:0105938
+  campaign: phone:605cf1da
   tier: A
   notes: ''
 - id: HG-RT-0578
@@ -4311,7 +4311,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=831
     host: www.jgfestival.or.kr
     page_id: 8837da9bb211
-  campaign: phone:0105735
+  campaign: phone:5095f375
   tier: A
   notes: ''
 - id: HG-RT-0579
@@ -4330,7 +4330,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=921
     host: www.jgfestival.or.kr
     page_id: b1904973c85a
-  campaign: phone:0109703
+  campaign: phone:3d43a9e5
   tier: A
   notes: ''
 - id: HG-RT-0580
@@ -4349,7 +4349,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1131
     host: www.jgfestival.or.kr
     page_id: ef3cf533e305
-  campaign: phone:0108254
+  campaign: phone:930363e8
   tier: A
   notes: ''
 - id: HG-RT-0581
@@ -4368,7 +4368,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1241
     host: www.jgfestival.or.kr
     page_id: 552cd8f30a38
-  campaign: phone:0105170
+  campaign: phone:39fd115e
   tier: A
   notes: ''
 - id: HG-RT-0582
@@ -4387,7 +4387,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1291
     host: www.jgfestival.or.kr
     page_id: 967a6391e5b9
-  campaign: phone:0107750
+  campaign: phone:4e688d57
   tier: A
   notes: ''
 - id: HG-RT-0583
@@ -4406,7 +4406,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1441
     host: www.jgfestival.or.kr
     page_id: 7e4dfb7642b0
-  campaign: phone:0105938
+  campaign: phone:605cf1da
   tier: A
   notes: ''
 - id: HG-RT-0584
@@ -4425,7 +4425,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1461
     host: www.jgfestival.or.kr
     page_id: 3d4ed73acb6d
-  campaign: phone:0105712
+  campaign: phone:5eb9bd4d
   tier: A
   notes: ''
 - id: HG-RT-0585
@@ -4444,7 +4444,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1571
     host: www.jgfestival.or.kr
     page_id: 06215d883673
-  campaign: phone:0109703
+  campaign: phone:3d43a9e5
   tier: A
   notes: ''
 - id: HG-RT-0586
@@ -4463,7 +4463,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1601
     host: www.jgfestival.or.kr
     page_id: 43a111822dd7
-  campaign: phone:0108001
+  campaign: phone:5671ef50
   tier: A
   notes: ''
 - id: HG-RT-0587
@@ -4482,7 +4482,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1601
     host: www.jgfestival.or.kr
     page_id: 43a111822dd7
-  campaign: phone:0105735
+  campaign: phone:5095f375
   tier: A
   notes: ''
 - id: HG-RT-0588
@@ -4501,7 +4501,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1671
     host: www.jgfestival.or.kr
     page_id: 666f704a249f
-  campaign: phone:0108676
+  campaign: phone:dcad5809
   tier: A
   notes: ''
 - id: HG-RT-0589
@@ -4520,7 +4520,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1681
     host: www.jgfestival.or.kr
     page_id: 2b5fc5f77879
-  campaign: phone:0102572
+  campaign: phone:64cd14c4
   tier: A
   notes: ''
 - id: HG-RT-0590
@@ -4539,7 +4539,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1731
     host: www.jgfestival.or.kr
     page_id: 5ad8cec9244f
-  campaign: phone:0103229
+  campaign: phone:952f1e54
   tier: A
   notes: ''
 - id: HG-RT-0591
@@ -4558,7 +4558,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1791
     host: www.jgfestival.or.kr
     page_id: aae4d9948830
-  campaign: phone:0109450
+  campaign: phone:092aaeb8
   tier: A
   notes: ''
 - id: HG-RT-0592
@@ -4577,7 +4577,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1911
     host: www.jgfestival.or.kr
     page_id: bb237c8159cb
-  campaign: phone:0105170
+  campaign: phone:39fd115e
   tier: A
   notes: ''
 - id: HG-RT-0593
@@ -4596,7 +4596,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1921
     host: www.jgfestival.or.kr
     page_id: d6e9917e60e0
-  campaign: phone:0105712
+  campaign: phone:5eb9bd4d
   tier: A
   notes: ''
 - id: HG-RT-0594
@@ -4615,7 +4615,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1931
     host: www.jgfestival.or.kr
     page_id: 1958c4156b32
-  campaign: phone:0109756
+  campaign: phone:87aab305
   tier: A
   notes: ''
 - id: HG-RT-0595
@@ -4634,7 +4634,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=65
     host: www.jgfestival.or.kr
     page_id: a0f61ce12285
-  campaign: phone:0105854
+  campaign: phone:854cc618
   tier: A
   notes: ''
 - id: HG-RT-0596
@@ -4653,7 +4653,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=217
     host: www.jgfestival.or.kr
     page_id: 3e90c483a73e
-  campaign: phone:0105735
+  campaign: phone:5095f375
   tier: A
   notes: ''
 - id: HG-RT-0597
@@ -4672,7 +4672,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=473
     host: www.jgfestival.or.kr
     page_id: 6f15f4b3f581
-  campaign: phone:0109703
+  campaign: phone:3d43a9e5
   tier: A
   notes: ''
 - id: HG-RT-0598
@@ -4691,7 +4691,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=529
     host: www.jgfestival.or.kr
     page_id: 6ce8499be2e2
-  campaign: phone:0108676
+  campaign: phone:dcad5809
   tier: A
   notes: ''
 - id: HG-RT-0599
@@ -4710,7 +4710,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=585
     host: www.jgfestival.or.kr
     page_id: 10121d937ae5
-  campaign: phone:0109450
+  campaign: phone:092aaeb8
   tier: A
   notes: ''
 - id: HG-RT-0600
@@ -4729,7 +4729,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=849
     host: www.jgfestival.or.kr
     page_id: 4bcdbac10b5a
-  campaign: phone:0105712
+  campaign: phone:5eb9bd4d
   tier: A
   notes: ''
 - id: HG-RT-0601
@@ -4748,7 +4748,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=857
     host: www.jgfestival.or.kr
     page_id: c4388261429b
-  campaign: phone:0102490
+  campaign: phone:4a09f983
   tier: A
   notes: ''
 - id: HG-RT-0602
@@ -4767,7 +4767,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=865
     host: www.jgfestival.or.kr
     page_id: 3f211fb411dd
-  campaign: phone:0108359
+  campaign: phone:ba62bc99
   tier: A
   notes: ''
 - id: HG-RT-0603
@@ -4786,7 +4786,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=897
     host: www.jgfestival.or.kr
     page_id: 889c278b8b4c
-  campaign: phone:0104896
+  campaign: phone:a62b1e25
   tier: A
   notes: ''
 - id: HG-RT-0604
@@ -4805,7 +4805,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1049
     host: www.jgfestival.or.kr
     page_id: f196d053f26a
-  campaign: phone:0105950
+  campaign: phone:5dc91b24
   tier: A
   notes: ''
 - id: HG-RT-0605
@@ -4824,7 +4824,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1129
     host: www.jgfestival.or.kr
     page_id: c9d96be6608e
-  campaign: phone:0102171
+  campaign: phone:32e5091b
   tier: A
   notes: ''
 - id: HG-RT-0606
@@ -4843,7 +4843,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1169
     host: www.jgfestival.or.kr
     page_id: c13e3a27db93
-  campaign: phone:0102171
+  campaign: phone:32e5091b
   tier: A
   notes: ''
 - id: HG-RT-0607
@@ -4862,7 +4862,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1193
     host: www.jgfestival.or.kr
     page_id: 89185d58d475
-  campaign: phone:0105854
+  campaign: phone:854cc618
   tier: A
   notes: ''
 - id: HG-RT-0608
@@ -4881,7 +4881,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1297
     host: www.jgfestival.or.kr
     page_id: 4ab9a6c6e684
-  campaign: phone:0105780
+  campaign: phone:6b5576d1
   tier: A
   notes: ''
 - id: HG-RT-0609
@@ -4900,7 +4900,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1385
     host: www.jgfestival.or.kr
     page_id: 37c7ca9bb4e9
-  campaign: phone:0109756
+  campaign: phone:87aab305
   tier: A
   notes: ''
 - id: HG-RT-0610
@@ -4919,7 +4919,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1385
     host: www.jgfestival.or.kr
     page_id: 37c7ca9bb4e9
-  campaign: phone:0109703
+  campaign: phone:3d43a9e5
   tier: A
   notes: ''
 - id: HG-RT-0612
@@ -4938,7 +4938,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1545
     host: www.jgfestival.or.kr
     page_id: 638959abe058
-  campaign: phone:0107470
+  campaign: phone:4d2c6b2c
   tier: A
   notes: ''
 - id: HG-RT-0613
@@ -4957,7 +4957,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1617
     host: www.jgfestival.or.kr
     page_id: dae3a9a8692c
-  campaign: phone:0105682
+  campaign: phone:837aa6ed
   tier: A
   notes: ''
 - id: HG-RT-0614
@@ -4976,7 +4976,7 @@
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1705
     host: www.jgfestival.or.kr
     page_id: 272178e9d7a4
-  campaign: phone:0105682
+  campaign: phone:837aa6ed
   tier: A
   notes: ''
 - id: HG-RT-0616
@@ -4995,7 +4995,7 @@
     url: http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=2
     host: jnbburi.or.kr
     page_id: 697a5099b99b
-  campaign: phone:0107740
+  campaign: phone:130061ea
   tier: A
   notes: ''
 - id: HG-RT-0617
@@ -5014,7 +5014,7 @@
     url: http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=2
     host: jnbburi.or.kr
     page_id: 697a5099b99b
-  campaign: phone:0107740
+  campaign: phone:130061ea
   tier: A
   notes: ''
 - id: HG-RT-0618
@@ -5033,7 +5033,7 @@
     url: http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=2
     host: jnbburi.or.kr
     page_id: 697a5099b99b
-  campaign: phone:0107740
+  campaign: phone:130061ea
   tier: A
   notes: ''
 - id: HG-RT-0619
@@ -5052,7 +5052,7 @@
     url: http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=7
     host: jnbburi.or.kr
     page_id: 5ef047568d4f
-  campaign: phone:0107740
+  campaign: phone:130061ea
   tier: A
   notes: ''
 - id: HG-RT-0620
@@ -5071,7 +5071,7 @@
     url: http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=7
     host: jnbburi.or.kr
     page_id: 5ef047568d4f
-  campaign: phone:0107740
+  campaign: phone:130061ea
   tier: A
   notes: ''
 - id: HG-RT-0621
@@ -5109,7 +5109,7 @@
     url: http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=31
     host: jnbburi.or.kr
     page_id: 91572adc8b53
-  campaign: phone:0103291
+  campaign: phone:e681b734
   tier: A
   notes: ''
 - id: HG-RT-0648
@@ -5128,7 +5128,7 @@
     url: http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=32
     host: jnbburi.or.kr
     page_id: 2142786ba3d7
-  campaign: phone:0109345
+  campaign: phone:b5245f2e
   tier: A
   notes: ''
 - id: HG-RT-0649
@@ -5147,7 +5147,7 @@
     url: http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=32
     host: jnbburi.or.kr
     page_id: 2142786ba3d7
-  campaign: phone:0102594
+  campaign: phone:7876e25c
   tier: A
   notes: ''
 - id: HG-RT-0650
@@ -5166,7 +5166,7 @@
     url: http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=32
     host: jnbburi.or.kr
     page_id: 2142786ba3d7
-  campaign: phone:0102594
+  campaign: phone:7876e25c
   tier: A
   notes: ''
 - id: HG-RT-0651
@@ -5185,7 +5185,7 @@
     url: http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=33
     host: jnbburi.or.kr
     page_id: 4cffe7cbf1f5
-  campaign: phone:0102594
+  campaign: phone:7876e25c
   tier: A
   notes: ''
 - id: HG-RT-0652
@@ -5204,7 +5204,7 @@
     url: http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=33
     host: jnbburi.or.kr
     page_id: 4cffe7cbf1f5
-  campaign: phone:0102594
+  campaign: phone:7876e25c
   tier: A
   notes: ''
 - id: HG-RT-0653
@@ -5223,7 +5223,7 @@
     url: http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=34
     host: jnbburi.or.kr
     page_id: 909dbfc0c93b
-  campaign: phone:0103291
+  campaign: phone:e681b734
   tier: A
   notes: ''
 - id: HG-RT-0654
@@ -5242,7 +5242,7 @@
     url: http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=35
     host: jnbburi.or.kr
     page_id: c1fecde6bb50
-  campaign: phone:0109345
+  campaign: phone:b5245f2e
   tier: A
   notes: ''
 - id: HG-RT-0655
@@ -5261,7 +5261,7 @@
     url: http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=35
     host: jnbburi.or.kr
     page_id: c1fecde6bb50
-  campaign: phone:0109345
+  campaign: phone:b5245f2e
   tier: A
   notes: ''
 - id: HG-RT-0656
@@ -5280,7 +5280,7 @@
     url: http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=35
     host: jnbburi.or.kr
     page_id: c1fecde6bb50
-  campaign: phone:0102594
+  campaign: phone:7876e25c
   tier: A
   notes: ''
 - id: HG-RT-0658
@@ -5299,7 +5299,7 @@
     url: http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=35
     host: jnbburi.or.kr
     page_id: c1fecde6bb50
-  campaign: phone:0103291
+  campaign: phone:e681b734
   tier: A
   notes: ''
 - id: HG-RT-0659
@@ -5318,7 +5318,7 @@
     url: http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=35
     host: jnbburi.or.kr
     page_id: c1fecde6bb50
-  campaign: phone:0109345
+  campaign: phone:b5245f2e
   tier: A
   notes: ''
 - id: HG-RT-0662
@@ -5337,7 +5337,7 @@
     url: http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=37
     host: jnbburi.or.kr
     page_id: 6abae9401c20
-  campaign: phone:0109345
+  campaign: phone:b5245f2e
   tier: A
   notes: ''
 - id: HG-RT-0686
@@ -5356,7 +5356,7 @@
     url: http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=48
     host: jnbburi.or.kr
     page_id: 756e6f28f522
-  campaign: phone:0103291
+  campaign: phone:e681b734
   tier: A
   notes: ''
 - id: HG-RT-0689
@@ -5375,7 +5375,7 @@
     url: http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=49
     host: jnbburi.or.kr
     page_id: 422043c8e887
-  campaign: phone:0103291
+  campaign: phone:e681b734
   tier: A
   notes: ''
 - id: HG-RT-0755
@@ -5812,7 +5812,7 @@
     url: http://www.kcoal.or.kr/customer/board.php?code=board&page=1
     host: www.kcoal.or.kr
     page_id: b6a06428929a
-  campaign: phone:0105799
+  campaign: phone:1739fde2
   tier: A
   notes: ''
 - id: HG-RT-0861
@@ -5831,7 +5831,7 @@
     url: http://www.kcoal.or.kr/customer/board.php?code=board&page=1
     host: www.kcoal.or.kr
     page_id: b6a06428929a
-  campaign: phone:0105799
+  campaign: phone:1739fde2
   tier: A
   notes: ''
 - id: HG-RT-0862
@@ -5850,7 +5850,7 @@
     url: http://www.kcoal.or.kr/customer/board.php?code=board&page=1
     host: www.kcoal.or.kr
     page_id: b6a06428929a
-  campaign: phone:0105799
+  campaign: phone:1739fde2
   tier: A
   notes: ''
 - id: HG-RT-0863
@@ -5869,7 +5869,7 @@
     url: http://www.kcoal.or.kr/customer/board.php?code=board&page=1
     host: www.kcoal.or.kr
     page_id: b6a06428929a
-  campaign: phone:0105799
+  campaign: phone:1739fde2
   tier: A
   notes: ''
 - id: HG-RT-0864
@@ -5888,7 +5888,7 @@
     url: http://www.kcoal.or.kr/customer/board.php?code=board&page=1
     host: www.kcoal.or.kr
     page_id: b6a06428929a
-  campaign: phone:0105799
+  campaign: phone:1739fde2
   tier: A
   notes: ''
 - id: HG-RT-0866
@@ -5926,7 +5926,7 @@
     url: http://ujrehab.or.kr/ujrehab/bbs/board.php?bo_table=bo_02&page=2
     host: ujrehab.or.kr
     page_id: 1d842b4d87b0
-  campaign: phone:0108655
+  campaign: phone:0865c3ff
   tier: A
   notes: ''
 - id: HG-RT-0892
@@ -5945,7 +5945,7 @@
     url: http://ujrehab.or.kr/ujrehab/bbs/board.php?bo_table=bo_02&page=6
     host: ujrehab.or.kr
     page_id: 388b9b5e801f
-  campaign: phone:0108655
+  campaign: phone:0865c3ff
   tier: A
   notes: ''
 - id: HG-RT-0894
@@ -5983,7 +5983,7 @@
     url: https://ypcd.or.kr/bbs/board.php?bo_table=notice4&page=801
     host: ypcd.or.kr
     page_id: d6858fab04d6
-  campaign: phone:004982
+  campaign: phone:aca26266
   tier: A
   notes: ''
 - id: HG-RT-0966
@@ -6135,7 +6135,7 @@
     url: https://ypcd.or.kr/bbs/board.php?bo_table=notice4&page=7041
     host: ypcd.or.kr
     page_id: 9a2ecf1f9189
-  campaign: phone:0108655
+  campaign: phone:0865c3ff
   tier: A
   notes: ''
 - id: HG-RT-1205
@@ -7069,3 +7069,117 @@
   campaign: domain:밤.shop
   tier: B
   notes: ''
+- id: HG-RT-1778
+  category: HOMOGLYPH
+  subtype: digit_letter
+  html: "<span>\t\t\t\t\t\t\t\t\t\t<a href=\"/board/view?bd_id=board02&amp;wr_id=14367\">요즘☎️삼성카드현금화☎️O1O-0000-8755☎️앱스토어70%☎️앱스토어현금화70%☎️최고가삽니다☎️</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</span>"
+  css: ''
+  evidence_text: 요즘☎️삼성카드현금화☎️O1O-0000-8755☎️앱스토어70%☎️앱스토어현금화70%☎️최고가삽니다☎️
+  expected_location: a
+  is_positive: true
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · http://geomorphology.or.kr/board/list?bd_id=board02&per_page=1
+  source_type: real
+  page_location: tr:nth-of-type(1) > td.subject > span > a
+  origin:
+    url: http://geomorphology.or.kr/board/list?bd_id=board02&per_page=1
+    host: geomorphology.or.kr
+    page_id: 4a76328a1f1d
+  campaign: phone:1a7c1ecb
+  tier: A
+  notes: 2026-10-13 추가 수집(검색으로 찾은 새 감염 게시판)
+- id: HG-RT-1779
+  category: HOMOGLYPH
+  subtype: digit_letter
+  html: "<span>\t\t\t\t\t\t\t\t\t\t<a href=\"/board/view?bd_id=board02&amp;wr_id=14366\">요즘☎️삼성카드현금화☎️O1O-0000-8755☎️정보이용료70%☎️콘텐츠이용료70%☎️컨텐츠이용료70%삽니다☎️</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</span>"
+  css: ''
+  evidence_text: 요즘☎️삼성카드현금화☎️O1O-0000-8755☎️정보이용료70%☎️콘텐츠이용료70%☎️컨텐츠이용료70%삽니다☎️
+  expected_location: a
+  is_positive: true
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · http://geomorphology.or.kr/board/list?bd_id=board02&per_page=1
+  source_type: real
+  page_location: tr:nth-of-type(2) > td.subject > span > a
+  origin:
+    url: http://geomorphology.or.kr/board/list?bd_id=board02&per_page=1
+    host: geomorphology.or.kr
+    page_id: 4a76328a1f1d
+  campaign: phone:1a7c1ecb
+  tier: A
+  notes: 2026-10-13 추가 수집(검색으로 찾은 새 감염 게시판)
+- id: HG-RT-1780
+  category: HOMOGLYPH
+  subtype: digit_letter
+  html: "<span>\t\t\t\t\t\t\t\t\t\t<a href=\"/board/view?bd_id=board02&amp;wr_id=14365\">요즘☎️삼성카드현금화☎️O1O-0000-8755☎️아이폰결제현금화70%☎️앱스토어현금화70%삽니다☎️</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</span>"
+  css: ''
+  evidence_text: 요즘☎️삼성카드현금화☎️O1O-0000-8755☎️아이폰결제현금화70%☎️앱스토어현금화70%삽니다☎️
+  expected_location: a
+  is_positive: true
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · http://geomorphology.or.kr/board/list?bd_id=board02&per_page=1
+  source_type: real
+  page_location: tr:nth-of-type(3) > td.subject > span > a
+  origin:
+    url: http://geomorphology.or.kr/board/list?bd_id=board02&per_page=1
+    host: geomorphology.or.kr
+    page_id: 4a76328a1f1d
+  campaign: phone:1a7c1ecb
+  tier: A
+  notes: 2026-10-13 추가 수집(검색으로 찾은 새 감염 게시판)
+- id: HG-RT-1781
+  category: HOMOGLYPH
+  subtype: digit_letter
+  html: "<span>\t\t\t\t\t\t\t\t\t\t<a href=\"/board/view?bd_id=board02&amp;wr_id=14364\">요즘☎️삼성카드현금화☎️O1O-0000-8755☎️정보이용료70%☎️콘텐츠이용료70%최고가삽니다☎️</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</span>"
+  css: ''
+  evidence_text: 요즘☎️삼성카드현금화☎️O1O-0000-8755☎️정보이용료70%☎️콘텐츠이용료70%최고가삽니다☎️
+  expected_location: a
+  is_positive: true
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · http://geomorphology.or.kr/board/list?bd_id=board02&per_page=1
+  source_type: real
+  page_location: tr:nth-of-type(4) > td.subject > span > a
+  origin:
+    url: http://geomorphology.or.kr/board/list?bd_id=board02&per_page=1
+    host: geomorphology.or.kr
+    page_id: 4a76328a1f1d
+  campaign: phone:1a7c1ecb
+  tier: A
+  notes: 2026-10-13 추가 수집(검색으로 찾은 새 감염 게시판)
+- id: HG-RT-1782
+  category: HOMOGLYPH
+  subtype: digit_letter
+  html: "<span>\t\t\t\t\t\t\t\t\t\t<a href=\"/board/view?bd_id=board02&amp;wr_id=14363\">요즘☎️삼성카드현금화☎️O1O-0000-8755☎️콘첸츠이용료현금화70%☎️정보이용료현금화70%삽니다☎️</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</span>"
+  css: ''
+  evidence_text: 요즘☎️삼성카드현금화☎️O1O-0000-8755☎️콘첸츠이용료현금화70%☎️정보이용료현금화70%삽니다☎️
+  expected_location: a
+  is_positive: true
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · http://geomorphology.or.kr/board/list?bd_id=board02&per_page=1
+  source_type: real
+  page_location: tr:nth-of-type(5) > td.subject > span > a
+  origin:
+    url: http://geomorphology.or.kr/board/list?bd_id=board02&per_page=1
+    host: geomorphology.or.kr
+    page_id: 4a76328a1f1d
+  campaign: phone:1a7c1ecb
+  tier: A
+  notes: 2026-10-13 추가 수집(검색으로 찾은 새 감염 게시판)
+- id: HG-RT-1791
+  category: HOMOGLYPH
+  subtype: digit_letter
+  html: "<div class=\"header_wrap\">\n\t\t\t\t<h4 class=\"title\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t울지말고✅OlO-0000-5l5O✅콘텐츠이용료현금화85✅정보이용료현금화85✅앱스토어현금화85✅삽니다✅\t\t\t\t</h4>\n\t\t\t\t<div class=\"info\">\n\t\t\t\t\t<span class=\"writer\"><strong>작성자</strong> 아이유</span>\n\t\t\t\t\t<span class=\"regdate\"><strong>날짜</strong> 2025-05-24 19:18:50</span>\n\t\t\t\t\t<span class=\"hits\"><strong>조회수</strong> 364</span>\t\t\t\t\t\t\t\t\t</div>\n\t\t\t</div>"
+  css: ''
+  evidence_text: 울지말고✅OlO-0000-5l5O✅콘텐츠이용료현금화85✅정보이용료현금화85✅앱스토어현금화85✅삽니다✅
+  expected_location: h4.title
+  is_positive: true
+  extra_finding: null
+  source: 직접 수집(공공 웹사이트) · http://geomorphology.or.kr/board/view?bd_id=board02&wr_id=558
+  source_type: real
+  page_location: h4.title
+  origin:
+    url: http://geomorphology.or.kr/board/view?bd_id=board02&wr_id=558
+    host: geomorphology.or.kr
+    page_id: 1be814970914
+  campaign: phone:5527d727
+  tier: A
+  notes: 2026-10-13 추가 수집(검색으로 찾은 새 감염 게시판)
