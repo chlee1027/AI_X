@@ -43,9 +43,9 @@
 ## 확인한 것
 
 - `tools/validate.py` 로 두 권장판과 TRANSPARENT 음성셋 560건 모두 통과(오류 0).
-- 두 정답 파일의 `location` 은 원본 페이지 기준 선택자(`origin.page_location`)다. 조각 기준 `expected_location` 을 쓰면 같은 페이지의 샘플끼리 url · location · technique 가 겹쳐(양성 247건) 요강 채점에서 1건으로 합쳐진다. `page_location` 으로는 양성 304건이 모두 서로 다르고, 양성과 음성이 같은 요소를 가리키는 경우도 없다. 음성 12건은 `page_location` 이 비어 있어(문구로 찾은 것) `expected_location` 을 썼고, 그중 8건이 서로 겹친다. 음성은 내면 안 되는 요소의 목록이라 채점 건수에는 영향이 없다.
+- 두 정답 파일의 `location` 은 combo · decoy 정답과 같이 조각 기준 선택자(`expected_location`)다. url 은 조각을 잘라 온 원본 페이지라 같은 페이지의 샘플끼리 url · location · technique 가 겹친다(양성 247건). 팀 채점은 모의 사이트에서 조각마다 페이지를 하나씩 주고 url 을 그 페이지 주소로 바꿔서 하므로(모의 사이트 빌더, 커밋 `a31c7b3`) 이 겹침은 채점에서 사라진다. combo 정답의 겹침 37건도 같은 이유라 그대로 둔다. 원본 페이지 기준 선택자는 YAML 의 `origin.page_location` 에 있다(양성 232건 모두 서로 다름, 음성 12건은 비어 있음).
 - OFFSCREEN 72건은 `notes` 에 「OFFSCREEN 별도 1건」이 적힌 요소다. 렌더링으로 잰 글자 크기가 1px 이고, 52건은 조각 안에 `font-size:1px` 가 있고 20건은 조상에서 물려받았다.
-- 휴대폰 번호: 사람 2 는 가운데 자리를 0으로 가렸다고 적었지만 HG-RT 한 건(`010 – 7921 – 8428`, 이름과 함께 실림)이 빠져 있었고, HG-RT-1296 의 `campaign` 토큰(`token:0102136335`)에 가리기 전 가운데 자리가 남아 있었다. 10-13 에 둘 다 0으로 가렸다(`homoglyph_real_test_capped.yaml` · `HG_cap_difficulty.tsv`).
+- 휴대폰 번호: 사람 2 는 가운데 자리를 0으로 가렸다고 적었지만 HG-RT 한 건(이름과 함께 실린 번호)이 빠져 있었고, HG-RT-1296 등 `campaign` 토큰 여럿에 가리기 전 가운데 자리가 남아 있었다. 10-13 에 저장소 전체 번호를 같이 가렸다(`C_data/README.md`).
 - 음성셋 560건은 저장소의 다른 데이터와 HTML 조각이 겹치지 않는다. 사이트는 TRANSPARENT 권장판과 e-journal.upr.ac.id 하나만 겹친다.
 - `source_type` 은 전부 `real` 이다.
 - `render_check.py` 는 다시 돌리지 않았다. 표의 `invisible` 은 `*_render.yaml` 을 센 값이다.

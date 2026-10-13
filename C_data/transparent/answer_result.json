@@ -11,7 +11,7 @@
    "id": "TR-RT-0001_TRANSPARENT",
    "url": "https://bestjournal.untad.ac.id/index.php/sciencetech",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(4) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "mahjong ways 2",
    "technique": "TRANSPARENT"
   },
@@ -19,7 +19,7 @@
    "id": "TR-RT-0002_TRANSPARENT",
    "url": "https://bestjournal.untad.ac.id/index.php/sciencetech",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(123) > a:nth-of-type(1)",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "yuantoto",
    "technique": "TRANSPARENT"
   },
@@ -27,7 +27,7 @@
    "id": "TR-RT-0002_OFFSCREEN",
    "url": "https://bestjournal.untad.ac.id/index.php/sciencetech",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(123) > a:nth-of-type(1)",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "yuantoto",
    "technique": "OFFSCREEN"
   },
@@ -35,7 +35,7 @@
    "id": "TR-RT-0005_TRANSPARENT",
    "url": "https://bestjournal.untad.ac.id/index.php/sciencetech",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(187) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "slot gacor",
    "technique": "TRANSPARENT"
   },
@@ -43,7 +43,7 @@
    "id": "TR-RT-0005_OFFSCREEN",
    "url": "https://bestjournal.untad.ac.id/index.php/sciencetech",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(187) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "slot gacor",
    "technique": "OFFSCREEN"
   },
@@ -51,7 +51,7 @@
    "id": "TR-RT-0006_TRANSPARENT",
    "url": "https://bestjournal.untad.ac.id/index.php/sciencetech",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(188) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "slot 4D",
    "technique": "TRANSPARENT"
   },
@@ -59,7 +59,7 @@
    "id": "TR-RT-0006_OFFSCREEN",
    "url": "https://bestjournal.untad.ac.id/index.php/sciencetech",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(188) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "slot 4D",
    "technique": "OFFSCREEN"
   },
@@ -67,7 +67,7 @@
    "id": "TR-RT-0009_TRANSPARENT",
    "url": "https://bestjournal.untad.ac.id/index.php/sciencetech",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(210) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "parlay",
    "technique": "TRANSPARENT"
   },
@@ -75,7 +75,7 @@
    "id": "TR-RT-0009_OFFSCREEN",
    "url": "https://bestjournal.untad.ac.id/index.php/sciencetech",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(210) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "parlay",
    "technique": "OFFSCREEN"
   },
@@ -83,7 +83,7 @@
    "id": "TR-RT-0010_TRANSPARENT",
    "url": "https://bestjournal.untad.ac.id/index.php/sciencetech",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(215) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "slot777",
    "technique": "TRANSPARENT"
   },
@@ -91,7 +91,7 @@
    "id": "TR-RT-0010_OFFSCREEN",
    "url": "https://bestjournal.untad.ac.id/index.php/sciencetech",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(215) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "slot777",
    "technique": "OFFSCREEN"
   },
@@ -99,7 +99,7 @@
    "id": "TR-RT-0003_TRANSPARENT",
    "url": "https://bestjournal.untad.ac.id/index.php/sciencetech",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(123) > a:nth-of-type(2)",
+   "location": "p > *:nth-child(2)",
    "evidence_text": "yuantoto",
    "technique": "TRANSPARENT"
   },
@@ -107,7 +107,7 @@
    "id": "TR-RT-0003_OFFSCREEN",
    "url": "https://bestjournal.untad.ac.id/index.php/sciencetech",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(123) > a:nth-of-type(2)",
+   "location": "p > *:nth-child(2)",
    "evidence_text": "yuantoto",
    "technique": "OFFSCREEN"
   },
@@ -115,7 +115,7 @@
    "id": "TR-RT-0004_TRANSPARENT",
    "url": "https://bestjournal.untad.ac.id/index.php/sciencetech",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(123) > a:nth-of-type(3)",
+   "location": "p > *:nth-child(3)",
    "evidence_text": "yuantoto",
    "technique": "TRANSPARENT"
   },
@@ -123,7 +123,7 @@
    "id": "TR-RT-0004_OFFSCREEN",
    "url": "https://bestjournal.untad.ac.id/index.php/sciencetech",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(123) > a:nth-of-type(3)",
+   "location": "p > *:nth-child(3)",
    "evidence_text": "yuantoto",
    "technique": "OFFSCREEN"
   },
@@ -131,7 +131,7 @@
    "id": "TR-RT-0007_TRANSPARENT",
    "url": "https://bestjournal.untad.ac.id/index.php/sciencetech",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(197) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "slot gacor",
    "technique": "TRANSPARENT"
   },
@@ -139,7 +139,7 @@
    "id": "TR-RT-0007_OFFSCREEN",
    "url": "https://bestjournal.untad.ac.id/index.php/sciencetech",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(197) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "slot gacor",
    "technique": "OFFSCREEN"
   },
@@ -147,7 +147,7 @@
    "id": "TR-RT-0008_TRANSPARENT",
    "url": "https://bestjournal.untad.ac.id/index.php/sciencetech",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(202) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "SLOT GACOR",
    "technique": "TRANSPARENT"
   },
@@ -155,7 +155,7 @@
    "id": "TR-RT-0008_OFFSCREEN",
    "url": "https://bestjournal.untad.ac.id/index.php/sciencetech",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(202) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "SLOT GACOR",
    "technique": "OFFSCREEN"
   },
@@ -163,7 +163,7 @@
    "id": "TR-RT-0011_TRANSPARENT",
    "url": "https://dinkopumkm.endekab.go.id",
    "is_violation": true,
-   "location": "body > div:nth-of-type(1) > div > a:nth-of-type(2)",
+   "location": "div > a:nth-child(1)",
    "evidence_text": "kencang77",
    "technique": "TRANSPARENT"
   },
@@ -171,7 +171,7 @@
    "id": "TR-RT-0012_TRANSPARENT",
    "url": "https://dinkopumkm.endekab.go.id",
    "is_violation": true,
-   "location": "body > div:nth-of-type(1) > div > a:nth-of-type(3)",
+   "location": "div > a:nth-child(1)",
    "evidence_text": "situs slot gacor",
    "technique": "TRANSPARENT"
   },
@@ -179,7 +179,7 @@
    "id": "TR-RT-0014_TRANSPARENT",
    "url": "https://dinkopumkm.endekab.go.id",
    "is_violation": true,
-   "location": "body > div:nth-of-type(1) > div > a:nth-of-type(5)",
+   "location": "div > a:nth-child(1)",
    "evidence_text": "Tinjauan Sosio Ekonomi Judi Online",
    "technique": "TRANSPARENT"
   },
@@ -187,7 +187,7 @@
    "id": "TR-RT-0015_TRANSPARENT",
    "url": "https://dinkopumkm.endekab.go.id",
    "is_violation": true,
-   "location": "body > div:nth-of-type(1) > div > a:nth-of-type(6)",
+   "location": "div > a:nth-child(1)",
    "evidence_text": "Bahaya Game Digital Mirip Judi",
    "technique": "TRANSPARENT"
   },
@@ -195,7 +195,7 @@
    "id": "TR-RT-0016_TRANSPARENT",
    "url": "https://dinkopumkm.endekab.go.id",
    "is_violation": true,
-   "location": "body > div:nth-of-type(1) > div > a:nth-of-type(7)",
+   "location": "div > a:nth-child(1)",
    "evidence_text": "Tanda Perilaku Adiktif Judi Online",
    "technique": "TRANSPARENT"
   },
@@ -203,7 +203,7 @@
    "id": "TR-RT-0017_TRANSPARENT",
    "url": "https://dinkopumkm.endekab.go.id",
    "is_violation": true,
-   "location": "body > div:nth-of-type(1) > div > a:nth-of-type(8)",
+   "location": "div > a:nth-child(1)",
    "evidence_text": "Bahaya Mengejar Kekalahan Slot Online",
    "technique": "TRANSPARENT"
   },
@@ -211,7 +211,7 @@
    "id": "TR-RT-0018_TRANSPARENT",
    "url": "https://dinkopumkm.endekab.go.id",
    "is_violation": true,
-   "location": "body > div:nth-of-type(1) > div > a:nth-of-type(10)",
+   "location": "div > a:nth-child(1)",
    "evidence_text": "Pandangan Syariat Dampak Hasil Judi",
    "technique": "TRANSPARENT"
   },
@@ -219,7 +219,7 @@
    "id": "TR-RT-0019_TRANSPARENT",
    "url": "https://dinkopumkm.endekab.go.id",
    "is_violation": true,
-   "location": "body > div:nth-of-type(1) > div > a:nth-of-type(11)",
+   "location": "div > a:nth-child(1)",
    "evidence_text": "Analisis Kesehatan Mental Pelarian Slot",
    "technique": "TRANSPARENT"
   },
@@ -227,7 +227,7 @@
    "id": "TR-RT-0020_TRANSPARENT",
    "url": "https://dinkopumkm.endekab.go.id",
    "is_violation": true,
-   "location": "body > div:nth-of-type(1) > div > a:nth-of-type(12)",
+   "location": "div > a:nth-child(1)",
    "evidence_text": "Bahaya Slot Online Merusak Keluarga",
    "technique": "TRANSPARENT"
   },
@@ -235,7 +235,7 @@
    "id": "TR-RT-0021_TRANSPARENT",
    "url": "https://dinkopumkm.endekab.go.id",
    "is_violation": true,
-   "location": "body > div:nth-of-type(1) > div > a:nth-of-type(14)",
+   "location": "div > a:nth-child(1)",
    "evidence_text": "Efek Kecanduan Judi Pada Otak",
    "technique": "TRANSPARENT"
   },
@@ -243,7 +243,7 @@
    "id": "TR-RT-0022_TRANSPARENT",
    "url": "https://dinkopumkm.endekab.go.id",
    "is_violation": true,
-   "location": "body > div:nth-of-type(1) > div > a:nth-of-type(15)",
+   "location": "div > a:nth-child(1)",
    "evidence_text": "Batas Etis Hukum Judi Islam",
    "technique": "TRANSPARENT"
   },
@@ -251,7 +251,7 @@
    "id": "TR-RT-0023_TRANSPARENT",
    "url": "https://dinkopumkm.endekab.go.id",
    "is_violation": true,
-   "location": "body > div:nth-of-type(1) > div > a:nth-of-type(16)",
+   "location": "div > a:nth-child(1)",
    "evidence_text": "Langkah Awal Pemulihan Berhenti Judi",
    "technique": "TRANSPARENT"
   },
@@ -259,7 +259,7 @@
    "id": "TR-RT-0024_TRANSPARENT",
    "url": "https://dinkopumkm.endekab.go.id",
    "is_violation": true,
-   "location": "body > div:nth-of-type(1) > div > a:nth-of-type(17)",
+   "location": "div > a:nth-child(1)",
    "evidence_text": "Bahaya Berjudi Berkedok Game Digital",
    "technique": "TRANSPARENT"
   },
@@ -267,7 +267,7 @@
    "id": "TR-RT-0025_TRANSPARENT",
    "url": "https://dinkopumkm.endekab.go.id",
    "is_violation": true,
-   "location": "body > div:nth-of-type(1) > div > a:nth-of-type(20)",
+   "location": "div > a:nth-child(1)",
    "evidence_text": "Membangun Self Control Bebas Slot",
    "technique": "TRANSPARENT"
   },
@@ -275,7 +275,7 @@
    "id": "TR-RT-0026_TRANSPARENT",
    "url": "https://dinkopumkm.endekab.go.id",
    "is_violation": true,
-   "location": "body > div:nth-of-type(1) > div > a:nth-of-type(21)",
+   "location": "div > a:nth-child(1)",
    "evidence_text": "Algoritma Slot Menang Jangka Panjang",
    "technique": "TRANSPARENT"
   },
@@ -283,7 +283,7 @@
    "id": "TR-RT-0027_TRANSPARENT",
    "url": "https://dinkopumkm.endekab.go.id",
    "is_violation": true,
-   "location": "body > div:nth-of-type(1) > div > a:nth-of-type(22)",
+   "location": "div > a:nth-child(1)",
    "evidence_text": "Bahaya Chasing Losses Slot Online",
    "technique": "TRANSPARENT"
   },
@@ -291,7 +291,7 @@
    "id": "TR-RT-0028_TRANSPARENT",
    "url": "https://dinkopumkm.endekab.go.id",
    "is_violation": true,
-   "location": "body > div:nth-of-type(1) > div > a:nth-of-type(23)",
+   "location": "div > a:nth-child(1)",
    "evidence_text": "Pengingat Prioritas Ibadah Bahaya Slot",
    "technique": "TRANSPARENT"
   },
@@ -299,7 +299,7 @@
    "id": "TR-RT-0029_TRANSPARENT",
    "url": "https://dinkopumkm.endekab.go.id",
    "is_violation": true,
-   "location": "body > div:nth-of-type(1) > div > a:nth-of-type(24)",
+   "location": "div > a:nth-child(1)",
    "evidence_text": "Menghentikan Kebiasaan Mengejar Kekalahan Judi",
    "technique": "TRANSPARENT"
   },
@@ -307,7 +307,7 @@
    "id": "TR-RT-0030_TRANSPARENT",
    "url": "https://dinkopumkm.endekab.go.id",
    "is_violation": true,
-   "location": "body > div:nth-of-type(1) > div > a:nth-of-type(26)",
+   "location": "div > a:nth-child(1)",
    "evidence_text": "Baccarat Poker Slot Digemari Anak Muda",
    "technique": "TRANSPARENT"
   },
@@ -315,7 +315,7 @@
    "id": "TR-RT-0031_TRANSPARENT",
    "url": "https://dinkopumkm.endekab.go.id",
    "is_violation": true,
-   "location": "body > div:nth-of-type(1) > div > a:nth-of-type(27)",
+   "location": "div > a:nth-child(1)",
    "evidence_text": "Pinjol Modal Judi Ujungnya Jurang",
    "technique": "TRANSPARENT"
   },
@@ -323,7 +323,7 @@
    "id": "TR-RT-0155_TRANSPARENT",
    "url": "https://e-journal.upr.ac.id/index.php/JPTS",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(60) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "gacor",
    "technique": "TRANSPARENT"
   },
@@ -331,7 +331,7 @@
    "id": "TR-RT-0156_TRANSPARENT",
    "url": "https://e-journal.upr.ac.id/index.php/JPTS",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(71) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "ABC1131",
    "technique": "TRANSPARENT"
   },
@@ -339,7 +339,7 @@
    "id": "TR-RT-0157_TRANSPARENT",
    "url": "https://ejurnal.unisri.ac.id/index.php/jpaud",
    "is_violation": true,
-   "location": "body > div:nth-of-type(82) > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(1) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "kampungbet",
    "technique": "TRANSPARENT"
   },
@@ -347,7 +347,7 @@
    "id": "TR-RT-0158_TRANSPARENT",
    "url": "https://ejurnal.unisri.ac.id/index.php/jpaud",
    "is_violation": true,
-   "location": "body > div:nth-of-type(82) > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(2) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "situs toto",
    "technique": "TRANSPARENT"
   },
@@ -355,7 +355,7 @@
    "id": "TR-RT-0159_TRANSPARENT",
    "url": "https://ejurnal.unisri.ac.id/index.php/jpaud",
    "is_violation": true,
-   "location": "body > div:nth-of-type(82) > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(3) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "susterslot",
    "technique": "TRANSPARENT"
   },
@@ -363,7 +363,7 @@
    "id": "TR-RT-0163_TRANSPARENT",
    "url": "https://ejurnal.unisri.ac.id/index.php/jpaud",
    "is_violation": true,
-   "location": "body > div:nth-of-type(82) > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(8) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "Toto",
    "technique": "TRANSPARENT"
   },
@@ -371,7 +371,7 @@
    "id": "TR-RT-0164_TRANSPARENT",
    "url": "https://ejurnal.unisri.ac.id/index.php/jpaud",
    "is_violation": true,
-   "location": "body > div:nth-of-type(82) > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(9) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "838win",
    "technique": "TRANSPARENT"
   },
@@ -379,7 +379,7 @@
    "id": "TR-RT-0165_TRANSPARENT",
    "url": "https://ejurnal.unisri.ac.id/index.php/jtpr",
    "is_violation": true,
-   "location": "#customblock-menud > div > p:nth-of-type(18) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "tobrut888",
    "technique": "TRANSPARENT"
   },
@@ -387,7 +387,7 @@
    "id": "TR-RT-0166_TRANSPARENT",
    "url": "https://ejurnal.unisri.ac.id/index.php/jtpr",
    "is_violation": true,
-   "location": "#customblock-menud > div > p:nth-of-type(19) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "kokitoto",
    "technique": "TRANSPARENT"
   },
@@ -395,7 +395,7 @@
    "id": "TR-RT-0167_TRANSPARENT",
    "url": "https://ejurnal.unisri.ac.id/index.php/jtpr",
    "is_violation": true,
-   "location": "#customblock-menud > div > p:nth-of-type(20) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "slot server thailand",
    "technique": "TRANSPARENT"
   },
@@ -403,7 +403,7 @@
    "id": "TR-RT-0160_TRANSPARENT",
    "url": "https://ejurnal.unisri.ac.id/index.php/jpaud",
    "is_violation": true,
-   "location": "body > div:nth-of-type(82) > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(4) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "susterslot",
    "technique": "TRANSPARENT"
   },
@@ -411,7 +411,7 @@
    "id": "TR-RT-0162_TRANSPARENT",
    "url": "https://ejurnal.unisri.ac.id/index.php/jpaud",
    "is_violation": true,
-   "location": "body > div:nth-of-type(82) > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(6) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "susterslot",
    "technique": "TRANSPARENT"
   },
@@ -419,7 +419,7 @@
    "id": "TR-RT-0168_TRANSPARENT",
    "url": "https://galuhvirtual.ciamiskab.go.id",
    "is_violation": true,
-   "location": "body > div:nth-of-type(2) > div:nth-of-type(3) > div > div > div:nth-of-type(9) > div > div > div > div:nth-of-type(1) > ul > li:nth-of-type(3) > div > span > p > a",
+   "location": "p > *:nth-child(7)",
    "evidence_text": "situs toto",
    "technique": "TRANSPARENT"
   },
@@ -427,7 +427,7 @@
    "id": "TR-RT-0169_TRANSPARENT",
    "url": "https://jitekin-upiyptk.org/ojs/index.php/Teknologi",
    "is_violation": true,
-   "location": "body > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > div > div > p:nth-of-type(1) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "EROPA99 Slot",
    "technique": "TRANSPARENT"
   },
@@ -435,7 +435,7 @@
    "id": "TR-RT-0170_TRANSPARENT",
    "url": "https://jitekin-upiyptk.org/ojs/index.php/Teknologi",
    "is_violation": true,
-   "location": "body > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > div > div > p:nth-of-type(4) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "BEST 188",
    "technique": "TRANSPARENT"
   },
@@ -443,7 +443,7 @@
    "id": "TR-RT-0171_TRANSPARENT",
    "url": "https://jitekin-upiyptk.org/ojs/index.php/Teknologi",
    "is_violation": true,
-   "location": "body > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > div > div > p:nth-of-type(6) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "geber88",
    "technique": "TRANSPARENT"
   },
@@ -451,7 +451,7 @@
    "id": "TR-RT-0173_TRANSPARENT",
    "url": "https://journal.iaincurup.ac.id/index.php/disclosure",
    "is_violation": true,
-   "location": "#customblock-additional-menu > div > p:nth-of-type(20) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "7meter parlay",
    "technique": "TRANSPARENT"
   },
@@ -459,7 +459,7 @@
    "id": "TR-RT-0174_TRANSPARENT",
    "url": "https://journal.iaincurup.ac.id/index.php/disclosure",
    "is_violation": true,
-   "location": "#customblock-additional-menu > div > p:nth-of-type(21) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "7meter sbobet",
    "technique": "TRANSPARENT"
   },
@@ -467,7 +467,7 @@
    "id": "TR-RT-0172_TRANSPARENT",
    "url": "https://journal.iaincurup.ac.id/index.php/disclosure",
    "is_violation": true,
-   "location": "#customblock-additional-menu > div > p:nth-of-type(16) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "deposit pulsa",
    "technique": "TRANSPARENT"
   },
@@ -475,7 +475,7 @@
    "id": "TR-RT-0175_TRANSPARENT",
    "url": "https://journal.ibrahimy.ac.id/index.php/JSAPI",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(1) > span > a",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "Garuda888",
    "technique": "TRANSPARENT"
   },
@@ -483,7 +483,7 @@
    "id": "TR-RT-0176_TRANSPARENT",
    "url": "https://journal.uinmataram.ac.id/index.php/schemata",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(42) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "slot online",
    "technique": "TRANSPARENT"
   },
@@ -491,7 +491,7 @@
    "id": "TR-RT-0177_TRANSPARENT",
    "url": "https://journal.unucirebon.ac.id/index.php/ijpess/index",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(1) > div:nth-of-type(1) > div > div:nth-of-type(2) > ul > li:nth-of-type(1) > a",
+   "location": "div > ul:nth-child(1) > li:nth-child(1) > a:nth-child(1)",
    "evidence_text": "slot gacor",
    "technique": "TRANSPARENT"
   },
@@ -499,7 +499,7 @@
    "id": "TR-RT-0178_TRANSPARENT",
    "url": "https://journal.unucirebon.ac.id/index.php/ijpess/index",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(1) > div:nth-of-type(1) > div > div:nth-of-type(2) > ul > li:nth-of-type(2) > a",
+   "location": "div > *:nth-child(1) > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "slot88",
    "technique": "TRANSPARENT"
   },
@@ -507,7 +507,7 @@
    "id": "TR-RT-0179_TRANSPARENT",
    "url": "https://journal.unucirebon.ac.id/index.php/ijpess/index",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(1) > div:nth-of-type(1) > div > div:nth-of-type(2) > ul > li:nth-of-type(3) > a",
+   "location": "div > *:nth-child(1) > *:nth-child(3) > *:nth-child(1)",
    "evidence_text": "slot online",
    "technique": "TRANSPARENT"
   },
@@ -515,7 +515,7 @@
    "id": "TR-RT-0180_TRANSPARENT",
    "url": "https://journal.unucirebon.ac.id/index.php/ijpess/index",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(1) > div:nth-of-type(1) > div > div:nth-of-type(2) > ul > li:nth-of-type(4) > a",
+   "location": "div > *:nth-child(1) > *:nth-child(4) > *:nth-child(1)",
    "evidence_text": "slot indonesia",
    "technique": "TRANSPARENT"
   },
@@ -523,7 +523,7 @@
    "id": "TR-RT-0181_TRANSPARENT",
    "url": "https://journal.unucirebon.ac.id/index.php/ijpess/index",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(1) > div:nth-of-type(1) > div > div:nth-of-type(2) > ul > li:nth-of-type(5) > a",
+   "location": "div > *:nth-child(1) > *:nth-child(5) > *:nth-child(1)",
    "evidence_text": "idnslot",
    "technique": "TRANSPARENT"
   },
@@ -531,7 +531,7 @@
    "id": "TR-RT-0182_TRANSPARENT",
    "url": "https://journal.unucirebon.ac.id/index.php/ijpess/index",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(1) > div:nth-of-type(1) > div > div:nth-of-type(2) > ul > li:nth-of-type(6) > a",
+   "location": "div > *:nth-child(1) > *:nth-child(6) > *:nth-child(1)",
    "evidence_text": "slot thailand",
    "technique": "TRANSPARENT"
   },
@@ -539,7 +539,7 @@
    "id": "TR-RT-0183_TRANSPARENT",
    "url": "https://journal.unucirebon.ac.id/index.php/ijpess/index",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(1) > div:nth-of-type(1) > div > div:nth-of-type(2) > ul > li:nth-of-type(7) > a",
+   "location": "div > *:nth-child(1) > *:nth-child(7) > *:nth-child(1)",
    "evidence_text": "slot777",
    "technique": "TRANSPARENT"
   },
@@ -547,7 +547,7 @@
    "id": "TR-RT-0184_TRANSPARENT",
    "url": "https://journal.unucirebon.ac.id/index.php/ijpess/index",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(1) > div:nth-of-type(1) > div > div:nth-of-type(2) > ul > li:nth-of-type(8) > a",
+   "location": "div > *:nth-child(1) > *:nth-child(8) > *:nth-child(1)",
    "evidence_text": "slot88",
    "technique": "TRANSPARENT"
   },
@@ -555,7 +555,7 @@
    "id": "TR-RT-0350_TRANSPARENT",
    "url": "https://journal.unucirebon.ac.id/index.php/jakir",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(1) > div > div > div:nth-of-type(3) > ul > li:nth-of-type(1) > a",
+   "location": "div > ul:nth-child(1) > li:nth-child(1) > a:nth-child(1)",
    "evidence_text": "slot gacor",
    "technique": "TRANSPARENT"
   },
@@ -563,7 +563,7 @@
    "id": "TR-RT-0351_TRANSPARENT",
    "url": "https://journal.unucirebon.ac.id/index.php/jakir",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(1) > div > div > div:nth-of-type(3) > ul > li:nth-of-type(2) > a",
+   "location": "div > *:nth-child(1) > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "slot88",
    "technique": "TRANSPARENT"
   },
@@ -571,7 +571,7 @@
    "id": "TR-RT-0352_TRANSPARENT",
    "url": "https://journal.unucirebon.ac.id/index.php/jakir",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(1) > div > div > div:nth-of-type(3) > ul > li:nth-of-type(3) > a",
+   "location": "div > *:nth-child(1) > *:nth-child(3) > *:nth-child(1)",
    "evidence_text": "slot online",
    "technique": "TRANSPARENT"
   },
@@ -579,7 +579,7 @@
    "id": "TR-RT-0353_TRANSPARENT",
    "url": "https://journal.unucirebon.ac.id/index.php/jakir",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(1) > div > div > div:nth-of-type(3) > ul > li:nth-of-type(4) > a",
+   "location": "div > *:nth-child(1) > *:nth-child(4) > *:nth-child(1)",
    "evidence_text": "slot indonesia",
    "technique": "TRANSPARENT"
   },
@@ -587,7 +587,7 @@
    "id": "TR-RT-0354_TRANSPARENT",
    "url": "https://journal.unucirebon.ac.id/index.php/jakir",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(1) > div > div > div:nth-of-type(3) > ul > li:nth-of-type(5) > a",
+   "location": "div > *:nth-child(1) > *:nth-child(5) > *:nth-child(1)",
    "evidence_text": "idnslot",
    "technique": "TRANSPARENT"
   },
@@ -595,7 +595,7 @@
    "id": "TR-RT-0355_TRANSPARENT",
    "url": "https://journal.unucirebon.ac.id/index.php/jakir",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(1) > div > div > div:nth-of-type(3) > ul > li:nth-of-type(6) > a",
+   "location": "div > *:nth-child(1) > *:nth-child(6) > *:nth-child(1)",
    "evidence_text": "slot thailand",
    "technique": "TRANSPARENT"
   },
@@ -603,7 +603,7 @@
    "id": "TR-RT-0356_TRANSPARENT",
    "url": "https://journal.unucirebon.ac.id/index.php/jakir",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(1) > div > div > div:nth-of-type(3) > ul > li:nth-of-type(7) > a",
+   "location": "div > *:nth-child(1) > *:nth-child(7) > *:nth-child(1)",
    "evidence_text": "slot777",
    "technique": "TRANSPARENT"
   },
@@ -611,7 +611,7 @@
    "id": "TR-RT-0357_TRANSPARENT",
    "url": "https://journal.unucirebon.ac.id/index.php/jakir",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(1) > div > div > div:nth-of-type(3) > ul > li:nth-of-type(8) > a",
+   "location": "div > *:nth-child(1) > *:nth-child(8) > *:nth-child(1)",
    "evidence_text": "slot88",
    "technique": "TRANSPARENT"
   },
@@ -619,7 +619,7 @@
    "id": "TR-RT-0185_TRANSPARENT",
    "url": "https://jurnal.ulb.ac.id/index.php/advokasi",
    "is_violation": true,
-   "location": "#pageFooter > p:nth-of-type(100) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "HOKI138",
    "technique": "TRANSPARENT"
   },
@@ -627,7 +627,7 @@
    "id": "TR-RT-0186_TRANSPARENT",
    "url": "https://jurnal.unigo.ac.id/gjise",
    "is_violation": true,
-   "location": "body > p:nth-of-type(1) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "toto slot",
    "technique": "TRANSPARENT"
   },
@@ -635,7 +635,7 @@
    "id": "TR-RT-0187_TRANSPARENT",
    "url": "https://jurnal.unigo.ac.id/gjise",
    "is_violation": true,
-   "location": "body > p:nth-of-type(2) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "slot qris",
    "technique": "TRANSPARENT"
   },
@@ -643,7 +643,7 @@
    "id": "TR-RT-0188_TRANSPARENT",
    "url": "https://jurnal.unigo.ac.id/gjise",
    "is_violation": true,
-   "location": "body > p:nth-of-type(3) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "OKESLOT",
    "technique": "TRANSPARENT"
   },
@@ -651,7 +651,7 @@
    "id": "TR-RT-0189_TRANSPARENT",
    "url": "https://mibaida.sch.id",
    "is_violation": true,
-   "location": "#post-921 > div > div > div > section:nth-of-type(2) > div > div > div > div > div > div > div > p:nth-of-type(1) > a",
+   "location": "div > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "psk casino aplikacija",
    "technique": "TRANSPARENT"
   },
@@ -659,7 +659,7 @@
    "id": "TR-RT-0190_TRANSPARENT",
    "url": "https://mibaida.sch.id",
    "is_violation": true,
-   "location": "#post-921 > div > div > div > section:nth-of-type(3) > div > div > div > div > div > div > div > p:nth-of-type(1)",
+   "location": "div > *:nth-child(2)",
    "evidence_text": "Le casino en ligne Stake s’est impose comme une reference incontournable pour les amateurs de divertissement numerique.",
    "technique": "TRANSPARENT"
   },
@@ -667,7 +667,7 @@
    "id": "TR-RT-0191_TRANSPARENT",
    "url": "https://mibaida.sch.id",
    "is_violation": true,
-   "location": "#post-921 > div > div > div > section:nth-of-type(3) > div > div > div > div > div > div > div > p:nth-of-type(1) > a",
+   "location": "div > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "stake code",
    "technique": "TRANSPARENT"
   },
@@ -675,7 +675,7 @@
    "id": "TR-RT-0192_TRANSPARENT",
    "url": "https://mibaida.sch.id",
    "is_violation": true,
-   "location": "#post-921 > div > div > div > section:nth-of-type(4) > div > div > div > div > div > div > div > p:nth-of-type(1) > a",
+   "location": "div > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "mrbit rotiri fara depunere",
    "technique": "TRANSPARENT"
   },
@@ -683,7 +683,7 @@
    "id": "TR-RT-0193_TRANSPARENT",
    "url": "https://mibaida.sch.id",
    "is_violation": true,
-   "location": "#post-921 > div > div > div > section:nth-of-type(4) > div > div > div > div > div > div > div > p:nth-of-type(2)",
+   "location": "div > *:nth-child(3)",
    "evidence_text": "Platforma se distinge prin interfata moderna si intuitiva, care faciliteaza navigarea rapida intre sectiunile de casino",
    "technique": "TRANSPARENT"
   },
@@ -691,7 +691,7 @@
    "id": "TR-RT-0194_TRANSPARENT",
    "url": "https://mibaida.sch.id",
    "is_violation": true,
-   "location": "#post-921 > div > div > div > section:nth-of-type(5) > div > div > div > div > div > div > div > h2",
+   "location": "div > h2:nth-child(1)",
    "evidence_text": "Dlaczego fireball casino przyciąga graczy z całej Polski?",
    "technique": "TRANSPARENT"
   },
@@ -699,7 +699,7 @@
    "id": "TR-RT-0195_TRANSPARENT",
    "url": "https://mibaida.sch.id",
    "is_violation": true,
-   "location": "#post-921 > div > div > div > section:nth-of-type(5) > div > div > div > div > div > div > div > p:nth-of-type(1) > a",
+   "location": "div > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "fireball casino kod promocyjny bez depozytu",
    "technique": "TRANSPARENT"
   },
@@ -707,7 +707,7 @@
    "id": "TR-RT-0196_TRANSPARENT",
    "url": "https://mibaida.sch.id",
    "is_violation": true,
-   "location": "#post-921 > div > div > div > section:nth-of-type(6) > div > div > div > div > div > div > div > p:nth-of-type(1) > a",
+   "location": "div > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "stake pba",
    "technique": "TRANSPARENT"
   },
@@ -715,7 +715,7 @@
    "id": "TR-RT-0197_TRANSPARENT",
    "url": "https://mibaida.sch.id",
    "is_violation": true,
-   "location": "#post-921 > div > div > div > section:nth-of-type(8) > div > div > div > div > div > div > div > p:nth-of-type(1) > a",
+   "location": "div > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "juegos de casino",
    "technique": "TRANSPARENT"
   },
@@ -723,7 +723,7 @@
    "id": "TR-RT-0198_TRANSPARENT",
    "url": "https://mibaida.sch.id",
    "is_violation": true,
-   "location": "#post-921 > div > div > div > section:nth-of-type(9) > div > div > div > div > div > div > div > p:nth-of-type(1)",
+   "location": "div > *:nth-child(2)",
    "evidence_text": "La ruleta es uno de los juegos más emblemáticos que existen en los casinos de todo el mundo. Muchos jugadores buscan con",
    "technique": "TRANSPARENT"
   },
@@ -731,7 +731,7 @@
    "id": "TR-RT-0199_TRANSPARENT",
    "url": "https://mibaida.sch.id",
    "is_violation": true,
-   "location": "#post-921 > div > div > div > section:nth-of-type(10) > div > div > div > div > div > div > div > h2",
+   "location": "div > h2:nth-child(1)",
    "evidence_text": "Explorando la experiencia de juego en TodoSlots",
    "technique": "TRANSPARENT"
   },
@@ -739,7 +739,7 @@
    "id": "TR-RT-0200_TRANSPARENT",
    "url": "https://mibaida.sch.id",
    "is_violation": true,
-   "location": "#post-921 > div > div > div > section:nth-of-type(10) > div > div > div > div > div > div > div > p:nth-of-type(1)",
+   "location": "div > *:nth-child(2)",
    "evidence_text": "El mercado de los casinos digitales ha crecido exponencialmente ofreciendo opciones variadas para los entusiastas de las",
    "technique": "TRANSPARENT"
   },
@@ -747,7 +747,7 @@
    "id": "TR-RT-0201_TRANSPARENT",
    "url": "https://mibaida.sch.id",
    "is_violation": true,
-   "location": "#post-921 > div > div > div > section:nth-of-type(10) > div > div > div > div > div > div > div > p:nth-of-type(1) > a",
+   "location": "div > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "todoslots goldenpark gratis",
    "technique": "TRANSPARENT"
   },
@@ -755,7 +755,7 @@
    "id": "TR-RT-0202_TRANSPARENT",
    "url": "https://mibaida.sch.id",
    "is_violation": true,
-   "location": "#post-921 > div > div > div > section:nth-of-type(11) > div > div > div > div > div > div > div > p:nth-of-type(1) > a",
+   "location": "div > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "gratogana casino",
    "technique": "TRANSPARENT"
   },
@@ -763,7 +763,7 @@
    "id": "TR-RT-0203_TRANSPARENT",
    "url": "https://mibaida.sch.id",
    "is_violation": true,
-   "location": "#post-921 > div > div > div > section:nth-of-type(12) > div > div > div > div > div > div > div > h2",
+   "location": "div > h2:nth-child(1)",
    "evidence_text": "Wszystko co warto wiedzieć o Total Casino",
    "technique": "TRANSPARENT"
   },
@@ -771,7 +771,7 @@
    "id": "TR-RT-0204_TRANSPARENT",
    "url": "https://mibaida.sch.id",
    "is_violation": true,
-   "location": "#post-921 > div > div > div > section:nth-of-type(12) > div > div > div > div > div > div > div > p:nth-of-type(1) > a",
+   "location": "div > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "casino total",
    "technique": "TRANSPARENT"
   },
@@ -779,7 +779,7 @@
    "id": "TR-RT-0205_TRANSPARENT",
    "url": "https://mibaida.sch.id",
    "is_violation": true,
-   "location": "#post-921 > div > div > div > section:nth-of-type(13) > div > div > div > div > div > div > div > p:nth-of-type(1) > a",
+   "location": "div > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "nv casino bonus",
    "technique": "TRANSPARENT"
   },
@@ -787,7 +787,7 @@
    "id": "TR-RT-0206_TRANSPARENT",
    "url": "https://mibaida.sch.id",
    "is_violation": true,
-   "location": "#post-921 > div > div > div > section:nth-of-type(15) > div > div > div > div > div > div > div > h2",
+   "location": "div > h2:nth-child(1)",
    "evidence_text": "Dlaczego Bison Casino przyciąga polskich graczy?",
    "technique": "TRANSPARENT"
   },
@@ -795,7 +795,7 @@
    "id": "TR-RT-0207_TRANSPARENT",
    "url": "https://mibaida.sch.id",
    "is_violation": true,
-   "location": "#post-921 > div > div > div > section:nth-of-type(15) > div > div > div > div > div > div > div > p:nth-of-type(1) > a",
+   "location": "div > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "bison casino 2",
    "technique": "TRANSPARENT"
   },
@@ -803,7 +803,7 @@
    "id": "TR-RT-0208_TRANSPARENT",
    "url": "https://mibaida.sch.id",
    "is_violation": true,
-   "location": "#post-921 > div > div > div > section:nth-of-type(15) > div > div > div > div > div > div > div > p:nth-of-type(3)",
+   "location": "div > *:nth-child(5)",
    "evidence_text": "W kwestii bezpieczeństwa, Bison Casino stawia na zaawansowane szyfrowanie danych, co daje graczom poczucie spokoju podcz",
    "technique": "TRANSPARENT"
   },
@@ -811,7 +811,7 @@
    "id": "TR-RT-0225_TRANSPARENT",
    "url": "https://ojs.udb.ac.id",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(1) > div > div > div:nth-of-type(2) > ul > li:nth-of-type(3) > div > div > p:nth-of-type(1) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "link slot gacor",
    "technique": "TRANSPARENT"
   },
@@ -819,7 +819,7 @@
    "id": "TR-RT-0438_TRANSPARENT",
    "url": "https://ojs.udb.ac.id/DJP",
    "is_violation": true,
-   "location": "#customblock-template > div > p:nth-of-type(2) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "togel online",
    "technique": "TRANSPARENT"
   },
@@ -827,7 +827,7 @@
    "id": "TR-RT-0226_TRANSPARENT",
    "url": "https://ojs.udb.ac.id",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(1) > div > div > div:nth-of-type(2) > ul > li:nth-of-type(3) > div > div > p:nth-of-type(2) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "slot",
    "technique": "TRANSPARENT"
   },
@@ -835,7 +835,7 @@
    "id": "TR-RT-0439_TRANSPARENT",
    "url": "https://ojs.udb.ac.id/DJP",
    "is_violation": true,
-   "location": "#customblock-template > div > p:nth-of-type(3) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "CARAWD88 gacor",
    "technique": "TRANSPARENT"
   },
@@ -843,7 +843,7 @@
    "id": "TR-RT-0440_TRANSPARENT",
    "url": "https://ojs.udb.ac.id/DJP",
    "is_violation": true,
-   "location": "#customblock-template > div > p:nth-of-type(4) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "slot gacor gampang menang",
    "technique": "TRANSPARENT"
   },
@@ -851,7 +851,7 @@
    "id": "TR-RT-0441_TRANSPARENT",
    "url": "https://ojs.udb.ac.id/DJP",
    "is_violation": true,
-   "location": "#customblock-template > div > p:nth-of-type(5) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "slot gacor",
    "technique": "TRANSPARENT"
   },
@@ -859,7 +859,7 @@
    "id": "TR-RT-0437_TRANSPARENT",
    "url": "https://ojs.udb.ac.id/DJP",
    "is_violation": true,
-   "location": "#customblock-indexing > div > p:nth-of-type(12) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "deposit pulsa",
    "technique": "TRANSPARENT"
   },
@@ -867,7 +867,7 @@
    "id": "TR-RT-0443_TRANSPARENT",
    "url": "https://ojs.udb.ac.id/DJP",
    "is_violation": true,
-   "location": "#customblock-template > div > p:nth-of-type(7) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "slot",
    "technique": "TRANSPARENT"
   },
@@ -875,7 +875,7 @@
    "id": "TR-RT-0227_TRANSPARENT",
    "url": "https://ojs.uhnsugriwa.ac.id/index.php/jpr",
    "is_violation": true,
-   "location": "body > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div > div:nth-of-type(2) > p:nth-of-type(2) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "LGO99 Deposit Qris",
    "technique": "TRANSPARENT"
   },
@@ -883,7 +883,7 @@
    "id": "TR-RT-0228_TRANSPARENT",
    "url": "https://ojs.uhnsugriwa.ac.id/index.php/jpr",
    "is_violation": true,
-   "location": "body > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div > div:nth-of-type(2) > p:nth-of-type(3) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "CARAWD88",
    "technique": "TRANSPARENT"
   },
@@ -891,7 +891,7 @@
    "id": "TR-RT-0229_TRANSPARENT",
    "url": "https://ojs.uhnsugriwa.ac.id/index.php/jpr",
    "is_violation": true,
-   "location": "body > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div > div:nth-of-type(2) > p:nth-of-type(4) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "hemat138 slot",
    "technique": "TRANSPARENT"
   },
@@ -899,7 +899,7 @@
    "id": "TR-RT-0230_TRANSPARENT",
    "url": "https://ojs.uhnsugriwa.ac.id/index.php/jpr",
    "is_violation": true,
-   "location": "body > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div > div:nth-of-type(2) > p:nth-of-type(5) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "bandar togel online",
    "technique": "TRANSPARENT"
   },
@@ -907,7 +907,7 @@
    "id": "TR-RT-0231_TRANSPARENT",
    "url": "https://ojs.uhnsugriwa.ac.id/index.php/jpr",
    "is_violation": true,
-   "location": "body > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div > div:nth-of-type(2) > p:nth-of-type(6) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "toto togel online",
    "technique": "TRANSPARENT"
   },
@@ -915,7 +915,7 @@
    "id": "TR-RT-0232_TRANSPARENT",
    "url": "https://ojs.uhnsugriwa.ac.id/index.php/jpr",
    "is_violation": true,
-   "location": "body > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div > div:nth-of-type(2) > p:nth-of-type(7) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "slot",
    "technique": "TRANSPARENT"
   },
@@ -923,7 +923,7 @@
    "id": "TR-RT-0233_TRANSPARENT",
    "url": "https://ojs.uhnsugriwa.ac.id/index.php/jpr",
    "is_violation": true,
-   "location": "#customblock-sidemenu > div > p:nth-of-type(4) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "bolaslot99",
    "technique": "TRANSPARENT"
   },
@@ -931,7 +931,7 @@
    "id": "TR-RT-0234_TRANSPARENT",
    "url": "https://ojs.uhnsugriwa.ac.id/index.php/jpr",
    "is_violation": true,
-   "location": "body > p:nth-of-type(1) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "demo slot",
    "technique": "TRANSPARENT"
   },
@@ -939,7 +939,7 @@
    "id": "TR-RT-0235_TRANSPARENT",
    "url": "https://ojs.uhnsugriwa.ac.id/index.php/jpr",
    "is_violation": true,
-   "location": "body > p:nth-of-type(2) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "slot pulsa",
    "technique": "TRANSPARENT"
   },
@@ -947,7 +947,7 @@
    "id": "TR-RT-0236_TRANSPARENT",
    "url": "https://oyostate.gov.ng",
    "is_violation": true,
-   "location": "body > div:nth-of-type(3) > div > div > div > div:nth-of-type(2) > div > div > div > section:nth-of-type(2) > div > div > div > div > div > span:nth-of-type(1) > a",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "samudrabet",
    "technique": "TRANSPARENT"
   },
@@ -955,7 +955,7 @@
    "id": "TR-RT-0237_TRANSPARENT",
    "url": "https://oyostate.gov.ng",
    "is_violation": true,
-   "location": "body > div:nth-of-type(3) > div > div > div > div:nth-of-type(2) > div > div > div > section:nth-of-type(2) > div > div > div > div > div > span:nth-of-type(3) > a",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "officialbro138.com",
    "technique": "TRANSPARENT"
   },
@@ -963,7 +963,7 @@
    "id": "TR-RT-0238_TRANSPARENT",
    "url": "https://oyostate.gov.ng",
    "is_violation": true,
-   "location": "body > div:nth-of-type(3) > div > div > div > div:nth-of-type(2) > div > div > div > section:nth-of-type(2) > div > div > div > div > div > span:nth-of-type(4) > a",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "officialbosswin168.com",
    "technique": "TRANSPARENT"
   },
@@ -971,7 +971,7 @@
    "id": "TR-RT-0239_TRANSPARENT",
    "url": "https://oyostate.gov.ng",
    "is_violation": true,
-   "location": "body > div:nth-of-type(3) > div > div > div > div:nth-of-type(2) > div > div > div > section:nth-of-type(2) > div > div > div > div > div > span:nth-of-type(5) > a",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "officialjuraganslot.com",
    "technique": "TRANSPARENT"
   },
@@ -979,7 +979,7 @@
    "id": "TR-RT-0240_TRANSPARENT",
    "url": "https://oyostate.gov.ng",
    "is_violation": true,
-   "location": "body > div:nth-of-type(3) > div > div > div > div:nth-of-type(2) > div > div > div > section:nth-of-type(2) > div > div > div > div > div > span:nth-of-type(7) > a",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "officialalbaslot.com",
    "technique": "TRANSPARENT"
   },
@@ -987,7 +987,7 @@
    "id": "TR-RT-0241_TRANSPARENT",
    "url": "https://oyostate.gov.ng",
    "is_violation": true,
-   "location": "body > div:nth-of-type(3) > div > div > div > div:nth-of-type(2) > div > div > div > section:nth-of-type(2) > div > div > div > div > div > span:nth-of-type(8) > a",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "garasislotofficial.com",
    "technique": "TRANSPARENT"
   },
@@ -995,7 +995,7 @@
    "id": "TR-RT-0242_TRANSPARENT",
    "url": "https://oyostate.gov.ng",
    "is_violation": true,
-   "location": "body > div:nth-of-type(3) > div > div > div > div:nth-of-type(2) > div > div > div > section:nth-of-type(2) > div > div > div > div > div > span:nth-of-type(9) > a",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "officialsoju88.com",
    "technique": "TRANSPARENT"
   },
@@ -1003,7 +1003,7 @@
    "id": "TR-RT-0243_TRANSPARENT",
    "url": "https://oyostate.gov.ng",
    "is_violation": true,
-   "location": "body > div:nth-of-type(3) > div > div > div > div:nth-of-type(2) > div > div > div > section:nth-of-type(2) > div > div > div > div > div > span:nth-of-type(10) > a",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "officialsupraslot.com",
    "technique": "TRANSPARENT"
   },
@@ -1011,7 +1011,7 @@
    "id": "TR-RT-0245_TRANSPARENT",
    "url": "https://oyostate.gov.ng",
    "is_violation": true,
-   "location": "body > div:nth-of-type(3) > div > div > div > div:nth-of-type(2) > div > div > div > section:nth-of-type(2) > div > div > div > div > div > span:nth-of-type(12) > a",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "officialnusantara88.com",
    "technique": "TRANSPARENT"
   },
@@ -1019,7 +1019,7 @@
    "id": "TR-RT-0247_TRANSPARENT",
    "url": "https://oyostate.gov.ng",
    "is_violation": true,
-   "location": "body > div:nth-of-type(3) > div > div > div > div:nth-of-type(2) > div > div > div > section:nth-of-type(2) > div > div > div > div > div > span:nth-of-type(14) > a",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "merdekawinofficial.com",
    "technique": "TRANSPARENT"
   },
@@ -1027,7 +1027,7 @@
    "id": "TR-RT-0249_TRANSPARENT",
    "url": "https://oyostate.gov.ng",
    "is_violation": true,
-   "location": "body > div:nth-of-type(3) > div > div > div > div:nth-of-type(2) > div > div > div > section:nth-of-type(2) > div > div > div > div > div > span:nth-of-type(17) > a",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "mamibetofficial.com",
    "technique": "TRANSPARENT"
   },
@@ -1035,7 +1035,7 @@
    "id": "TR-RT-0250_TRANSPARENT",
    "url": "https://oyostate.gov.ng",
    "is_violation": true,
-   "location": "body > div:nth-of-type(3) > div > div > div > div:nth-of-type(2) > div > div > div > section:nth-of-type(2) > div > div > div > div > div > span:nth-of-type(18) > a",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "probet88loginresmi.com",
    "technique": "TRANSPARENT"
   },
@@ -1043,7 +1043,7 @@
    "id": "TR-RT-0251_TRANSPARENT",
    "url": "https://oyostate.gov.ng",
    "is_violation": true,
-   "location": "body > div:nth-of-type(3) > div > div > div > div:nth-of-type(2) > div > div > div > section:nth-of-type(2) > div > div > div > div > div > span:nth-of-type(19) > a",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "mahkotaslotlinklogin.com",
    "technique": "TRANSPARENT"
   },
@@ -1051,7 +1051,7 @@
    "id": "TR-RT-0252_TRANSPARENT",
    "url": "https://oyostate.gov.ng",
    "is_violation": true,
-   "location": "body > div:nth-of-type(3) > div > div > div > div:nth-of-type(2) > div > div > div > section:nth-of-type(2) > div > div > div > div > div > span:nth-of-type(20) > a",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "hbowinofficial.com",
    "technique": "TRANSPARENT"
   },
@@ -1059,7 +1059,7 @@
    "id": "TR-RT-0254_TRANSPARENT",
    "url": "https://oyostate.gov.ng",
    "is_violation": true,
-   "location": "body > div:nth-of-type(3) > div > div > div > div:nth-of-type(2) > div > div > div > section:nth-of-type(2) > div > div > div > div > div > span:nth-of-type(22) > a",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "ibetslotasli.com",
    "technique": "TRANSPARENT"
   },
@@ -1067,7 +1067,7 @@
    "id": "TR-RT-0256_TRANSPARENT",
    "url": "https://oyostate.gov.ng",
    "is_violation": true,
-   "location": "body > div:nth-of-type(3) > div > div > div > div:nth-of-type(2) > div > div > div > section:nth-of-type(2) > div > div > div > div > div > span:nth-of-type(25) > a",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "sihokislotlogin.com",
    "technique": "TRANSPARENT"
   },
@@ -1075,7 +1075,7 @@
    "id": "TR-RT-0262_TRANSPARENT",
    "url": "https://oyostate.gov.ng",
    "is_violation": true,
-   "location": "body > div:nth-of-type(3) > div > div > div > div:nth-of-type(2) > div > div > div > section:nth-of-type(2) > div > div > div > div > div > span:nth-of-type(31) > a",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "pamanslotofficial.com",
    "technique": "TRANSPARENT"
   },
@@ -1083,7 +1083,7 @@
    "id": "TR-RT-0244_TRANSPARENT",
    "url": "https://oyostate.gov.ng",
    "is_violation": true,
-   "location": "body > div:nth-of-type(3) > div > div > div > div:nth-of-type(2) > div > div > div > section:nth-of-type(2) > div > div > div > div > div > span:nth-of-type(11) > a",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "ajaib88resmi.com",
    "technique": "TRANSPARENT"
   },
@@ -1091,7 +1091,7 @@
    "id": "TR-RT-0246_TRANSPARENT",
    "url": "https://oyostate.gov.ng",
    "is_violation": true,
-   "location": "body > div:nth-of-type(3) > div > div > div > div:nth-of-type(2) > div > div > div > section:nth-of-type(2) > div > div > div > div > div > span:nth-of-type(13) > a",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "usaha188resmi.com",
    "technique": "TRANSPARENT"
   },
@@ -1099,7 +1099,7 @@
    "id": "TR-RT-0248_TRANSPARENT",
    "url": "https://oyostate.gov.ng",
    "is_violation": true,
-   "location": "body > div:nth-of-type(3) > div > div > div > div:nth-of-type(2) > div > div > div > section:nth-of-type(2) > div > div > div > div > div > span:nth-of-type(16) > a",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "merdeka777alternatif.com",
    "technique": "TRANSPARENT"
   },
@@ -1107,7 +1107,7 @@
    "id": "TR-RT-0263_TRANSPARENT",
    "url": "https://revistas.ufrj.br/index.php/dilemas/index",
    "is_violation": true,
-   "location": "body > p:nth-of-type(1) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "slot demo mahjong ways",
    "technique": "TRANSPARENT"
   },
@@ -1115,7 +1115,7 @@
    "id": "TR-RT-0264_TRANSPARENT",
    "url": "https://revistas.ufrj.br/index.php/dilemas/index",
    "is_violation": true,
-   "location": "body > p:nth-of-type(2) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "kenzobet",
    "technique": "TRANSPARENT"
   },
@@ -1123,7 +1123,7 @@
    "id": "TR-RT-0266_TRANSPARENT",
    "url": "https://revistas.ufrj.br/index.php/dilemas/index",
    "is_violation": true,
-   "location": "body > p:nth-of-type(4) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "kenzototo",
    "technique": "TRANSPARENT"
   },
@@ -1131,7 +1131,7 @@
    "id": "TR-RT-0268_TRANSPARENT",
    "url": "https://revistas.ufrj.br/index.php/dilemas/index",
    "is_violation": true,
-   "location": "body > p:nth-of-type(6) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "slot gacor",
    "technique": "TRANSPARENT"
   },
@@ -1139,7 +1139,7 @@
    "id": "TR-RT-0271_TRANSPARENT",
    "url": "https://revistas.ufrj.br/index.php/dilemas/index",
    "is_violation": true,
-   "location": "body > p:nth-of-type(9) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "Slot Demo",
    "technique": "TRANSPARENT"
   },
@@ -1147,7 +1147,7 @@
    "id": "TR-RT-0272_TRANSPARENT",
    "url": "https://revistas.ufrj.br/index.php/dilemas/index",
    "is_violation": true,
-   "location": "body > p:nth-of-type(10) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "slot pulsa",
    "technique": "TRANSPARENT"
   },
@@ -1155,7 +1155,7 @@
    "id": "TR-RT-0273_TRANSPARENT",
    "url": "https://revistas.ufrj.br/index.php/dilemas/index",
    "is_violation": true,
-   "location": "body > p:nth-of-type(11) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "nagacor181",
    "technique": "TRANSPARENT"
   },
@@ -1163,7 +1163,7 @@
    "id": "TR-RT-0274_TRANSPARENT",
    "url": "https://revistas.ufrj.br/index.php/dilemas/index",
    "is_violation": true,
-   "location": "body > p:nth-of-type(12) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "roma77",
    "technique": "TRANSPARENT"
   },
@@ -1171,7 +1171,7 @@
    "id": "TR-RT-0276_TRANSPARENT",
    "url": "https://revistas.ufrj.br/index.php/dilemas/index",
    "is_violation": true,
-   "location": "body > p:nth-of-type(14) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "toto slot gacor",
    "technique": "TRANSPARENT"
   },
@@ -1179,7 +1179,7 @@
    "id": "TR-RT-0277_TRANSPARENT",
    "url": "https://revistas.ufrj.br/index.php/dilemas/index",
    "is_violation": true,
-   "location": "body > p:nth-of-type(16) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "hoki99",
    "technique": "TRANSPARENT"
   },
@@ -1187,7 +1187,7 @@
    "id": "TR-RT-0269_TRANSPARENT",
    "url": "https://revistas.ufrj.br/index.php/dilemas/index",
    "is_violation": true,
-   "location": "body > p:nth-of-type(7) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "deposit pulsa",
    "technique": "TRANSPARENT"
   },
@@ -1195,7 +1195,7 @@
    "id": "TR-RT-0267_TRANSPARENT",
    "url": "https://revistas.ufrj.br/index.php/dilemas/index",
    "is_violation": true,
-   "location": "body > p:nth-of-type(5) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "kenzototo",
    "technique": "TRANSPARENT"
   },
@@ -1203,7 +1203,7 @@
    "id": "TR-RT-0270_TRANSPARENT",
    "url": "https://revistas.ufrj.br/index.php/dilemas/index",
    "is_violation": true,
-   "location": "body > p:nth-of-type(8) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "kenzototo",
    "technique": "TRANSPARENT"
   },
@@ -1211,7 +1211,7 @@
    "id": "TR-RT-0275_TRANSPARENT",
    "url": "https://revistas.ufrj.br/index.php/dilemas/index",
    "is_violation": true,
-   "location": "body > p:nth-of-type(13) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "roma77",
    "technique": "TRANSPARENT"
   },
@@ -1219,7 +1219,7 @@
    "id": "TR-RT-0278_TRANSPARENT",
    "url": "https://revistas.ufrj.br/index.php/dilemas/index",
    "is_violation": true,
-   "location": "body > p:nth-of-type(17) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "hoki99",
    "technique": "TRANSPARENT"
   },
@@ -1227,7 +1227,7 @@
    "id": "TR-RT-0279_TRANSPARENT",
    "url": "https://revistas.ufrj.br/index.php/dilemas/index",
    "is_violation": true,
-   "location": "body > p:nth-of-type(18) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "hoki99",
    "technique": "TRANSPARENT"
   },
@@ -1235,7 +1235,7 @@
    "id": "TR-RT-0280_TRANSPARENT",
    "url": "https://revistas.ufrj.br/index.php/dilemas/index",
    "is_violation": true,
-   "location": "body > p:nth-of-type(19) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "hoki99",
    "technique": "TRANSPARENT"
   },
@@ -1243,7 +1243,7 @@
    "id": "TR-RT-0281_TRANSPARENT",
    "url": "https://syekhnurjati.ac.id/jurnal/index.php/eduma",
    "is_violation": true,
-   "location": "#journalDescription > p:nth-of-type(15) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "pestotosalak.com",
    "technique": "TRANSPARENT"
   },
@@ -1251,7 +1251,7 @@
    "id": "TR-RT-0281_OFFSCREEN",
    "url": "https://syekhnurjati.ac.id/jurnal/index.php/eduma",
    "is_violation": true,
-   "location": "#journalDescription > p:nth-of-type(15) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "pestotosalak.com",
    "technique": "OFFSCREEN"
   },
@@ -1259,7 +1259,7 @@
    "id": "TR-RT-0282_TRANSPARENT",
    "url": "https://syekhnurjati.ac.id/jurnal/index.php/eduma",
    "is_violation": true,
-   "location": "#pageFooter > p:nth-of-type(17) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "hokiraja",
    "technique": "TRANSPARENT"
   },
@@ -1267,7 +1267,7 @@
    "id": "TR-RT-0282_OFFSCREEN",
    "url": "https://syekhnurjati.ac.id/jurnal/index.php/eduma",
    "is_violation": true,
-   "location": "#pageFooter > p:nth-of-type(17) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "hokiraja",
    "technique": "OFFSCREEN"
   },
@@ -1275,7 +1275,7 @@
    "id": "TR-RT-0283_TRANSPARENT",
    "url": "https://syekhnurjati.ac.id/jurnal/index.php/eduma",
    "is_violation": true,
-   "location": "#pageFooter > p:nth-of-type(18) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "hoki raja",
    "technique": "TRANSPARENT"
   },
@@ -1283,7 +1283,7 @@
    "id": "TR-RT-0283_OFFSCREEN",
    "url": "https://syekhnurjati.ac.id/jurnal/index.php/eduma",
    "is_violation": true,
-   "location": "#pageFooter > p:nth-of-type(18) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "hoki raja",
    "technique": "OFFSCREEN"
   },
@@ -1291,7 +1291,7 @@
    "id": "TR-RT-0284_TRANSPARENT",
    "url": "https://syekhnurjati.ac.id/jurnal/index.php/eduma",
    "is_violation": true,
-   "location": "#pageFooter > p:nth-of-type(75) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "angsa11",
    "technique": "TRANSPARENT"
   },
@@ -1299,7 +1299,7 @@
    "id": "TR-RT-0284_OFFSCREEN",
    "url": "https://syekhnurjati.ac.id/jurnal/index.php/eduma",
    "is_violation": true,
-   "location": "#pageFooter > p:nth-of-type(75) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "angsa11",
    "technique": "OFFSCREEN"
   },
@@ -1307,7 +1307,7 @@
    "id": "TR-RT-0285_TRANSPARENT",
    "url": "https://syekhnurjati.ac.id/jurnal/index.php/eduma",
    "is_violation": true,
-   "location": "#pageFooter > p:nth-of-type(83) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "Bmw777",
    "technique": "TRANSPARENT"
   },
@@ -1315,7 +1315,7 @@
    "id": "TR-RT-0285_OFFSCREEN",
    "url": "https://syekhnurjati.ac.id/jurnal/index.php/eduma",
    "is_violation": true,
-   "location": "#pageFooter > p:nth-of-type(83) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "Bmw777",
    "technique": "OFFSCREEN"
   },
@@ -1323,7 +1323,7 @@
    "id": "TR-RT-0286_TRANSPARENT",
    "url": "https://syekhnurjati.ac.id/jurnal/index.php/eduma",
    "is_violation": true,
-   "location": "#pageFooter > p:nth-of-type(86) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "toto slot",
    "technique": "TRANSPARENT"
   },
@@ -1331,7 +1331,7 @@
    "id": "TR-RT-0286_OFFSCREEN",
    "url": "https://syekhnurjati.ac.id/jurnal/index.php/eduma",
    "is_violation": true,
-   "location": "#pageFooter > p:nth-of-type(86) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "toto slot",
    "technique": "OFFSCREEN"
   },
@@ -1339,7 +1339,7 @@
    "id": "TR-RT-0288_TRANSPARENT",
    "url": "https://syekhnurjati.ac.id/jurnal/index.php/eduma",
    "is_violation": true,
-   "location": "#pageFooter > p:nth-of-type(90) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "link gacor",
    "technique": "TRANSPARENT"
   },
@@ -1347,7 +1347,7 @@
    "id": "TR-RT-0288_OFFSCREEN",
    "url": "https://syekhnurjati.ac.id/jurnal/index.php/eduma",
    "is_violation": true,
-   "location": "#pageFooter > p:nth-of-type(90) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "link gacor",
    "technique": "OFFSCREEN"
   },
@@ -1355,7 +1355,7 @@
    "id": "TR-RT-0289_TRANSPARENT",
    "url": "https://syekhnurjati.ac.id/jurnal/index.php/eduma",
    "is_violation": true,
-   "location": "#pageFooter > p:nth-of-type(92) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "slot gacor malam ini",
    "technique": "TRANSPARENT"
   },
@@ -1363,7 +1363,7 @@
    "id": "TR-RT-0289_OFFSCREEN",
    "url": "https://syekhnurjati.ac.id/jurnal/index.php/eduma",
    "is_violation": true,
-   "location": "#pageFooter > p:nth-of-type(92) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "slot gacor malam ini",
    "technique": "OFFSCREEN"
   },
@@ -1371,7 +1371,7 @@
    "id": "TR-RT-0290_TRANSPARENT",
    "url": "https://syekhnurjati.ac.id/jurnal/index.php/eduma",
    "is_violation": true,
-   "location": "#pageFooter > p:nth-of-type(95) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "Pg slot",
    "technique": "TRANSPARENT"
   },
@@ -1379,7 +1379,7 @@
    "id": "TR-RT-0290_OFFSCREEN",
    "url": "https://syekhnurjati.ac.id/jurnal/index.php/eduma",
    "is_violation": true,
-   "location": "#pageFooter > p:nth-of-type(95) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "Pg slot",
    "technique": "OFFSCREEN"
   },
@@ -1387,7 +1387,7 @@
    "id": "TR-RT-0291_TRANSPARENT",
    "url": "https://syekhnurjati.ac.id/jurnal/index.php/eduma",
    "is_violation": true,
-   "location": "#pageFooter > p:nth-of-type(97) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "slot88",
    "technique": "TRANSPARENT"
   },
@@ -1395,7 +1395,7 @@
    "id": "TR-RT-0291_OFFSCREEN",
    "url": "https://syekhnurjati.ac.id/jurnal/index.php/eduma",
    "is_violation": true,
-   "location": "#pageFooter > p:nth-of-type(97) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "slot88",
    "technique": "OFFSCREEN"
   },
@@ -1403,7 +1403,7 @@
    "id": "TR-RT-0292_TRANSPARENT",
    "url": "https://syekhnurjati.ac.id/jurnal/index.php/eduma",
    "is_violation": true,
-   "location": "#pageFooter > p:nth-of-type(98) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "situs slot777",
    "technique": "TRANSPARENT"
   },
@@ -1411,7 +1411,7 @@
    "id": "TR-RT-0292_OFFSCREEN",
    "url": "https://syekhnurjati.ac.id/jurnal/index.php/eduma",
    "is_violation": true,
-   "location": "#pageFooter > p:nth-of-type(98) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "situs slot777",
    "technique": "OFFSCREEN"
   },
@@ -1419,7 +1419,7 @@
    "id": "TR-RT-0294_TRANSPARENT",
    "url": "https://syekhnurjati.ac.id/jurnal/index.php/eduma",
    "is_violation": true,
-   "location": "#pageFooter > p:nth-of-type(100) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "pgslot",
    "technique": "TRANSPARENT"
   },
@@ -1427,7 +1427,7 @@
    "id": "TR-RT-0294_OFFSCREEN",
    "url": "https://syekhnurjati.ac.id/jurnal/index.php/eduma",
    "is_violation": true,
-   "location": "#pageFooter > p:nth-of-type(100) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "pgslot",
    "technique": "OFFSCREEN"
   },
@@ -1435,7 +1435,7 @@
    "id": "TR-RT-0295_TRANSPARENT",
    "url": "https://syekhnurjati.ac.id/jurnal/index.php/eduma",
    "is_violation": true,
-   "location": "#pageFooter > p:nth-of-type(102) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "slot gacor",
    "technique": "TRANSPARENT"
   },
@@ -1443,7 +1443,7 @@
    "id": "TR-RT-0295_OFFSCREEN",
    "url": "https://syekhnurjati.ac.id/jurnal/index.php/eduma",
    "is_violation": true,
-   "location": "#pageFooter > p:nth-of-type(102) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "slot gacor",
    "technique": "OFFSCREEN"
   },
@@ -1451,7 +1451,7 @@
    "id": "TR-RT-0297_TRANSPARENT",
    "url": "https://syekhnurjati.ac.id/jurnal/index.php/eduma",
    "is_violation": true,
-   "location": "#pageFooter > p:nth-of-type(137) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "situs slot gacor",
    "technique": "TRANSPARENT"
   },
@@ -1459,7 +1459,7 @@
    "id": "TR-RT-0297_OFFSCREEN",
    "url": "https://syekhnurjati.ac.id/jurnal/index.php/eduma",
    "is_violation": true,
-   "location": "#pageFooter > p:nth-of-type(137) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "situs slot gacor",
    "technique": "OFFSCREEN"
   },
@@ -1467,7 +1467,7 @@
    "id": "TR-RT-0301_TRANSPARENT",
    "url": "https://syekhnurjati.ac.id/jurnal/index.php/eduma",
    "is_violation": true,
-   "location": "#pageFooter > p:nth-of-type(169) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "cipit88",
    "technique": "TRANSPARENT"
   },
@@ -1475,7 +1475,7 @@
    "id": "TR-RT-0301_OFFSCREEN",
    "url": "https://syekhnurjati.ac.id/jurnal/index.php/eduma",
    "is_violation": true,
-   "location": "#pageFooter > p:nth-of-type(169) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "cipit88",
    "technique": "OFFSCREEN"
   },
@@ -1483,7 +1483,7 @@
    "id": "TR-RT-0303_TRANSPARENT",
    "url": "https://syekhnurjati.ac.id/jurnal/index.php/eduma",
    "is_violation": true,
-   "location": "#pageFooter > p:nth-of-type(176) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "yuantoto",
    "technique": "TRANSPARENT"
   },
@@ -1491,7 +1491,7 @@
    "id": "TR-RT-0303_OFFSCREEN",
    "url": "https://syekhnurjati.ac.id/jurnal/index.php/eduma",
    "is_violation": true,
-   "location": "#pageFooter > p:nth-of-type(176) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "yuantoto",
    "technique": "OFFSCREEN"
   },
@@ -1499,7 +1499,7 @@
    "id": "TR-RT-0306_TRANSPARENT",
    "url": "https://syekhnurjati.ac.id/jurnal/index.php/eduma",
    "is_violation": true,
-   "location": "#pageFooter > p:nth-of-type(181) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "slot depo 5k",
    "technique": "TRANSPARENT"
   },
@@ -1507,7 +1507,7 @@
    "id": "TR-RT-0306_OFFSCREEN",
    "url": "https://syekhnurjati.ac.id/jurnal/index.php/eduma",
    "is_violation": true,
-   "location": "#pageFooter > p:nth-of-type(181) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "slot depo 5k",
    "technique": "OFFSCREEN"
   },
@@ -1515,7 +1515,7 @@
    "id": "TR-RT-0307_TRANSPARENT",
    "url": "https://syekhnurjati.ac.id/jurnal/index.php/eduma",
    "is_violation": true,
-   "location": "#pageFooter > p:nth-of-type(182) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "bosgacor",
    "technique": "TRANSPARENT"
   },
@@ -1523,7 +1523,7 @@
    "id": "TR-RT-0307_OFFSCREEN",
    "url": "https://syekhnurjati.ac.id/jurnal/index.php/eduma",
    "is_violation": true,
-   "location": "#pageFooter > p:nth-of-type(182) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "bosgacor",
    "technique": "OFFSCREEN"
   },
@@ -1531,7 +1531,7 @@
    "id": "TR-RT-0311_TRANSPARENT",
    "url": "https://syekhnurjati.ac.id/jurnal/index.php/eduma",
    "is_violation": true,
-   "location": "#pageFooter > p:nth-of-type(191) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "sbobet",
    "technique": "TRANSPARENT"
   },
@@ -1539,7 +1539,7 @@
    "id": "TR-RT-0311_OFFSCREEN",
    "url": "https://syekhnurjati.ac.id/jurnal/index.php/eduma",
    "is_violation": true,
-   "location": "#pageFooter > p:nth-of-type(191) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "sbobet",
    "technique": "OFFSCREEN"
   },
@@ -1547,7 +1547,7 @@
    "id": "TR-RT-0315_TRANSPARENT",
    "url": "https://syekhnurjati.ac.id/jurnal/index.php/eduma",
    "is_violation": true,
-   "location": "#pageFooter > p:nth-of-type(223) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "situs toto",
    "technique": "TRANSPARENT"
   },
@@ -1555,7 +1555,7 @@
    "id": "TR-RT-0315_OFFSCREEN",
    "url": "https://syekhnurjati.ac.id/jurnal/index.php/eduma",
    "is_violation": true,
-   "location": "#pageFooter > p:nth-of-type(223) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "situs toto",
    "technique": "OFFSCREEN"
   },
@@ -1563,7 +1563,7 @@
    "id": "TR-RT-0336_TRANSPARENT",
    "url": "https://www.periodicos.unimontes.br/index.php/caminhosdahistoria",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(1) > div:nth-of-type(1) > div > div > p:nth-of-type(1) > a > span > span > span > span > span > span",
+   "location": "a > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "kenzobet",
    "technique": "TRANSPARENT"
   },
@@ -1571,7 +1571,7 @@
    "id": "TR-RT-0337_TRANSPARENT",
    "url": "https://www.periodicos.unimontes.br/index.php/caminhosdahistoria",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(1) > div:nth-of-type(1) > div > div > p:nth-of-type(2) > a > span > span > span > span",
+   "location": "a > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "kenzototo",
    "technique": "TRANSPARENT"
   },
@@ -1579,7 +1579,7 @@
    "id": "TR-RT-0338_TRANSPARENT",
    "url": "https://www.periodicos.unimontes.br/index.php/caminhosdahistoria",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(1) > div:nth-of-type(1) > div > div > p:nth-of-type(3) > a > span > span > span > span",
+   "location": "a > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "kenzototo",
    "technique": "TRANSPARENT"
   },
@@ -1587,7 +1587,7 @@
    "id": "TR-RT-0340_TRANSPARENT",
    "url": "https://journal.ar-raniry.ac.id/index.php/ojs-training",
    "is_violation": true,
-   "location": "#customblock-menu > div > p:nth-of-type(12) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "slot online",
    "technique": "TRANSPARENT"
   },
@@ -1595,7 +1595,7 @@
    "id": "TR-RT-0341_TRANSPARENT",
    "url": "https://journal.ar-raniry.ac.id/index.php/ojs-training",
    "is_violation": true,
-   "location": "#customblock-menu > div > p:nth-of-type(17) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "partaitogel",
    "technique": "TRANSPARENT"
   },
@@ -1603,7 +1603,7 @@
    "id": "TR-RT-0366_TRANSPARENT",
    "url": "https://jurnal.polteknaker.ac.id/index.php/jpk",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(11) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "slot maxwin",
    "technique": "TRANSPARENT"
   },
@@ -1611,7 +1611,7 @@
    "id": "TR-RT-0366_OFFSCREEN",
    "url": "https://jurnal.polteknaker.ac.id/index.php/jpk",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(11) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "slot maxwin",
    "technique": "OFFSCREEN"
   },
@@ -1619,7 +1619,7 @@
    "id": "TR-RT-0367_TRANSPARENT",
    "url": "https://jurnal.polteknaker.ac.id/index.php/jpk",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(14) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "slot gacor",
    "technique": "TRANSPARENT"
   },
@@ -1627,7 +1627,7 @@
    "id": "TR-RT-0367_OFFSCREEN",
    "url": "https://jurnal.polteknaker.ac.id/index.php/jpk",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(14) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "slot gacor",
    "technique": "OFFSCREEN"
   },
@@ -1635,7 +1635,7 @@
    "id": "TR-RT-0368_TRANSPARENT",
    "url": "https://jurnal.polteknaker.ac.id/index.php/jpk",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(65) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "tiga333",
    "technique": "TRANSPARENT"
   },
@@ -1643,7 +1643,7 @@
    "id": "TR-RT-0368_OFFSCREEN",
    "url": "https://jurnal.polteknaker.ac.id/index.php/jpk",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(65) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "tiga333",
    "technique": "OFFSCREEN"
   },
@@ -1651,7 +1651,7 @@
    "id": "TR-RT-0369_TRANSPARENT",
    "url": "https://jurnal.unimed.ac.id/2012/index.php/tgeo/manuscripttemplate",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(1) > div:nth-of-type(1) > div > p:nth-of-type(9) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "slot pulsa",
    "technique": "TRANSPARENT"
   },
@@ -1659,7 +1659,7 @@
    "id": "TR-RT-0370_TRANSPARENT",
    "url": "https://jurnal.unimed.ac.id/2012/index.php/tgeo/manuscripttemplate",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(1) > div:nth-of-type(1) > div > p:nth-of-type(13) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "7meter parlay",
    "technique": "TRANSPARENT"
   },
@@ -1667,7 +1667,7 @@
    "id": "TR-RT-0371_TRANSPARENT",
    "url": "https://jurnal.unimed.ac.id/2012/index.php/tgeo/manuscripttemplate",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(1) > div:nth-of-type(1) > div > p:nth-of-type(14) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "7meter sbobet",
    "technique": "TRANSPARENT"
   },
@@ -1675,7 +1675,7 @@
    "id": "TR-RT-0372_TRANSPARENT",
    "url": "https://jurnalkonstan.ac.id",
    "is_violation": true,
-   "location": "#pkp_content_footer > div > div > ul > li:nth-of-type(45) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "maggiemakesitbetter.com",
    "technique": "TRANSPARENT"
   },
@@ -1683,7 +1683,7 @@
    "id": "TR-RT-0372_OFFSCREEN",
    "url": "https://jurnalkonstan.ac.id",
    "is_violation": true,
-   "location": "#pkp_content_footer > div > div > ul > li:nth-of-type(45) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "maggiemakesitbetter.com",
    "technique": "OFFSCREEN"
   },
@@ -1691,7 +1691,7 @@
    "id": "TR-RT-0373_TRANSPARENT",
    "url": "https://jurnalkonstan.ac.id",
    "is_violation": true,
-   "location": "#pkp_content_footer > div > div > ul > li:nth-of-type(46) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "cyclowing.com",
    "technique": "TRANSPARENT"
   },
@@ -1699,7 +1699,7 @@
    "id": "TR-RT-0373_OFFSCREEN",
    "url": "https://jurnalkonstan.ac.id",
    "is_violation": true,
-   "location": "#pkp_content_footer > div > div > ul > li:nth-of-type(46) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "cyclowing.com",
    "technique": "OFFSCREEN"
   },
@@ -1707,7 +1707,7 @@
    "id": "TR-RT-0374_TRANSPARENT",
    "url": "https://jurnalkonstan.ac.id",
    "is_violation": true,
-   "location": "#pkp_content_footer > div > div > ul > li:nth-of-type(140) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "growing-years.net",
    "technique": "TRANSPARENT"
   },
@@ -1715,7 +1715,7 @@
    "id": "TR-RT-0374_OFFSCREEN",
    "url": "https://jurnalkonstan.ac.id",
    "is_violation": true,
-   "location": "#pkp_content_footer > div > div > ul > li:nth-of-type(140) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "growing-years.net",
    "technique": "OFFSCREEN"
   },
@@ -1723,7 +1723,7 @@
    "id": "TR-RT-0375_TRANSPARENT",
    "url": "https://jurnalkonstan.ac.id",
    "is_violation": true,
-   "location": "#pkp_content_footer > div > div > ul > li:nth-of-type(266) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "dlja-windows.com",
    "technique": "TRANSPARENT"
   },
@@ -1731,7 +1731,7 @@
    "id": "TR-RT-0375_OFFSCREEN",
    "url": "https://jurnalkonstan.ac.id",
    "is_violation": true,
-   "location": "#pkp_content_footer > div > div > ul > li:nth-of-type(266) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "dlja-windows.com",
    "technique": "OFFSCREEN"
   },
@@ -1739,7 +1739,7 @@
    "id": "TR-RT-0376_TRANSPARENT",
    "url": "https://jurnalkonstan.ac.id",
    "is_violation": true,
-   "location": "#pkp_content_footer > div > div > ul > li:nth-of-type(327) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "windowinstallationmidlandtx.com",
    "technique": "TRANSPARENT"
   },
@@ -1747,7 +1747,7 @@
    "id": "TR-RT-0376_OFFSCREEN",
    "url": "https://jurnalkonstan.ac.id",
    "is_violation": true,
-   "location": "#pkp_content_footer > div > div > ul > li:nth-of-type(327) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "windowinstallationmidlandtx.com",
    "technique": "OFFSCREEN"
   },
@@ -1755,7 +1755,7 @@
    "id": "TR-RT-0377_TRANSPARENT",
    "url": "https://jurnalkonstan.ac.id",
    "is_violation": true,
-   "location": "#pkp_content_footer > div > div > ul > li:nth-of-type(349) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "betasetup.com",
    "technique": "TRANSPARENT"
   },
@@ -1763,7 +1763,7 @@
    "id": "TR-RT-0377_OFFSCREEN",
    "url": "https://jurnalkonstan.ac.id",
    "is_violation": true,
-   "location": "#pkp_content_footer > div > div > ul > li:nth-of-type(349) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "betasetup.com",
    "technique": "OFFSCREEN"
   },
@@ -1771,7 +1771,7 @@
    "id": "TR-RT-0378_TRANSPARENT",
    "url": "https://jurnalkonstan.ac.id",
    "is_violation": true,
-   "location": "#pkp_content_footer > div > div > ul > li:nth-of-type(413) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "betflixpr.com",
    "technique": "TRANSPARENT"
   },
@@ -1779,7 +1779,7 @@
    "id": "TR-RT-0378_OFFSCREEN",
    "url": "https://jurnalkonstan.ac.id",
    "is_violation": true,
-   "location": "#pkp_content_footer > div > div > ul > li:nth-of-type(413) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "betflixpr.com",
    "technique": "OFFSCREEN"
   },
@@ -1787,7 +1787,7 @@
    "id": "TR-RT-0379_TRANSPARENT",
    "url": "https://jurnalkonstan.ac.id",
    "is_violation": true,
-   "location": "#pkp_content_footer > div > div > ul > li:nth-of-type(465) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "windowtintingtoday.com",
    "technique": "TRANSPARENT"
   },
@@ -1795,7 +1795,7 @@
    "id": "TR-RT-0379_OFFSCREEN",
    "url": "https://jurnalkonstan.ac.id",
    "is_violation": true,
-   "location": "#pkp_content_footer > div > div > ul > li:nth-of-type(465) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "windowtintingtoday.com",
    "technique": "OFFSCREEN"
   },
@@ -1803,7 +1803,7 @@
    "id": "TR-RT-0380_TRANSPARENT",
    "url": "https://jurnalkonstan.ac.id",
    "is_violation": true,
-   "location": "#pkp_content_footer > div > div > ul > li:nth-of-type(482) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "wingsnbags.com",
    "technique": "TRANSPARENT"
   },
@@ -1811,7 +1811,7 @@
    "id": "TR-RT-0380_OFFSCREEN",
    "url": "https://jurnalkonstan.ac.id",
    "is_violation": true,
-   "location": "#pkp_content_footer > div > div > ul > li:nth-of-type(482) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "wingsnbags.com",
    "technique": "OFFSCREEN"
   },
@@ -1819,7 +1819,7 @@
    "id": "TR-RT-0381_TRANSPARENT",
    "url": "https://jurnalkonstan.ac.id",
    "is_violation": true,
-   "location": "#pkp_content_footer > div > div > ul > li:nth-of-type(489) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "thehomewind.com",
    "technique": "TRANSPARENT"
   },
@@ -1827,7 +1827,7 @@
    "id": "TR-RT-0381_OFFSCREEN",
    "url": "https://jurnalkonstan.ac.id",
    "is_violation": true,
-   "location": "#pkp_content_footer > div > div > ul > li:nth-of-type(489) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "thehomewind.com",
    "technique": "OFFSCREEN"
   },
@@ -1835,7 +1835,7 @@
    "id": "TR-RT-0383_TRANSPARENT",
    "url": "https://jurnalkonstan.ac.id",
    "is_violation": true,
-   "location": "#pkp_content_footer > div > div > ul > li:nth-of-type(584) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "baldwinhillsclassroom.org",
    "technique": "TRANSPARENT"
   },
@@ -1843,7 +1843,7 @@
    "id": "TR-RT-0383_OFFSCREEN",
    "url": "https://jurnalkonstan.ac.id",
    "is_violation": true,
-   "location": "#pkp_content_footer > div > div > ul > li:nth-of-type(584) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "baldwinhillsclassroom.org",
    "technique": "OFFSCREEN"
   },
@@ -1851,7 +1851,7 @@
    "id": "TR-RT-0384_TRANSPARENT",
    "url": "https://jurnalkonstan.ac.id",
    "is_violation": true,
-   "location": "#pkp_content_footer > div > div > ul > li:nth-of-type(594) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "swindonlightningcheerleading.com",
    "technique": "TRANSPARENT"
   },
@@ -1859,7 +1859,7 @@
    "id": "TR-RT-0384_OFFSCREEN",
    "url": "https://jurnalkonstan.ac.id",
    "is_violation": true,
-   "location": "#pkp_content_footer > div > div > ul > li:nth-of-type(594) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "swindonlightningcheerleading.com",
    "technique": "OFFSCREEN"
   },
@@ -1867,7 +1867,7 @@
    "id": "TR-RT-0385_TRANSPARENT",
    "url": "https://jurnalkonstan.ac.id",
    "is_violation": true,
-   "location": "#pkp_content_footer > div > div > ul > li:nth-of-type(610) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "gocoastalrowing.com",
    "technique": "TRANSPARENT"
   },
@@ -1875,7 +1875,7 @@
    "id": "TR-RT-0385_OFFSCREEN",
    "url": "https://jurnalkonstan.ac.id",
    "is_violation": true,
-   "location": "#pkp_content_footer > div > div > ul > li:nth-of-type(610) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "gocoastalrowing.com",
    "technique": "OFFSCREEN"
   },
@@ -1883,7 +1883,7 @@
    "id": "TR-RT-0386_TRANSPARENT",
    "url": "https://jurnalkonstan.ac.id",
    "is_violation": true,
-   "location": "#pkp_content_footer > div > div > ul > li:nth-of-type(653) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "crumpetsteaandsewing.com",
    "technique": "TRANSPARENT"
   },
@@ -1891,7 +1891,7 @@
    "id": "TR-RT-0386_OFFSCREEN",
    "url": "https://jurnalkonstan.ac.id",
    "is_violation": true,
-   "location": "#pkp_content_footer > div > div > ul > li:nth-of-type(653) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "crumpetsteaandsewing.com",
    "technique": "OFFSCREEN"
   },
@@ -1899,7 +1899,7 @@
    "id": "TR-RT-0387_TRANSPARENT",
    "url": "https://jurnalkonstan.ac.id",
    "is_violation": true,
-   "location": "#pkp_content_footer > div > div > ul > li:nth-of-type(669) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "amp-1tiara4d.xyz",
    "technique": "TRANSPARENT"
   },
@@ -1907,7 +1907,7 @@
    "id": "TR-RT-0387_OFFSCREEN",
    "url": "https://jurnalkonstan.ac.id",
    "is_violation": true,
-   "location": "#pkp_content_footer > div > div > ul > li:nth-of-type(669) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "amp-1tiara4d.xyz",
    "technique": "OFFSCREEN"
   },
@@ -1915,7 +1915,7 @@
    "id": "TR-RT-0388_TRANSPARENT",
    "url": "https://jurnalkonstan.ac.id",
    "is_violation": true,
-   "location": "#pkp_content_footer > div > div > ul > li:nth-of-type(670) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "lebah4d-amp.com",
    "technique": "TRANSPARENT"
   },
@@ -1923,7 +1923,7 @@
    "id": "TR-RT-0388_OFFSCREEN",
    "url": "https://jurnalkonstan.ac.id",
    "is_violation": true,
-   "location": "#pkp_content_footer > div > div > ul > li:nth-of-type(670) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "lebah4d-amp.com",
    "technique": "OFFSCREEN"
   },
@@ -1931,7 +1931,7 @@
    "id": "TR-RT-0389_TRANSPARENT",
    "url": "https://jurnalkonstan.ac.id",
    "is_violation": true,
-   "location": "#pkp_content_footer > div > div > ul > li:nth-of-type(671) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "tiara4d-amp.com",
    "technique": "TRANSPARENT"
   },
@@ -1939,7 +1939,7 @@
    "id": "TR-RT-0389_OFFSCREEN",
    "url": "https://jurnalkonstan.ac.id",
    "is_violation": true,
-   "location": "#pkp_content_footer > div > div > ul > li:nth-of-type(671) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "tiara4d-amp.com",
    "technique": "OFFSCREEN"
   },
@@ -1947,7 +1947,7 @@
    "id": "TR-RT-0390_TRANSPARENT",
    "url": "https://jurnalkonstan.ac.id",
    "is_violation": true,
-   "location": "#pkp_content_footer > div > div > ul > li:nth-of-type(672) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "laris4d-amp.com",
    "technique": "TRANSPARENT"
   },
@@ -1955,7 +1955,7 @@
    "id": "TR-RT-0390_OFFSCREEN",
    "url": "https://jurnalkonstan.ac.id",
    "is_violation": true,
-   "location": "#pkp_content_footer > div > div > ul > li:nth-of-type(672) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "laris4d-amp.com",
    "technique": "OFFSCREEN"
   },
@@ -1963,7 +1963,7 @@
    "id": "TR-RT-0391_TRANSPARENT",
    "url": "https://jurnalkonstan.ac.id",
    "is_violation": true,
-   "location": "#pkp_content_footer > div > div > ul > li:nth-of-type(673) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "lebah4d-alternatif.com",
    "technique": "TRANSPARENT"
   },
@@ -1971,7 +1971,7 @@
    "id": "TR-RT-0391_OFFSCREEN",
    "url": "https://jurnalkonstan.ac.id",
    "is_violation": true,
-   "location": "#pkp_content_footer > div > div > ul > li:nth-of-type(673) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "lebah4d-alternatif.com",
    "technique": "OFFSCREEN"
   },
@@ -1979,7 +1979,7 @@
    "id": "TR-RT-0392_TRANSPARENT",
    "url": "https://jurnalkonstan.ac.id",
    "is_violation": true,
-   "location": "#pkp_content_footer > div > div > ul > li:nth-of-type(674) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "laris4d-alternatif.com",
    "technique": "TRANSPARENT"
   },
@@ -1987,7 +1987,7 @@
    "id": "TR-RT-0392_OFFSCREEN",
    "url": "https://jurnalkonstan.ac.id",
    "is_violation": true,
-   "location": "#pkp_content_footer > div > div > ul > li:nth-of-type(674) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "laris4d-alternatif.com",
    "technique": "OFFSCREEN"
   },
@@ -1995,7 +1995,7 @@
    "id": "TR-RT-0418_TRANSPARENT",
    "url": "https://kma.ac.th",
    "is_violation": true,
-   "location": "#content > ul > li:nth-of-type(1) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "1win online",
    "technique": "TRANSPARENT"
   },
@@ -2003,7 +2003,7 @@
    "id": "TR-RT-0419_TRANSPARENT",
    "url": "https://kma.ac.th",
    "is_violation": true,
-   "location": "#content > ul > li:nth-of-type(2) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "pinup casino",
    "technique": "TRANSPARENT"
   },
@@ -2011,7 +2011,7 @@
    "id": "TR-RT-0420_TRANSPARENT",
    "url": "https://kma.ac.th",
    "is_violation": true,
-   "location": "#content > ul > li:nth-of-type(4) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "mostbets",
    "technique": "TRANSPARENT"
   },
@@ -2019,7 +2019,7 @@
    "id": "TR-RT-0421_TRANSPARENT",
    "url": "https://kma.ac.th",
    "is_violation": true,
-   "location": "#content > ul > li:nth-of-type(6) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "mostbet kz",
    "technique": "TRANSPARENT"
   },
@@ -2027,7 +2027,7 @@
    "id": "TR-RT-0422_TRANSPARENT",
    "url": "https://kma.ac.th",
    "is_violation": true,
-   "location": "#content > ul > li:nth-of-type(7) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "mosbet casino",
    "technique": "TRANSPARENT"
   },
@@ -2035,7 +2035,7 @@
    "id": "TR-RT-0423_TRANSPARENT",
    "url": "https://kma.ac.th",
    "is_violation": true,
-   "location": "#content > ul > li:nth-of-type(8) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "mosbet",
    "technique": "TRANSPARENT"
   },
@@ -2043,7 +2043,7 @@
    "id": "TR-RT-0424_TRANSPARENT",
    "url": "https://kma.ac.th",
    "is_violation": true,
-   "location": "#content > ul > li:nth-of-type(9) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "pin up casino india",
    "technique": "TRANSPARENT"
   },
@@ -2051,7 +2051,7 @@
    "id": "TR-RT-0425_TRANSPARENT",
    "url": "https://kma.ac.th",
    "is_violation": true,
-   "location": "#content > ul > li:nth-of-type(10) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "mostbet uz",
    "technique": "TRANSPARENT"
   },
@@ -2059,7 +2059,7 @@
    "id": "TR-RT-0426_TRANSPARENT",
    "url": "https://kma.ac.th",
    "is_violation": true,
-   "location": "#content > ul > li:nth-of-type(11) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "mosbet",
    "technique": "TRANSPARENT"
   },
@@ -2067,7 +2067,7 @@
    "id": "TR-RT-0427_TRANSPARENT",
    "url": "https://kma.ac.th",
    "is_violation": true,
-   "location": "#content > ul > li:nth-of-type(12) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "mosbet",
    "technique": "TRANSPARENT"
   },
@@ -2075,7 +2075,7 @@
    "id": "TR-RT-0429_TRANSPARENT",
    "url": "https://ojs.stiem-bongaya.ac.id/BJRM",
    "is_violation": true,
-   "location": "#customblock-menu > div > p:nth-of-type(6) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "partaitogel",
    "technique": "TRANSPARENT"
   },
@@ -2083,7 +2083,7 @@
    "id": "TR-RT-0433_TRANSPARENT",
    "url": "https://ojs.stiem-bongaya.ac.id/BJRM",
    "is_violation": true,
-   "location": "body > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(179) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "slot gacor",
    "technique": "TRANSPARENT"
   },
@@ -2091,7 +2091,7 @@
    "id": "TR-RT-0432_TRANSPARENT",
    "url": "https://ojs.stiem-bongaya.ac.id/BJRM",
    "is_violation": true,
-   "location": "#customblock-menu > div > p:nth-of-type(9) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "ups4d",
    "technique": "TRANSPARENT"
   },
@@ -2099,7 +2099,7 @@
    "id": "TR-RT-0428_TRANSPARENT",
    "url": "https://ojs.stiem-bongaya.ac.id/BJRM",
    "is_violation": true,
-   "location": "#customblock-menu > div > p:nth-of-type(4) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "บาคาร่า",
    "technique": "TRANSPARENT"
   },
@@ -2107,7 +2107,7 @@
    "id": "TR-RT-0430_TRANSPARENT",
    "url": "https://ojs.stiem-bongaya.ac.id/BJRM",
    "is_violation": true,
-   "location": "#customblock-menu > div > p:nth-of-type(7) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "partaitogel",
    "technique": "TRANSPARENT"
   },
@@ -2115,7 +2115,7 @@
    "id": "TR-RT-0431_TRANSPARENT",
    "url": "https://ojs.stiem-bongaya.ac.id/BJRM",
    "is_violation": true,
-   "location": "#customblock-menu > div > p:nth-of-type(8) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "partaitogel",
    "technique": "TRANSPARENT"
   },
@@ -2123,7 +2123,7 @@
    "id": "TR-RT-0444_TRANSPARENT",
    "url": "https://www.ejournal.um-sorong.ac.id/index.php/gl",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(1) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "rubahtoto",
    "technique": "TRANSPARENT"
   },
@@ -2131,7 +2131,7 @@
    "id": "TR-RT-0444_OFFSCREEN",
    "url": "https://www.ejournal.um-sorong.ac.id/index.php/gl",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(1) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "rubahtoto",
    "technique": "OFFSCREEN"
   },
@@ -2139,7 +2139,7 @@
    "id": "TR-RT-0446_TRANSPARENT",
    "url": "https://www.ejournal.um-sorong.ac.id/index.php/gl",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(18) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "idn slot",
    "technique": "TRANSPARENT"
   },
@@ -2147,7 +2147,7 @@
    "id": "TR-RT-0446_OFFSCREEN",
    "url": "https://www.ejournal.um-sorong.ac.id/index.php/gl",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(18) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "idn slot",
    "technique": "OFFSCREEN"
   },
@@ -2155,7 +2155,7 @@
    "id": "TR-RT-0447_TRANSPARENT",
    "url": "https://www.ejournal.um-sorong.ac.id/index.php/gl",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(20) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "https://yuantoto.tech/",
    "technique": "TRANSPARENT"
   },
@@ -2163,7 +2163,7 @@
    "id": "TR-RT-0447_OFFSCREEN",
    "url": "https://www.ejournal.um-sorong.ac.id/index.php/gl",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(20) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "https://yuantoto.tech/",
    "technique": "OFFSCREEN"
   },
@@ -2171,7 +2171,7 @@
    "id": "TR-RT-0448_TRANSPARENT",
    "url": "https://www.ejournal.um-sorong.ac.id/index.php/gl",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(36) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "slot deposit 5000",
    "technique": "TRANSPARENT"
   },
@@ -2179,7 +2179,7 @@
    "id": "TR-RT-0448_OFFSCREEN",
    "url": "https://www.ejournal.um-sorong.ac.id/index.php/gl",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(36) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "slot deposit 5000",
    "technique": "OFFSCREEN"
   },
@@ -2187,7 +2187,7 @@
    "id": "TR-RT-0449_TRANSPARENT",
    "url": "https://www.ejournal.um-sorong.ac.id/index.php/gl",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(39) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "yuantoto",
    "technique": "TRANSPARENT"
   },
@@ -2195,7 +2195,7 @@
    "id": "TR-RT-0449_OFFSCREEN",
    "url": "https://www.ejournal.um-sorong.ac.id/index.php/gl",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(39) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "yuantoto",
    "technique": "OFFSCREEN"
   },
@@ -2203,7 +2203,7 @@
    "id": "TR-RT-0451_TRANSPARENT",
    "url": "https://www.ejournal.um-sorong.ac.id/index.php/gl",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(43) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "slot gacor",
    "technique": "TRANSPARENT"
   },
@@ -2211,7 +2211,7 @@
    "id": "TR-RT-0451_OFFSCREEN",
    "url": "https://www.ejournal.um-sorong.ac.id/index.php/gl",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(43) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "slot gacor",
    "technique": "OFFSCREEN"
   },
@@ -2219,7 +2219,7 @@
    "id": "TR-RT-0452_TRANSPARENT",
    "url": "https://www.ejournal.um-sorong.ac.id/index.php/gl",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(44) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "slot deposit 1000",
    "technique": "TRANSPARENT"
   },
@@ -2227,7 +2227,7 @@
    "id": "TR-RT-0452_OFFSCREEN",
    "url": "https://www.ejournal.um-sorong.ac.id/index.php/gl",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(44) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "slot deposit 1000",
    "technique": "OFFSCREEN"
   },
@@ -2235,7 +2235,7 @@
    "id": "TR-RT-0454_TRANSPARENT",
    "url": "https://www.ejournal.um-sorong.ac.id/index.php/gl",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(60) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "slot online",
    "technique": "TRANSPARENT"
   },
@@ -2243,7 +2243,7 @@
    "id": "TR-RT-0454_OFFSCREEN",
    "url": "https://www.ejournal.um-sorong.ac.id/index.php/gl",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(60) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "slot online",
    "technique": "OFFSCREEN"
   },
@@ -2251,7 +2251,7 @@
    "id": "TR-RT-0455_TRANSPARENT",
    "url": "https://www.ejournal.um-sorong.ac.id/index.php/gl",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(62) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "slot 4D",
    "technique": "TRANSPARENT"
   },
@@ -2259,7 +2259,7 @@
    "id": "TR-RT-0455_OFFSCREEN",
    "url": "https://www.ejournal.um-sorong.ac.id/index.php/gl",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(62) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "slot 4D",
    "technique": "OFFSCREEN"
   },
@@ -2267,7 +2267,7 @@
    "id": "TR-RT-0457_TRANSPARENT",
    "url": "https://www.ejournal.um-sorong.ac.id/index.php/gl",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(69) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "pestoto",
    "technique": "TRANSPARENT"
   },
@@ -2275,7 +2275,7 @@
    "id": "TR-RT-0457_OFFSCREEN",
    "url": "https://www.ejournal.um-sorong.ac.id/index.php/gl",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(69) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "pestoto",
    "technique": "OFFSCREEN"
   },
@@ -2283,7 +2283,7 @@
    "id": "TR-RT-0463_TRANSPARENT",
    "url": "https://www.ejournal.um-sorong.ac.id/index.php/gl",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(98) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "gading22",
    "technique": "TRANSPARENT"
   },
@@ -2291,7 +2291,7 @@
    "id": "TR-RT-0463_OFFSCREEN",
    "url": "https://www.ejournal.um-sorong.ac.id/index.php/gl",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(98) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "gading22",
    "technique": "OFFSCREEN"
   },
@@ -2299,7 +2299,7 @@
    "id": "TR-RT-0464_TRANSPARENT",
    "url": "https://www.ejournal.um-sorong.ac.id/index.php/gl",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(102) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "mahjong",
    "technique": "TRANSPARENT"
   },
@@ -2307,7 +2307,7 @@
    "id": "TR-RT-0464_OFFSCREEN",
    "url": "https://www.ejournal.um-sorong.ac.id/index.php/gl",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(102) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "mahjong",
    "technique": "OFFSCREEN"
   },
@@ -2315,7 +2315,7 @@
    "id": "TR-RT-0467_TRANSPARENT",
    "url": "https://www.ejournal.um-sorong.ac.id/index.php/gl",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(112) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "toto slot",
    "technique": "TRANSPARENT"
   },
@@ -2323,7 +2323,7 @@
    "id": "TR-RT-0467_OFFSCREEN",
    "url": "https://www.ejournal.um-sorong.ac.id/index.php/gl",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(112) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "toto slot",
    "technique": "OFFSCREEN"
   },
@@ -2331,7 +2331,7 @@
    "id": "TR-RT-0468_TRANSPARENT",
    "url": "https://www.ejournal.um-sorong.ac.id/index.php/gl",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(114) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "situs toto",
    "technique": "TRANSPARENT"
   },
@@ -2339,7 +2339,7 @@
    "id": "TR-RT-0468_OFFSCREEN",
    "url": "https://www.ejournal.um-sorong.ac.id/index.php/gl",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(114) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "situs toto",
    "technique": "OFFSCREEN"
   },
@@ -2347,7 +2347,7 @@
    "id": "TR-RT-0472_TRANSPARENT",
    "url": "https://www.ejournal.um-sorong.ac.id/index.php/gl",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(135) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "sbobet",
    "technique": "TRANSPARENT"
   },
@@ -2355,7 +2355,7 @@
    "id": "TR-RT-0472_OFFSCREEN",
    "url": "https://www.ejournal.um-sorong.ac.id/index.php/gl",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(135) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "sbobet",
    "technique": "OFFSCREEN"
   },
@@ -2363,7 +2363,7 @@
    "id": "TR-RT-0475_TRANSPARENT",
    "url": "https://www.ejournal.um-sorong.ac.id/index.php/gl",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(143) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "bosgacor",
    "technique": "TRANSPARENT"
   },
@@ -2371,7 +2371,7 @@
    "id": "TR-RT-0475_OFFSCREEN",
    "url": "https://www.ejournal.um-sorong.ac.id/index.php/gl",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(143) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "bosgacor",
    "technique": "OFFSCREEN"
   },
@@ -2379,7 +2379,7 @@
    "id": "TR-RT-0478_TRANSPARENT",
    "url": "https://www.ejournal.um-sorong.ac.id/index.php/gl",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(146) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "slot depo 5k",
    "technique": "TRANSPARENT"
   },
@@ -2387,7 +2387,7 @@
    "id": "TR-RT-0478_OFFSCREEN",
    "url": "https://www.ejournal.um-sorong.ac.id/index.php/gl",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(146) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "slot depo 5k",
    "technique": "OFFSCREEN"
   },
@@ -2395,7 +2395,7 @@
    "id": "TR-RT-0482_TRANSPARENT",
    "url": "https://www.ejournal.um-sorong.ac.id/index.php/gl",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(158) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "cipit88",
    "technique": "TRANSPARENT"
   },
@@ -2403,7 +2403,7 @@
    "id": "TR-RT-0482_OFFSCREEN",
    "url": "https://www.ejournal.um-sorong.ac.id/index.php/gl",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(158) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "cipit88",
    "technique": "OFFSCREEN"
   },
@@ -2411,7 +2411,7 @@
    "id": "TR-RT-0485_TRANSPARENT",
    "url": "https://www.ejournal.um-sorong.ac.id/index.php/gl",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(191) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "medantoto",
    "technique": "TRANSPARENT"
   },
@@ -2419,7 +2419,7 @@
    "id": "TR-RT-0485_OFFSCREEN",
    "url": "https://www.ejournal.um-sorong.ac.id/index.php/gl",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(191) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "medantoto",
    "technique": "OFFSCREEN"
   },
@@ -2427,7 +2427,7 @@
    "id": "TR-RT-0486_TRANSPARENT",
    "url": "https://www.ejournal.um-sorong.ac.id/index.php/gl",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(192) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "situs slot gacor",
    "technique": "TRANSPARENT"
   },
@@ -2435,7 +2435,7 @@
    "id": "TR-RT-0486_OFFSCREEN",
    "url": "https://www.ejournal.um-sorong.ac.id/index.php/gl",
    "is_violation": true,
-   "location": "body > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(192) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "situs slot gacor",
    "technique": "OFFSCREEN"
   }

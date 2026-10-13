@@ -10,854 +10,854 @@
   {
    "id": "TR-RN-0001",
    "url": "https://ababil.sch.id",
-   "location": "#pyml > div > div > div > div > div > div:nth-of-type(2) > div:nth-of-type(1) > div > div:nth-of-type(2) > div:nth-of-type(2) > div > span:nth-of-type(1) > span > span:nth-of-type(1)",
+   "location": "span > span:nth-child(1)",
    "evidence_text": "Posted by",
    "subtype": "neg_a11y_hidden_text"
   },
   {
    "id": "TR-RN-0002",
    "url": "https://ababil.sch.id",
-   "location": "#bloghash-scroll-top > span:nth-of-type(2)",
+   "location": "a > *:nth-child(2)",
    "evidence_text": "Scroll to Top",
    "subtype": "neg_a11y_hidden_text"
   },
   {
    "id": "TR-RN-0003",
    "url": "https://bappeda.bengkuluselatankab.go.id",
-   "location": "#awb-to-top-label",
+   "location": "a > *:nth-child(1)",
    "evidence_text": "Go to Top",
    "subtype": "neg_a11y_hidden_text"
   },
   {
    "id": "TR-RN-0004",
    "url": "https://delivery.dusit.ac.th",
-   "location": "#searchform > label > span",
+   "location": "div > *:nth-child(2) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "Search for:",
    "subtype": "neg_a11y_hidden_text"
   },
   {
    "id": "TR-RN-0005",
    "url": "https://delivery.dusit.ac.th",
-   "location": "#searchform > button > span",
+   "location": "div > *:nth-child(2) > *:nth-child(2) > *:nth-child(2)",
    "evidence_text": "Search",
    "subtype": "neg_a11y_hidden_text"
   },
   {
    "id": "TR-RN-0007",
    "url": "https://dishub.banggaikab.go.id",
-   "location": "#page > footer > div:nth-of-type(2) > div > div > div > div > div > div:nth-of-type(2) > p > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "Velocity Developer",
    "subtype": "neg_a11y_hidden_text"
   },
   {
    "id": "TR-RN-0019",
    "url": "https://smpn3xkoto.sch.id/amp",
-   "location": "#search > form > div > label:nth-of-type(1)",
+   "location": "div > form:nth-child(1) > div:nth-child(1) > label:nth-child(1)",
    "evidence_text": "Type your search query and hit enter:",
    "subtype": "neg_a11y_hidden_text"
   },
   {
    "id": "TR-RN-0020",
    "url": "https://thelanguagerightsblog.nalsar.ac.in",
-   "location": "#menu-primary-menu > li:nth-of-type(7) > div > form > label > span",
+   "location": "form > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "Search for:",
    "subtype": "neg_a11y_hidden_text"
   },
   {
    "id": "TR-RN-0021",
    "url": "https://dp3acskb.babelprov.go.id",
-   "location": "#swiper-wrapper-44a7b3c2c7810f3aa > div:nth-of-type(2) > a > div > div:nth-of-type(1) > span:nth-of-type(3)",
+   "location": "div > *:nth-child(3) > *:nth-child(1) > *:nth-child(1) > *:nth-child(3)",
    "evidence_text": "1 Oktober 2026",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0022",
    "url": "https://dp3acskb.babelprov.go.id",
-   "location": "#swiper-wrapper-44a7b3c2c7810f3aa > div:nth-of-type(2) > a > div > h2",
+   "location": "div > *:nth-child(3) > *:nth-child(1) > *:nth-child(2)",
    "evidence_text": "Megawati: Perkuat Fungsi dan Peran Kampung Keluarga Berkualitas",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0023",
    "url": "https://dp3acskb.babelprov.go.id",
-   "location": "#swiper-wrapper-44a7b3c2c7810f3aa > div:nth-of-type(3) > a > div > div:nth-of-type(1) > span:nth-of-type(3)",
+   "location": "div > *:nth-child(3) > *:nth-child(1) > *:nth-child(1) > *:nth-child(3)",
    "evidence_text": "30 September 2026",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0024",
    "url": "https://dp3acskb.babelprov.go.id",
-   "location": "#swiper-wrapper-44a7b3c2c7810f3aa > div:nth-of-type(3) > a > div > h2",
+   "location": "div > *:nth-child(3) > *:nth-child(1) > *:nth-child(2)",
    "evidence_text": "Kepala BKKBN Babel Memasuki Masa Purna Bakti",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0025",
    "url": "https://dp3acskb.babelprov.go.id",
-   "location": "#swiper-wrapper-44a7b3c2c7810f3aa > div:nth-of-type(4) > a > div > h2",
+   "location": "div > *:nth-child(3) > *:nth-child(1) > *:nth-child(2)",
    "evidence_text": "Waspada Tindakan Kekerasan Seksual dan Radikalisme, Ada Dua yang Rentan",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0026",
    "url": "https://e.man2tuban.sch.id",
-   "location": "#main > section:nth-of-type(2) > div > nav > h2",
+   "location": "section > *:nth-child(1) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "Navigasi",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0027",
    "url": "https://e.man2tuban.sch.id",
-   "location": "#main > section:nth-of-type(2) > div > nav > p",
+   "location": "section > *:nth-child(1) > *:nth-child(1) > *:nth-child(2)",
    "evidence_text": "Akses Fitur Website Lebih Cepat",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0028",
    "url": "https://e.man2tuban.sch.id",
-   "location": "#main > section:nth-of-type(2) > div > nav > ul > li:nth-of-type(1) > a > span:nth-of-type(2)",
+   "location": "section > *:nth-child(1) > *:nth-child(1) > *:nth-child(3) > *:nth-child(1) > *:nth-child(1) > *:nth-child(2)",
    "evidence_text": "e-Tamu",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0029",
    "url": "https://e.man2tuban.sch.id",
-   "location": "#main > section:nth-of-type(2) > div > nav > ul > li:nth-of-type(2) > a > span:nth-of-type(2)",
+   "location": "section > *:nth-child(1) > *:nth-child(1) > *:nth-child(3) > *:nth-child(2) > *:nth-child(1) > *:nth-child(2)",
    "evidence_text": "Raport",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0030",
    "url": "https://e.man2tuban.sch.id",
-   "location": "#main > section:nth-of-type(2) > div > nav > ul > li:nth-of-type(3) > a > span:nth-of-type(2)",
+   "location": "section > *:nth-child(1) > *:nth-child(1) > *:nth-child(3) > *:nth-child(3) > *:nth-child(1) > *:nth-child(2)",
    "evidence_text": "PTSP",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0031",
    "url": "https://e.man2tuban.sch.id",
-   "location": "#main > section:nth-of-type(2) > div > nav > ul > li:nth-of-type(4) > a > span:nth-of-type(2)",
+   "location": "section > *:nth-child(1) > *:nth-child(1) > *:nth-child(3) > *:nth-child(4) > *:nth-child(1) > *:nth-child(2)",
    "evidence_text": "PMBM",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0032",
    "url": "https://e.man2tuban.sch.id",
-   "location": "#main > section:nth-of-type(2) > div > nav > ul > li:nth-of-type(5) > a > span:nth-of-type(2)",
+   "location": "section > *:nth-child(1) > *:nth-child(1) > *:nth-child(3) > *:nth-child(5) > *:nth-child(1) > *:nth-child(2)",
    "evidence_text": "Prestasi",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0033",
    "url": "https://e.man2tuban.sch.id",
-   "location": "#main > section:nth-of-type(2) > div > nav > ul > li:nth-of-type(6) > a > span:nth-of-type(2)",
+   "location": "section > *:nth-child(1) > *:nth-child(1) > *:nth-child(3) > *:nth-child(6) > *:nth-child(1) > *:nth-child(2)",
    "evidence_text": "Kritik",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0034",
    "url": "https://e.man2tuban.sch.id",
-   "location": "#main > section:nth-of-type(2) > div > nav > ul > li:nth-of-type(7) > a > span:nth-of-type(2)",
+   "location": "section > *:nth-child(1) > *:nth-child(1) > *:nth-child(3) > *:nth-child(7) > *:nth-child(1) > *:nth-child(2)",
    "evidence_text": "e-Learning",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0035",
    "url": "https://e.man2tuban.sch.id",
-   "location": "#main > section:nth-of-type(2) > div > nav > ul > li:nth-of-type(8) > a > span:nth-of-type(2)",
+   "location": "section > *:nth-child(1) > *:nth-child(1) > *:nth-child(3) > *:nth-child(8) > *:nth-child(1) > *:nth-child(2)",
    "evidence_text": "e-Library",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0036",
    "url": "https://www.hope.sch.id",
-   "location": "#myButton > div:nth-of-type(2) > div:nth-of-type(1) > span",
+   "location": "div > div:nth-child(1) > span:nth-child(1)",
    "evidence_text": "Welcome to Hope School!",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0037",
    "url": "https://hspg.sch.id",
-   "location": "#top-menu > li:nth-of-type(1) > a",
+   "location": "header > *:nth-child(1) > *:nth-child(2) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "Beranda",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0038",
    "url": "https://hspg.sch.id",
-   "location": "#top-menu > li:nth-of-type(2) > a",
+   "location": "header > *:nth-child(1) > *:nth-child(2) > *:nth-child(1) > *:nth-child(1) > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "Tentang PKBM",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0039",
    "url": "https://hspg.sch.id",
-   "location": "#top-menu > li:nth-of-type(3) > a",
+   "location": "header > *:nth-child(1) > *:nth-child(2) > *:nth-child(1) > *:nth-child(1) > *:nth-child(3) > *:nth-child(1)",
    "evidence_text": "Program",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0040",
    "url": "https://hspg.sch.id",
-   "location": "#top-menu > li:nth-of-type(4) > a",
+   "location": "header > *:nth-child(1) > *:nth-child(2) > *:nth-child(1) > *:nth-child(1) > *:nth-child(4) > *:nth-child(1)",
    "evidence_text": "Kunjungi Kami",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0041",
    "url": "https://kis.sch.id",
-   "location": "#ppdb-section > div > div > div:nth-of-type(1) > span",
+   "location": "div > span:nth-child(1)",
    "evidence_text": "OPEN ADMISSION 2026 / 2027",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0042",
    "url": "https://kis.sch.id",
-   "location": "#ppdb-section > div > div > div:nth-of-type(1) > h2",
+   "location": "div > h2:nth-child(2)",
    "evidence_text": "Penerimaan Peserta Didik Baru",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0043",
    "url": "https://kis.sch.id",
-   "location": "#ppdb-section > div > div > div:nth-of-type(1) > p",
+   "location": "div > *:nth-child(3)",
    "evidence_text": "Bergabung bersama Kayuringin Islamic School dan wujudkan pendidikan islami modern",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0044",
    "url": "https://lafundacion.edu.ar",
-   "location": "#__next > div > div > div:nth-of-type(9) > div:nth-of-type(2) > div > div:nth-of-type(2)",
+   "location": "div > *:nth-child(1) > *:nth-child(2)",
    "evidence_text": "Apakah Kamu ingin keluar dari Klik Indomaret?",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0045",
    "url": "https://lppm.bsi.ac.id",
-   "location": "#blog-hero > div > div > div:nth-of-type(1) > div:nth-of-type(1) > div > div > span",
+   "location": "div > *:nth-child(1) > *:nth-child(2) > *:nth-child(1) > *:nth-child(1) > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "Berita",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0046",
    "url": "https://lppm.bsi.ac.id",
-   "location": "#blog-hero > div > div > div:nth-of-type(1) > div:nth-of-type(1) > div > div > h1",
+   "location": "div > *:nth-child(1) > *:nth-child(2) > *:nth-child(1) > *:nth-child(1) > *:nth-child(2) > *:nth-child(2)",
    "evidence_text": "PKM UBSI Semakin Berkualitas, Survei Tunjukkan Tingkat Kepuasan Peserta dan Mitra Sangat Tinggi",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0047",
    "url": "https://lppm.bsi.ac.id",
-   "location": "#blog-hero > div > div > div:nth-of-type(1) > div:nth-of-type(1) > div > div > div > span:nth-of-type(1)",
+   "location": "div > *:nth-child(1) > *:nth-child(2) > *:nth-child(1) > *:nth-child(1) > *:nth-child(2) > *:nth-child(3) > *:nth-child(1)",
    "evidence_text": "by",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0048",
    "url": "https://lppm.bsi.ac.id",
-   "location": "#blog-hero > div > div > div:nth-of-type(1) > div:nth-of-type(1) > div > div > div > span:nth-of-type(1) > a",
+   "location": "div > *:nth-child(1) > *:nth-child(2) > *:nth-child(1) > *:nth-child(1) > *:nth-child(2) > *:nth-child(3) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "Yoseph Tajul Arifin",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0049",
    "url": "https://lppm.bsi.ac.id",
-   "location": "#blog-hero > div > div > div:nth-of-type(1) > div:nth-of-type(1) > div > div > div > span:nth-of-type(2)",
+   "location": "div > *:nth-child(1) > *:nth-child(2) > *:nth-child(1) > *:nth-child(1) > *:nth-child(2) > *:nth-child(3) > *:nth-child(2)",
    "evidence_text": "on 2026-08-05",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0050",
    "url": "https://lppm.bsi.ac.id",
-   "location": "#blog-hero > div > div > div:nth-of-type(1) > div:nth-of-type(1) > div > div > a",
+   "location": "div > *:nth-child(1) > *:nth-child(2) > *:nth-child(1) > *:nth-child(1) > *:nth-child(2) > *:nth-child(4)",
    "evidence_text": "Lanjutkan Membaca",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0051",
    "url": "https://lppm.bsi.ac.id",
-   "location": "#blog-hero > div > div > div:nth-of-type(1) > div:nth-of-type(2) > div > div > h1",
+   "location": "div > *:nth-child(1) > *:nth-child(2) > *:nth-child(2) > *:nth-child(1) > *:nth-child(2) > *:nth-child(2)",
    "evidence_text": "Selamat kepada Dosen Universitas Bina Sarana Informatika Penerima Hibah DPPM Kemdiktisaintek Tahun 2026",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0052",
    "url": "https://lppm.bsi.ac.id",
-   "location": "#blog-hero > div > div > div:nth-of-type(1) > div:nth-of-type(2) > div > div > div > span:nth-of-type(2)",
+   "location": "div > *:nth-child(1) > *:nth-child(2) > *:nth-child(2) > *:nth-child(1) > *:nth-child(2) > *:nth-child(3) > *:nth-child(2)",
    "evidence_text": "on 2026-04-17",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0053",
    "url": "https://lppm.bsi.ac.id",
-   "location": "#blog-hero > div > div > div:nth-of-type(1) > div:nth-of-type(3) > div > div > h1",
+   "location": "div > *:nth-child(1) > *:nth-child(2) > *:nth-child(3) > *:nth-child(1) > *:nth-child(2) > *:nth-child(2)",
    "evidence_text": "UBSI Teliti Empat Algoritma Machine Learning untuk Deteksi Web Phishing, CatBoost Tunjukkan Akurasi Tertinggi",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0054",
    "url": "https://lppm.bsi.ac.id",
-   "location": "#blog-hero > div > div > div:nth-of-type(1) > div:nth-of-type(3) > div > div > div > span:nth-of-type(2)",
+   "location": "div > *:nth-child(1) > *:nth-child(2) > *:nth-child(3) > *:nth-child(1) > *:nth-child(2) > *:nth-child(3) > *:nth-child(2)",
    "evidence_text": "on 2025-11-21",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0055",
    "url": "https://man2tuban.sch.id",
-   "location": "#main > section:nth-of-type(2) > div > nav > h2",
+   "location": "section > *:nth-child(1) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "Navigasi",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0056",
    "url": "https://man2tuban.sch.id",
-   "location": "#main > section:nth-of-type(2) > div > nav > p",
+   "location": "section > *:nth-child(1) > *:nth-child(1) > *:nth-child(2)",
    "evidence_text": "Akses Fitur Website Lebih Cepat",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0057",
    "url": "https://man2tuban.sch.id",
-   "location": "#main > section:nth-of-type(2) > div > nav > ul > li:nth-of-type(1) > a > span:nth-of-type(2)",
+   "location": "section > *:nth-child(1) > *:nth-child(1) > *:nth-child(3) > *:nth-child(1) > *:nth-child(1) > *:nth-child(2)",
    "evidence_text": "e-Tamu",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0058",
    "url": "https://man2tuban.sch.id",
-   "location": "#main > section:nth-of-type(2) > div > nav > ul > li:nth-of-type(2) > a > span:nth-of-type(2)",
+   "location": "section > *:nth-child(1) > *:nth-child(1) > *:nth-child(3) > *:nth-child(2) > *:nth-child(1) > *:nth-child(2)",
    "evidence_text": "Raport",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0059",
    "url": "https://man2tuban.sch.id",
-   "location": "#main > section:nth-of-type(2) > div > nav > ul > li:nth-of-type(3) > a > span:nth-of-type(2)",
+   "location": "section > *:nth-child(1) > *:nth-child(1) > *:nth-child(3) > *:nth-child(3) > *:nth-child(1) > *:nth-child(2)",
    "evidence_text": "PTSP",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0060",
    "url": "https://man2tuban.sch.id",
-   "location": "#main > section:nth-of-type(2) > div > nav > ul > li:nth-of-type(4) > a > span:nth-of-type(2)",
+   "location": "section > *:nth-child(1) > *:nth-child(1) > *:nth-child(3) > *:nth-child(4) > *:nth-child(1) > *:nth-child(2)",
    "evidence_text": "PMBM",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0061",
    "url": "https://man2tuban.sch.id",
-   "location": "#main > section:nth-of-type(2) > div > nav > ul > li:nth-of-type(5) > a > span:nth-of-type(2)",
+   "location": "section > *:nth-child(1) > *:nth-child(1) > *:nth-child(3) > *:nth-child(5) > *:nth-child(1) > *:nth-child(2)",
    "evidence_text": "Prestasi",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0062",
    "url": "https://man2tuban.sch.id",
-   "location": "#main > section:nth-of-type(2) > div > nav > ul > li:nth-of-type(6) > a > span:nth-of-type(2)",
+   "location": "section > *:nth-child(1) > *:nth-child(1) > *:nth-child(3) > *:nth-child(6) > *:nth-child(1) > *:nth-child(2)",
    "evidence_text": "Kritik",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0063",
    "url": "https://man2tuban.sch.id",
-   "location": "#main > section:nth-of-type(2) > div > nav > ul > li:nth-of-type(7) > a > span:nth-of-type(2)",
+   "location": "section > *:nth-child(1) > *:nth-child(1) > *:nth-child(3) > *:nth-child(7) > *:nth-child(1) > *:nth-child(2)",
    "evidence_text": "e-Learning",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0064",
    "url": "https://man2tuban.sch.id",
-   "location": "#main > section:nth-of-type(2) > div > nav > ul > li:nth-of-type(8) > a > span:nth-of-type(2)",
+   "location": "section > *:nth-child(1) > *:nth-child(1) > *:nth-child(3) > *:nth-child(8) > *:nth-child(1) > *:nth-child(2)",
    "evidence_text": "e-Library",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0065",
    "url": "https://mappiq.sch.id",
-   "location": "#hero > div > div > div:nth-of-type(1) > h4",
+   "location": "div > *:nth-child(3)",
    "evidence_text": "Pembukaan masa pendaftaran online, Ayo segera daftarkan diri anda dan pastikan anda akan mendapatkan pendidikan yang ung",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0066",
    "url": "https://mappiq.sch.id",
-   "location": "#main > section:nth-of-type(1) > div > div > div:nth-of-type(1) > div > h3",
+   "location": "div > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > h3:nth-child(1)",
    "evidence_text": "E-Learning",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0067",
    "url": "https://mappiq.sch.id",
-   "location": "#main > section:nth-of-type(1) > div > div > div:nth-of-type(1) > div > p",
+   "location": "div > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(2)",
    "evidence_text": "SKemajuan teknologi pembelajaran menjadi salah satu perhatian PPIQ Ciomas agar kegiatan Belajar Mengajar lebih efektif m",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0068",
    "url": "https://mappiq.sch.id",
-   "location": "#main > section:nth-of-type(1) > div > div > div:nth-of-type(2) > div > h3",
+   "location": "div > *:nth-child(1) > *:nth-child(2) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "E-Raport",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0069",
    "url": "https://masdarsya.sch.id",
-   "location": "#main > section:nth-of-type(2) > div > nav > h2",
+   "location": "section > *:nth-child(1) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "Navigasi",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0070",
    "url": "https://masdarsya.sch.id",
-   "location": "#main > section:nth-of-type(2) > div > nav > p",
+   "location": "section > *:nth-child(1) > *:nth-child(1) > *:nth-child(2)",
    "evidence_text": "Akses Fitur Website Lebih Cepat",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0071",
    "url": "https://masdarsya.sch.id",
-   "location": "#main > section:nth-of-type(2) > div > nav > ul > li:nth-of-type(1) > a > span:nth-of-type(2)",
+   "location": "section > *:nth-child(1) > *:nth-child(1) > *:nth-child(3) > *:nth-child(1) > *:nth-child(1) > *:nth-child(2)",
    "evidence_text": "e-Tamu",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0072",
    "url": "https://masdarsya.sch.id",
-   "location": "#main > section:nth-of-type(2) > div > nav > ul > li:nth-of-type(2) > a > span:nth-of-type(2)",
+   "location": "section > *:nth-child(1) > *:nth-child(1) > *:nth-child(3) > *:nth-child(2) > *:nth-child(1) > *:nth-child(2)",
    "evidence_text": "Raport Madrasah",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0073",
    "url": "https://masdarsya.sch.id",
-   "location": "#main > section:nth-of-type(2) > div > nav > ul > li:nth-of-type(3) > a > span:nth-of-type(2)",
+   "location": "section > *:nth-child(1) > *:nth-child(1) > *:nth-child(3) > *:nth-child(3) > *:nth-child(1) > *:nth-child(2)",
    "evidence_text": "PTSP",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0074",
    "url": "https://masdarsya.sch.id",
-   "location": "#main > section:nth-of-type(2) > div > nav > ul > li:nth-of-type(4) > a > span:nth-of-type(2)",
+   "location": "section > *:nth-child(1) > *:nth-child(1) > *:nth-child(3) > *:nth-child(4) > *:nth-child(1) > *:nth-child(2)",
    "evidence_text": "PPDB 2026",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0075",
    "url": "https://masdarsya.sch.id",
-   "location": "#main > section:nth-of-type(2) > div > nav > ul > li:nth-of-type(5) > a > span:nth-of-type(2)",
+   "location": "section > *:nth-child(1) > *:nth-child(1) > *:nth-child(3) > *:nth-child(5) > *:nth-child(1) > *:nth-child(2)",
    "evidence_text": "Emis GTK",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0076",
    "url": "https://masdarsya.sch.id",
-   "location": "#main > section:nth-of-type(2) > div > nav > ul > li:nth-of-type(6) > a > span:nth-of-type(2)",
+   "location": "section > *:nth-child(1) > *:nth-child(1) > *:nth-child(3) > *:nth-child(6) > *:nth-child(1) > *:nth-child(2)",
    "evidence_text": "Kritik",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0077",
    "url": "https://masdarsya.sch.id",
-   "location": "#main > section:nth-of-type(3) > div > div > div > h2",
+   "location": "section > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "Program Unggulan",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0078",
    "url": "https://masdarsya.sch.id",
-   "location": "#main > section:nth-of-type(3) > div > div > div > p",
+   "location": "section > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(2)",
    "evidence_text": "Rangkaian program yang membentuk karakter dan prestasi.",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0079",
    "url": "https://www.midarunnajah2.sch.id",
-   "location": "#features > div > div:nth-of-type(1) > div:nth-of-type(1) > div > h3 > a",
+   "location": "div > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "RDM",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0080",
    "url": "https://www.midarunnajah2.sch.id",
-   "location": "#features > div > div:nth-of-type(1) > div:nth-of-type(2) > div > h3 > a",
+   "location": "div > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > h3:nth-child(2) > a:nth-child(1)",
    "evidence_text": "E-Library",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0081",
    "url": "https://www.midarunnajah2.sch.id",
-   "location": "#features > div > div:nth-of-type(1) > div:nth-of-type(3) > div > h3 > a",
+   "location": "div > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > h3:nth-child(2) > a:nth-child(1)",
    "evidence_text": "E-Learning",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0082",
    "url": "https://www.midarunnajah2.sch.id",
-   "location": "#features > div > div:nth-of-type(1) > div:nth-of-type(4) > div > h3 > a",
+   "location": "div > *:nth-child(1) > *:nth-child(4) > *:nth-child(1) > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "PPDB",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0083",
    "url": "https://www.midarunnajah2.sch.id",
-   "location": "#features > div > div:nth-of-type(1) > div:nth-of-type(5) > div > h3 > a",
+   "location": "div > *:nth-child(1) > *:nth-child(5) > *:nth-child(1) > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "Berita",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0084",
    "url": "https://www.midarunnajah2.sch.id",
-   "location": "#features > div > div:nth-of-type(1) > div:nth-of-type(6) > div > h3 > a",
+   "location": "div > *:nth-child(1) > *:nth-child(6) > *:nth-child(1) > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "Kegiatan",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0085",
    "url": "https://www.midarunnajah2.sch.id",
-   "location": "#features > div > div:nth-of-type(1) > div:nth-of-type(7) > div > h3 > a",
+   "location": "div > *:nth-child(1) > *:nth-child(7) > *:nth-child(1) > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "Video",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0086",
    "url": "https://www.midarunnajah2.sch.id",
-   "location": "#features > div > div:nth-of-type(1) > div:nth-of-type(8) > div > h3 > a",
+   "location": "div > *:nth-child(1) > *:nth-child(8) > *:nth-child(1) > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "SDM-PDSPK",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0087",
    "url": "https://oire.bru.ac.th/news",
-   "location": "#menu-item-8912 > a > span:nth-of-type(1)",
+   "location": "ul > *:nth-child(5) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "ผลงานวิชาการ",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0088",
    "url": "https://prestasiprima.ac.id",
-   "location": "#post-9 > div > div:nth-of-type(3) > div > div:nth-of-type(1) > div:nth-of-type(1) > h4 > strong",
+   "location": "div > div:nth-child(1) > h4:nth-child(1) > strong:nth-child(1)",
    "evidence_text": "Kuliah di Poltek Prestasi Prima tidak mahal",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0089",
    "url": "https://prestasiprima.ac.id",
-   "location": "#post-9 > div > div:nth-of-type(3) > div > div:nth-of-type(1) > div:nth-of-type(2) > h2 > strong",
+   "location": "div > *:nth-child(2) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "Cek Biaya Perkuliahan Disini",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0090",
    "url": "https://prestasiprima.ac.id",
-   "location": "#post-9 > div > div:nth-of-type(3) > div > div:nth-of-type(1) > div:nth-of-type(3) > div > div > div > a > div",
+   "location": "div > *:nth-child(3) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "Info Biaya Kuliah",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0091",
    "url": "https://prestasiprima.ac.id",
-   "location": "#post-9 > div > div:nth-of-type(3) > div > div:nth-of-type(2) > div:nth-of-type(1) > h4 > strong > strong",
+   "location": "div > div:nth-child(1) > h4:nth-child(1) > strong:nth-child(1) > strong:nth-child(1)",
    "evidence_text": "Tata Cara Pendaftaran Mahasiswa Baru Tahun Akademik 2025/2026",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0092",
    "url": "https://prestasiprima.ac.id",
-   "location": "#post-9 > div > div:nth-of-type(3) > div > div:nth-of-type(2) > div:nth-of-type(2) > h2 > strong",
+   "location": "div > *:nth-child(2) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "Cek Persyaratan Pendaftaran Disini",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0093",
    "url": "https://prestasiprima.ac.id",
-   "location": "#post-9 > div > div:nth-of-type(3) > div > div:nth-of-type(2) > div:nth-of-type(3) > div > div > div > a > div",
+   "location": "div > *:nth-child(3) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "Syarat Pendaftaran",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0094",
    "url": "https://prestasiprima.ac.id",
-   "location": "#post-9 > div > div:nth-of-type(4) > div > div:nth-of-type(1) > div > div > div:nth-of-type(1) > h3",
+   "location": "div > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > h3:nth-child(1)",
    "evidence_text": "Pendaftaran",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0095",
    "url": "https://sahabatqu.sch.id",
-   "location": "#swiper-wrapper-8bc2af5a5bb2107bd > div:nth-of-type(2) > div > div > div:nth-of-type(1) > div > p",
+   "location": "div > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(3)",
    "evidence_text": "Menghasilkan lulusan yang terampil dalam berpikir kritis, berkreatifitas, menghasilkan karya, memanfaatkan teknologi dig",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0096",
    "url": "https://sahabatqu.sch.id",
-   "location": "#swiper-wrapper-8bc2af5a5bb2107bd > div:nth-of-type(3) > div > div > div:nth-of-type(1) > div > p",
+   "location": "div > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(3)",
    "evidence_text": "Menghasilkan hufadz yang memiliki pemahaman islam yang lurus dan berakhlak mulia",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0097",
    "url": "https://sahabatqu.sch.id",
-   "location": "#page > div:nth-of-type(3) > section:nth-of-type(3) > div > div:nth-of-type(2) > div > section > div > div:nth-of-type(1) > div > div:nth-of-type(1) > div > div > h4 > a",
+   "location": "div > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "Cambridge Book",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0098",
    "url": "https://sd.sahabatqu.sch.id",
-   "location": "#swiper-wrapper-cf108b4f2b1a64e24 > div:nth-of-type(2) > div > div > div:nth-of-type(1) > div > p",
+   "location": "div > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(3)",
    "evidence_text": "Menghasilkan lulusan yang terampil dalam berpikir kritis, berkreatifitas, menghasilkan karya, memanfaatkan teknologi dig",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0099",
    "url": "https://sd.sahabatqu.sch.id",
-   "location": "#swiper-wrapper-cf108b4f2b1a64e24 > div:nth-of-type(3) > div > div > div:nth-of-type(1) > div > p",
+   "location": "div > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(3)",
    "evidence_text": "Menghasilkan hufadz yang memiliki pemahaman islam yang lurus dan berakhlak mulia",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0100",
    "url": "https://sd.sahabatqu.sch.id",
-   "location": "#page > div:nth-of-type(3) > section:nth-of-type(3) > div > div:nth-of-type(2) > div > section > div > div:nth-of-type(1) > div > div:nth-of-type(1) > div > div > h4 > a",
+   "location": "div > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "Cambridge Book",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0101",
    "url": "https://sditalfirdausgedawang.sch.id",
-   "location": "#swiper-wrapper-c32b833e839cf6b8 > div:nth-of-type(4) > figure > figcaption > div > div:nth-of-type(1) > div:nth-of-type(2) > div > div > div > div > h2 > a",
+   "location": "h2 > *:nth-child(1)",
    "evidence_text": "Tapak Suci",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0102",
    "url": "https://sditalfirdausgedawang.sch.id",
-   "location": "#swiper-wrapper-c32b833e839cf6b8 > div:nth-of-type(5) > figure > figcaption > div > div:nth-of-type(1) > div:nth-of-type(2) > div > div > div > div > h2 > a",
+   "location": "h2 > *:nth-child(1)",
    "evidence_text": "Latihan Panahan",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0103",
    "url": "https://sditalfirdausgedawang.sch.id",
-   "location": "#swiper-wrapper-c32b833e839cf6b8 > div:nth-of-type(6) > figure > figcaption > div > div:nth-of-type(1) > div:nth-of-type(2) > div > div > div > div > h2 > a",
+   "location": "h2 > *:nth-child(1)",
    "evidence_text": "Paduan Suara",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0104",
    "url": "https://sditalfirdausgedawang.sch.id",
-   "location": "#swiper-wrapper-c32b833e839cf6b8 > div:nth-of-type(7) > figure > figcaption > div > div:nth-of-type(1) > div:nth-of-type(2) > div > div > div > div > h2 > a",
+   "location": "h2 > *:nth-child(1)",
    "evidence_text": "Seni Tari",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0105",
    "url": "https://sditalfirdausgedawang.sch.id",
-   "location": "#swiper-wrapper-c32b833e839cf6b8 > div:nth-of-type(8) > figure > figcaption > div > div:nth-of-type(1) > div:nth-of-type(2) > div > div > div > div > h2 > a",
+   "location": "h2 > *:nth-child(1)",
    "evidence_text": "Festifal Futsal",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0106",
    "url": "https://sditalfirdausgedawang.sch.id",
-   "location": "#swiper-wrapper-c32b833e839cf6b8 > div:nth-of-type(9) > figure > figcaption > div > div:nth-of-type(1) > div:nth-of-type(2) > div > div > div > div > h2 > a",
+   "location": "h2 > *:nth-child(1)",
    "evidence_text": "Marching Band",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0107",
    "url": "https://sditalfirdausgedawang.sch.id",
-   "location": "#swiper-wrapper-c32b833e839cf6b8 > div:nth-of-type(10) > figure > figcaption > div > div:nth-of-type(1) > div:nth-of-type(2) > div > div > div > div > h2 > a",
+   "location": "h2 > *:nth-child(1)",
    "evidence_text": "Giat Pramuka",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0108",
    "url": "https://sditalfirdausgedawang.sch.id",
-   "location": "#swiper-wrapper-c32b833e839cf6b8 > div:nth-of-type(11) > figure > figcaption > div > div:nth-of-type(1) > div:nth-of-type(2) > div > div > div > div > h2 > a",
+   "location": "h2 > *:nth-child(1)",
    "evidence_text": "Dokter Kecil",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0109",
    "url": "https://sditalfirdausgedawang.sch.id",
-   "location": "#swiper-wrapper-c32b833e839cf6b8 > div:nth-of-type(12) > figure > figcaption > div > div:nth-of-type(1) > div:nth-of-type(2) > div > div > div > div > h2 > a",
+   "location": "h2 > *:nth-child(1)",
    "evidence_text": "Tekno Kids",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0110",
    "url": "https://www.sdnngaglik01.sch.id",
-   "location": "#rslides1_s0 > div > div",
+   "location": "li > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "Rombongan Forum Komunikasi Kepala Sekolah Perempuan Kab.Sumbawa dalam Study banding di SDN Ngaglik 01 Kota Batu",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0111",
    "url": "https://www.sdnngaglik01.sch.id",
-   "location": "#rslides1_s5 > div > div",
+   "location": "li > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "Kunjungan Bapak / Ibu guru dari Rangkasbitung",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0112",
    "url": "https://www.sdnngaglik01.sch.id",
-   "location": "#rslides1_s6 > div > div",
+   "location": "li > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "Kunjungan Bapak / Ibu guru dari Pasuruan",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0113",
    "url": "https://www.sdnngaglik01.sch.id",
-   "location": "#rslides1_s7 > div > div",
+   "location": "li > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "Penghargaan kepada siswa-siswi berprestasi didampingi Ibu kepala sekolah dan guru pembimbing",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0114",
    "url": "https://www.sdnngaglik01.sch.id",
-   "location": "#rslides1_s8 > div > div",
+   "location": "li > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "Antusiasme para peserta didik mengikuti kegiatan sehat sikat gigi bersama",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0115",
    "url": "https://www.sdnngaglik01.sch.id",
-   "location": "#rslides1_s9 > div > div",
+   "location": "li > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "Ikatan Dokter Gigi Indonesia",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0116",
    "url": "https://www.sdnngaglik01.sch.id",
-   "location": "#rslides1_s10 > div > div",
+   "location": "li > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "Foto bersama acara festival Egrang 2022",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0117",
    "url": "https://www.sdnngaglik01.sch.id",
-   "location": "#rslides1_s11 > div > div",
+   "location": "li > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "Sambutan dari Bapak Daud Andoko perwakilan dari dinas Pendidikan dalam acara KKG 2022",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0118",
    "url": "https://www.sdnngaglik01.sch.id",
-   "location": "#rslides1_s12 > div > div",
+   "location": "li > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "Gerbang utama SDN Ngaglik 01 Kota BATU",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0119",
    "url": "https://www.sdnngaglik01.sch.id",
-   "location": "#rslides1_s13 > div > div",
+   "location": "li > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "Kunjungan Kegiatan peserta observasi lapangan diklat tim penilai angka kredit jabatan guru pemkab bojonegoro",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0120",
    "url": "https://www.sebapo.desa.id",
-   "location": "body > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(4) > div:nth-of-type(2) > div > div > div:nth-of-type(1) > main > section > div > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a > div > div > div > h1",
+   "location": "div > div:nth-child(1) > h1:nth-child(1)",
    "evidence_text": "Pemerintah Desa Sebapo",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0121",
    "url": "https://sma1-sukawati.sch.id",
-   "location": "#rslides1_s2 > div > div > h2 > a",
+   "location": "li > *:nth-child(1) > *:nth-child(2) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "Membanggakan! JST Raih Juara 1 dalam Ajang Operet This Week 2026.",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0122",
    "url": "https://sma1-sukawati.sch.id",
-   "location": "#rslides1_s2 > div > div > p",
+   "location": "li > *:nth-child(1) > *:nth-child(2) > *:nth-child(2)",
    "evidence_text": "Ekstrakurikuler Jungut Sari Teater (JST) SMA Negeri 1 Sukawati berhasil meraih juara 1 dalam perlombaan Operet This Week",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0123",
    "url": "https://sma1-sukawati.sch.id",
-   "location": "#rslides1_s2 > div > div > p > span",
+   "location": "li > *:nth-child(1) > *:nth-child(2) > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "[06/09/2026]",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0124",
    "url": "https://sma1-sukawati.sch.id",
-   "location": "#rslides1_s2 > div > div > a",
+   "location": "li > *:nth-child(1) > *:nth-child(2) > *:nth-child(3)",
    "evidence_text": "Selengkapnya",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0125",
    "url": "https://sma1-sukawati.sch.id",
-   "location": "#transparent-btns2_s2 > div > p:nth-of-type(1) > strong",
+   "location": "li > *:nth-child(2) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "I Wayan Gede Aditya Pratita, S.Pd., M.Sn",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0126",
    "url": "https://sma1-sukawati.sch.id",
-   "location": "#transparent-btns2_s2 > div > p:nth-of-type(2)",
+   "location": "li > *:nth-child(2) > *:nth-child(2)",
    "evidence_text": "Wakil Kepala Sekolah Bidang Kesiswaan",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0127",
    "url": "https://sma1-sukawati.sch.id",
-   "location": "#transparent-btns2_s3 > div > p:nth-of-type(1) > strong",
+   "location": "li > *:nth-child(2) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "Ni Wayan Nopi Sutantri, S.Pd.",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0128",
    "url": "https://sma1-sukawati.sch.id",
-   "location": "#transparent-btns2_s3 > div > p:nth-of-type(2)",
+   "location": "li > *:nth-child(2) > *:nth-child(2)",
    "evidence_text": "Wakil Kepala Sekolah Humas",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0129",
    "url": "https://stikesbup.ac.id",
-   "location": "#content > section:nth-of-type(1) > div > div:nth-of-type(2) > div:nth-of-type(2) > div > span",
+   "location": "div > *:nth-child(2) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "Cerdas Berkarya",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0130",
    "url": "https://stikesbup.ac.id",
-   "location": "#content > section:nth-of-type(1) > div > div:nth-of-type(2) > div:nth-of-type(2) > div > h2",
+   "location": "div > *:nth-child(2) > *:nth-child(1) > *:nth-child(2)",
    "evidence_text": "Pendidikan Berkarakter & Berdaya Saing Global",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0131",
    "url": "https://stikesbup.ac.id",
-   "location": "#content > section:nth-of-type(1) > div > div:nth-of-type(2) > div:nth-of-type(2) > div > p",
+   "location": "div > *:nth-child(2) > *:nth-child(1) > *:nth-child(3)",
    "evidence_text": "Kurikulum modern yang diintegrasikan dengan praktik langsung di laboratorium berstandar nasional dan internasional.",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0132",
    "url": "https://stikesbup.ac.id",
-   "location": "#content > section:nth-of-type(1) > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div > a:nth-of-type(1)",
+   "location": "div > *:nth-child(2) > *:nth-child(1) > *:nth-child(4) > *:nth-child(1)",
    "evidence_text": "Program Studi",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0133",
    "url": "https://stikesbup.ac.id",
-   "location": "#content > section:nth-of-type(1) > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div > a:nth-of-type(2)",
+   "location": "div > *:nth-child(2) > *:nth-child(1) > *:nth-child(4) > *:nth-child(2)",
    "evidence_text": "Fasilitas Kampus",
    "subtype": "neg_animation_state"
   },
   {
    "id": "TR-RN-0134",
    "url": "https://www.sebapo.desa.id",
-   "location": "body > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(4) > div > div > div:nth-of-type(2) > div:nth-of-type(1) > h2",
+   "location": "div > h2:nth-child(1)",
    "evidence_text": "Desa Sebapo",
    "subtype": "neg_gradient_text_fill"
   },
@@ -871,2982 +871,2982 @@
   {
    "id": "TR-RN-0136",
    "url": "https://www.assyafiiyahmendut.sch.id",
-   "location": "#menu-primary-menu > li:nth-of-type(2) > a",
+   "location": "div > div:nth-child(1) > div:nth-child(1) > header:nth-child(1) > div:nth-child(1) > div:nth-child(1) > nav:nth-child(1) > ul:nth-child(1) > li:nth-child(1) > a:nth-child(1)",
    "evidence_text": "Tentang Kami",
    "subtype": "neg_menu_dropdown"
   },
   {
    "id": "TR-RN-0137",
    "url": "https://www.assyafiiyahmendut.sch.id",
-   "location": "#menu-primary-menu > li:nth-of-type(3) > a",
+   "location": "div > div:nth-child(1) > div:nth-child(1) > header:nth-child(1) > div:nth-child(1) > div:nth-child(1) > nav:nth-child(1) > ul:nth-child(1) > li:nth-child(1) > a:nth-child(1)",
    "evidence_text": "Info Sekolah",
    "subtype": "neg_menu_dropdown"
   },
   {
    "id": "TR-RN-0138",
    "url": "https://www.assyafiiyahmendut.sch.id",
-   "location": "#menu-primary-menu > li:nth-of-type(5) > a",
+   "location": "div > div:nth-child(1) > div:nth-child(1) > header:nth-child(1) > div:nth-child(1) > div:nth-child(1) > nav:nth-child(1) > ul:nth-child(1) > li:nth-child(1) > a:nth-child(1)",
    "evidence_text": "Galeri",
    "subtype": "neg_menu_dropdown"
   },
   {
    "id": "TR-RN-0139",
    "url": "https://delivery.dusit.ac.th",
-   "location": "#mobile-menu > li:nth-of-type(1) > a",
+   "location": "nav > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "หน้าแรก",
    "subtype": "neg_menu_dropdown"
   },
   {
    "id": "TR-RN-0140",
    "url": "https://delivery.dusit.ac.th",
-   "location": "#mobile-menu > li:nth-of-type(2) > a",
+   "location": "nav > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "จุลสาร",
    "subtype": "neg_menu_dropdown"
   },
   {
    "id": "TR-RN-0141",
    "url": "https://delivery.dusit.ac.th",
-   "location": "#mobile-menu > li:nth-of-type(3) > a",
+   "location": "nav > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(3) > *:nth-child(1)",
    "evidence_text": "เกี่ยวกับเรา",
    "subtype": "neg_menu_dropdown"
   },
   {
    "id": "TR-RN-0142",
    "url": "https://iaai.kmitl.ac.th",
-   "location": "#kingster-page-wrapper > div:nth-of-type(2) > div:nth-of-type(8) > div:nth-of-type(2) > div > div:nth-of-type(4) > div > div > div > div > div > div > div > p > strong",
+   "location": "div > *:nth-child(1) > *:nth-child(4) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(3) > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "Double Degree Program (Optional)",
    "subtype": "neg_menu_dropdown"
   },
   {
    "id": "TR-RN-0143",
    "url": "https://iaai.kmitl.ac.th",
-   "location": "#kingster-page-wrapper > div:nth-of-type(2) > div:nth-of-type(8) > div:nth-of-type(2) > div > div:nth-of-type(5) > div > div > div > div > div > div > div > p",
+   "location": "div > *:nth-child(1) > *:nth-child(5) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(3) > *:nth-child(2)",
    "evidence_text": "Admissions open for Academic Year 2026. This international English-medium program combines Aviation, Logistics, AI, IoT,",
    "subtype": "neg_menu_dropdown"
   },
   {
    "id": "TR-RN-0144",
    "url": "https://misrqibternate.sch.id",
-   "location": "#menu-item-32 > a",
+   "location": "ul > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "RDM",
    "subtype": "neg_menu_dropdown"
   },
   {
    "id": "TR-RN-0145",
    "url": "https://misrqibternate.sch.id",
-   "location": "#menu-item-33 > a",
+   "location": "ul > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "CBT5",
    "subtype": "neg_menu_dropdown"
   },
   {
    "id": "TR-RN-0146",
    "url": "https://misrqibternate.sch.id",
-   "location": "#menu-item-150 > a",
+   "location": "ul > *:nth-child(3) > *:nth-child(1)",
    "evidence_text": "PROFIL",
    "subtype": "neg_menu_dropdown"
   },
   {
    "id": "TR-RN-0147",
    "url": "https://misrqibternate.sch.id",
-   "location": "#menu-item-292 > a",
+   "location": "ul > *:nth-child(4) > *:nth-child(1)",
    "evidence_text": "CBT AKMI",
    "subtype": "neg_menu_dropdown"
   },
   {
    "id": "TR-RN-0148",
    "url": "https://sdilmubinaselamat.sch.id",
-   "location": "#menu-item-55 > a",
+   "location": "ul > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "FORM PERNYATAAN ORTU CALON SISWA BARU",
    "subtype": "neg_menu_dropdown"
   },
   {
    "id": "TR-RN-0149",
    "url": "https://sdit-buahhati-clp.sch.id",
-   "location": "#menu-item-201 > a",
+   "location": "ul > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "Tenaga Pendidik",
    "subtype": "neg_menu_dropdown"
   },
   {
    "id": "TR-RN-0150",
    "url": "https://stikesbup.ac.id",
-   "location": "#content > section:nth-of-type(8) > div > div:nth-of-type(2) > article:nth-of-type(3) > div:nth-of-type(2) > p",
+   "location": "article > *:nth-child(2) > *:nth-child(3)",
    "evidence_text": "Pati – STIKES Bakti Utama Pati (BUP) kembali menunjukkan komitmennya dalam pengabdian kepada masyarakat melalui kegiatan",
    "subtype": "neg_menu_dropdown"
   },
   {
    "id": "TR-RN-0151",
    "url": "https://alhilal.or.id",
-   "location": "body > div:nth-of-type(3) > a",
+   "location": "div > *:nth-child(3)",
    "evidence_text": "Powered by",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0152",
    "url": "https://alhilal.or.id",
-   "location": "body > div:nth-of-type(3) > a > span",
+   "location": "a > *:nth-child(1)",
    "evidence_text": "Joinchat",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0153",
    "url": "https://www.assyafiiyahmendut.sch.id",
-   "location": "#top-bar-inner > div > div:nth-of-type(2) > div > span:nth-of-type(1)",
+   "location": "div > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > span:nth-child(1)",
    "evidence_text": "Follow us:",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0154",
    "url": "https://www.assyafiiyahmendut.sch.id",
-   "location": "#menu-primary-menu > li:nth-of-type(1) > a",
+   "location": "div > div:nth-child(1) > div:nth-child(1) > header:nth-child(1) > div:nth-child(1) > div:nth-child(1) > nav:nth-child(1) > ul:nth-child(1) > li:nth-child(1) > a:nth-child(1)",
    "evidence_text": "Home",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0155",
    "url": "https://www.assyafiiyahmendut.sch.id",
-   "location": "#menu-primary-menu > li:nth-of-type(4) > a",
+   "location": "div > div:nth-child(1) > div:nth-child(1) > header:nth-child(1) > div:nth-child(1) > div:nth-child(1) > nav:nth-child(1) > ul:nth-child(1) > li:nth-child(1) > a:nth-child(1)",
    "evidence_text": "Agenda Kegiatan",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0156",
    "url": "https://www.assyafiiyahmendut.sch.id",
-   "location": "#menu-primary-menu > li:nth-of-type(6) > a",
+   "location": "div > div:nth-child(1) > div:nth-child(1) > header:nth-child(1) > div:nth-child(1) > div:nth-child(1) > nav:nth-child(1) > ul:nth-child(1) > li:nth-child(1) > a:nth-child(1)",
    "evidence_text": "PPDB",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0157",
    "url": "https://www.assyafiiyahmendut.sch.id",
-   "location": "#menu-primary-menu > li:nth-of-type(7) > a",
+   "location": "div > div:nth-child(1) > div:nth-child(1) > header:nth-child(1) > div:nth-child(1) > div:nth-child(1) > nav:nth-child(1) > ul:nth-child(1) > li:nth-child(1) > a:nth-child(1)",
    "evidence_text": "Hubungi Kami",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0158",
    "url": "https://www.atbis.ac.th",
-   "location": "#content > article > div > div:nth-of-type(2) > div > div > div:nth-of-type(2) > div > section > div > article:nth-of-type(2) > div:nth-of-type(1) > div > div:nth-of-type(2) > div > div > div > div > div > ul:nth-of-type(2) > li:nth-of-type(1) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "Previous",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0159",
    "url": "https://www.atbis.ac.th",
-   "location": "#content > article > div > div:nth-of-type(2) > div > div > div:nth-of-type(2) > div > section > div > article:nth-of-type(2) > div:nth-of-type(1) > div > div:nth-of-type(2) > div > div > div > div > div > ul:nth-of-type(2) > li:nth-of-type(2) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "Next",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0160",
    "url": "https://www.bhavkunjschool.ac.in",
-   "location": "#Content > div > div > div > div > div > div > div:nth-of-type(3) > div:nth-of-type(1) > div > div > div > h2",
+   "location": "div > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > h2:nth-child(1)",
    "evidence_text": "OUR MISSION",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0161",
    "url": "https://www.bhavkunjschool.ac.in",
-   "location": "#Content > div > div > div > div > div > div > div:nth-of-type(3) > div:nth-of-type(2) > div > div > div:nth-of-type(1) > div:nth-of-type(1) > div > div > div > div:nth-of-type(2) > span",
+   "location": "div > span:nth-child(1)",
    "evidence_text": "A personal and active faith in God",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0162",
    "url": "https://www.bhavkunjschool.ac.in",
-   "location": "#Content > div > div > div > div > div > div > div:nth-of-type(3) > div:nth-of-type(2) > div > div > div:nth-of-type(1) > div:nth-of-type(2) > div > div > div > div:nth-of-type(2) > span",
+   "location": "div > span:nth-child(1)",
    "evidence_text": "Personal growth in an atmosphere of wise freedom",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0163",
    "url": "https://www.bhavkunjschool.ac.in",
-   "location": "#Content > div > div > div > div > div > div > div:nth-of-type(3) > div:nth-of-type(2) > div > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div > div > div:nth-of-type(2) > span",
+   "location": "div > span:nth-child(1)",
    "evidence_text": "The building of community as an INDIAN value",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0164",
    "url": "https://www.bhavkunjschool.ac.in",
-   "location": "#Content > div > div > div > div > div > div > div:nth-of-type(3) > div:nth-of-type(2) > div > div > div:nth-of-type(3) > div:nth-of-type(1) > div > div > div > div:nth-of-type(2) > span",
+   "location": "div > span:nth-child(1)",
    "evidence_text": "A deep respect for intellectual values",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0165",
    "url": "https://budiasih.desa.id",
-   "location": "body > div:nth-of-type(14) > section:nth-of-type(1) > div > div:nth-of-type(1) > div > div > h2",
+   "location": "section > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > h2:nth-child(1)",
    "evidence_text": "BERITA",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0166",
    "url": "https://budiasih.desa.id",
-   "location": "body > div:nth-of-type(14) > section:nth-of-type(1) > div > div:nth-of-type(1) > div > div > h2 > span",
+   "location": "section > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > h2:nth-child(1) > span:nth-child(1)",
    "evidence_text": "TERBARU",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0167",
    "url": "https://budiasih.desa.id",
-   "location": "body > div:nth-of-type(14) > section:nth-of-type(1) > div > div:nth-of-type(2) > section > div > div > div > a > article > div > div > div > div:nth-of-type(1)",
+   "location": "div > *:nth-child(2) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "Pembangunan",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0168",
    "url": "https://budiasih.desa.id",
-   "location": "body > div:nth-of-type(14) > section:nth-of-type(1) > div > div:nth-of-type(2) > section > div > div > div > a > article > div > div > div > div:nth-of-type(2) > h2",
+   "location": "div > h2:nth-child(1)",
    "evidence_text": "Berita Desa Budiasih",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0169",
    "url": "https://budiasih.desa.id",
-   "location": "body > div:nth-of-type(14) > section:nth-of-type(2) > div > div:nth-of-type(1) > div > div > h2",
+   "location": "section > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "POTENSI DESA",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0170",
    "url": "https://dekranasda.sambas.go.id/produk",
-   "location": "#eael-product-carousel-e2c6342 > div:nth-of-type(1) > div > div:nth-of-type(1) > div > div:nth-of-type(3) > div > div:nth-of-type(1) > div:nth-of-type(1) > div > h2",
+   "location": "div > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > h2:nth-child(1)",
    "evidence_text": "Keranjang Rotan",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0171",
    "url": "https://dekranasda.sambas.go.id/produk",
-   "location": "#eael-product-carousel-e2c6342 > div:nth-of-type(1) > div > div:nth-of-type(1) > div > div:nth-of-type(3) > div > div:nth-of-type(1) > div:nth-of-type(2) > span > bdi > span",
+   "location": "div > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > span:nth-child(1) > bdi:nth-child(1) > span:nth-child(1)",
    "evidence_text": "Rp",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0172",
    "url": "https://dekranasda.sambas.go.id/produk",
-   "location": "#eael-product-carousel-e2c6342 > div:nth-of-type(1) > div > div:nth-of-type(2) > div > div:nth-of-type(3) > div > div:nth-of-type(1) > div:nth-of-type(1) > div > h2",
+   "location": "div > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > h2:nth-child(1)",
    "evidence_text": "Peci Tenun Kristal",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0173",
    "url": "https://iaai.kmitl.ac.th",
-   "location": "#gdlr-core-column-21939 > div > div:nth-of-type(2) > div:nth-of-type(1) > div > div > h4",
+   "location": "div > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(2) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "What we offer",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0174",
    "url": "https://iaai.kmitl.ac.th",
-   "location": "#gdlr-core-column-21939 > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div > p:nth-of-type(1)",
+   "location": "div > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(2) > *:nth-child(2) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "Nowadays, the increasing demand for professionals in the field of aviation, aerospace and logistics are now becoming pop",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0175",
    "url": "https://iaai.kmitl.ac.th",
-   "location": "#gdlr-core-column-21939 > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div > p:nth-of-type(2)",
+   "location": "div > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(2) > *:nth-child(2) > *:nth-child(1) > *:nth-child(1) > *:nth-child(2)",
    "evidence_text": "With Thailand’s rapid economic growth, individuals with profound skills in aeronautical engineering, logistics, and aero",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0176",
    "url": "https://iaai.kmitl.ac.th",
-   "location": "#kingster-page-wrapper > div:nth-of-type(2) > div:nth-of-type(8) > div:nth-of-type(2) > div > div:nth-of-type(2) > div > div > div > div > div > div > h3",
+   "location": "div > *:nth-child(1) > *:nth-child(2) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(2)",
    "evidence_text": "Aeronautical Engineering and Commercial Pilot Program",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0177",
    "url": "https://idi.nalsar.ac.in",
-   "location": "#av_section_1 > div > div > div > div > div:nth-of-type(6) > div > h3",
+   "location": "div > div:nth-child(1) > h3:nth-child(1)",
    "evidence_text": "About NALSAR",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0178",
    "url": "https://idi.nalsar.ac.in",
-   "location": "#av_section_1 > div > div > div > div > div:nth-of-type(6) > section > div > p",
+   "location": "div > *:nth-child(2) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "NALSAR University of Law was established to strengthen the pillars of justice, equality and fair play as well as to incu",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0179",
    "url": "https://idi.nalsar.ac.in",
-   "location": "#av_section_1 > div > div > div > div > div:nth-of-type(6) > section > div > p > a",
+   "location": "div > *:nth-child(2) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "Read more",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0180",
    "url": "https://idi.nalsar.ac.in",
-   "location": "#av_section_1 > div > div > div > div > div:nth-of-type(7) > div > h3",
+   "location": "div > div:nth-child(1) > h3:nth-child(1)",
    "evidence_text": "About IDI",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0181",
    "url": "https://idi.nalsar.ac.in",
-   "location": "#av_section_1 > div > div > div > div > div:nth-of-type(7) > section > div > p",
+   "location": "div > *:nth-child(2) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "The Institute of International Law was established in 1873 by a group of distinguished international lawyers. The main o",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0182",
    "url": "https://idi.nalsar.ac.in",
-   "location": "#av_section_2 > div > div > div > div > div:nth-of-type(3) > div > div:nth-of-type(1) > p",
+   "location": "div > div:nth-child(1) > div:nth-child(1) > p:nth-child(1)",
    "evidence_text": "Stay up to date",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0183",
    "url": "https://idi.nalsar.ac.in",
-   "location": "#av_section_2 > div > div > div > div > div:nth-of-type(3) > div > h3",
+   "location": "div > *:nth-child(1) > *:nth-child(2)",
    "evidence_text": "Latest News",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0184",
    "url": "https://www.kepkspsi.or.id",
-   "location": "#post-333 > div > div > div:nth-of-type(1) > div:nth-of-type(3) > div > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div > div > div:nth-of-type(2) > h4 > span",
+   "location": "div > *:nth-child(1) > *:nth-child(2) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "Penguatan Kapasitas Organisasi",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0185",
    "url": "https://www.kepkspsi.or.id",
-   "location": "#post-333 > div > div > div:nth-of-type(1) > div:nth-of-type(3) > div > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div > div > div:nth-of-type(2) > h4 > span",
+   "location": "div > *:nth-child(1) > *:nth-child(2) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "Perlindungan dan Kesejahteraan Pekerja",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0186",
    "url": "https://www.kepkspsi.or.id",
-   "location": "#post-333 > div > div > div:nth-of-type(1) > div:nth-of-type(3) > div > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div > div > div:nth-of-type(2) > h4 > span",
+   "location": "div > *:nth-child(1) > *:nth-child(2) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "Hubungan Industrial yang Sehat dan Berkeadilan",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0187",
    "url": "https://www.kepkspsi.or.id",
-   "location": "#post-333 > div > div > div:nth-of-type(1) > div:nth-of-type(3) > div > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div > div > div:nth-of-type(2) > h4 > span",
+   "location": "div > *:nth-child(1) > *:nth-child(2) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "Pendidikan dan Pemberdayaan Anggota",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0188",
    "url": "https://www.kepkspsi.or.id",
-   "location": "#post-333 > div > div > div:nth-of-type(1) > div:nth-of-type(3) > div > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > div > div > div:nth-of-type(2) > h4 > span",
+   "location": "div > *:nth-child(1) > *:nth-child(2) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "Kemandirian Ekonomi Serikat",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0189",
    "url": "https://www.kepkspsi.or.id",
-   "location": "#post-333 > div > div > div:nth-of-type(1) > div:nth-of-type(3) > div > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(2) > div > div > div:nth-of-type(2) > h4 > span",
+   "location": "div > *:nth-child(1) > *:nth-child(2) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "Advokasi dan Kebijakan Publik",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0190",
    "url": "https://www.kepkspsi.or.id",
-   "location": "#post-333 > div > div > div:nth-of-type(1) > div:nth-of-type(3) > div > div:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(1) > div > div > div:nth-of-type(2) > h4 > span",
+   "location": "div > *:nth-child(1) > *:nth-child(2) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "Solidaritas Nasional dan Internasional",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0191",
    "url": "https://www.kepkspsi.or.id",
-   "location": "#post-333 > div > div > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(2) > h4 > a",
+   "location": "div > *:nth-child(1) > *:nth-child(2) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "Pedoman Undang-Undang",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0192",
    "url": "https://www.kepkspsi.or.id",
-   "location": "#post-333 > div > div > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(3) > div > div:nth-of-type(2) > h4 > a",
+   "location": "div > *:nth-child(1) > *:nth-child(2) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "Peraturan Pemerintah",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0193",
    "url": "https://www.kepkspsi.or.id",
-   "location": "#post-333 > div > div > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(4) > div > div:nth-of-type(2) > h4 > a",
+   "location": "div > *:nth-child(1) > *:nth-child(2) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "Permenaker",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0194",
    "url": "https://lppm.unindra.ac.id",
-   "location": "#post-12 > div > div > div > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > h3",
+   "location": "div > *:nth-child(2)",
    "evidence_text": "Penelitian",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0195",
    "url": "https://lppm.unindra.ac.id",
-   "location": "#post-12 > div > div > div > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > h3",
+   "location": "div > *:nth-child(2)",
    "evidence_text": "PkM",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0196",
    "url": "https://mappiq.sch.id",
-   "location": "#values > div > div > div:nth-of-type(1) > div > h3",
+   "location": "div > *:nth-child(2) > *:nth-child(1) > *:nth-child(1) > *:nth-child(2)",
    "evidence_text": "Program Tahfizh Quran",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0197",
    "url": "https://mappiq.sch.id",
-   "location": "#values > div > div > div:nth-of-type(1) > div > p",
+   "location": "div > *:nth-child(2) > *:nth-child(1) > *:nth-child(1) > *:nth-child(3)",
    "evidence_text": "Program Khusus Hafalan Al-Qur'an Yang Menjadi Ciri Khas PPIQ",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0198",
    "url": "https://mappiq.sch.id",
-   "location": "#values > div > div > div:nth-of-type(2) > div > h3",
+   "location": "div > *:nth-child(2) > *:nth-child(2) > *:nth-child(1) > *:nth-child(2)",
    "evidence_text": "Pendidikan Formal",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0199",
    "url": "https://mappiq.sch.id",
-   "location": "#values > div > div > div:nth-of-type(2) > div > p",
+   "location": "div > *:nth-child(2) > *:nth-child(2) > *:nth-child(1) > *:nth-child(3)",
    "evidence_text": "Menyelenggarakan Pendidikan Formal Setingkat SMP dan SMA dengan kurikulum terpadu",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0200",
    "url": "https://mappiq.sch.id",
-   "location": "#values > div > div > div:nth-of-type(3) > div > h3",
+   "location": "div > *:nth-child(2) > *:nth-child(3) > *:nth-child(1) > *:nth-child(2)",
    "evidence_text": "Kajian Kitab Kuning",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0201",
    "url": "https://mekarmukti-cisaga.desa.id",
-   "location": "body > div:nth-of-type(14) > section:nth-of-type(1) > div > div:nth-of-type(1) > div > div > h2",
+   "location": "section > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "BERITA",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0202",
    "url": "https://mekarmukti-cisaga.desa.id",
-   "location": "body > div:nth-of-type(14) > section:nth-of-type(1) > div > div:nth-of-type(1) > div > div > h2 > span",
+   "location": "section > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "TERBARU",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0203",
    "url": "https://mekarmukti-cisaga.desa.id",
-   "location": "body > div:nth-of-type(14) > section:nth-of-type(2) > div > div:nth-of-type(1) > div > div > h2",
+   "location": "section > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "POTENSI DESA",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0204",
    "url": "https://mekarmukti-cisaga.desa.id",
-   "location": "body > div:nth-of-type(14) > section:nth-of-type(3) > div > div:nth-of-type(1) > div > h2",
+   "location": "section > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "Aparatur",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0205",
    "url": "https://mekarmukti-cisaga.desa.id",
-   "location": "body > div:nth-of-type(14) > section:nth-of-type(3) > div > div:nth-of-type(1) > div > h2 > strong",
+   "location": "section > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "Desa",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0206",
    "url": "https://nhitm.ac.in/research",
-   "location": "#zolo_counter_1 > div > div:nth-of-type(2) > div:nth-of-type(1) > div > span",
+   "location": "div > span:nth-child(1)",
    "evidence_text": "72",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0207",
    "url": "https://nhitm.ac.in/research",
-   "location": "#zolo_counter_4 > div > div:nth-of-type(2) > div:nth-of-type(1) > div > span",
+   "location": "div > span:nth-child(1)",
    "evidence_text": "83",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0208",
    "url": "https://nijpcr.nou.edu.ng",
-   "location": "#et-boc > div > div > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div > div > h3:nth-of-type(3) > span",
+   "location": "div > *:nth-child(1) > *:nth-child(3) > *:nth-child(1)",
    "evidence_text": "Indexed",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0209",
    "url": "https://nijpcr.nou.edu.ng",
-   "location": "#et-boc > div > div > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div > div > p > span",
+   "location": "div > *:nth-child(1) > *:nth-child(4) > *:nth-child(1)",
    "evidence_text": "Increase visibility, availability, and readership of your work on internet which attracts good citations.",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0210",
    "url": "https://nijpcr.nou.edu.ng",
-   "location": "#et-boc > div > div > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(2) > div > div > h3:nth-of-type(4) > span",
+   "location": "div > *:nth-child(1) > *:nth-child(4) > *:nth-child(1)",
    "evidence_text": "Widely Cited",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0211",
    "url": "https://nijpcr.nou.edu.ng",
-   "location": "#et-boc > div > div > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(2) > div > div > p > span",
+   "location": "div > *:nth-child(1) > *:nth-child(5) > *:nth-child(1)",
    "evidence_text": "Open access means that your work will always be freely available to the world from our Web site.",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0212",
    "url": "https://nijpcr.nou.edu.ng",
-   "location": "#et-boc > div > div > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(3) > div > div > h3:nth-of-type(3) > span",
+   "location": "div > *:nth-child(1) > *:nth-child(3) > *:nth-child(1)",
    "evidence_text": "Peer-Reviewed",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0213",
    "url": "https://nijpcr.nou.edu.ng",
-   "location": "#et-boc > div > div > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(3) > div > div > p > span",
+   "location": "div > *:nth-child(1) > *:nth-child(4) > *:nth-child(1)",
    "evidence_text": "All articles are evaluated using criteria including the excellence, novelty and significance of the research or ideas.",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0214",
    "url": "https://nijpcr.nou.edu.ng",
-   "location": "#et-boc > div > div > div:nth-of-type(2) > div:nth-of-type(4) > div:nth-of-type(1) > div > div > h3:nth-of-type(3) > span",
+   "location": "div > *:nth-child(1) > *:nth-child(3) > *:nth-child(1)",
    "evidence_text": "Great Team",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0215",
    "url": "https://nijpcr.nou.edu.ng",
-   "location": "#et-boc > div > div > div:nth-of-type(2) > div:nth-of-type(4) > div:nth-of-type(1) > div > div > p:nth-of-type(1) > span",
+   "location": "div > *:nth-child(1) > *:nth-child(4) > *:nth-child(1)",
    "evidence_text": "We promote strong working relationship",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0216",
    "url": "https://nijpcr.nou.edu.ng",
-   "location": "#et-boc > div > div > div:nth-of-type(2) > div:nth-of-type(4) > div:nth-of-type(2) > div > div > h3:nth-of-type(3) > span",
+   "location": "div > *:nth-child(1) > *:nth-child(3) > *:nth-child(1)",
    "evidence_text": "Error Free Documents",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0217",
    "url": "https://nijpcr.nou.edu.ng",
-   "location": "#et-boc > div > div > div:nth-of-type(2) > div:nth-of-type(4) > div:nth-of-type(2) > div > div > p:nth-of-type(1) > span",
+   "location": "div > *:nth-child(1) > *:nth-child(4) > *:nth-child(1)",
    "evidence_text": "You are provided with the steps you should take to ensure that your documents are error-free and ready to submit.",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0218",
    "url": "https://nou.edu.ng",
-   "location": "#post-22 > div > div > div > div:nth-of-type(7) > div:nth-of-type(1) > div:nth-of-type(3) > div > div > div > div > div > div > h4 > a",
+   "location": "div > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > h4:nth-child(1) > a:nth-child(1)",
    "evidence_text": "Certificate in professional caregiving for the elderly",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0219",
    "url": "https://nou.edu.ng",
-   "location": "#post-22 > div > div > div > div:nth-of-type(7) > div:nth-of-type(1) > div:nth-of-type(4) > div > div > div > div > div > div > h4 > a",
+   "location": "div > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > h4:nth-child(1) > a:nth-child(1)",
    "evidence_text": "Certificate in professional child care",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0220",
    "url": "https://nou.edu.ng",
-   "location": "#post-22 > div > div > div > div:nth-of-type(7) > div:nth-of-type(2) > div > div > div > h1 > span > strong",
+   "location": "div > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > h1:nth-child(1) > span:nth-child(1) > strong:nth-child(1)",
    "evidence_text": "Faculties",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0221",
    "url": "https://nou.edu.ng",
-   "location": "#post-22 > div > div > div > div:nth-of-type(7) > div:nth-of-type(3) > div:nth-of-type(1) > div > div > h3 > strong",
+   "location": "div > *:nth-child(1) > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "Agricultural Sciences",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0222",
    "url": "https://nou.edu.ng",
-   "location": "#post-22 > div > div > div > div:nth-of-type(7) > div:nth-of-type(3) > div:nth-of-type(2) > div > div > h3 > strong",
+   "location": "div > *:nth-child(1) > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "Arts",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0223",
    "url": "https://nou.edu.ng",
-   "location": "#post-22 > div > div > div > div:nth-of-type(7) > div:nth-of-type(3) > div:nth-of-type(3) > div > div > h3:nth-of-type(2) > strong",
+   "location": "div > *:nth-child(1) > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "Computing",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0224",
    "url": "https://nou.edu.ng",
-   "location": "#post-22 > div > div > div > div:nth-of-type(7) > div:nth-of-type(4) > div:nth-of-type(1) > div > div > h3 > strong",
+   "location": "div > *:nth-child(1) > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "Education",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0225",
    "url": "https://nou.edu.ng",
-   "location": "#post-22 > div > div > div > div:nth-of-type(7) > div:nth-of-type(4) > div:nth-of-type(2) > div > div > h3 > strong",
+   "location": "div > *:nth-child(1) > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "Health Sciences",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0226",
    "url": "https://pangkalniur.bangka.go.id",
-   "location": "body > div:nth-of-type(9) > div > div:nth-of-type(2) > div > div:nth-of-type(3) > div > div > div:nth-of-type(2) > h4 > a",
+   "location": "div > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "PESONA PANGKAL NIUR",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0227",
    "url": "https://pasawahan-banjaranyar.desa.id",
-   "location": "body > div:nth-of-type(14) > section:nth-of-type(1) > div > div:nth-of-type(1) > div > div > h2",
+   "location": "section > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > h2:nth-child(1)",
    "evidence_text": "BERITA",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0228",
    "url": "https://pasawahan-banjaranyar.desa.id",
-   "location": "body > div:nth-of-type(14) > section:nth-of-type(1) > div > div:nth-of-type(1) > div > div > h2 > span",
+   "location": "section > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > h2:nth-child(1) > span:nth-child(1)",
    "evidence_text": "TERBARU",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0229",
    "url": "https://pasawahan-banjaranyar.desa.id",
-   "location": "body > div:nth-of-type(14) > section:nth-of-type(1) > div > div:nth-of-type(2) > section > div > div > div > a > article > div > div > div > div:nth-of-type(1)",
+   "location": "div > *:nth-child(2) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "Pembangunan",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0230",
    "url": "https://pasawahan-banjaranyar.desa.id",
-   "location": "body > div:nth-of-type(14) > section:nth-of-type(1) > div > div:nth-of-type(2) > section > div > div > div > a > article > div > div > div > div:nth-of-type(2) > h2",
+   "location": "div > h2:nth-child(1)",
    "evidence_text": "Berita di Desa Pasawahan",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0231",
    "url": "https://pasawahan-banjaranyar.desa.id",
-   "location": "body > div:nth-of-type(14) > section:nth-of-type(2) > div > div:nth-of-type(1) > div > div > h2",
+   "location": "section > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "POTENSI DESA",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0232",
    "url": "https://paud.bintangjuara.sch.id",
-   "location": "#post-16 > div > div:nth-of-type(2) > div:nth-of-type(1) > div > div > div:nth-of-type(3) > a",
+   "location": "div > a:nth-child(1)",
    "evidence_text": "Selengkapnya",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0233",
    "url": "https://paud.bintangjuara.sch.id",
-   "location": "#post-16 > div > div:nth-of-type(3) > div:nth-of-type(2) > div > div > div:nth-of-type(1) > div > h2 > strong",
+   "location": "div > div:nth-child(1) > h2:nth-child(1) > strong:nth-child(1)",
    "evidence_text": "Tim Kami",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0234",
    "url": "https://paud.bintangjuara.sch.id",
-   "location": "#post-16 > div > div:nth-of-type(3) > div:nth-of-type(2) > div > div > div:nth-of-type(1) > div > p",
+   "location": "div > *:nth-child(1) > *:nth-child(2)",
    "evidence_text": "PAUD Islam Bintang Juara memiliki tim guru berkualitas dengan pengalaman mumpuni, wawasan luas dan selalu up to date ter",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0235",
    "url": "https://paud.bintangjuara.sch.id",
-   "location": "#post-16 > div > div:nth-of-type(3) > div:nth-of-type(2) > div > div > div:nth-of-type(2) > a",
+   "location": "div > a:nth-child(1)",
    "evidence_text": "Kenal Lebih Dekat Yuk!",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0236",
    "url": "https://paud.bintangjuara.sch.id",
-   "location": "#post-16 > div > div:nth-of-type(6) > div > div > div > div:nth-of-type(3) > a",
+   "location": "div > a:nth-child(1)",
    "evidence_text": "Info & Berita Lainnya",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0237",
    "url": "https://paud.bintangjuara.sch.id",
-   "location": "#post-16 > div > div:nth-of-type(7) > div:nth-of-type(2) > div > div > div:nth-of-type(1) > div > h2 > strong",
+   "location": "div > div:nth-child(1) > h2:nth-child(1) > strong:nth-child(1)",
    "evidence_text": "Kami Tunggu Kehadiran Ayah Bunda",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0238",
    "url": "https://paud.bintangjuara.sch.id",
-   "location": "#post-16 > div > div:nth-of-type(7) > div:nth-of-type(2) > div > div > div:nth-of-type(1) > div > h3 > strong",
+   "location": "div > *:nth-child(1) > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "PAUD ISLAM BINTANG JUARA",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0239",
    "url": "https://paud.bintangjuara.sch.id",
-   "location": "#post-16 > div > div:nth-of-type(7) > div:nth-of-type(2) > div > div > div:nth-of-type(1) > div > p:nth-of-type(1) > strong",
+   "location": "div > *:nth-child(1) > *:nth-child(3) > *:nth-child(1)",
    "evidence_text": "Alamat Kantor – Unit KB & TK:",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0240",
    "url": "https://paud.bintangjuara.sch.id",
-   "location": "#post-16 > div > div:nth-of-type(7) > div:nth-of-type(2) > div > div > div:nth-of-type(1) > div > p:nth-of-type(2)",
+   "location": "div > *:nth-child(1) > *:nth-child(4)",
    "evidence_text": "Jl. Dewi Sartika No.17 A, Sukorejo, Kec. Gn. Pati, Kota Semarang, 50221",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0241",
    "url": "https://perpus.sdnpujokusumansatu.sch.id",
-   "location": "#advance-search > h2",
+   "location": "div > h2:nth-child(2)",
    "evidence_text": "Advanced Search",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0242",
    "url": "https://perpus.sdnpujokusumansatu.sch.id",
-   "location": "#advance-search > div:nth-of-type(2) > form > div:nth-of-type(1) > div > label",
+   "location": "div > *:nth-child(3) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "Judul",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0243",
    "url": "https://perpus.sdnpujokusumansatu.sch.id",
-   "location": "#advance-search > div:nth-of-type(2) > form > div:nth-of-type(2) > div > label",
+   "location": "div > *:nth-child(3) > *:nth-child(1) > *:nth-child(2) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "Pengarang",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0244",
    "url": "https://perpus.sdnpujokusumansatu.sch.id",
-   "location": "#advance-search > div:nth-of-type(2) > form > div:nth-of-type(4) > div > label",
+   "location": "div > *:nth-child(3) > *:nth-child(1) > *:nth-child(4) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "Subyek",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0245",
    "url": "https://perpus.sdnpujokusumansatu.sch.id",
-   "location": "#advance-search > div:nth-of-type(2) > form > div:nth-of-type(5) > div > label",
+   "location": "div > *:nth-child(3) > *:nth-child(1) > *:nth-child(5) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "ISBN/ISSN",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0246",
    "url": "https://perpus.sdnpujokusumansatu.sch.id",
-   "location": "#advance-search > div:nth-of-type(2) > form > div:nth-of-type(7) > div > label",
+   "location": "div > *:nth-child(3) > *:nth-child(1) > *:nth-child(7) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "Tipe Koleksi",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0247",
    "url": "https://perpus.sdnpujokusumansatu.sch.id",
-   "location": "#advance-search > div:nth-of-type(2) > form > div:nth-of-type(8) > div > label",
+   "location": "div > *:nth-child(3) > *:nth-child(1) > *:nth-child(8) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "Lokasi",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0248",
    "url": "https://perpus.sdnpujokusumansatu.sch.id",
-   "location": "#advance-search > div:nth-of-type(2) > form > div:nth-of-type(10) > div > label",
+   "location": "div > *:nth-child(3) > *:nth-child(1) > *:nth-child(10) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "GMD",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0249",
    "url": "https://perpustakaankualalumpur.dbkl.gov.my",
-   "location": "#ff-uid-1 > div > div > div:nth-of-type(2) > h6 > a",
+   "location": "div > *:nth-child(1) > *:nth-child(3) > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "Perpustakaan Kuala Lumpur",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0250",
    "url": "https://perpustakaankualalumpur.dbkl.gov.my",
-   "location": "#ff-uid-1 > div > div > h6 > i > i > span",
+   "location": "div > *:nth-child(1) > *:nth-child(4) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "facebook",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0251",
    "url": "https://perpustakaankualalumpur.dbkl.gov.my",
-   "location": "#ff-uid-2 > div > div > div:nth-of-type(2) > h6 > a",
+   "location": "div > *:nth-child(1) > *:nth-child(3) > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "PKL",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0252",
    "url": "https://perpustakaankualalumpur.dbkl.gov.my",
-   "location": "#ff-uid-2 > div > div > div:nth-of-type(2) > a:nth-of-type(1)",
+   "location": "div > *:nth-child(1) > *:nth-child(3) > *:nth-child(3)",
    "evidence_text": "perpustakaankualalumpur_dbkl",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0253",
    "url": "https://pkbmmuhammadiyah.sch.id",
-   "location": "body > div:nth-of-type(3) > a",
+   "location": "div > *:nth-child(3)",
    "evidence_text": "Powered by",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0254",
    "url": "https://pkbmmuhammadiyah.sch.id",
-   "location": "body > div:nth-of-type(3) > a > span",
+   "location": "a > *:nth-child(1)",
    "evidence_text": "Joinchat",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0255",
    "url": "https://ppdb.sitkaifa.sch.id",
-   "location": "#start > div > div > div:nth-of-type(1) > div > div:nth-of-type(2) > span",
+   "location": "div > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "UNGULAN",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0256",
    "url": "https://ppdb.sitkaifa.sch.id",
-   "location": "#start > div > div > div:nth-of-type(1) > div > div:nth-of-type(2) > h2",
+   "location": "div > *:nth-child(2) > *:nth-child(2)",
    "evidence_text": "Program Unggulan",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0257",
    "url": "https://ppdb.sitkaifa.sch.id",
-   "location": "#start > div > div > div:nth-of-type(1) > div > div:nth-of-type(2) > p",
+   "location": "div > *:nth-child(2) > *:nth-child(3)",
    "evidence_text": "Tahsin Al-Quran Metode UMMI Tahfidz Al-Quran Metode UMMI Bina Pribadi Islam Scientifi",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0258",
    "url": "https://ppdb.sitkaifa.sch.id",
-   "location": "#start > div > div > div:nth-of-type(2) > div > div:nth-of-type(2)",
+   "location": "div > div:nth-child(2)",
    "evidence_text": "Panahan, Berenang, Beladiri.",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0259",
    "url": "https://ppdb.sitkaifa.sch.id",
-   "location": "#start > div > div > div:nth-of-type(2) > div > div:nth-of-type(2) > span",
+   "location": "div > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "KEGIATAN",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0260",
    "url": "https://ppdb.sitkaifa.sch.id",
-   "location": "#start > div > div > div:nth-of-type(2) > div > div:nth-of-type(2) > h2:nth-of-type(1)",
+   "location": "div > *:nth-child(2) > *:nth-child(2)",
    "evidence_text": "Ekstrakurikuler",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0261",
    "url": "https://purwadadi-purwadadi.desa.id",
-   "location": "body > div:nth-of-type(14) > section:nth-of-type(1) > div > div:nth-of-type(1) > div > div > h2",
+   "location": "section > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > h2:nth-child(1)",
    "evidence_text": "BERITA",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0262",
    "url": "https://purwadadi-purwadadi.desa.id",
-   "location": "body > div:nth-of-type(14) > section:nth-of-type(1) > div > div:nth-of-type(1) > div > div > h2 > span",
+   "location": "section > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > h2:nth-child(1) > span:nth-child(1)",
    "evidence_text": "TERBARU",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0263",
    "url": "https://purwadadi-purwadadi.desa.id",
-   "location": "body > div:nth-of-type(14) > section:nth-of-type(1) > div > div:nth-of-type(2) > section > div > div > div:nth-of-type(1) > a > article > div > div > div > div:nth-of-type(1)",
+   "location": "div > *:nth-child(2) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "Umum",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0264",
    "url": "https://purwadadi-purwadadi.desa.id",
-   "location": "body > div:nth-of-type(14) > section:nth-of-type(1) > div > div:nth-of-type(2) > section > div > div > div:nth-of-type(1) > a > article > div > div > div > div:nth-of-type(2) > h2",
+   "location": "div > h2:nth-child(1)",
    "evidence_text": "Anggaran Pendapatan dan Belanj...",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0265",
    "url": "https://purwadadi-purwadadi.desa.id",
-   "location": "body > div:nth-of-type(14) > section:nth-of-type(1) > div > div:nth-of-type(2) > section > div > div > div:nth-of-type(2) > a > article > div > div > div > div:nth-of-type(2) > h2",
+   "location": "div > h2:nth-child(1)",
    "evidence_text": "Laporan Realisasi Penggunaan D...",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0266",
    "url": "https://revistas.udistrital.edu.co/ojs/index.php/revcie/index",
-   "location": "#hero > div:nth-of-type(2) > div > div > div > div:nth-of-type(1) > h1",
+   "location": "div > h1:nth-child(1)",
    "evidence_text": "Revista Científica",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0267",
    "url": "https://revistas.udistrital.edu.co/ojs/index.php/revcie/index",
-   "location": "#hero > div:nth-of-type(2) > div > div > div > div:nth-of-type(1) > div > p:nth-of-type(1)",
+   "location": "div > p:nth-child(1)",
    "evidence_text": "is an international open-access scientific publication edited by the Universidad Distrital Francisco José de Caldas. The",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0268",
    "url": "https://revistas.udistrital.edu.co/ojs/index.php/revcie/index",
-   "location": "#hero > div:nth-of-type(2) > div > div > div > div:nth-of-type(1) > div > p:nth-of-type(1) > a",
+   "location": "div > p:nth-child(1) > a:nth-child(2)",
    "evidence_text": "https://revistas.udistrital.edu.co/index.php/revcie",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0269",
    "url": "https://revistas.udistrital.edu.co/ojs/index.php/revcie/index",
-   "location": "#hero > div:nth-of-type(2) > div > div > div > div:nth-of-type(1) > div > p:nth-of-type(2) > strong",
+   "location": "div > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "four-month publication frequency",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0270",
    "url": "https://revistas.udistrital.edu.co/ojs/index.php/revcie/index",
-   "location": "#hero > div:nth-of-type(2) > div > div > div > div:nth-of-type(1) > div > p:nth-of-type(3)",
+   "location": "div > *:nth-child(3)",
    "evidence_text": "Since 2024, the journal has adopted a continuous publication model, under which articles are published individually as s",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0271",
    "url": "https://revistas.udistrital.edu.co/ojs/index.php/revcie/index",
-   "location": "#hero > div:nth-of-type(2) > div > div > div > div:nth-of-type(1) > div > p:nth-of-type(4)",
+   "location": "div > *:nth-child(4)",
    "evidence_text": "The journal accepts submissions throughout the year.",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0272",
    "url": "https://revistas.udistrital.edu.co/ojs/index.php/revcie/index",
-   "location": "#hero > div:nth-of-type(2) > div > div > div > div:nth-of-type(1) > div > p:nth-of-type(5) > em > strong",
+   "location": "div > *:nth-child(5) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "From January 1, 2026, the journal publishes articles exclusively in English.",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0273",
    "url": "https://revistas.udistrital.edu.co/ojs/index.php/revcie/index",
-   "location": "#hero > div:nth-of-type(2) > div > div > div > div:nth-of-type(1) > div > p:nth-of-type(6)",
+   "location": "div > *:nth-child(6)",
    "evidence_text": "L-ISSN: 0124-2253 -",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0274",
    "url": "https://revistas.udistrital.edu.co/ojs/index.php/revcie/index",
-   "location": "#hero > div:nth-of-type(2) > div > div > div > div:nth-of-type(1) > div > p:nth-of-type(6) > span:nth-of-type(1)",
+   "location": "div > *:nth-child(6) > *:nth-child(1)",
    "evidence_text": "ISSN: 0124-2253 -",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0275",
    "url": "https://sditalhambra.sch.id",
-   "location": "#post-61 > div:nth-of-type(2) > div > div > div > section:nth-of-type(1) > div:nth-of-type(2) > div > div > div:nth-of-type(2) > div > h2 > span:nth-of-type(2) > span:nth-of-type(3)",
+   "location": "span > *:nth-child(3)",
    "evidence_text": "Kreatif",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0276",
    "url": "https://sditalhambra.sch.id",
-   "location": "#post-61 > div:nth-of-type(2) > div > div > div > section:nth-of-type(1) > div:nth-of-type(2) > div > div > div:nth-of-type(2) > div > h2 > span:nth-of-type(2) > span:nth-of-type(4)",
+   "location": "span > *:nth-child(4)",
    "evidence_text": "Terampil",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0277",
    "url": "https://sditalhambra.sch.id",
-   "location": "#post-61 > div:nth-of-type(2) > div > div > div > section:nth-of-type(1) > div:nth-of-type(2) > div > div > div:nth-of-type(2) > div > h2 > span:nth-of-type(2) > span:nth-of-type(5)",
+   "location": "span > *:nth-child(5)",
    "evidence_text": "Mandiri",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0278",
    "url": "https://sksdmahilakalasala.ac.in",
-   "location": "body > div > section:nth-of-type(4) > div > div > div:nth-of-type(1) > div > div > h4",
+   "location": "div > h4:nth-child(1)",
    "evidence_text": "Library",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0279",
    "url": "https://sksdmahilakalasala.ac.in",
-   "location": "body > div > section:nth-of-type(4) > div > div > div:nth-of-type(1) > div > div > h5",
+   "location": "div > *:nth-child(2)",
    "evidence_text": "1. Library as a Learning Resource:",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0280",
    "url": "https://sksdmahilakalasala.ac.in",
-   "location": "body > div > section:nth-of-type(4) > div > div > div:nth-of-type(1) > div > div > p:nth-of-type(1)",
+   "location": "div > *:nth-child(3)",
    "evidence_text": "The Central Library of S.K.S.D.Mahila Kalasala,UG And PG (Autonomous) Consists of 20,860 volumes. More than 63 Journals",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0281",
    "url": "https://sksdmahilakalasala.ac.in",
-   "location": "body > div > section:nth-of-type(4) > div > div > div:nth-of-type(1) > div > div > p:nth-of-type(2)",
+   "location": "div > *:nth-child(4)",
    "evidence_text": "The Library has an Advisory Committee constituted for a period of one year. It consists of Senior Faculty...",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0282",
    "url": "https://sksdmahilakalasala.ac.in",
-   "location": "body > div > section:nth-of-type(4) > div > div > div:nth-of-type(1) > div > div > p:nth-of-type(3) > a",
+   "location": "div > *:nth-child(5) > *:nth-child(1)",
    "evidence_text": "Read more...",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0283",
    "url": "https://sksdmahilakalasala.ac.in",
-   "location": "body > div > section:nth-of-type(4) > div > div > div:nth-of-type(2) > div > div > h4",
+   "location": "div > h4:nth-child(1)",
    "evidence_text": "Laboratories",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0284",
    "url": "https://sksdmahilakalasala.ac.in",
-   "location": "body > div > section:nth-of-type(4) > div > div > div:nth-of-type(2) > div > div > ul > li:nth-of-type(1)",
+   "location": "div > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "English Language Lab",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0285",
    "url": "https://sksdmahilakalasala.ac.in",
-   "location": "body > div > section:nth-of-type(4) > div > div > div:nth-of-type(2) > div > div > ul > li:nth-of-type(2)",
+   "location": "div > *:nth-child(2) > *:nth-child(2)",
    "evidence_text": "Incubation Centre",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0286",
    "url": "https://sksdmahilakalasala.ac.in",
-   "location": "body > div > section:nth-of-type(4) > div > div > div:nth-of-type(2) > div > div > ul > li:nth-of-type(3)",
+   "location": "div > *:nth-child(2) > *:nth-child(3)",
    "evidence_text": "Research Lab",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0287",
    "url": "https://stikesbup.ac.id",
-   "location": "#content > section:nth-of-type(4) > div > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(3) > h3",
+   "location": "div > div:nth-child(3) > h3:nth-child(1)",
    "evidence_text": "Sarjana Kebidanan (S1)",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0288",
    "url": "https://stikesbup.ac.id",
-   "location": "#content > section:nth-of-type(4) > div > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(3) > a",
+   "location": "div > *:nth-child(3) > *:nth-child(3)",
    "evidence_text": "Selengkapnya",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0289",
    "url": "https://stikesbup.ac.id",
-   "location": "#content > section:nth-of-type(4) > div > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(3) > h3",
+   "location": "div > div:nth-child(3) > h3:nth-child(1)",
    "evidence_text": "Pendidikan Profesi Bidan",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0290",
    "url": "https://stikesbup.ac.id",
-   "location": "#content > section:nth-of-type(4) > div > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(3) > h3",
+   "location": "div > div:nth-child(3) > h3:nth-child(1)",
    "evidence_text": "Sarjana Fisioterapi (S1)",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0291",
    "url": "https://sukamanah-sinkas.desa.id",
-   "location": "body > div:nth-of-type(14) > section:nth-of-type(1) > div > div:nth-of-type(1) > div > div > h2",
+   "location": "section > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > h2:nth-child(1)",
    "evidence_text": "BERITA",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0292",
    "url": "https://sukamanah-sinkas.desa.id",
-   "location": "body > div:nth-of-type(14) > section:nth-of-type(1) > div > div:nth-of-type(1) > div > div > h2 > span",
+   "location": "section > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > h2:nth-child(1) > span:nth-child(1)",
    "evidence_text": "TERBARU",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0293",
    "url": "https://sukamanah-sinkas.desa.id",
-   "location": "body > div:nth-of-type(14) > section:nth-of-type(1) > div > div:nth-of-type(2) > section > div > div > div > a > article > div > div > div > div:nth-of-type(1)",
+   "location": "div > *:nth-child(2) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "Umum",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0294",
    "url": "https://sukamanah-sinkas.desa.id",
-   "location": "body > div:nth-of-type(14) > section:nth-of-type(1) > div > div:nth-of-type(2) > section > div > div > div > a > article > div > div > div > div:nth-of-type(2) > h2",
+   "location": "div > h2:nth-child(1)",
    "evidence_text": "Berita Sukamanah",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0295",
    "url": "https://sukamanah-sinkas.desa.id",
-   "location": "body > div:nth-of-type(14) > section:nth-of-type(2) > div > div:nth-of-type(1) > div > div > h2",
+   "location": "section > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "POTENSI DESA",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0296",
    "url": "https://sukasenang-sindangkasih.desa.id",
-   "location": "body > div:nth-of-type(14) > section:nth-of-type(1) > div > div:nth-of-type(1) > div > div > h2",
+   "location": "section > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > h2:nth-child(1)",
    "evidence_text": "BERITA",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0297",
    "url": "https://sukasenang-sindangkasih.desa.id",
-   "location": "body > div:nth-of-type(14) > section:nth-of-type(1) > div > div:nth-of-type(1) > div > div > h2 > span",
+   "location": "section > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > h2:nth-child(1) > span:nth-child(1)",
    "evidence_text": "TERBARU",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0298",
    "url": "https://sukasenang-sindangkasih.desa.id",
-   "location": "body > div:nth-of-type(14) > section:nth-of-type(1) > div > div:nth-of-type(2) > section > div > div > div > a > article > div > div > div > div:nth-of-type(1)",
+   "location": "div > *:nth-child(2) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "Umum",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0299",
    "url": "https://sukasenang-sindangkasih.desa.id",
-   "location": "body > div:nth-of-type(14) > section:nth-of-type(1) > div > div:nth-of-type(2) > section > div > div > div > a > article > div > div > div > div:nth-of-type(2) > h2",
+   "location": "div > h2:nth-child(1)",
    "evidence_text": "Berita Sukasenang",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0300",
    "url": "https://sukasenang-sindangkasih.desa.id",
-   "location": "body > div:nth-of-type(14) > section:nth-of-type(2) > div > div:nth-of-type(1) > div > div > h2",
+   "location": "section > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "POTENSI DESA",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0301",
    "url": "https://tanjungjaya-cisaga.desa.id",
-   "location": "body > div:nth-of-type(14) > section:nth-of-type(1) > div > div:nth-of-type(1) > div > div > h2",
+   "location": "section > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > h2:nth-child(1)",
    "evidence_text": "BERITA",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0302",
    "url": "https://tanjungjaya-cisaga.desa.id",
-   "location": "body > div:nth-of-type(14) > section:nth-of-type(1) > div > div:nth-of-type(1) > div > div > h2 > span",
+   "location": "section > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > h2:nth-child(1) > span:nth-child(1)",
    "evidence_text": "TERBARU",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0303",
    "url": "https://tanjungjaya-cisaga.desa.id",
-   "location": "body > div:nth-of-type(14) > section:nth-of-type(1) > div > div:nth-of-type(2) > section > div > div > div > a > article > div > div > div > div:nth-of-type(1)",
+   "location": "div > *:nth-child(2) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "Umum",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0304",
    "url": "https://tanjungjaya-cisaga.desa.id",
-   "location": "body > div:nth-of-type(14) > section:nth-of-type(1) > div > div:nth-of-type(2) > section > div > div > div > a > article > div > div > div > div:nth-of-type(2) > h2",
+   "location": "div > h2:nth-child(1)",
    "evidence_text": "Berita Desa Tanjungjaya Cisaga",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0305",
    "url": "https://tanjungjaya-cisaga.desa.id",
-   "location": "body > div:nth-of-type(14) > section:nth-of-type(2) > div > div:nth-of-type(1) > div > div > h2",
+   "location": "section > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "POTENSI DESA",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0306",
    "url": "https://telukkapuas.desa.id",
-   "location": "#loading > div > div:nth-of-type(1) > div > h1",
+   "location": "div > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(2)",
    "evidence_text": "Desa Telukkapuas",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0307",
    "url": "https://telukkapuas.desa.id",
-   "location": "#loading > div > div:nth-of-type(1) > div > h2",
+   "location": "div > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(3)",
    "evidence_text": "Kec. Sungai Raya, Kab. Kubu RayaProv. Kalimantan Barat",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0308",
    "url": "https://telukkapuas.desa.id",
-   "location": "#loading > div > div:nth-of-type(2) > div > h2",
+   "location": "div > *:nth-child(1) > *:nth-child(2) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "Loading",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0309",
    "url": "https://telukkapuas.desa.id",
-   "location": "body > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(4) > div:nth-of-type(2) > div > main > section > div > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a > div > div > div > h1",
+   "location": "div > div:nth-child(1) > h1:nth-child(1)",
    "evidence_text": "MUSYAWARAH DESA DALAM RANGKA PENYUSUNAN RENCANA KERJA DESA (RKP DESA)",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0310",
    "url": "https://thelanguagerightsblog.nalsar.ac.in",
-   "location": "#blog > div > div:nth-of-type(2) > div:nth-of-type(1) > article:nth-of-type(1) > div > div > h6 > a",
+   "location": "div > article:nth-child(1) > div:nth-child(1) > div:nth-child(1) > h6:nth-child(1) > a:nth-child(1)",
    "evidence_text": "Uncategorized",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0311",
    "url": "https://thelanguagerightsblog.nalsar.ac.in",
-   "location": "#blog > div > div:nth-of-type(2) > div:nth-of-type(1) > article:nth-of-type(1) > div > div > h4 > a",
+   "location": "div > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "Hubungan Ketuban Pecah Dini dengan Kadar Leukosit Ibu Bersalin di RS PKU Muhammadiyah Mamajang Kota Makassar",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0312",
    "url": "https://thelanguagerightsblog.nalsar.ac.in",
-   "location": "#blog > div > div:nth-of-type(2) > div:nth-of-type(1) > article:nth-of-type(1) > div > div > p",
+   "location": "div > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(3)",
    "evidence_text": "Metode Penelitian Penelitian ini menggunakan desain observasional analitik dengan pendekatan cross-sectional untuk menge",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0313",
    "url": "https://thelanguagerightsblog.nalsar.ac.in",
-   "location": "#blog > div > div:nth-of-type(2) > div:nth-of-type(1) > article:nth-of-type(1) > div > div > p > a",
+   "location": "div > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(3) > *:nth-child(1)",
    "evidence_text": "Read more…",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0314",
    "url": "https://thelanguagerightsblog.nalsar.ac.in",
-   "location": "#blog > div > div:nth-of-type(2) > div:nth-of-type(1) > article:nth-of-type(2) > div > div > h4 > a",
+   "location": "div > *:nth-child(2) > *:nth-child(1) > *:nth-child(1) > *:nth-child(2) > *:nth-child(1)",
    "evidence_text": "Hubungan Antara Indeks Massa Tubuh pada Ibu Hamil dengan Kejadian Ketuban Dini di Kabupaten Wajo",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0315",
    "url": "https://thelanguagerightsblog.nalsar.ac.in",
-   "location": "#blog > div > div:nth-of-type(2) > div:nth-of-type(1) > article:nth-of-type(2) > div > div > p",
+   "location": "div > *:nth-child(2) > *:nth-child(1) > *:nth-child(1) > *:nth-child(3)",
    "evidence_text": "Metode Penelitian Penelitian ini menggunakan desain kasus-kontrol untuk mengevaluasi hubungan antara indeks massa tubuh",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0316",
    "url": "https://wangunjaya-cisaga.desa.id",
-   "location": "body > div:nth-of-type(14) > section:nth-of-type(1) > div > div:nth-of-type(1) > div > div > h2",
+   "location": "section > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "BERITA",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0317",
    "url": "https://wangunjaya-cisaga.desa.id",
-   "location": "body > div:nth-of-type(14) > section:nth-of-type(1) > div > div:nth-of-type(1) > div > div > h2 > span",
+   "location": "section > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "TERBARU",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0318",
    "url": "https://wangunjaya-cisaga.desa.id",
-   "location": "body > div:nth-of-type(14) > section:nth-of-type(2) > div > div:nth-of-type(1) > div > div > h2",
+   "location": "section > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "POTENSI DESA",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0319",
    "url": "https://wangunjaya-cisaga.desa.id",
-   "location": "body > div:nth-of-type(14) > section:nth-of-type(3) > div > div:nth-of-type(1) > div > h2",
+   "location": "section > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "Aparatur",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0320",
    "url": "https://wangunjaya-cisaga.desa.id",
-   "location": "body > div:nth-of-type(14) > section:nth-of-type(3) > div > div:nth-of-type(1) > div > h2 > strong",
+   "location": "section > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1)",
    "evidence_text": "Desa",
    "subtype": "neg_opacity_other"
   },
   {
    "id": "TR-RN-0322",
    "url": "https://ababil.sch.id",
-   "location": "#pyml > div > div > div > div > div > div:nth-of-type(2) > div:nth-of-type(1) > div > div:nth-of-type(2) > div:nth-of-type(2) > div > span:nth-of-type(2) > time",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "July 24, 2026",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0323",
    "url": "https://ababil.sch.id",
-   "location": "#pyml > div > div > div > div > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2) > div > span:nth-of-type(2) > time",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "April 22, 2026",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0324",
    "url": "https://ababil.sch.id",
-   "location": "#pyml > div > div > div > div > div > div:nth-of-type(2) > div:nth-of-type(3) > div > div:nth-of-type(2) > div:nth-of-type(2) > div > span:nth-of-type(2) > time",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "April 11, 2026",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0325",
    "url": "https://ababil.sch.id",
-   "location": "#pyml > div > div > div > div > div > div:nth-of-type(2) > div:nth-of-type(4) > div > div:nth-of-type(2) > div:nth-of-type(2) > div > span:nth-of-type(2) > time",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "April 5, 2026",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0326",
    "url": "https://acadscij.uodiyala.edu.iq/index.php/Home",
-   "location": "body > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div > div:nth-of-type(2) > section > div > div:nth-of-type(1) > h3",
+   "location": "div > *:nth-child(2)",
    "evidence_text": "Double-Blind Review",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0327",
    "url": "https://acadscij.uodiyala.edu.iq/index.php/Home",
-   "location": "body > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div > div:nth-of-type(2) > section > div > div:nth-of-type(1) > p",
+   "location": "div > *:nth-child(3)",
    "evidence_text": "Independent and anonymous peer review ensuring fairness and integrity.",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0328",
    "url": "https://acadscij.uodiyala.edu.iq/index.php/Home",
-   "location": "body > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div > div:nth-of-type(2) > section > div > div:nth-of-type(2) > h3",
+   "location": "div > *:nth-child(2)",
    "evidence_text": "Rapid Editorial Decision",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0329",
    "url": "https://acadscij.uodiyala.edu.iq/index.php/Home",
-   "location": "body > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div > div:nth-of-type(2) > section > div > div:nth-of-type(2) > p",
+   "location": "div > *:nth-child(3)",
    "evidence_text": "Efficient initial screening and structured review workflow.",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0330",
    "url": "https://acadscij.uodiyala.edu.iq/index.php/Home",
-   "location": "body > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div > div:nth-of-type(2) > section > div > div:nth-of-type(3) > h3",
+   "location": "div > *:nth-child(2)",
    "evidence_text": "Open Access Policy",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0331",
    "url": "https://acadscij.uodiyala.edu.iq/index.php/Home",
-   "location": "body > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div > div:nth-of-type(2) > section > div > div:nth-of-type(3) > p",
+   "location": "div > *:nth-child(3)",
    "evidence_text": "Immediate and free access to published research worldwide.",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0332",
    "url": "https://acadscij.uodiyala.edu.iq/index.php/Home",
-   "location": "body > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div > div:nth-of-type(2) > section > div > div:nth-of-type(4) > h3",
+   "location": "div > *:nth-child(2)",
    "evidence_text": "Indexing Preparation",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0333",
    "url": "https://acadscij.uodiyala.edu.iq/index.php/Home",
-   "location": "body > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div > div:nth-of-type(2) > section > div > div:nth-of-type(4) > p",
+   "location": "div > *:nth-child(3)",
    "evidence_text": "Metadata, DOI, and publishing standards aligned with global indexes.",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0334",
    "url": "https://aerc.edu.pk",
-   "location": "#slide-44-layer-10 > i",
+   "location": "div > i:nth-child(1)",
    "evidence_text": "( Institute of National Capability in Applied Economics )",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0336",
    "url": "https://www.almaftuh.sch.id",
-   "location": "#post-531 > div > div > div:nth-of-type(12) > div > div > div:nth-of-type(1) > div > h2",
+   "location": "div > h2:nth-child(1)",
    "evidence_text": "Mari bergabung dengan kami",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0337",
    "url": "https://www.almaftuh.sch.id",
-   "location": "#post-531 > div > div > div:nth-of-type(12) > div > div > div:nth-of-type(2) > div > p",
+   "location": "div > p:nth-child(1)",
    "evidence_text": "Untuk informasi lebih lanjut, tentang Yayasan Al-Maftuh Sukabumi, bisa hubungi Admin melalui WhatsApp atau bisa tulis em",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0339",
    "url": "https://almanar.sch.id",
-   "location": "#gdlr-core-column-3 > div > div:nth-of-type(2) > div > div > div:nth-of-type(2) > div:nth-of-type(1) > h3",
+   "location": "div > h3:nth-child(1)",
    "evidence_text": "Metode UMMI",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0340",
    "url": "https://almanar.sch.id",
-   "location": "#gdlr-core-column-3 > div > div:nth-of-type(2) > div > div > div:nth-of-type(2) > div:nth-of-type(2) > p",
+   "location": "div > p:nth-child(1)",
    "evidence_text": "Ummi bukan sekedar metode, namun membangun sistem mutu di lembaga pendidikan. Kalau hanya membuat buku metode belajar Al",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0341",
    "url": "https://almanar.sch.id",
-   "location": "#gdlr-core-column-4 > div > div:nth-of-type(2) > div > div > div:nth-of-type(2) > div:nth-of-type(1) > h3",
+   "location": "div > h3:nth-child(1)",
    "evidence_text": "JSIT",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0342",
    "url": "https://almanar.sch.id",
-   "location": "#gdlr-core-column-4 > div > div:nth-of-type(2) > div > div > div:nth-of-type(2) > div:nth-of-type(2) > p",
+   "location": "div > p:nth-child(1)",
    "evidence_text": "Konsep operasional Sekolah Islam Terpadu merupakan akumulasi dari proses pembudayaan, pewarisan dan pengembangan ajaran",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0343",
    "url": "https://almanar.sch.id",
-   "location": "#gdlr-core-column-5 > div > div:nth-of-type(2) > div > div > div:nth-of-type(2) > div:nth-of-type(1) > h3",
+   "location": "div > h3:nth-child(1)",
    "evidence_text": "Sekolah Penggerak",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0344",
    "url": "https://almanar.sch.id",
-   "location": "#gdlr-core-column-5 > div > div:nth-of-type(2) > div > div > div:nth-of-type(2) > div:nth-of-type(2) > p",
+   "location": "div > p:nth-child(1)",
    "evidence_text": "Programnya berfokus pada pengembangan hasil belajar siswa secara holistik yang mencakup kompetensi (literasi dan numeras",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0345",
    "url": "https://almasda.or.id",
-   "location": "#tie-body > a",
+   "location": "a",
    "evidence_text": "kpkgg",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0346",
    "url": "https://almasda.or.id",
-   "location": "#top-nav > div > div > div:nth-of-type(2) > div > span > span:nth-of-type(2)",
+   "location": "span > *:nth-child(2)",
    "evidence_text": "Breaking News",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0347",
    "url": "https://almasda.or.id",
-   "location": "#posts-container > li:nth-of-type(1) > div:nth-of-type(2) > div > div > div > span:nth-of-type(1) > span > span > a",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "Atok Dalang",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0350",
    "url": "https://asosiasipascaptm.or.id",
-   "location": "#tie-body > a",
+   "location": "a",
    "evidence_text": "kpkgg",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0351",
    "url": "https://asosiasipascaptm.or.id",
-   "location": "#top-nav > div > div > div:nth-of-type(2) > div > span > span:nth-of-type(2)",
+   "location": "span > *:nth-child(2)",
    "evidence_text": "Breaking News",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0352",
    "url": "https://asosiasipascaptm.or.id",
-   "location": "#posts-container > li:nth-of-type(1) > div:nth-of-type(2) > div > h2 > a",
+   "location": "h2 > *:nth-child(1)",
    "evidence_text": "Kenaikan Pangkat Danrem 131/Santiago: Penilaian Objektif dan Tanggung Jawab Baru yang Dijalani",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0353",
    "url": "https://asosiasipascaptm.or.id",
-   "location": "#posts-container > li:nth-of-type(1) > div:nth-of-type(2) > div > div > div > span:nth-of-type(1) > span > span > a",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "bila salsabila",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0354",
    "url": "https://atbi.or.id",
-   "location": "#tie-body > a",
+   "location": "a",
    "evidence_text": "kpkgg",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0355",
    "url": "https://atbi.or.id",
-   "location": "#top-nav > div > div > div:nth-of-type(2) > div > span > span:nth-of-type(2)",
+   "location": "span > *:nth-child(2)",
    "evidence_text": "Breaking News",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0356",
    "url": "https://atbi.or.id",
-   "location": "#posts-container > li:nth-of-type(1) > div:nth-of-type(2) > div > div > div > span:nth-of-type(1) > span > span > a",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "Atok Dalang",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0359",
    "url": "https://www.bhaktiutama.sch.id",
-   "location": "#main-home-content > div > div > div > section:nth-of-type(2) > div > div > div:nth-of-type(1) > div > div > div > div > div > div > div:nth-of-type(2) > div > h3",
+   "location": "div > h3:nth-child(1)",
    "evidence_text": "Best Choice for Education",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0360",
    "url": "https://www.bhaktiutama.sch.id",
-   "location": "#main-home-content > div > div > div > section:nth-of-type(2) > div > div > div:nth-of-type(2) > div > div > div > div > div > div > div:nth-of-type(2) > div > h3",
+   "location": "div > h3:nth-child(1)",
    "evidence_text": "VISIT OUR SCHOOL",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0361",
    "url": "https://www.bhaktiutama.sch.id",
-   "location": "#main-home-content > div > div > div > section:nth-of-type(2) > div > div > div:nth-of-type(3) > div > div > div > div > div > div > div:nth-of-type(2) > div > h3",
+   "location": "div > h3:nth-child(1)",
    "evidence_text": "OPEN HOUSE INFO",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0362",
    "url": "https://www.bhaktiutama.sch.id",
-   "location": "#main-home-content > div > div > div > section:nth-of-type(2) > div > div > div:nth-of-type(4) > div > div > div > div > div > div > div:nth-of-type(2) > div > h3",
+   "location": "div > h3:nth-child(1)",
    "evidence_text": "GRADUATION ANNOUNCEMENT",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0364",
    "url": "https://www.bhavkunjschool.ac.in",
-   "location": "#menu-item-9 > a > span",
+   "location": "a > *:nth-child(1)",
    "evidence_text": "AboutUs",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0367",
    "url": "https://www.bhavkunjschool.ac.in",
-   "location": "#menu-item-14 > a > span",
+   "location": "a > *:nth-child(1)",
    "evidence_text": "Facilities",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0370",
    "url": "https://bsm.ac.id",
-   "location": "#main-content > section > div > article > div:nth-of-type(2) > div:nth-of-type(1) > span:nth-of-type(1) > span",
+   "location": "span > *:nth-child(2)",
    "evidence_text": "admin",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0373",
    "url": "https://btvb.org/btvb",
-   "location": "#navigationUser > li:nth-of-type(1) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "Register",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0374",
    "url": "https://btvb.org/btvb",
-   "location": "#navigationUser > li:nth-of-type(2) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "Login",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0375",
    "url": "https://btvb.org/btvb",
-   "location": "#navigationUtility > li:nth-of-type(1) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "Search",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0376",
    "url": "https://btvb.org/btvb",
-   "location": "#navigationUtility > li:nth-of-type(2) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "Contacts",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0377",
    "url": "https://btvb.org/btvb",
-   "location": "body > issue > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a > div > div:nth-of-type(2)",
+   "location": "div > *:nth-child(2)",
    "evidence_text": "Impact Factor 2025",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0383",
    "url": "https://c3chuvanan.edu.vn",
-   "location": "body > header > div:nth-of-type(1) > div > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > p",
+   "location": "div > p:nth-child(1)",
    "evidence_text": "Số 10 đường Thụy Khuê, phường Tây Hồ, Hà Nội, Việt Nam",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0384",
    "url": "https://c3chuvanan.edu.vn",
-   "location": "body > header > div:nth-of-type(1) > div > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > p",
+   "location": "div > p:nth-child(1)",
    "evidence_text": "+84-24-38233141",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0385",
    "url": "https://c3chuvanan.edu.vn",
-   "location": "body > header > div:nth-of-type(1) > div > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > p",
+   "location": "div > p:nth-child(1)",
    "evidence_text": "c3chuvanan@hanoiedu.vn / vanphong@c3chuvanan.edu.vn",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0386",
    "url": "https://c3chuvanan.edu.vn",
-   "location": "body > header > div:nth-of-type(1) > div > div:nth-of-type(2) > div:nth-of-type(1) > p",
+   "location": "div > p:nth-child(1)",
    "evidence_text": "Theo dõi chúng tôi:",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0387",
    "url": "https://c3chuvanan.edu.vn",
-   "location": "body > header > div:nth-of-type(2) > div > div > div:nth-of-type(2) > p:nth-of-type(1)",
+   "location": "div > p:nth-child(1)",
    "evidence_text": "Cổng thông tin điện tử",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0388",
    "url": "https://c3chuvanan.edu.vn",
-   "location": "body > header > div:nth-of-type(2) > div > div > div:nth-of-type(2) > p:nth-of-type(2)",
+   "location": "div > *:nth-child(2)",
    "evidence_text": "Trường THPT Chuyên Chu Văn An",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0395",
    "url": "https://ccs.sch.id",
-   "location": "body > div > div:nth-of-type(2) > section > div:nth-of-type(1) > div > div:nth-of-type(3) > div > div > div > div > p",
+   "location": "div > p:nth-child(1)",
    "evidence_text": "Open Registration for the 2026-2027 Academic Year",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0396",
    "url": "https://ccs.sch.id",
-   "location": "body > div > div:nth-of-type(2) > section > div:nth-of-type(1) > div > div:nth-of-type(3) > div > div > div > div > h3",
+   "location": "div > *:nth-child(2)",
    "evidence_text": "Enroll Your Children Now at Chung Chung Christian School.",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0397",
    "url": "https://ccs.sch.id",
-   "location": "body > div > div:nth-of-type(2) > section > div:nth-of-type(1) > div > div:nth-of-type(4) > div > div > div > div > p",
+   "location": "div > p:nth-child(1)",
    "evidence_text": "School Facilities",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0398",
    "url": "https://ccs.sch.id",
-   "location": "body > div > div:nth-of-type(2) > section > div:nth-of-type(1) > div > div:nth-of-type(4) > div > div > div > div > h3",
+   "location": "div > *:nth-child(2)",
    "evidence_text": "Our school is equipped with various facilities to support student academic activities",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0399",
    "url": "https://ccs.sch.id",
-   "location": "body > div > div:nth-of-type(2) > section > div:nth-of-type(1) > div > div:nth-of-type(5) > div > div > div > div > p",
+   "location": "div > p:nth-child(1)",
    "evidence_text": "Language Used at Chung Chung Christian School",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0400",
    "url": "https://ccs.sch.id",
-   "location": "body > div > div:nth-of-type(2) > section > div:nth-of-type(1) > div > div:nth-of-type(5) > div > div > div > div > h3",
+   "location": "div > *:nth-child(2)",
    "evidence_text": "We use three languages: English, Indonesian, and Mandarin.",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0401",
    "url": "https://chodirin.or.id",
-   "location": "#tie-body > a",
+   "location": "a",
    "evidence_text": "kpkgg",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0402",
    "url": "https://chodirin.or.id",
-   "location": "#top-nav > div > div > div:nth-of-type(2) > div > span > span:nth-of-type(2)",
+   "location": "span > *:nth-child(2)",
    "evidence_text": "Breaking News",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0403",
    "url": "https://chodirin.or.id",
-   "location": "#posts-container > li:nth-of-type(1) > div:nth-of-type(2) > div > div > div > span:nth-of-type(1) > span > span > a",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "Atok Dalang",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0404",
    "url": "https://daurling.unbari.ac.id",
-   "location": "#pageFooter > table > tbody > tr > td > p > span:nth-of-type(1)",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "Fakultas Teknik, Jl.Slamet Ryadi, Broni-Jambi, Kec.Telanaipura, 36122,",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0405",
    "url": "https://daurling.unbari.ac.id",
-   "location": "#pageFooter > table > tbody > tr > td > p > span:nth-of-type(1) > strong:nth-of-type(1)",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "Jurnal Daur Lingkungan Published by Environmental Engineering Program Study, Faculty of Engineering, Batanghari Universi",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0406",
    "url": "https://daurling.unbari.ac.id",
-   "location": "#pageFooter > table > tbody > tr > td > p > span:nth-of-type(1) > strong:nth-of-type(2)",
+   "location": "span > *:nth-child(3)",
    "evidence_text": "Adress:",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0407",
    "url": "https://daurling.unbari.ac.id",
-   "location": "#pageFooter > table > tbody > tr > td > p > span:nth-of-type(1) > strong:nth-of-type(3)",
+   "location": "span > *:nth-child(4)",
    "evidence_text": "Kodepos:",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0408",
    "url": "https://daurling.unbari.ac.id",
-   "location": "#pageFooter > table > tbody > tr > td > p > span:nth-of-type(1) > strong:nth-of-type(4)",
+   "location": "span > *:nth-child(5)",
    "evidence_text": "email:",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0409",
    "url": "https://daurling.unbari.ac.id",
-   "location": "#pageFooter > table > tbody > tr > td > p > span:nth-of-type(1) > a",
+   "location": "span > *:nth-child(6)",
    "evidence_text": "daurling.unbari@gmail.com",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0410",
    "url": "https://daurling.unbari.ac.id",
-   "location": "#pageFooter > table > tbody > tr > td > p > span:nth-of-type(2) > a:nth-of-type(2)",
+   "location": "span > *:nth-child(2)",
    "evidence_text": "Creative Commons Attribution-ShareAlike 4.0 International License",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0411",
    "url": "https://derechoycienciapolitica.uct.cl/index.php/RDCP",
-   "location": "body > div:nth-of-type(2) > h2",
+   "location": "div > h2:nth-child(1)",
    "evidence_text": "Current Issue",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0412",
    "url": "https://dishub.banggaikab.go.id",
-   "location": "#wrapper-content > div:nth-of-type(1) > div:nth-of-type(1) > div > div > div > div > div > div > div > div > div:nth-of-type(2) > div > ul > li:nth-of-type(4) > div:nth-of-type(3) > div > div > div > p",
+   "location": "div > p:nth-child(1)",
    "evidence_text": "Siap mendukung keselamatan dan ketertiban lalu lintas",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0413",
    "url": "https://dishub.banggaikab.go.id",
-   "location": "#wrapper-content > div:nth-of-type(1) > div:nth-of-type(1) > div > div > div > div > div > div > div > div > div:nth-of-type(2) > div > ul > li:nth-of-type(5) > div:nth-of-type(3) > div > div > div > p",
+   "location": "div > p:nth-child(1)",
    "evidence_text": "Melayani masyarakat dengan profesional dan transparan",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0414",
    "url": "https://doms.nalsar.ac.in",
-   "location": "body > div > div:nth-of-type(6) > div:nth-of-type(1) > div > div:nth-of-type(1) > h2",
+   "location": "div > h2:nth-child(1)",
    "evidence_text": "Academic Programmes",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0415",
    "url": "https://doms.nalsar.ac.in",
-   "location": "body > div > div:nth-of-type(6) > div:nth-of-type(1) > div > div:nth-of-type(2)",
+   "location": "div > *:nth-child(2)",
    "evidence_text": "Shaping future-ready leaders through intensive, multidisciplinary learning that blends management, law, and innovation.",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0416",
    "url": "https://dp3acskb.babelprov.go.id",
-   "location": "#swiper-wrapper-44a7b3c2c7810f3aa > div:nth-of-type(1) > a > div > div:nth-of-type(2) > span",
+   "location": "div > span:nth-child(1)",
    "evidence_text": "Baca Selengkapnya",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0423",
    "url": "https://ejournal.iaingorontalo.ac.id/index.php/MUTAWAZIN",
-   "location": "#navigationUser > li:nth-of-type(1) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "Login",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0424",
    "url": "https://ejournal.iaingorontalo.ac.id/index.php/MUTAWAZIN",
-   "location": "#navigationUser > li:nth-of-type(2) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "Register",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0425",
    "url": "https://ejournal.sisfokomtek.org/index.php/jumin",
-   "location": "#customblock-menu > div > div > div > p:nth-of-type(2) > strong",
+   "location": "p > *:nth-child(2)",
    "evidence_text": "PLATE JEA",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0430",
    "url": "https://ejurnal.stikeseub.ac.id/index.php/jck",
-   "location": "#customblock-Visitor > div > div:nth-of-type(2) > table > tbody > tr > td:nth-of-type(1) > span > strong",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "Visitors",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0440",
    "url": "https://epubs.ac.za/index.php/ahmr",
-   "location": "#navigationUser > li:nth-of-type(1) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "Register",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0441",
    "url": "https://epubs.ac.za/index.php/ahmr",
-   "location": "#navigationUser > li:nth-of-type(2) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "Login",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0442",
    "url": "https://feb.unsoed.ac.id",
-   "location": "#header-sticky > div > div > div:nth-of-type(3) > div > div:nth-of-type(1) > a",
+   "location": "div > a:nth-child(1)",
    "evidence_text": "Apply Now",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0443",
    "url": "https://feb.unsoed.ac.id",
-   "location": "#swiper-wrapper-44373b88100bbe825 > div:nth-of-type(1) > div > div:nth-of-type(1) > div > div > div > h2",
+   "location": "div > *:nth-child(2)",
    "evidence_text": "Discipline to Create the Future.",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0444",
    "url": "https://feb.unsoed.ac.id",
-   "location": "#body > div:nth-of-type(3) > div:nth-of-type(4) > div > div > div:nth-of-type(1) > div > div > div > h3 > span",
+   "location": "h3 > *:nth-child(2)",
    "evidence_text": "+K",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0445",
    "url": "https://feb.unsoed.ac.id",
-   "location": "#body > div:nth-of-type(3) > div:nth-of-type(4) > div > div > div:nth-of-type(1) > div > div > div > p",
+   "location": "div > *:nth-child(3)",
    "evidence_text": "Students",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0446",
    "url": "https://generations.edu.pk",
-   "location": "#main-home-content > div > div:nth-of-type(8) > div:nth-of-type(1) > div > div > div:nth-of-type(1) > div > div > div > div > div > h3 > b > b > b",
+   "location": "b > *:nth-child(1)",
    "evidence_text": "Admissions 2026",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0447",
    "url": "https://generations.edu.pk",
-   "location": "#main-home-content > div > div:nth-of-type(8) > div:nth-of-type(1) > div > div > div:nth-of-type(2) > div:nth-of-type(1) > div > div > b > b > b > div:nth-of-type(2) > div > h3",
+   "location": "div > h3:nth-child(1)",
    "evidence_text": "Registration",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0448",
    "url": "https://generations.edu.pk",
-   "location": "#main-home-content > div > div:nth-of-type(8) > div:nth-of-type(1) > div > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div > b > b > b > div:nth-of-type(2) > div > h3",
+   "location": "div > h3:nth-child(1)",
    "evidence_text": "Application",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0449",
    "url": "https://generations.edu.pk",
-   "location": "#main-home-content > div > div:nth-of-type(8) > div:nth-of-type(1) > div > div > div:nth-of-type(2) > div:nth-of-type(3) > div > div > b > b > b > div:nth-of-type(2) > div > h3",
+   "location": "div > h3:nth-child(1)",
    "evidence_text": "Submission and Assessment",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0450",
    "url": "https://generations.edu.pk",
-   "location": "#main-home-content > div > div:nth-of-type(8) > div:nth-of-type(1) > div > div > div:nth-of-type(2) > div:nth-of-type(4) > div > div > b > b > b > div:nth-of-type(2) > div > h3",
+   "location": "div > h3:nth-child(1)",
    "evidence_text": "Discussion",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0451",
    "url": "https://generations.edu.pk",
-   "location": "#main-home-content > div > div:nth-of-type(8) > div:nth-of-type(1) > div > div > div:nth-of-type(3) > div:nth-of-type(1) > div > div > b > b > b > div > div > p > span",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "Get started! Fill out the online registration form. Our team will get in touch with you.",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0452",
    "url": "https://generations.edu.pk",
-   "location": "#main-home-content > div > div:nth-of-type(8) > div:nth-of-type(1) > div > div > div:nth-of-type(3) > div:nth-of-type(2) > div > div > b > b > b > div > div > p > span",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "Print and complete the admission application form, and arrange the required documents.",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0453",
    "url": "https://generations.edu.pk",
-   "location": "#main-home-content > div > div:nth-of-type(8) > div:nth-of-type(1) > div > div > div:nth-of-type(3) > div:nth-of-type(3) > div > div > b > b > b > div > div > p > span",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "Submit the form on campus; your child will take the admission assessment on the same day, insha’allah.",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0454",
    "url": "https://generations.edu.pk",
-   "location": "#main-home-content > div > div:nth-of-type(8) > div:nth-of-type(1) > div > div > div:nth-of-type(3) > div:nth-of-type(4) > div > div > b > b > b > div > div > p > span",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "Applicant & parents attend a discussion meeting with the Headmistress and Director Admissions.",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0455",
    "url": "https://generations.edu.pk",
-   "location": "#main-home-content > div > div:nth-of-type(8) > div:nth-of-type(1) > div > div > div:nth-of-type(5) > div > div > div > b > b > b > div > div > p > strong > span > span",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "“The sky is the limit for Iqbal, Jinnah and Syed!”",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0457",
    "url": "https://indonesiana.or.id",
-   "location": "#tie-body > a",
+   "location": "a",
    "evidence_text": "kpkgg",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0458",
    "url": "https://indonesiana.or.id",
-   "location": "#top-nav > div > div > div:nth-of-type(2) > div > span > span:nth-of-type(2)",
+   "location": "span > *:nth-child(2)",
    "evidence_text": "Breaking News",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0459",
    "url": "https://indonesiana.or.id",
-   "location": "#posts-container > li:nth-of-type(1) > div:nth-of-type(2) > div > div > div > span:nth-of-type(1) > span > span > a",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "Atok Dalang",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0460",
    "url": "https://ipnu.or.id",
-   "location": "#slick-slide30 > div > figure > div > div > div > span:nth-of-type(1) > span > a",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "admin",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0464",
    "url": "https://jnto.or.id",
-   "location": "#tie-body > a",
+   "location": "a",
    "evidence_text": "kpkgg",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0465",
    "url": "https://jnto.or.id",
-   "location": "#top-nav > div > div > div:nth-of-type(2) > div > span > span:nth-of-type(2)",
+   "location": "span > *:nth-child(2)",
    "evidence_text": "Breaking News",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0466",
    "url": "https://jnto.or.id",
-   "location": "#posts-container > li:nth-of-type(1) > div:nth-of-type(2) > div > h2 > a",
+   "location": "h2 > *:nth-child(1)",
    "evidence_text": "Pemkab Serang Rayakan HUT ke-500 dengan Penanaman Padi 500 Hektare dan Vaksinasi 500 Ternak",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0467",
    "url": "https://jnto.or.id",
-   "location": "#posts-container > li:nth-of-type(1) > div:nth-of-type(2) > div > div > div > span:nth-of-type(1) > span > span > a",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "bila salsabila",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0490",
    "url": "https://jurnal.iain-bone.ac.id/index.php/alwaraqah",
-   "location": "#othermenus > tbody > tr:nth-of-type(1) > td > a > span > strong",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "Editorial Team",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0491",
    "url": "https://jurnal.iain-bone.ac.id/index.php/alwaraqah",
-   "location": "#othermenus > tbody > tr:nth-of-type(2) > td > a > span > strong",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "Reviewers",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0492",
    "url": "https://jurnal.iain-bone.ac.id/index.php/alwaraqah",
-   "location": "#othermenus > tbody > tr:nth-of-type(3) > td > a > span > strong",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "Author Guidelines",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0493",
    "url": "https://jurnal.iain-bone.ac.id/index.php/alwaraqah",
-   "location": "#othermenus > tbody > tr:nth-of-type(4) > td > a > span > strong",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "Peer Review Process",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0494",
    "url": "https://jurnal.iain-bone.ac.id/index.php/alwaraqah",
-   "location": "#othermenus > tbody > tr:nth-of-type(5) > td > a > span > strong",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "Focus and Scope",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0495",
    "url": "https://jurnal.iain-bone.ac.id/index.php/alwaraqah",
-   "location": "#othermenus > tbody > tr:nth-of-type(6) > td > a > span > strong",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "Publication Ethics",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0496",
    "url": "https://jurnal.iain-bone.ac.id/index.php/alwaraqah",
-   "location": "#othermenus > tbody > tr:nth-of-type(7) > td > a > span > strong",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "Online Submissions",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0497",
    "url": "https://jurnal.iain-bone.ac.id/index.php/alwaraqah",
-   "location": "#othermenus > tbody > tr:nth-of-type(8) > td > a > span > strong",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "Copyright Transfer Form",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0498",
    "url": "https://jurnal.iain-bone.ac.id/index.php/alwaraqah",
-   "location": "#othermenus > tbody > tr:nth-of-type(9) > td > a > span > strong",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "Author Fees",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0499",
    "url": "https://jurnal.iain-bone.ac.id/index.php/alwaraqah",
-   "location": "#othermenus > tbody > tr:nth-of-type(10) > td > a > span > strong",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "Open Access Policy",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0508",
    "url": "https://kis.sch.id",
-   "location": "body > section:nth-of-type(1) > div:nth-of-type(2) > div > h1",
+   "location": "div > h1:nth-child(2)",
    "evidence_text": "Kayuringin Islamic School",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0509",
    "url": "https://kis.sch.id",
-   "location": "body > section:nth-of-type(1) > div:nth-of-type(2) > div > p",
+   "location": "div > *:nth-child(3)",
    "evidence_text": "Membentuk generasi islami yang unggul, modern, berkarakter dan siap menghadapi masa depan.",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0511",
    "url": "https://kunkarima.sch.id",
-   "location": "body > div:nth-of-type(2) > div:nth-of-type(1) > div > div:nth-of-type(2) > div > h1",
+   "location": "div > h1:nth-child(1)",
    "evidence_text": "Pondok Pesantren Kun Karima",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0512",
    "url": "https://kunkarima.sch.id",
-   "location": "body > div:nth-of-type(2) > div:nth-of-type(1) > div > div:nth-of-type(3) > div > p",
+   "location": "div > p:nth-child(1)",
    "evidence_text": "“KUN KARIMA THE ONLY ONE IN THE WORLD”",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0513",
    "url": "https://kunkarima.sch.id",
-   "location": "body > div:nth-of-type(2) > div:nth-of-type(9) > div > div:nth-of-type(4) > div > div > div > div:nth-of-type(1) > div > div > div > div > a",
+   "location": "div > a:nth-child(1)",
    "evidence_text": "Majalah",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0514",
    "url": "https://kunkarima.sch.id",
-   "location": "body > div:nth-of-type(2) > div:nth-of-type(11) > div > div:nth-of-type(2) > div > div > div > div > div:nth-of-type(1) > div > div > div > div:nth-of-type(1) > a:nth-of-type(1)",
+   "location": "div > a:nth-child(1)",
    "evidence_text": "Kegiatan",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0515",
    "url": "https://kunkarima.sch.id",
-   "location": "body > div:nth-of-type(2) > div:nth-of-type(11) > div > div:nth-of-type(2) > div > div > div > div > div:nth-of-type(1) > div > div > div > div:nth-of-type(1) > a:nth-of-type(2)",
+   "location": "div > *:nth-child(2)",
    "evidence_text": "Maklumat",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0516",
    "url": "https://kunkarima.sch.id",
-   "location": "body > div:nth-of-type(2) > div:nth-of-type(11) > div > div:nth-of-type(2) > div > div > div > div > div:nth-of-type(2) > div > div > div > div:nth-of-type(1) > a:nth-of-type(1)",
+   "location": "div > a:nth-child(1)",
    "evidence_text": "Artikel",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0517",
    "url": "https://kunkarima.sch.id",
-   "location": "body > div:nth-of-type(2) > div:nth-of-type(11) > div > div:nth-of-type(2) > div > div > div > div > div:nth-of-type(2) > div > div > div > div:nth-of-type(1) > a:nth-of-type(2)",
+   "location": "div > *:nth-child(2)",
    "evidence_text": "Karya Santri",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0518",
    "url": "https://kunkarima.sch.id",
-   "location": "body > div:nth-of-type(2) > div:nth-of-type(11) > div > div:nth-of-type(2) > div > div > div > div > div:nth-of-type(2) > div > div > div > div:nth-of-type(1) > a:nth-of-type(5)",
+   "location": "div > *:nth-child(5)",
    "evidence_text": "News",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0519",
    "url": "https://kursusbahasainggris.or.id",
-   "location": "#tie-body > a",
+   "location": "a",
    "evidence_text": "kpkgg",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0520",
    "url": "https://kursusbahasainggris.or.id",
-   "location": "#top-nav > div > div > div:nth-of-type(2) > div > span > span:nth-of-type(2)",
+   "location": "span > *:nth-child(2)",
    "evidence_text": "Breaking News",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0522",
    "url": "https://learn.naro.go.ug",
-   "location": "#footer > div > div > div > div:nth-of-type(1) > div > p",
+   "location": "div > *:nth-child(2)",
    "evidence_text": "NARO Continuous Professional Development",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0523",
    "url": "https://learn.naro.go.ug",
-   "location": "#mce_37 > h4",
+   "location": "div > h4:nth-child(1)",
    "evidence_text": "Important Links",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0524",
    "url": "https://learn.naro.go.ug",
-   "location": "#mce_29 > p:nth-of-type(4) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "NARO website",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0525",
    "url": "https://learn.naro.go.ug",
-   "location": "#mce_36 > ul > li:nth-of-type(2) > p:nth-of-type(2) > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "NARO News",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0526",
    "url": "https://learn.naro.go.ug",
-   "location": "#mce_36 > ul > li:nth-of-type(3) > p > a:nth-of-type(2)",
+   "location": "p > *:nth-child(2)",
    "evidence_text": "Online Repository",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0527",
    "url": "https://learn.naro.go.ug",
-   "location": "#mce_43 > div > h4",
+   "location": "div > h4:nth-child(1)",
    "evidence_text": "Follow us on social media",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0529",
    "url": "https://learn.naro.go.ug",
-   "location": "#mce_40 > ul > li:nth-of-type(2) > p > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "Linkedin",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0530",
    "url": "https://learn.naro.go.ug",
-   "location": "#mce_39 > p > a",
+   "location": "p > *:nth-child(1)",
    "evidence_text": "X/Twitter",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0531",
    "url": "https://lpitalfarabi.sch.id",
-   "location": "body > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(2) > h1",
+   "location": "div > h1:nth-child(1)",
    "evidence_text": "LPIT AL FARABI",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0532",
    "url": "https://lpitalfarabi.sch.id",
-   "location": "body > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(3)",
+   "location": "div > *:nth-child(3)",
    "evidence_text": "Lembaga Pendidikan Islam Terpadu AL FARABI",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0533",
    "url": "https://masmiftahulfalah.sch.id",
-   "location": "#tie-body > a",
+   "location": "a",
    "evidence_text": "kpkgg",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0534",
    "url": "https://masmiftahulfalah.sch.id",
-   "location": "#top-nav > div > div > div:nth-of-type(2) > div > span > span:nth-of-type(2)",
+   "location": "span > *:nth-child(2)",
    "evidence_text": "Breaking News",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0535",
    "url": "https://masmiftahulfalah.sch.id",
-   "location": "#posts-container > li:nth-of-type(1) > div:nth-of-type(2) > div > div > div > span:nth-of-type(1) > span > span > a",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "Atok Dalang",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0541",
    "url": "https://www.min7demak.sch.id",
-   "location": "#sliderhome > div:nth-of-type(1) > div > div:nth-of-type(3) > div > div > div:nth-of-type(2) > div > h3",
+   "location": "div > h3:nth-child(1)",
    "evidence_text": "MIN 7 Demak",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0542",
    "url": "https://www.min7demak.sch.id",
-   "location": "#sliderhome > div:nth-of-type(1) > div > div:nth-of-type(3) > div > div > div:nth-of-type(2) > div > p",
+   "location": "div > *:nth-child(2)",
    "evidence_text": "Gedung MI Negeri 7 Demak tampak dari atas begitu mewah",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0543",
    "url": "https://www.min7demak.sch.id",
-   "location": "#sliderhome > div:nth-of-type(1) > div > div:nth-of-type(4) > div > div > div:nth-of-type(2) > div > h3",
+   "location": "div > h3:nth-child(1)",
    "evidence_text": "Power of Qlimak",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0544",
    "url": "https://www.min7demak.sch.id",
-   "location": "#sliderhome > div:nth-of-type(1) > div > div:nth-of-type(4) > div > div > div:nth-of-type(2) > div > p",
+   "location": "div > *:nth-child(2)",
    "evidence_text": "Terwujudnya Madrasah yang Qur'ani, Loyal, Inovatif, Maju, Asri, dan Kreatif",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0545",
    "url": "https://www.min7demak.sch.id",
-   "location": "#sliderhome > div:nth-of-type(1) > div > div:nth-of-type(5) > div > div > div:nth-of-type(2) > div > h3",
+   "location": "div > h3:nth-child(1)",
    "evidence_text": "Madrasah",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0546",
    "url": "https://www.min7demak.sch.id",
-   "location": "#sliderhome > div:nth-of-type(1) > div > div:nth-of-type(5) > div > div > div:nth-of-type(2) > div > p",
+   "location": "div > *:nth-child(2)",
    "evidence_text": "Perpustakaan merupakan salah satu sarana pendukung pembelajaran yang dimiliki oleh MIN 7 Demak",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0547",
    "url": "https://www.min7demak.sch.id",
-   "location": "#sliderhome > div:nth-of-type(1) > div > div:nth-of-type(6) > div > div > div:nth-of-type(2) > div > h3",
+   "location": "div > h3:nth-child(1)",
    "evidence_text": "Lingkungan",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0548",
    "url": "https://www.min7demak.sch.id",
-   "location": "#sliderhome > div:nth-of-type(1) > div > div:nth-of-type(6) > div > div > div:nth-of-type(2) > div > p",
+   "location": "div > *:nth-child(2)",
    "evidence_text": "Sebagai Madrasah berkeunggulan Adiwiyata, MIN 7 Demak senantiasa menanamkan sikap peduli terhadap lingkungan",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0549",
    "url": "https://www.mjhid.org",
-   "location": "#navigationUser > li:nth-of-type(1) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "Register",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0550",
    "url": "https://www.mjhid.org",
-   "location": "#navigationUser > li:nth-of-type(2) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "Login",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0551",
    "url": "https://www.mjhid.org",
-   "location": "#navigationUserWrapper > div:nth-of-type(2) > ul > li > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "Journal Statistics",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0552",
    "url": "https://www.mjhid.org",
-   "location": "#navigationUserWrapper > div:nth-of-type(3) > ul > li:nth-of-type(1) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "Search",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0553",
    "url": "https://www.mjhid.org",
-   "location": "#navigationUserWrapper > div:nth-of-type(3) > ul > li:nth-of-type(2) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "Contact",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0554",
    "url": "https://www.mjhid.org",
-   "location": "#navigationUserWrapper > div:nth-of-type(3) > ul > li:nth-of-type(3) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "Announcements",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0556",
    "url": "https://www.mon.gov.mk",
-   "location": "body > div:nth-of-type(1) > div:nth-of-type(4) > footer > div:nth-of-type(1) > div > p:nth-of-type(2)",
+   "location": "div > *:nth-child(2)",
    "evidence_text": "Министерство за образование и наукана Република Северна Македонија",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0561",
    "url": "https://nhitm.ac.in/admission_page",
-   "location": "#post-18371 > div > div > section:nth-of-type(2) > div > div > div > section:nth-of-type(1) > div > div:nth-of-type(1) > div > div:nth-of-type(1) > div > h2",
+   "location": "div > h2:nth-child(1)",
    "evidence_text": "Intake : 120",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0562",
    "url": "https://nhitm.ac.in/admission_page",
-   "location": "#post-18371 > div > div > section:nth-of-type(2) > div > div > div > section:nth-of-type(1) > div > div:nth-of-type(2) > div > div:nth-of-type(1) > div > h2",
+   "location": "div > h2:nth-child(1)",
    "evidence_text": "Intake : 180",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0563",
    "url": "https://nhitm.ac.in/admission_page",
-   "location": "#post-18371 > div > div > section:nth-of-type(2) > div > div > div > section:nth-of-type(1) > div > div:nth-of-type(3) > div > div:nth-of-type(1) > div > h2",
+   "location": "div > h2:nth-child(1)",
    "evidence_text": "Intake : 60",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0564",
    "url": "https://nhitm.ac.in/mechatronics",
-   "location": "body > div:nth-of-type(15) > section:nth-of-type(1) > div:nth-of-type(2) > div > div > div > div > h2",
+   "location": "div > h2:nth-child(1)",
    "evidence_text": "Mechatronics",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0565",
    "url": "https://nhitm.ac.in/research",
-   "location": "#zolo_sep_17478766696accf2d33a789 > h1",
+   "location": "div > *:nth-child(2)",
    "evidence_text": "The Research Story",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0566",
    "url": "https://nhitm.ac.in",
-   "location": "body > div:nth-of-type(15) > section:nth-of-type(6) > div:nth-of-type(2) > div > div > div:nth-of-type(1) > div > h2",
+   "location": "div > h2:nth-child(1)",
    "evidence_text": "ANNOUNCEMENTS",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0567",
    "url": "https://oire.bru.ac.th/contact",
-   "location": "body > div:nth-of-type(2) > div > div > main > section:nth-of-type(3) > div:nth-of-type(2) > div > div > div > div > div > div:nth-of-type(2) > div > div > div > div > h1",
+   "location": "div > h1:nth-child(1)",
    "evidence_text": "ช่องทางการติดต่อสำนักงานวิเทศสัมพันธ์",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0568",
    "url": "https://oire.bru.ac.th/contact",
-   "location": "body > div:nth-of-type(2) > div > div > main > section:nth-of-type(3) > div:nth-of-type(2) > div > div > div > div > div > div:nth-of-type(2) > div > div > div > div > div:nth-of-type(1)",
+   "location": "div > *:nth-child(2)",
    "evidence_text": "ที่อยู่",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0569",
    "url": "https://oire.bru.ac.th/contact",
-   "location": "body > div:nth-of-type(2) > div > div > main > section:nth-of-type(3) > div:nth-of-type(2) > div > div > div > div > div > div:nth-of-type(2) > div > div > div > div > div:nth-of-type(2)",
+   "location": "div > *:nth-child(3)",
    "evidence_text": "อาคารนวัตปัญญา มหาวิทยาลัยราชภัฏบุรีรัมย์ (ชั้น 3)",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0570",
    "url": "https://oire.bru.ac.th/contact",
-   "location": "body > div:nth-of-type(2) > div > div > main > section:nth-of-type(3) > div:nth-of-type(2) > div > div > div > div > div > div:nth-of-type(2) > div > div > div > div > div:nth-of-type(3)",
+   "location": "div > *:nth-child(4)",
    "evidence_text": "439 ถนน จิระ ตำบลในเมือง",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0571",
    "url": "https://oire.bru.ac.th/contact",
-   "location": "body > div:nth-of-type(2) > div > div > main > section:nth-of-type(3) > div:nth-of-type(2) > div > div > div > div > div > div:nth-of-type(2) > div > div > div > div > div:nth-of-type(4)",
+   "location": "div > *:nth-child(5)",
    "evidence_text": "อำเภอเมือง จังหวัดบุรีรัมย์ 31000",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0572",
    "url": "https://oukirilimetodij.edu.mk",
-   "location": "#post-38 > div > h5:nth-of-type(3) > div:nth-of-type(1) > section > div:nth-of-type(2) > div > div > h1",
+   "location": "div > *:nth-child(2)",
    "evidence_text": "ОУ „Св. Кирил и Методиј“ - Кочани",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0580",
    "url": "https://www.pediatrmedchir.org",
-   "location": "#navigationUser > li:nth-of-type(1) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "Register",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0581",
    "url": "https://www.pediatrmedchir.org",
-   "location": "#navigationUser > li:nth-of-type(2) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "Login",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0582",
    "url": "https://www.pediatrmedchir.org",
-   "location": "#navigationUtility > li:nth-of-type(1) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "Search",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0583",
    "url": "https://www.pediatrmedchir.org",
-   "location": "#navigationUtility > li:nth-of-type(2) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "Contacts",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0584",
    "url": "https://www.pediatrmedchir.org",
-   "location": "#navigationUtility > li:nth-of-type(3) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "News",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0585",
    "url": "https://perpustakaankualalumpur.dbkl.gov.my",
-   "location": "#post-4313 > div > div:nth-of-type(15) > div > div:nth-of-type(1) > div > div:nth-of-type(2) > div > section > div > div > div > header > div:nth-of-type(1) > h2",
+   "location": "div > h2:nth-child(1)",
    "evidence_text": "Menariknya Perpustakaan Kuala Lumpur",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0586",
    "url": "https://perpustakaankualalumpur.dbkl.gov.my",
-   "location": "#post-4313 > div > div:nth-of-type(15) > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div > div > div > div > div > div > div > div > div > div:nth-of-type(1) > article > div > div > div:nth-of-type(2) > blockquote",
+   "location": "div > blockquote:nth-child(1)",
    "evidence_text": "Tempat yang bagus untuk dikunjungi apabila anda memerlukan ruang yang tenang untuk bekerja dan belajar. Wifi cepat, peng",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0587",
    "url": "https://perpustakaankualalumpur.dbkl.gov.my",
-   "location": "#post-4313 > div > div:nth-of-type(15) > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div > div > div > div > div > div > div > div > div > div:nth-of-type(2) > article > div > div > div:nth-of-type(2) > blockquote",
+   "location": "div > blockquote:nth-child(1)",
    "evidence_text": "Saya melawat tempat ini setiap Sabtu dan Ahad (kecuali Sabtu pertama ia ditutup). Terima kasih kepada kerajaan kerana me",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0588",
    "url": "https://perpustakaankualalumpur.dbkl.gov.my",
-   "location": "#post-4313 > div > div:nth-of-type(15) > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div > div > div > div > div > div > div > div > div > div:nth-of-type(4) > article > div > div > div:nth-of-type(2) > blockquote",
+   "location": "div > blockquote:nth-child(1)",
    "evidence_text": "Antara perpustakaan terbaik di Malaysia. Tidak terlalu jauh dari MRT Pasar Seni dan Dataran Merdeka. Reka bentuk yang sa",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0589",
    "url": "https://perpustakaankualalumpur.dbkl.gov.my",
-   "location": "#post-4313 > div > div:nth-of-type(15) > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div > div > div > div > div > div > div > div > div > div:nth-of-type(5) > article > div > div > div:nth-of-type(2) > blockquote",
+   "location": "div > blockquote:nth-child(1)",
    "evidence_text": "Persekitaran yang baik. Mereka akan meminta anda untuk mengunci yr beg dalam loker dan botol air adalah terhad membawa m",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0592",
    "url": "https://personeriadebarranquilla.gov.co",
-   "location": "body > div:nth-of-type(1) > div:nth-of-type(5) > div > div:nth-of-type(2) > div:nth-of-type(1) > div > h2",
+   "location": "div > h2:nth-child(1)",
    "evidence_text": "NUESTRA HISTORIA",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0593",
    "url": "https://personeriadebarranquilla.gov.co",
-   "location": "body > div:nth-of-type(1) > div:nth-of-type(5) > div > div:nth-of-type(2) > div:nth-of-type(3) > div > p",
+   "location": "div > p:nth-child(1)",
    "evidence_text": "Su labor se ha fortalecido en momentos clave como el estallido social y la crisis sanitaria, reafirmando su compromiso c",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0594",
    "url": "https://pn-tanjungbalaikarimun.go.id",
-   "location": "#engage_mag_category_column_widget-5 > div:nth-of-type(1) > div > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > span > a",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "Berita",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0595",
    "url": "https://pn-tanjungbalaikarimun.go.id",
-   "location": "#engage_mag_category_column_widget-5 > div:nth-of-type(1) > div > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > h3 > a",
+   "location": "h3 > *:nth-child(1)",
    "evidence_text": "Mediasi Berhasil",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0597",
    "url": "https://pn-tanjungbalaikarimun.go.id",
-   "location": "#engage_mag_category_column_widget-5 > div:nth-of-type(1) > div > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3)",
+   "location": "div > *:nth-child(4)",
    "evidence_text": "Kamis, 27 Agustus 2026 Pengadilan Negeri Tanjung Balai Karimun Kelas II melalui Hakim Mediator Bapak…",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0598",
    "url": "https://pn-tanjungbalaikarimun.go.id",
-   "location": "#engage_mag_category_column_widget-5 > div:nth-of-type(1) > div > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > span > a:nth-of-type(1)",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "Kegiatan",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0599",
    "url": "https://pn-tanjungbalaikarimun.go.id",
-   "location": "#engage_mag_category_column_widget-5 > div:nth-of-type(1) > div > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > span > a:nth-of-type(2)",
+   "location": "span > *:nth-child(2)",
    "evidence_text": "updates",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0600",
    "url": "https://pn-tanjungbalaikarimun.go.id",
-   "location": "#engage_mag_category_column_widget-5 > div:nth-of-type(1) > div > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > h3 > a",
+   "location": "h3 > *:nth-child(1)",
    "evidence_text": "Penutupan Asesmen AMPUH, Pengawasan Daerah dan Pendampingan ZI Tahun 2026",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0602",
    "url": "https://pn-tanjungbalaikarimun.go.id",
-   "location": "#engage_mag_category_column_widget-5 > div:nth-of-type(1) > div > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3)",
+   "location": "div > *:nth-child(4)",
    "evidence_text": "Rabu, 29 April 2026 Bertempat di ruang Sidang Cakra, dilaksanakan penutupan asesmen AMPUH, Pengawasan Daerah…",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0605",
    "url": "https://poltekkesbengkulu.ac.id",
-   "location": "#blog_section > div > div:nth-of-type(2) > div:nth-of-type(1) > article > div > div > div:nth-of-type(2) > a",
+   "location": "div > a:nth-child(1)",
    "evidence_text": "Read More",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0606",
    "url": "https://ppdb.sitkaifa.sch.id",
-   "location": "body > div:nth-of-type(1) > div > div:nth-of-type(3) > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(1) > div > label",
+   "location": "div > *:nth-child(2)",
    "evidence_text": "Hafal 3 Juz Al Quran",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0607",
    "url": "https://ppdb.sitkaifa.sch.id",
-   "location": "body > div:nth-of-type(1) > div > div:nth-of-type(3) > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2) > div > label",
+   "location": "div > *:nth-child(2)",
    "evidence_text": "Berkepribadian Islami",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0608",
    "url": "https://ppdb.sitkaifa.sch.id",
-   "location": "body > div:nth-of-type(1) > div > div:nth-of-type(3) > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(3) > div > label",
+   "location": "div > *:nth-child(2)",
    "evidence_text": "Cakap Teknologi",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0609",
    "url": "https://ppdb.sitkaifa.sch.id",
-   "location": "body > div:nth-of-type(1) > div > div:nth-of-type(3) > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(4) > div > label",
+   "location": "div > *:nth-child(2)",
    "evidence_text": "Bahasa Inggris & Arab",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0610",
    "url": "https://prestasiprima.ac.id",
-   "location": "#ast-desktop-header > div > div > div > div > div:nth-of-type(1) > div > div > div > span > a",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "Politeknik Prestasi Prima",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0611",
    "url": "https://prestasiprima.ac.id",
-   "location": "#post-9 > div > div:nth-of-type(1) > div:nth-of-type(2) > div > div > p:nth-of-type(2)",
+   "location": "div > *:nth-child(3)",
    "evidence_text": "Politeknik Prestasi Prima, yang lebih dikenal sebagai Poltek Presma, merupakan sebuah institusi pendidikan tinggi yang b",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0617",
    "url": "https://rajawalibandung.sch.id",
-   "location": "#tie-body > a",
+   "location": "a",
    "evidence_text": "kpkgg",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0618",
    "url": "https://rajawalibandung.sch.id",
-   "location": "#top-nav > div > div > div:nth-of-type(2) > div > span > span:nth-of-type(2)",
+   "location": "span > *:nth-child(2)",
    "evidence_text": "Breaking News",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0619",
    "url": "https://rajawalibandung.sch.id",
-   "location": "#posts-container > li:nth-of-type(1) > div:nth-of-type(2) > div > div > div > span:nth-of-type(1) > span > span > a",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "Atok Dalang",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0620",
    "url": "https://repository.efhar.ac.id",
-   "location": "#menu-item-285 > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "Login",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0621",
    "url": "https://revista.ajrpt.com",
-   "location": "#navigationUser > li > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "Login",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0623",
    "url": "https://revistas.uva.es/index.php/hermeneus/index",
-   "location": "#navigationUser > li:nth-of-type(1) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "Register",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0624",
    "url": "https://revistas.uva.es/index.php/hermeneus/index",
-   "location": "#navigationUser > li:nth-of-type(2) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "Login",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0625",
    "url": "https://sahabatqu.sch.id",
-   "location": "#swiper-wrapper-8bc2af5a5bb2107bd > div:nth-of-type(1) > div > div > div:nth-of-type(1) > div > p",
+   "location": "div > *:nth-child(3)",
    "evidence_text": "Menghasilkan generasi bangsa di masa depan yang memiliki adab dan akhlak mulia",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0626",
    "url": "https://sahabatqu.sch.id",
-   "location": "#page > div:nth-of-type(3) > section:nth-of-type(1) > div > div > div > div > div > div > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+   "location": "div > a:nth-child(1)",
    "evidence_text": "facebook",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0627",
    "url": "https://sahabatqu.sch.id",
-   "location": "#page > div:nth-of-type(3) > section:nth-of-type(1) > div > div > div > div > div > div > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(2)",
+   "location": "div > *:nth-child(2)",
    "evidence_text": "twitter",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0628",
    "url": "https://sd.sahabatqu.sch.id",
-   "location": "#swiper-wrapper-cf108b4f2b1a64e24 > div:nth-of-type(1) > div > div > div:nth-of-type(1) > div > p",
+   "location": "div > *:nth-child(3)",
    "evidence_text": "Menghasilkan generasi bangsa di masa depan yang memiliki adab dan akhlak mulia",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0629",
    "url": "https://sd.sahabatqu.sch.id",
-   "location": "#page > div:nth-of-type(3) > section:nth-of-type(1) > div > div > div > div > div > div > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+   "location": "div > a:nth-child(1)",
    "evidence_text": "facebook",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0630",
    "url": "https://sd.sahabatqu.sch.id",
-   "location": "#page > div:nth-of-type(3) > section:nth-of-type(1) > div > div > div > div > div > div > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(2)",
+   "location": "div > *:nth-child(2)",
    "evidence_text": "twitter",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0641",
    "url": "https://sditanaksholeh.sch.id",
-   "location": "body > header:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > h1",
+   "location": "div > h1:nth-child(1)",
    "evidence_text": "SDIT Anak Sholeh",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0642",
    "url": "https://sditanaksholeh.sch.id",
-   "location": "body > header:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > h2",
+   "location": "div > h2:nth-child(1)",
    "evidence_text": "Sedayu - Bantul",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0643",
    "url": "https://sditanaksholeh.sch.id",
-   "location": "body > header:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > h3",
+   "location": "div > h3:nth-child(1)",
    "evidence_text": "Membentuk Generasi Beriman, Berilmu, dan Beramal.",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0644",
    "url": "https://sdittunascendikiamunjul.sch.id",
-   "location": "body > div:nth-of-type(2) > section:nth-of-type(1) > div:nth-of-type(2) > div > div > section > div:nth-of-type(2) > div:nth-of-type(2) > div > div > div > nav:nth-of-type(1) > ul > li:nth-of-type(3) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "Artikel",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0645",
    "url": "https://sdittunascendikiamunjul.sch.id",
-   "location": "body > div:nth-of-type(2) > section:nth-of-type(1) > div:nth-of-type(2) > div > div > section > div:nth-of-type(2) > div:nth-of-type(2) > div > div > div > nav:nth-of-type(1) > ul > li:nth-of-type(5) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "Hasil PPDB",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0649",
    "url": "https://sisn.pagepress.org/index.php/nhs/index",
-   "location": "#navigationUser > li:nth-of-type(1) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "Register",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0650",
    "url": "https://sisn.pagepress.org/index.php/nhs/index",
-   "location": "#navigationUser > li:nth-of-type(2) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "Login",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0651",
    "url": "https://sisn.pagepress.org/index.php/nhs/index",
-   "location": "#navigationUtility > li:nth-of-type(1) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "Search",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0652",
    "url": "https://sisn.pagepress.org/index.php/nhs/index",
-   "location": "#navigationUtility > li:nth-of-type(2) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "Contacts",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0653",
    "url": "https://sisn.pagepress.org/index.php/nhs/index",
-   "location": "#navigationUtility > li:nth-of-type(3) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "News",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0654",
    "url": "https://stitalyaqin.ac.id",
-   "location": "#post-627 > div > div > div:nth-of-type(8) > div:nth-of-type(3) > h2",
+   "location": "div > h2:nth-child(1)",
    "evidence_text": "Acara Wisuda",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0655",
    "url": "https://stitalyaqin.ac.id",
-   "location": "#post-627 > div > div > div:nth-of-type(8) > div:nth-of-type(4) > p",
+   "location": "div > p:nth-child(1)",
    "evidence_text": "STIT Al-Yaqin Muaro Sijunjung",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0656",
    "url": "https://stitalyaqin.ac.id",
-   "location": "#post-627 > div > div > div:nth-of-type(16) > div > div:nth-of-type(1) > div:nth-of-type(1) > h2",
+   "location": "div > h2:nth-child(1)",
    "evidence_text": "Partnership",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0657",
    "url": "https://stitalyaqin.ac.id",
-   "location": "#post-627 > div > div > div:nth-of-type(16) > div > div:nth-of-type(1) > div:nth-of-type(2) > p",
+   "location": "div > p:nth-child(1)",
    "evidence_text": "Instansi/Lembaga yang sudah bekerjasama dengan Sekolah Tinggi Ilmu Tarbiyah (STIT) YPI Sijunjung",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0668",
    "url": "https://svetisavasm.edu.rs/takmicenja",
-   "location": "#td-outer-wrap > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(1) > div > div:nth-of-type(2) > p:nth-of-type(3) > span > strong",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "ОПШТИНСКО ТАКМИЧЕЊЕ",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0669",
    "url": "https://svetisavasm.edu.rs/takmicenja",
-   "location": "#td-outer-wrap > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(1) > div > div:nth-of-type(2) > p:nth-of-type(79) > span > strong",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "ОКРУЖНО ТАКМИЧЕЊЕ",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0676",
    "url": "https://umi.ac.ug",
-   "location": "#swiper-wrapper-0edfb17de68108c25 > div:nth-of-type(14) > a > div > div:nth-of-type(1) > strong",
+   "location": "div > strong:nth-child(1)",
    "evidence_text": "Develop & Deliver",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0677",
    "url": "https://www.urogynaecologia.org",
-   "location": "#navigationUser > li:nth-of-type(1) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "Register",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0678",
    "url": "https://www.urogynaecologia.org",
-   "location": "#navigationUser > li:nth-of-type(2) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "Login",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0679",
    "url": "https://www.urogynaecologia.org",
-   "location": "#navigationUtility > li:nth-of-type(1) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "Search",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0680",
    "url": "https://www.urogynaecologia.org",
-   "location": "#navigationUtility > li:nth-of-type(2) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "Contacts",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0681",
    "url": "https://www.urogynaecologia.org",
-   "location": "#navigationUtility > li:nth-of-type(3) > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "News",
    "subtype": "neg_same_color_decor"
   },
   {
    "id": "TR-RN-0690",
    "url": "https://iaai.kmitl.ac.th",
-   "location": "#kingster-page-wrapper > div:nth-of-type(2) > div:nth-of-type(8) > div:nth-of-type(2) > div > div:nth-of-type(3) > div > div > div > div > div > div > div > p",
+   "location": "div > *:nth-child(1) > *:nth-child(3) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(1) > *:nth-child(3) > *:nth-child(2)",
    "evidence_text": "This is a 4- year English program that offers individuals to become engineers with knowledge and expertise in the field",
    "subtype": "neg_slider_inactive"
   },
   {
    "id": "TR-RN-0691",
    "url": "https://idi.nalsar.ac.in",
-   "location": "#full_slider_1 > div > div:nth-of-type(1) > a:nth-of-type(1)",
+   "location": "div > a:nth-child(1)",
    "evidence_text": "Previous",
    "subtype": "neg_slider_inactive"
   },
   {
    "id": "TR-RN-0692",
    "url": "https://idi.nalsar.ac.in",
-   "location": "#full_slider_1 > div > div:nth-of-type(1) > a:nth-of-type(2)",
+   "location": "div > *:nth-child(2)",
    "evidence_text": "Next",
    "subtype": "neg_slider_inactive"
   },
   {
    "id": "TR-RN-0693",
    "url": "https://nou.edu.ng",
-   "location": "#post-22 > div > div > div > div:nth-of-type(7) > div:nth-of-type(1) > div:nth-of-type(1) > div > div > div > div > div > div > h4",
+   "location": "div > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > h4:nth-child(1)",
    "evidence_text": "2026_2 POP Exam Draft Time Table",
    "subtype": "neg_slider_inactive"
   },
   {
    "id": "TR-RN-0694",
    "url": "https://nou.edu.ng",
-   "location": "#post-22 > div > div > div > div:nth-of-type(7) > div:nth-of-type(1) > div:nth-of-type(2) > div > div > div > div > div > div > h4",
+   "location": "div > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > h4:nth-child(1)",
    "evidence_text": "Approved 2026 Academic Calendar",
    "subtype": "neg_slider_inactive"
   },
   {
    "id": "TR-RN-0695",
    "url": "https://paud.bintangjuara.sch.id",
-   "location": "#post-16 > div > div:nth-of-type(4) > div > div > div > div > div > h2 > strong",
+   "location": "div > div:nth-child(1) > h2:nth-child(1) > strong:nth-child(1)",
    "evidence_text": "Kata Ayah Bunda",
    "subtype": "neg_slider_inactive"
   },
   {
    "id": "TR-RN-0696",
    "url": "https://www.sditalhambra.sch.id",
-   "location": "#post-61 > div:nth-of-type(2) > div > div > div > section:nth-of-type(1) > div:nth-of-type(2) > div > div > div:nth-of-type(2) > div > h2 > span:nth-of-type(2) > span:nth-of-type(1)",
+   "location": "span > *:nth-child(1)",
    "evidence_text": "Unggul Dalam Prestasi",
    "subtype": "neg_slider_inactive"
   },
   {
    "id": "TR-RN-0697",
    "url": "https://sksdmahilakalasala.ac.in",
-   "location": "body > div > section:nth-of-type(4) > div > div > div:nth-of-type(2) > div > div > p:nth-of-type(1)",
+   "location": "div > *:nth-child(3)",
    "evidence_text": "Our state-of-the-art laboratories provide hands-on learning with modern equipment. Students gain practical exposure that",
    "subtype": "neg_slider_inactive"
   },
   {
    "id": "TR-RN-0698",
    "url": "https://jurnal.stiq-amuntai.ac.id/index.php/al-muhith",
-   "location": "#content > table:nth-of-type(1) > tbody > tr > td:nth-of-type(3) > div:nth-of-type(1) > a",
+   "location": "div > a:nth-child(1)",
    "evidence_text": "PDF",
    "subtype": "neg_transparent_icon_text"
   },
   {
    "id": "TR-RN-0699",
    "url": "https://jurnal.uisu.ac.id/index.php/mulaqah",
-   "location": "#content > table:nth-of-type(1) > tbody > tr > td:nth-of-type(3) > div:nth-of-type(1) > a",
+   "location": "div > a:nth-child(1)",
    "evidence_text": "PDF",
    "subtype": "neg_transparent_icon_text"
   },
   {
    "id": "TR-RN-0700",
    "url": "https://pkbmadhyaksatuban.sch.id",
-   "location": "body > div:nth-of-type(2) > footer > div:nth-of-type(2) > div > div > div > div > h2 > a",
+   "location": "h2 > *:nth-child(1)",
    "evidence_text": "dibuat oleh rrdigital.id",
    "subtype": "neg_transparent_icon_text"
   },
   {
    "id": "TR-RN-0701",
    "url": "https://revista.ibict.br/fiinf/index",
-   "location": "#barra-brasil > div:nth-of-type(2) > a",
+   "location": "div > a:nth-child(1)",
    "evidence_text": "GovBR",
    "subtype": "neg_transparent_icon_text"
   },
   {
    "id": "TR-RN-0702",
    "url": "https://sditalkautsarcikarang.sch.id",
-   "location": "body > div:nth-of-type(2) > footer > div:nth-of-type(2) > div > div > div:nth-of-type(1) > div > h2 > a",
+   "location": "h2 > *:nth-child(1)",
    "evidence_text": "dibuat oleh rrdigital.id",
    "subtype": "neg_transparent_icon_text"
   },
   {
    "id": "TR-RN-0703",
    "url": "https://sdittunascendikiamunjul.sch.id",
-   "location": "#content > div > div:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(2) > div > div > div:nth-of-type(3) > div > h2 > a",
+   "location": "h2 > *:nth-child(1)",
    "evidence_text": "RRDigital.id",
    "subtype": "neg_transparent_icon_text"
   },
   {
    "id": "TR-RN-0704",
    "url": "https://sdmawaci.sch.id",
-   "location": "body > div:nth-of-type(2) > footer > div:nth-of-type(2) > div > div > div:nth-of-type(2) > div > h2 > a",
+   "location": "h2 > *:nth-child(1)",
    "evidence_text": "dibuat oleh rrdigital.id",
    "subtype": "neg_transparent_icon_text"
   },
   {
    "id": "TR-RN-0705",
    "url": "https://smpn3xkoto.sch.id/hasil-seleksi-siswa",
-   "location": "body > div:nth-of-type(3) > footer > div:nth-of-type(2) > div > div > div > div > h2 > a",
+   "location": "h2 > *:nth-child(1)",
    "evidence_text": "dibuat oleh rrdigital.id",
    "subtype": "neg_transparent_icon_text"
   },
   {
    "id": "TR-RN-0706",
    "url": "https://thelanguagerightsblog.nalsar.ac.in",
-   "location": "#menu-item-27 > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "Facebook",
    "subtype": "neg_transparent_icon_text"
   },
   {
    "id": "TR-RN-0707",
    "url": "https://thelanguagerightsblog.nalsar.ac.in",
-   "location": "#menu-item-28 > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "Twitter",
    "subtype": "neg_transparent_icon_text"
   },
   {
    "id": "TR-RN-0708",
    "url": "https://thelanguagerightsblog.nalsar.ac.in",
-   "location": "#menu-item-29 > a",
+   "location": "li > *:nth-child(1)",
    "evidence_text": "Instagram",
    "subtype": "neg_transparent_icon_text"
   },

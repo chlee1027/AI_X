@@ -8767,7 +8767,7 @@
   expected_location: span
   is_positive: false
   extra_finding: null
-  source: 바로 ▣ 〔010♪ 6443♪5380〕 강남역 가라오케 수질·가격 만족도 최상 ⦉수실장 ❰ 강남역 디셈버 ⌊ 청담동 가라오케 강남화류계업소 공유 | http://wangsung.co.kr/53/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=174896569&t=board
+  source: 바로 ▣ 〔010♪ 0000♪5380〕 강남역 가라오케 수질·가격 만족도 최상 ⦉수실장 ❰ 강남역 디셈버 ⌊ 청담동 가라오케 강남화류계업소 공유 | http://wangsung.co.kr/53/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=174896569&t=board
   notes: '[10-13 보충, 원 id DC-TL-071] 실측 2026-10-13 (원 페이지 저장 2026-10-03). 방식 color_matches_bg(글자색이 바탕색과 같음). 원 페이지 렌더링 실효 opacity 1, 글자색 rgb(255, 255, 255), 바탕 default-white, 대비 1; 조각 단독 렌더링 실효 opacity 1, 글자색 rgb(255, 255, 255)(알파 1), 바탕 rgba(255,255,255,1), 대비 1. 정상 UI 판단: 사이트 운영자가 만든 배너·소개 문구(제목·슬로건). 저장본 렌더링에서 흰 글자가 흰 바탕 위에 놓였다. 원 사이트에서 배경 그림이나 스크립트가 칠하는 어두운 바탕 위에 놓이도록 만든 글자색일 가능성이 있으나 확인하지는 않았다. 광고 어휘·불법 링크·연락처 스팸 없음. 렌더링 결과 invisible (대상 숨김 전후 픽셀 최대차 0, 투명 처리를 풀고 빨강으로 칠하면 255). css 는 브라우저 CSSOM 직렬화 규칙(숨김은 조각 안의 인라인 style 만으로 재현).'
 - id: DC-588
   category: DECOY
@@ -8917,9 +8917,9 @@
 - id: DC-601
   category: DECOY
   subtype: transparent_like_normal
-  html: <p class="text-light" style="line-height:18px;"><span style="color:#fff;">Tel. 070-7435-3721</span></p>
+  html: <p class="text-light" style="line-height:18px;"><span style="color:#fff;">Tel. 070-0000-3721</span></p>
   css: ''
-  evidence_text: Tel. 070-7435-3721
+  evidence_text: Tel. 070-0000-3721
   expected_location: span
   is_positive: false
   extra_finding: null
@@ -10789,7 +10789,7 @@
   expected_location: a
   is_positive: false
   extra_finding: null
-  source: 고객문의 사항은 전화문의바랍니다. Tel. 010-7464-0296 > 고객문의 | 현대벽돌타일 | http://hdbrick.phps.kr/bbs/board.php?bo_table=b_09&wr_id=12
+  source: 고객문의 사항은 전화문의바랍니다. Tel. 010-0000-0296 > 고객문의 | 현대벽돌타일 | http://hdbrick.phps.kr/bbs/board.php?bo_table=b_09&wr_id=12
   notes: '[10-13 보충, 원 id DC-EL-053, 기법 link_normal] 실측 2026-10-10 저장본. 기법 link_normal(링크 감싸기). 이동·공유 링크 감싸기: href=http://hdbrick.phps.kr/bbs/member_confirm.php?url=http://hdbrick.phps.kr/bbs/register_form.php , 실제 목적지 http://hdbrick.phps.kr/bbs/register_form.php . 사이트 자체 이동·로그인 복귀용 링크. 목적지는 같은 사이트 또는 공공·대형 사이트이고 광고·도박 도메인이 아님. 신호는 href 속성이라 evidence_text 는 앵커 글자. 원본 파일 r_m1010b_0/aed0e097f8_browser.html'
 - id: DC-770
   category: DECOY

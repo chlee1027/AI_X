@@ -725,9 +725,9 @@
 - id: "JM-066"
   category: "JAMO"
   subtype: "conjoining_u1100"
-  html: "<span id=\"jm-066\">바둑이 총판 인디언게임 홀덤 사이트 010/7465/3464</span>"
+  html: "<span id=\"jm-066\">바둑이 총판 인디언게임 홀덤 사이트 010/0000/3464</span>"
   css: ""
-  evidence_text: "바둑이 총판 인디언게임 홀덤 사이트 010/7465/3464"
+  evidence_text: "바둑이 총판 인디언게임 홀덤 사이트 010/0000/3464"
   expected_location: "#jm-066"
   is_positive: true
   extra_finding: null

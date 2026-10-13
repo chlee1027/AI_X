@@ -764,9 +764,9 @@
 - id: HG-RT-0041
   category: HOMOGLYPH
   subtype: hangul_lookalike
-  html: "<a href=\"/board/view.gimje?boardId=BBS_0000048&amp;paging=ok&amp;startPage=157&amp;dataSid=162478\">\n\t\t\t\t\t<strong>\n\t\t\t\t\t■ 노후 대비와 재취업을 동시에 준비합시다 ■\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t</strong>\n\t\t\t\t\t<span class=\"txt\">■ 노후 대비와 재취업을 동시에 준비합시다 ■\n\n이름 : 김기찬\n\n직급 : 팀장\n\n소속 : 학습,설계팀\n\n번호 : 010 – 0000 – 8428 로 문의 주시면 친절히 상담해 드리겠습니다.\n\n학점,은행제를 통해 ㅈr격증 취득 가능!!!\n\n고등학교 졸업자라면 누구나~!!!\n\n연령제한 없습니다!!\n\n노후 대비와 취업을 희망하는 분들에게 \n\n가장 이상적인 ...</span> \n\t\t\t\t\t<em class=\"info\"><span>작성자 : 김기찬</span><span>작성일 : 2020.11.18</span><span>조회수 : 98</span></em> \n\t\t\t\t</a>"
+  html: "<a href=\"/board/view.gimje?boardId=BBS_0000048&amp;paging=ok&amp;startPage=157&amp;dataSid=162478\">\n\t\t\t\t\t<strong>\n\t\t\t\t\t■ 노후 대비와 재취업을 동시에 준비합시다 ■\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t</strong>\n\t\t\t\t\t<span class=\"txt\">■ 노후 대비와 재취업을 동시에 준비합시다 ■\n\n이름 : 김○○\n\n직급 : 팀장\n\n소속 : 학습,설계팀\n\n번호 : 010 – 0000 – 8428 로 문의 주시면 친절히 상담해 드리겠습니다.\n\n학점,은행제를 통해 ㅈr격증 취득 가능!!!\n\n고등학교 졸업자라면 누구나~!!!\n\n연령제한 없습니다!!\n\n노후 대비와 취업을 희망하는 분들에게 \n\n가장 이상적인 ...</span> \n\t\t\t\t\t<em class=\"info\"><span>작성자 : 김○○</span><span>작성일 : 2020.11.18</span><span>조회수 : 98</span></em> \n\t\t\t\t</a>"
   css: ''
-  evidence_text: '■ 노후 대비와 재취업을 동시에 준비합시다 ■ 이름 : 김기찬 직급 : 팀장 소속 : 학습,설계팀 번호 : 010 – 0000 – 8428 로 문의 주시면 친절히 상담해 드리겠습니다. 학점,은행제를 통해 ㅈr격증 취'
+  evidence_text: '■ 노후 대비와 재취업을 동시에 준비합시다 ■ 이름 : 김○○ 직급 : 팀장 소속 : 학습,설계팀 번호 : 010 – 0000 – 8428 로 문의 주시면 친절히 상담해 드리겠습니다. 학점,은행제를 통해 ㅈr격증 취'
   expected_location: span.txt
   is_positive: true
   extra_finding: null
@@ -2924,7 +2924,7 @@
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=155
     host: counselpsy.hannam.ac.kr
     page_id: 287f7a8a3a28
-  campaign: token:dckim05082
+  campaign: token:dckim05000
   tier: A
   notes: ''
 - id: HG-RT-0266
@@ -3171,7 +3171,7 @@
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=188
     host: counselpsy.hannam.ac.kr
     page_id: ff4ecf68060e
-  campaign: token:8880508202
+  campaign: token:8880500000
   tier: A
   notes: ''
 - id: HG-RT-0312
@@ -3684,7 +3684,7 @@
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=287
     host: counselpsy.hannam.ac.kr
     page_id: 7c75cc2f2874
-  campaign: token:0508202906
+  campaign: token:0500002906
   tier: A
   notes: ''
 - id: HG-RT-0446
@@ -3703,7 +3703,7 @@
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=291
     host: counselpsy.hannam.ac.kr
     page_id: ac7f75ad96f2
-  campaign: token:dckim05082
+  campaign: token:dckim05000
   tier: A
   notes: ''
 - id: HG-RT-0447
@@ -5413,7 +5413,7 @@
     url: http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=5
     host: www.k3dprinting.or.kr
     page_id: 2e43503fd583
-  campaign: token:dckim05082
+  campaign: token:dckim05000
   tier: A
   notes: ''
 - id: HG-RT-0763
@@ -5451,7 +5451,7 @@
     url: http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=47
     host: www.k3dprinting.or.kr
     page_id: 8ebb13313a0f
-  campaign: token:dckim05082
+  campaign: token:dckim05000
   tier: A
   notes: ''
 - id: HG-RT-0796
@@ -5489,7 +5489,7 @@
     url: http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=233
     host: www.k3dprinting.or.kr
     page_id: 65277730ace0
-  campaign: token:dckim05082
+  campaign: token:dckim05000
   tier: A
   notes: ''
 - id: HG-RT-0809
@@ -5527,7 +5527,7 @@
     url: http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=267
     host: www.k3dprinting.or.kr
     page_id: bdf4d42ae614
-  campaign: token:ci05082029
+  campaign: token:ci05000029
   tier: A
   notes: ''
 - id: HG-RT-0813
@@ -5622,7 +5622,7 @@
     url: http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=331
     host: www.k3dprinting.or.kr
     page_id: 3713534703e6
-  campaign: token:ci05082029
+  campaign: token:ci05000029
   tier: A
   notes: ''
 - id: HG-RT-0836
@@ -6192,7 +6192,7 @@
     url: https://ysgsa.yonsei.ac.kr/board4/?page=1
     host: ysgsa.yonsei.ac.kr
     page_id: 8424aed5cf16
-  campaign: token:74653464
+  campaign: token:00003464
   tier: A
   notes: ''
 - id: HG-RT-1298
