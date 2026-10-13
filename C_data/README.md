@@ -10,6 +10,8 @@
 | `homoglyph/` | 사람 2 | `homoglyph_real_test_capped.yaml` 닮은꼴 글자 권장판(캠페인당 5건) · `README.md` | 372 |
 | `transparent/` | 사람 2 | `transparent_real_test_rec20.yaml` 투명 텍스트 2차판 권장판(사이트당 20건, 해외 기관 26곳) · `_render.yaml` 단독 렌더링 결과 · `README.md` | 232 |
 | `offscreen/` | 사람 3 | `offscreen_originals.yaml` 실제 원문(OF-108~207) · `reference_only.json` 참고 사례 · `offscreen.yaml` CSS 동작 확인용 fixture(원문에서 만든 파생, 독립 평가용 아님) · `offscreen_controls.json` 가시 대조군(음성) | 100 · 2 · 100 · 7 |
+| `jamo/` | 사람 4 | `jamo.yaml` 자모 분해 실제 원문(JM-001~130) | 130 |
+| `lexicon/` | 사람 4 | `seed.yaml` 어휘 사전(gambling_core · gambling_lure · contact · adult · whitelist 각 100) | 500 |
 
 - `tools/validate.py` 는 팀 공통 양식 검사기(`python tools/validate.py <파일>`), `tools/render_check.py` 는 단독 렌더링 검사기(Playwright + Edge)다.
 - 사람별 원래 README·현황 문서는 `docs/사람N/` 에 그대로 옮겼다. 그 문서 속 경로(`samples/…`, `answers/…`)는 바탕화면 정리 폴더 기준이니 위 표의 폴더로 읽는다.

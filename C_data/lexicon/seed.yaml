@@ -1,0 +1,3000 @@
+- term: 도박
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 한국청소년상담복지개발원 2020 청소년 온라인 도박문제 개입을 위한 매뉴얼 개발
+  reviewed: true
+- term: 불법도박
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 한국청소년상담복지개발원 2021 청소년상담 이슈페이퍼 「온라인 도박, 청소년 놀이문화가 되다」
+  reviewed: true
+- term: 온라인 도박
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 사설 카지노
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법 하우스
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법 사행성 게임장
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+- term: 불법 스포츠 도박
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 한국청소년상담복지개발원 2021 청소년상담 이슈페이퍼 「온라인 도박, 청소년 놀이문화가 되다」
+  reviewed: true
+- term: 온라인 즉석 및 실시간 게임
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+- term: 불법 웹보드 게임
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+- term: 불법 경마
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+- term: 불법 경륜
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법 경정
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+- term: 불법 소싸움
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법 복권
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+- term: 홀덤펍
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 사행산업통합감독위원회 2024 사행산업 이용실태 조사
+  reviewed: true
+- term: 온라인/라이브 카지노
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+- term: 사설FX마진거래
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 확률형 아이템
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 한국청소년상담복지개발원 2021 청소년상담 이슈페이퍼 「온라인 도박, 청소년 놀이문화가 되다」
+  reviewed: true
+- term: P2E
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 가상화폐
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+- term: 전자복권
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+- term: 화투
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+- term: 장기
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+- term: 바둑
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+- term: 골패
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+- term: 주사위
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+- term: 트럼프
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+- term: 체스
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+- term: 마작
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 경품
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+- term: 오락
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 한국청소년상담복지개발원 2020 청소년 온라인 도박문제 개입을 위한 매뉴얼 개발
+  reviewed: true
+- term: 바다이야기
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 스크린 경마
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+- term: 파친코
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+- term: 복권
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 사행산업통합감독위원회 2024 사행산업 이용실태 조사
+  reviewed: true
+- term: 로또
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 한국청소년상담복지개발원 2021 청소년상담 이슈페이퍼 「온라인 도박, 청소년 놀이문화가 되다」
+  reviewed: true
+- term: 경마
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+- term: 경륜
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 경정
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+- term: 체육진흥투표권
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 사행산업통합감독위원회 2024 사행산업 이용실태 조사
+  reviewed: true
+- term: 프로토
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+- term: 소싸움
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+- term: 사기도박
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+- term: 온라인 불법도박
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 사행산업
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 사행산업통합감독위원회 2024 사행산업 이용실태 조사
+  reviewed: true
+- term: 불법 온라인 카지노
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+- term: 카지노
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+- term: 슬롯머신
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+- term: 토토
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 한국청소년상담복지개발원 2020 청소년 온라인 도박문제 개입을 위한 매뉴얼 개발
+  reviewed: true
+- term: 베팅
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 한국청소년상담복지개발원 2021 청소년상담 이슈페이퍼 「온라인 도박, 청소년 놀이문화가 되다」
+  reviewed: true
+- term: 사설 토토
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+- term: 사다리게임
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 한국청소년상담복지개발원 2020 청소년 온라인 도박문제 개입을 위한 매뉴얼 개발
+  reviewed: true
+- term: 홀짝
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 한국청소년상담복지개발원 2020 청소년 온라인 도박문제 개입을 위한 매뉴얼 개발
+  reviewed: true
+- term: 파워볼 게임
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+- term: FX마진거래
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 한국청소년상담복지개발원 2021 청소년상담 이슈페이퍼 「온라인 도박, 청소년 놀이문화가 되다」
+  reviewed: true
+- term: 돈내기 게임
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 한국청소년상담복지개발원 2021 청소년상담 이슈페이퍼 「온라인 도박, 청소년 놀이문화가 되다」
+  reviewed: true
+- term: 불법 인터넷 도박
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 한국청소년상담복지개발원 2021 청소년상담 이슈페이퍼 「온라인 도박, 청소년 놀이문화가 되다」
+  reviewed: true
+- term: 온라인 도박 사이트
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+- term: 사행성 게임
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+- term: 불법 카지노
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+- term: 불법스포츠도박
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 사행성게임물
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+- term: 체육진흥투표권 발매
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+- term: 스포츠 토토
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 소셜그래프게임
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 한국청소년상담복지개발원 2020 청소년 온라인 도박문제 개입을 위한 매뉴얼 개발
+  reviewed: true
+- term: 달팽이게임
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 한국청소년상담복지개발원 2020 청소년 온라인 도박문제 개입을 위한 매뉴얼 개발
+  reviewed: true
+- term: 사설 도박
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 온라인 카지노
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+- term: 불법 온라인 도박
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 한국청소년상담복지개발원 2020 청소년 온라인 도박문제 개입을 위한 매뉴얼 개발
+  reviewed: true
+- term: 인터넷 도박
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+- term: 스포츠도박
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 온라인 스포츠 도박
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+- term: 웹보드게임
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 한국청소년상담복지개발원 2020 청소년 온라인 도박문제 개입을 위한 매뉴얼 개발
+  reviewed: true
+- term: 불법도박 사이트
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+- term: 불법 사행산업
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+- term: 카지노사이트
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=9&mod=document&uid=45155
+  reviewed: true
+- term: 카지노솔루션
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=7&mod=document&uid=45178
+  reviewed: true
+- term: 카지노게임
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=2&mod=document&uid=45250
+  reviewed: true
+- term: 카지노주소
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=4&mod=document&uid=45224
+  reviewed: true
+- term: 카지노알
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=68&mod=document&uid=44261
+  reviewed: true
+- term: 카지노창업
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=3&mod=document&uid=45244
+  reviewed: true
+- term: 카지노사이트제작
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=26&mod=document&uid=44895
+  reviewed: true
+- term: 카지노밴더사
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=26&mod=document&uid=44895
+  reviewed: true
+- term: 카지노API연동
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=14&mod=document&uid=45075
+  reviewed: true
+- term: 카지노솔루션임대
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=26&mod=document&uid=44895
+  reviewed: true
+- term: 카지노api
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=68&mod=document&uid=44261
+  reviewed: true
+- term: 카지노제작
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=8&mod=document&uid=45171
+  reviewed: true
+- term: 에볼루션카지노
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=2&mod=document&uid=45250
+  reviewed: true
+- term: 에볼루션카지노게임
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=2&mod=document&uid=45250
+  reviewed: true
+- term: 바카라
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=26&mod=document&uid=44895
+  reviewed: true
+- term: 바카라슬롯
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=26&mod=document&uid=44895
+  reviewed: true
+- term: 슬롯
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=2&mod=document&uid=45250
+  reviewed: true
+- term: 슬롯게임
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=23&mod=document&uid=44942
+  reviewed: true
+- term: 슬롯사이트
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=56&mod=document&uid=44451
+  reviewed: true
+- term: 슬롯솔루션
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=7&mod=document&uid=45178
+  reviewed: true
+- term: 슬롯SOLUTION
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=7&mod=document&uid=45183
+  reviewed: true
+- term: 슬롯API
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=18&mod=document&uid=45021
+  reviewed: true
+- term: 슬롯알본사
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=18&mod=document&uid=45021
+  reviewed: true
+- term: 슬롯알공급
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=18&mod=document&uid=45021
+  reviewed: true
+- term: 정품슬롯
+  category: gambling_core
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=4&mod=document&uid=45224
+  reviewed: true
+- term: 신규
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: 한국청소년상담복지개발원 2020 청소년 온라인 도박문제 개입을 위한 매뉴얼 개발
+  reviewed: true
+- term: 첫충
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: 한국청소년상담복지개발원 2021 청소년상담 이슈페이퍼 「온라인 도박, 청소년 놀이문화가 되다」
+  reviewed: true
+- term: 루틴
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: 한국청소년상담복지개발원 2020 청소년 온라인 도박문제 개입을 위한 매뉴얼 개발
+  reviewed: true
+- term: 마틴
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: 한국청소년상담복지개발원 2020 청소년 온라인 도박문제 개입을 위한 매뉴얼 개발
+  reviewed: true
+- term: 매충
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: 한국청소년상담복지개발원 2021 청소년상담 이슈페이퍼 「온라인 도박, 청소년 놀이문화가 되다」
+  reviewed: true
+- term: 콤프
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: 사행산업통합감독위원회 제5차 불법도박 실태조사
+  reviewed: true
+- term: 입금 보너스
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 다양한 이벤트
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 이벤트 제공
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 신규 회원
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 검증된
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: 한국청소년상담복지개발원 2020 청소년 온라인 도박문제 개입을 위한 매뉴얼 개발
+  reviewed: true
+- term: 꽁머니
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: 한국청소년상담복지개발원 2021 청소년상담 이슈페이퍼 「온라인 도박, 청소년 놀이문화가 되다」
+  reviewed: true
+- term: 회원 모집
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 총판
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: 한국청소년상담복지개발원 2020 청소년 온라인 도박문제 개입을 위한 매뉴얼 개발
+  reviewed: true
+- term: 빠른 입출금
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 돌발
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 신규이벤트
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=safesite&wr_id=241
+  reviewed: true
+- term: 신규첫충40%
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=safesite&wr_id=241
+  reviewed: true
+- term: 매충20%
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=safesite&wr_id=241
+  reviewed: true
+- term: 돌발20%
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=safesite&wr_id=241
+  reviewed: true
+- term: 페이백6%
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=safesite&wr_id=241
+  reviewed: true
+- term: 콤프4%
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=safesite&wr_id=241
+  reviewed: true
+- term: 최고배당
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=safesite&wr_id=241
+  reviewed: true
+- term: 정품카지노
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=safesite&wr_id=241
+  reviewed: true
+- term: 상시 업데이트
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=safesite&wr_id=241
+  reviewed: true
+- term: 제재없음
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=safesite&wr_id=241
+  reviewed: true
+- term: 가입코드
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=safesite&wr_id=241
+  reviewed: true
+- term: 전액 보상
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=safesite&wr_id=241
+  reviewed: true
+- term: 입금 플러스
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=safesite&wr_id=256
+  reviewed: true
+- term: 매충15%
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=safesite&wr_id=256
+  reviewed: true
+- term: 페이백 1000만
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=safesite&wr_id=256
+  reviewed: true
+- term: 콤프 5%
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=safesite&wr_id=256
+  reviewed: true
+- term: 스포츠 단폴
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=safesite&wr_id=256
+  reviewed: true
+- term: 보증금으로 전액 보상
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=safesite&wr_id=256
+  reviewed: true
+- term: 입플
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=safesite&sca=%EB%B3%B4%EC%A6%9D%EC%97%85%EC%B2%B4&wr_id=269
+  reviewed: true
+- term: 신규첫충 40%
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=safesite&sca=%EB%B3%B4%EC%A6%9D%EC%97%85%EC%B2%B4&wr_id=269
+  reviewed: true
+- term: 매일돌발15%
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=safesite&sca=%EB%B3%B4%EC%A6%9D%EC%97%85%EC%B2%B4&wr_id=269
+  reviewed: true
+- term: 카지노콤프 1.2
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=safesite&sca=%EB%B3%B4%EC%A6%9D%EC%97%85%EC%B2%B4&wr_id=269
+  reviewed: true
+- term: 슬롯콤프 4.0%
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=safesite&sca=%EB%B3%B4%EC%A6%9D%EC%97%85%EC%B2%B4&wr_id=269
+  reviewed: true
+- term: 베팅상한 5000만원
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=safesite&sca=%EB%B3%B4%EC%A6%9D%EC%97%85%EC%B2%B4&wr_id=269
+  reviewed: true
+- term: 당첨상한 1억원
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=safesite&sca=%EB%B3%B4%EC%A6%9D%EC%97%85%EC%B2%B4&wr_id=269
+  reviewed: true
+- term: 연속출석
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=safesite&sca=%EB%B3%B4%EC%A6%9D%EC%97%85%EC%B2%B4&wr_id=269
+  reviewed: true
+- term: 다양한 베팅 제공
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=safesite&sca=%EB%B3%B4%EC%A6%9D%EC%97%85%EC%B2%B4&wr_id=269
+  reviewed: true
+- term: 높은 롤링콤프
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=safesite&sca=%EB%B3%B4%EC%A6%9D%EC%97%85%EC%B2%B4&wr_id=269
+  reviewed: true
+- term: 무제재 시스템
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=safesite&sca=%EB%B3%B4%EC%A6%9D%EC%97%85%EC%B2%B4&wr_id=269
+  reviewed: true
+- term: 무제한 지급
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=promo&sca=%EC%82%AC%EC%9D%B4%ED%8A%B8%ED%99%8D%EB%B3%B4&wr_id=809647
+  reviewed: true
+- term: 자동적립
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=promo&sca=%EC%82%AC%EC%9D%B4%ED%8A%B8%ED%99%8D%EB%B3%B4&wr_id=809647
+  reviewed: true
+- term: 매충 5%
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=promo&sca=%EC%82%AC%EC%9D%B4%ED%8A%B8%ED%99%8D%EB%B3%B4&wr_id=809647
+  reviewed: true
+- term: 페이백 10% 지급
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=promo&sca=%EC%82%AC%EC%9D%B4%ED%8A%B8%ED%99%8D%EB%B3%B4&wr_id=809647
+  reviewed: true
+- term: 충전 돌발 이벤트
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=promo&sca=%EC%82%AC%EC%9D%B4%ED%8A%B8%ED%99%8D%EB%B3%B4&wr_id=809647
+  reviewed: true
+- term: 무료나눔
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=promo&sca=%EC%82%AC%EC%9D%B4%ED%8A%B8%ED%99%8D%EB%B3%B4&wr_id=809647
+  reviewed: true
+- term: 가족방 연승
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=promo&sca=%EC%82%AC%EC%9D%B4%ED%8A%B8%ED%99%8D%EB%B3%B4&wr_id=809647
+  reviewed: true
+- term: 활동왕 이벤트
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=promo&sca=%EC%82%AC%EC%9D%B4%ED%8A%B8%ED%99%8D%EB%B3%B4&wr_id=809647
+  reviewed: true
+- term: 추천인 지급
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=promo&sca=%EC%82%AC%EC%9D%B4%ED%8A%B8%ED%99%8D%EB%B3%B4&wr_id=809647
+  reviewed: true
+- term: 즉시 지급 이벤트
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=promo&sca=%EC%82%AC%EC%9D%B4%ED%8A%B8%ED%99%8D%EB%B3%B4&wr_id=809647
+  reviewed: true
+- term: 개인복구 프로젝트
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=promo&sca=%EC%82%AC%EC%9D%B4%ED%8A%B8%ED%99%8D%EB%B3%B4&wr_id=809647
+  reviewed: true
+- term: 가입첫충40%
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=promo&wr_id=887612
+  reviewed: true
+- term: 무한매충10%
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=promo&wr_id=887612
+  reviewed: true
+- term: 무한베팅가능
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=promo&wr_id=887612
+  reviewed: true
+- term: 모든베팅 완전무제재
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=promo&wr_id=887612
+  reviewed: true
+- term: 출석체크 이벤트
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=promo&wr_id=887612
+  reviewed: true
+- term: 페이백 이벤트
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=promo&wr_id=887612
+  reviewed: true
+- term: 돌발충전 이벤트
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=promo&wr_id=887612
+  reviewed: true
+- term: 환전 다 나오는 곳
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=promo&wr_id=887612
+  reviewed: true
+- term: 하루 무제한
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=promo&wr_id=887612
+  reviewed: true
+- term: 입플보너스
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ttcs-1.com/bbs/board.php?bo_table=promo&wr_id=887612
+  reviewed: true
+- term: 신규 첫충
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=2&mod=document&uid=45261
+  reviewed: true
+- term: 모든 게임 무제재
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=2&mod=document&uid=45261
+  reviewed: true
+- term: 무제재
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=2&mod=document&uid=45261
+  reviewed: true
+- term: 신규 입플
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=2&mod=document&uid=45259
+  reviewed: true
+- term: 무한 매충
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=2&mod=document&uid=45259
+  reviewed: true
+- term: 국내 최초
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=3&mod=document&uid=45239
+  reviewed: true
+- term: 콤프 최대
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=3&mod=document&uid=45239
+  reviewed: true
+- term: 업계 최고
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=4&mod=document&uid=45230
+  reviewed: true
+- term: 고배당
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=4&mod=document&uid=45230
+  reviewed: true
+- term: 신규 쿠폰
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=4&mod=document&uid=45220
+  reviewed: true
+- term: 쿠폰
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=4&mod=document&uid=45220
+  reviewed: true
+- term: 실시간 콤프
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=4&mod=document&uid=45220
+  reviewed: true
+- term: 실시간 루징
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=4&mod=document&uid=45220
+  reviewed: true
+- term: 최대 콤프
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=5&mod=document&uid=45209
+  reviewed: true
+- term: 루징
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=3&mod=document&uid=45246
+  reviewed: true
+- term: 무제한 환전
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=6&mod=document&uid=45193
+  reviewed: true
+- term: 가입 첫충
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=6&mod=document&uid=45187
+  reviewed: true
+- term: 이벤트 진행
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=6&mod=document&uid=45187
+  reviewed: true
+- term: 신속한 충환전
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=6&mod=document&uid=45187
+  reviewed: true
+- term: 무한 돌발
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=7&mod=document&uid=45174
+  reviewed: true
+- term: 승인 전화 없습니다
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=13&mod=document&uid=45083
+  reviewed: true
+- term: 매충 한도 무제한
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=14&mod=document&uid=45070
+  reviewed: true
+- term: 수시 돌발
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=14&mod=document&uid=45070
+  reviewed: true
+- term: 첫입금 최대
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=22&mod=document&uid=44953
+  reviewed: true
+- term: 슬롯 첫충
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=22&mod=document&uid=44953
+  reviewed: true
+- term: 주간 루징
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=22&mod=document&uid=44953
+  reviewed: true
+- term: 신규가입
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=21&mod=document&uid=44970
+  reviewed: true
+- term: 무한매충
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=21&mod=document&uid=44970
+  reviewed: true
+- term: 최대콤프
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=21&mod=document&uid=44970
+  reviewed: true
+- term: 크로스가능
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=21&mod=document&uid=44970
+  reviewed: true
+- term: 대한민국 대표
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=22&mod=document&uid=44950
+  reviewed: true
+- term: 명품 사이트
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=22&mod=document&uid=44950
+  reviewed: true
+- term: 국내 최고 배당
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=32&mod=document&uid=44806
+  reviewed: true
+- term: 빠른 충&환
+  category: gambling_lure
+  weight: 0.6
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=3&mod=document&uid=45246
+  reviewed: true
+- term: 도박문제 전문상담 서비스
+  category: contact
+  weight: 0.8
+  pattern: 도박문제\s+전문상담\s+서비스
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+- term: 전화상담
+  category: contact
+  weight: 0.8
+  pattern: 전화상담
+  source: 한국청소년상담복지개발원 2020 청소년 온라인 도박문제 개입을 위한 매뉴얼 개발
+  reviewed: true
+- term: 헬프라인 1336
+  category: contact
+  weight: 0.8
+  pattern: 헬프라인\s+1336
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+- term: 온라인 상담
+  category: contact
+  weight: 0.8
+  pattern: 온라인\s+상담
+  source: 한국청소년상담복지개발원 2020 청소년 온라인 도박문제 개입을 위한 매뉴얼 개발
+  reviewed: true
+- term: 문자정보 제공
+  category: contact
+  weight: 0.8
+  pattern: 문자정보\s+제공
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+- term: 카카오톡 챗봇
+  category: contact
+  weight: 0.8
+  pattern: 카카오톡\s+챗봇
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+- term: 상담사 개별 연락
+  category: contact
+  weight: 0.8
+  pattern: 상담사\s+개별\s+연락
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+- term: 헬프라인, 넷라인
+  category: contact
+  weight: 0.8
+  pattern: 헬프라인,\s+넷라인
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+- term: 상담기관 배정
+  category: contact
+  weight: 0.8
+  pattern: 상담기관\s+배정
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+- term: 상담신청
+  category: contact
+  weight: 0.8
+  pattern: 상담신청
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+- term: 상담기관
+  category: contact
+  weight: 0.8
+  pattern: 상담기관
+  source: 한국청소년상담복지개발원 2020 청소년 온라인 도박문제 개입을 위한 매뉴얼 개발
+  reviewed: true
+- term: 상담사 배정
+  category: contact
+  weight: 0.8
+  pattern: 상담사\s+배정
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+- term: 헬프라인(1336)
+  category: contact
+  weight: 0.8
+  pattern: 헬프라인\(1336\)
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+- term: 넷라인
+  category: contact
+  weight: 0.8
+  pattern: 넷라인
+  source: 한국청소년상담복지개발원 2021 청소년상담 이슈페이퍼 「온라인 도박, 청소년 놀이문화가 되다」
+  reviewed: true
+- term: 전화상담 국번없이 1336
+  category: contact
+  weight: 0.8
+  pattern: 전화상담\s+국번없이\s+1336
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+- term: 소비자민원상담센터
+  category: contact
+  weight: 0.8
+  pattern: 소비자민원상담센터
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+- term: 무료 상담
+  category: contact
+  weight: 0.8
+  pattern: 무료\s+상담
+  source: 한국청소년상담복지개발원 2020 청소년 온라인 도박문제 개입을 위한 매뉴얼 개발
+  reviewed: true
+- term: 상담 예약
+  category: contact
+  weight: 0.8
+  pattern: 상담\s+예약
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+- term: 신용상담보고서
+  category: contact
+  weight: 0.8
+  pattern: 신용상담보고서
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+- term: 무료 법률상담
+  category: contact
+  weight: 0.8
+  pattern: 무료\s+법률상담
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+- term: 국번 없이 132
+  category: contact
+  weight: 0.8
+  pattern: 국번\s+없이\s+132
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+- term: 사이버 상담실
+  category: contact
+  weight: 0.8
+  pattern: 사이버\s+상담실
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+- term: 사이버상담
+  category: contact
+  weight: 0.8
+  pattern: 사이버상담
+  source: 한국청소년상담복지개발원 2021 청소년상담 이슈페이퍼 「온라인 도박, 청소년 놀이문화가 되다」
+  reviewed: true
+- term: 서신상담
+  category: contact
+  weight: 0.8
+  pattern: 서신상담
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+- term: 야간상담
+  category: contact
+  weight: 0.8
+  pattern: 야간상담
+  source: '한국도박문제예방치유원 「잃어버린 나를 찾는 희망 안내서 3: 도박문제 대처를 위한 법률·재정 안내서」'
+  reviewed: true
+- term: 청소년전화 1388
+  category: contact
+  weight: 0.8
+  pattern: 청소년전화\s+1388
+  source: 한국청소년상담복지개발원 2021 청소년상담 이슈페이퍼 「온라인 도박, 청소년 놀이문화가 되다」
+  reviewed: true
+- term: 청소년 사이버상담센터
+  category: contact
+  weight: 0.8
+  pattern: 청소년\s+사이버상담센터
+  source: 한국청소년상담복지개발원 2021 청소년상담 이슈페이퍼 「온라인 도박, 청소년 놀이문화가 되다」
+  reviewed: true
+- term: 채팅상담실
+  category: contact
+  weight: 0.8
+  pattern: 채팅상담실
+  source: 한국청소년상담복지개발원 2021 청소년상담 이슈페이퍼 「온라인 도박, 청소년 놀이문화가 되다」
+  reviewed: true
+- term: 초기접수 상담
+  category: contact
+  weight: 0.8
+  pattern: 초기접수\s+상담
+  source: 한국청소년상담복지개발원 2021 청소년상담 이슈페이퍼 「온라인 도박, 청소년 놀이문화가 되다」
+  reviewed: true
+- term: 위기대응 상담
+  category: contact
+  weight: 0.8
+  pattern: 위기대응\s+상담
+  source: 한국청소년상담복지개발원 2021 청소년상담 이슈페이퍼 「온라인 도박, 청소년 놀이문화가 되다」
+  reviewed: true
+- term: 상담톡
+  category: contact
+  weight: 0.8
+  pattern: 상담톡
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 문의톡
+  category: contact
+  weight: 0.8
+  pattern: 문의톡
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: ㅋr톡
+  category: contact
+  weight: 0.8
+  pattern: ㅋr톡
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: '톡:'
+  category: contact
+  weight: 0.8
+  pattern: '톡:'
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 24시친절상담
+  category: contact
+  weight: 0.8
+  pattern: 24시친절상담
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 상담해드립니다
+  category: contact
+  weight: 0.8
+  pattern: 상담해드립니다
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 친절상담
+  category: contact
+  weight: 0.8
+  pattern: 친절상담
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 상담
+  category: contact
+  weight: 0.8
+  pattern: 상담
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 문의
+  category: contact
+  weight: 0.8
+  pattern: 문의
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 전화
+  category: contact
+  weight: 0.8
+  pattern: 전화
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 예약
+  category: contact
+  weight: 0.8
+  pattern: 예약
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 카톡
+  category: contact
+  weight: 0.8
+  pattern: 카톡
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 라인
+  category: contact
+  weight: 0.8
+  pattern: 라인
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 예약상담-톡
+  category: contact
+  weight: 0.8
+  pattern: 예약상담\-톡
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 에약톡
+  category: contact
+  weight: 0.8
+  pattern: 에약톡
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 문의하기
+  category: contact
+  weight: 0.8
+  pattern: 문의하기
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 예약상담
+  category: contact
+  weight: 0.8
+  pattern: 예약상담
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 상담톡-
+  category: contact
+  weight: 0.8
+  pattern: 상담톡\-
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: '문의톡:'
+  category: contact
+  weight: 0.8
+  pattern: '문의톡:'
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: '상담톡:'
+  category: contact
+  weight: 0.8
+  pattern: '상담톡:'
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 오픈채팅
+  category: contact
+  weight: 0.8
+  pattern: 오픈채팅
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?mod=document&uid=45276
+  reviewed: true
+- term: 상담한적
+  category: contact
+  weight: 0.8
+  pattern: 상담한적
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?mod=document&uid=45276
+  reviewed: true
+- term: 11채팅으로만
+  category: contact
+  weight: 0.8
+  pattern: 11채팅으로만
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?mod=document&uid=45276
+  reviewed: true
+- term: 텔레채널그룹
+  category: contact
+  weight: 0.8
+  pattern: 텔레채널그룹
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?mod=document&uid=45276
+  reviewed: true
+- term: 1:1채팅으로만
+  category: contact
+  weight: 0.8
+  pattern: 1:1채팅으로만
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?mod=document&uid=45270
+  reviewed: true
+- term: 텔레채널/그룹
+  category: contact
+  weight: 0.8
+  pattern: 텔레채널/그룹
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?mod=document&uid=45270
+  reviewed: true
+- term: 텔레상담
+  category: contact
+  weight: 0.8
+  pattern: 텔레상담
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=183&mod=document&uid=42532
+  reviewed: true
+- term: 구입상담문의
+  category: contact
+  weight: 0.8
+  pattern: 구입상담문의
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=39&mod=document&uid=44697
+  reviewed: true
+- term: 텔레그램문의
+  category: contact
+  weight: 0.8
+  pattern: 텔레그램문의
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=337&mod=document&uid=40224
+  reviewed: true
+- term: 텔레
+  category: contact
+  weight: 0.8
+  pattern: 텔레
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?mod=document&uid=45276
+  reviewed: true
+- term: 텔레ID
+  category: contact
+  weight: 0.8
+  pattern: 텔레ID
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=338&mod=document&uid=40209
+  reviewed: true
+- term: 구입상담
+  category: contact
+  weight: 0.8
+  pattern: 구입상담
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=38&mod=document&uid=44707
+  reviewed: true
+- term: 카톡내역복구
+  category: contact
+  weight: 0.8
+  pattern: 카톡내역복구
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=51&mod=document&uid=44524
+  reviewed: true
+- term: 카톡내역조회
+  category: contact
+  weight: 0.8
+  pattern: 카톡내역조회
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=12&mod=document&uid=45111
+  reviewed: true
+- term: 상담바랍니다
+  category: contact
+  weight: 0.8
+  pattern: 상담바랍니다
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=293&mod=document&uid=40884
+  reviewed: true
+- term: 디테일한상담
+  category: contact
+  weight: 0.8
+  pattern: 디테일한상담
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=293&mod=document&uid=40884
+  reviewed: true
+- term: 방법문의
+  category: contact
+  weight: 0.8
+  pattern: 방법문의
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=200&mod=document&uid=42287
+  reviewed: true
+- term: 요율문의
+  category: contact
+  weight: 0.8
+  pattern: 요율문의
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=14&mod=document&uid=45068
+  reviewed: true
+- term: 지원센터
+  category: contact
+  weight: 0.8
+  pattern: 지원센터
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=12&mod=document&uid=45108
+  reviewed: true
+- term: 24콜센터
+  category: contact
+  weight: 0.8
+  pattern: 24콜센터
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=60&mod=document&uid=44381
+  reviewed: true
+- term: 상담진행가능합니다
+  category: contact
+  weight: 0.8
+  pattern: 상담진행가능합니다
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=328&mod=document&uid=40360
+  reviewed: true
+- term: 비밀상담
+  category: contact
+  weight: 0.8
+  pattern: 비밀상담
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=107&mod=document&uid=43681
+  reviewed: true
+- term: 상담원
+  category: contact
+  weight: 0.8
+  pattern: 상담원
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=24&mod=document&uid=44924
+  reviewed: true
+- term: 돈믹싱문의
+  category: contact
+  weight: 0.8
+  pattern: 돈믹싱문의
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=18&mod=document&uid=45007
+  reviewed: true
+- term: 유심칩매입문의
+  category: contact
+  weight: 0.8
+  pattern: 유심칩매입문의
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=199&mod=document&uid=42294
+  reviewed: true
+- term: 선불유심매입문의
+  category: contact
+  weight: 0.8
+  pattern: 선불유심매입문의
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=224&mod=document&uid=41927
+  reviewed: true
+- term: 카톡대화내용실시간보기
+  category: contact
+  weight: 0.8
+  pattern: 카톡대화내용실시간보기
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=262&mod=document&uid=41357
+  reviewed: true
+- term: 비대면가전내구제문의
+  category: contact
+  weight: 0.8
+  pattern: 비대면가전내구제문의
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=405&mod=document&uid=39209
+  reviewed: true
+- term: 프진상담
+  category: contact
+  weight: 0.8
+  pattern: 프진상담
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=416&mod=document&uid=39045
+  reviewed: true
+- term: 설치/문의
+  category: contact
+  weight: 0.8
+  pattern: 설치/문의
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=190&mod=document&uid=42427
+  reviewed: true
+- term: 안전상담
+  category: contact
+  weight: 0.8
+  pattern: 안전상담
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=196&mod=document&uid=42340
+  reviewed: true
+- term: 인터넷회선내구제문의
+  category: contact
+  weight: 0.8
+  pattern: 인터넷회선내구제문의
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=247&mod=document&uid=41574
+  reviewed: true
+- term: 신불자급전내구제문의
+  category: contact
+  weight: 0.8
+  pattern: 신불자급전내구제문의
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=266&mod=document&uid=41289
+  reviewed: true
+- term: 법인소액작업대출문의
+  category: contact
+  weight: 0.8
+  pattern: 법인소액작업대출문의
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=268&mod=document&uid=41269
+  reviewed: true
+- term: 24시간상담
+  category: contact
+  weight: 0.8
+  pattern: 24시간상담
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=276&mod=document&uid=41150
+  reviewed: true
+- term: 후불폰유심매입문의
+  category: contact
+  weight: 0.8
+  pattern: 후불폰유심매입문의
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=281&mod=document&uid=41068
+  reviewed: true
+- term: 핸드폰가전내구제방법문의
+  category: contact
+  weight: 0.8
+  pattern: 핸드폰가전내구제방법문의
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=286&mod=document&uid=40988
+  reviewed: true
+- term: 신용상담
+  category: contact
+  weight: 0.8
+  pattern: 신용상담
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=328&mod=document&uid=40358
+  reviewed: true
+- term: 카톡내역확인
+  category: contact
+  weight: 0.8
+  pattern: 카톡내역확인
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=29&mod=document&uid=44854
+  reviewed: true
+- term: 텔레그램
+  category: contact
+  weight: 0.8
+  pattern: 텔레그램
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=2&mod=document&uid=45252
+  reviewed: true
+- term: 위챗
+  category: contact
+  weight: 0.8
+  pattern: 위챗
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=8&mod=document&uid=45158
+  reviewed: true
+- term: ㅋㅏ_톡
+  category: contact
+  weight: 0.8
+  pattern: ㅋㅏ_톡
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?mod=document&uid=45276
+  reviewed: true
+- term: 탤ㄹH문의
+  category: contact
+  weight: 0.8
+  pattern: 탤ㄹH문의
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=183&mod=document&uid=42538
+  reviewed: true
+- term: 카턱
+  category: contact
+  weight: 0.8
+  pattern: 카턱
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=12&mod=document&uid=45108
+  reviewed: true
+- term: 카 ,턱
+  category: contact
+  weight: 0.8
+  pattern: 카\s+,턱
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=9&mod=document&uid=45144
+  reviewed: true
+- term: 텔 레
+  category: contact
+  weight: 0.8
+  pattern: 텔\s+레
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=5&mod=document&uid=45205
+  reviewed: true
+- term: 텔,레
+  category: contact
+  weight: 0.8
+  pattern: 텔,레
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=9&mod=document&uid=45144
+  reviewed: true
+- term: ㅋㅏ톡/텔ㄹㅔ
+  category: contact
+  weight: 0.8
+  pattern: ㅋㅏ톡/텔ㄹㅔ
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=246&mod=document&uid=41593
+  reviewed: true
+- term: 예약문의환영
+  category: contact
+  weight: 0.8
+  pattern: 예약문의환영
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=19&mod=document&uid=44999
+  reviewed: true
+- term: 문의안내
+  category: contact
+  weight: 0.8
+  pattern: 문의안내
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=38&mod=document&uid=44716
+  reviewed: true
+- term: 조건만남
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 콜걸
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 티켓다방
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 커피배달
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 다방아줌마
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 마사지
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 다방티켓가격
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 모텔출장
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 지역모텔전문수송업체
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 골목다방
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 스웨디시
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 안마
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 섹파
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 다방레지
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 모텔콜걸
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 다방아가씨
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 립까페
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 떡다방
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 키스방
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 성인쉼터
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 모텔아가씨
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 출장전문업체
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 1:1출장서비스
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 콜걸전문업체
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 출장만남
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 출장-마사지
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 출장샵
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 감성스웨디시
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 스포츠건마
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 출장-안마
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 섹파알선
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 모텔전문수송업체
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 룸싸롱
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=47&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 유흥
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=49&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 출장안마
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=49&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 수위무제한
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=50&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 애인대행
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=47&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 콜걸샵
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=50&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 폐이만남
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=49&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 돌싱만남
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=47&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 다방매니저
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=49&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 외국인출장
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=47&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 유흥업소
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=49&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 다방티켓 후기
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 모텔/자택가능
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 와꾸보장
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 키-스-방
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 24시커피배달
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 출장서비스
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 아가씨-출장
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=46&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 다방콜걸
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=47&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 다방티켓가격문의
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=49&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 티켓후기
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://www.thewclinic.co.kr/bbs/board.php?bo_table=qna&page=47&sfl=&sod=desc&sop=and&sst=wr_hit&stx=
+  reviewed: true
+- term: 유흥주점
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=2&mod=document&uid=45248
+  reviewed: true
+- term: 업소추천
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=2&mod=document&uid=45248
+  reviewed: true
+- term: 왁싱샵
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=2&mod=document&uid=45248
+  reviewed: true
+- term: 부킹만남
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=2&mod=document&uid=45248
+  reviewed: true
+- term: 주중년채팅
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=2&mod=document&uid=45248
+  reviewed: true
+- term: 번개만남
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=2&mod=document&uid=45248
+  reviewed: true
+- term: 20대후불가능
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=2&mod=document&uid=45248
+  reviewed: true
+- term: 풀싸롱
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=2&mod=document&uid=45258
+  reviewed: true
+- term: 쓰리노
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=9&mod=document&uid=45152
+  reviewed: true
+- term: 셔츠룸
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=9&mod=document&uid=45152
+  reviewed: true
+- term: 3NO
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=9&mod=document&uid=45152
+  reviewed: true
+- term: 노래방
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=9&mod=document&uid=45152
+  reviewed: true
+- term: 출장아가씨
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=14&mod=document&uid=45080
+  reviewed: true
+- term: 원나잇출장
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=14&mod=document&uid=45080
+  reviewed: true
+- term: 바로출장
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=14&mod=document&uid=45080
+  reviewed: true
+- term: 솔로탈출
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=14&mod=document&uid=45080
+  reviewed: true
+- term: 휴게텔
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=20&mod=document&uid=44990
+  reviewed: true
+- term: 오피op
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=20&mod=document&uid=44990
+  reviewed: true
+- term: 아가씨알선
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=31&mod=document&uid=44819
+  reviewed: true
+- term: 일본여성출장만남
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=31&mod=document&uid=44819
+  reviewed: true
+- term: 노콘출장
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=32&mod=document&uid=44809
+  reviewed: true
+- term: 출장파트너
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=32&mod=document&uid=44809
+  reviewed: true
+- term: 변녀만남
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=32&mod=document&uid=44809
+  reviewed: true
+- term: 하드쩜오
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=38&mod=document&uid=44716
+  reviewed: true
+- term: 마사지샵
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=42&mod=document&uid=44657
+  reviewed: true
+- term: 여대생출장
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=44&mod=document&uid=44626
+  reviewed: true
+- term: 풀살롱
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=57&mod=document&uid=44423
+  reviewed: true
+- term: 텐카페
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=52&mod=document&uid=44498
+  reviewed: true
+- term: 고구려
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=52&mod=document&uid=44498
+  reviewed: true
+- term: 내국인출장
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=55&mod=document&uid=44460
+  reviewed: true
+- term: 만남앱
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=62&mod=document&uid=44361
+  reviewed: true
+- term: 싱글만남
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=62&mod=document&uid=44361
+  reviewed: true
+- term: 이성만남
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=66&mod=document&uid=44289
+  reviewed: true
+- term: 만남어플
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=66&mod=document&uid=44289
+  reviewed: true
+- term: 출장마사지
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=100&mod=document&uid=43791
+  reviewed: true
+- term: 아로마마사지
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=70&mod=document&uid=44227
+  reviewed: true
+- term: 대딸방
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=70&mod=document&uid=44227
+  reviewed: true
+- term: 토닥이
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=89&mod=document&uid=43956
+  reviewed: true
+- term: 여성전용마사지
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=89&mod=document&uid=43956
+  reviewed: true
+- term: 여성전용안마
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=89&mod=document&uid=43956
+  reviewed: true
+- term: 노래빠
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=163&mod=document&uid=42836
+  reviewed: true
+- term: 출장노예녀
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=311&mod=document&uid=40622
+  reviewed: true
+- term: 출장업소추천
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=362&mod=document&uid=39861
+  reviewed: true
+- term: 콜걸만남
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=362&mod=document&uid=39861
+  reviewed: true
+- term: 변녀마사지
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=362&mod=document&uid=39861
+  reviewed: true
+- term: 다방배달아가씨
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=311&mod=document&uid=40622
+  reviewed: true
+- term: 모텔다방
+  category: adult
+  weight: 1.0
+  pattern: null
+  source: https://ygen.kr/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC/%EA%B9%80%EC%B6%A9%EB%A0%AC%EC%9B%90%EB%A1%9C%EB%AA%A9%EC%82%AC-%EC%84%A4%EA%B5%90/?pageid=311&mod=document&uid=40622
+  reviewed: true
+- term: 도박중독 대응
+  category: whitelist
+  weight: 0.0
+  pattern: 도박중독\s+대응
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 도박중독 상담
+  category: whitelist
+  weight: 0.0
+  pattern: 도박중독\s+상담
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 도박중독 예방
+  category: whitelist
+  weight: 0.0
+  pattern: 도박중독\s+예방
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 도박중독 치유
+  category: whitelist
+  weight: 0.0
+  pattern: 도박중독\s+치유
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 복합중독 대응
+  category: whitelist
+  weight: 0.0
+  pattern: 복합중독\s+대응
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 감시
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+감시
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 규제
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+규제
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 근절
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+근절
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 단속
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+단속
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 대응
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+대응
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 예방
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+예방
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 차단
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+차단
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 사행산업 규제
+  category: whitelist
+  weight: 0.0
+  pattern: 사행산업\s+규제
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 온라인도박 단속
+  category: whitelist
+  weight: 0.0
+  pattern: 온라인도박\s+단속
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 중독 상담 정보
+  category: whitelist
+  weight: 0.0
+  pattern: 중독\s+상담\s+정보
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 중독 예방 교육
+  category: whitelist
+  weight: 0.0
+  pattern: 중독\s+예방\s+교육
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 중독자 가족 지원
+  category: whitelist
+  weight: 0.0
+  pattern: 중독자\s+가족\s+지원
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 중독자 상담·재활
+  category: whitelist
+  weight: 0.0
+  pattern: 중독자\s+상담·재활
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 청소년 도박 예방
+  category: whitelist
+  weight: 0.0
+  pattern: 청소년\s+도박\s+예방
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 청소년 도박 치유
+  category: whitelist
+  weight: 0.0
+  pattern: 청소년\s+도박\s+치유
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 도박문제 상담·치유
+  category: whitelist
+  weight: 0.0
+  pattern: 도박문제\s+상담·치유
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 도박문제 예방·치유
+  category: whitelist
+  weight: 0.0
+  pattern: 도박문제\s+예방·치유
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 도박중독 상담 관련
+  category: whitelist
+  weight: 0.0
+  pattern: 도박중독\s+상담\s+관련
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 도박중독 예방 교육
+  category: whitelist
+  weight: 0.0
+  pattern: 도박중독\s+예방\s+교육
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 도박중독 치유 과정
+  category: whitelist
+  weight: 0.0
+  pattern: 도박중독\s+치유\s+과정
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 도박중독 치유 관련
+  category: whitelist
+  weight: 0.0
+  pattern: 도박중독\s+치유\s+관련
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 관련 상담
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+관련\s+상담
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 광고·홍보
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+광고·홍보
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 단속 실태
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+단속\s+실태
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 단속 역량
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+단속\s+역량
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 단속 현황
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+단속\s+현황
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 대응 관련
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+대응\s+관련
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 대응 협력
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+대응\s+협력
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 문제 예방
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+문제\s+예방
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 예방 교육
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+예방\s+교육
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 예방 기금
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+예방\s+기금
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 예방 정책
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+예방\s+정책
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 예방·단속
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+예방·단속
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 예방·대응
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+예방·대응
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 유입 차단
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+유입\s+차단
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 정책 대응
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+정책\s+대응
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 탐지·차단
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+탐지·차단
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 온라인도박 차단체계
+  category: whitelist
+  weight: 0.0
+  pattern: 온라인도박\s+차단체계
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 중독 상담 프로그램
+  category: whitelist
+  weight: 0.0
+  pattern: 중독\s+상담\s+프로그램
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 중독 예방 및 치료
+  category: whitelist
+  weight: 0.0
+  pattern: 중독\s+예방\s+및\s+치료
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 청소년 도박상담센터
+  category: whitelist
+  weight: 0.0
+  pattern: 청소년\s+도박상담센터
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 청소년 도박예방센터
+  category: whitelist
+  weight: 0.0
+  pattern: 청소년\s+도박예방센터
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 도박 광고 행위 처벌
+  category: whitelist
+  weight: 0.0
+  pattern: 도박\s+광고\s+행위\s+처벌
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 도박사이트 전체 차단
+  category: whitelist
+  weight: 0.0
+  pattern: 도박사이트\s+전체\s+차단
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 도박중독 대응 정책
+  category: whitelist
+  weight: 0.0
+  pattern: 도박중독\s+대응\s+정책
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 도박중독의 예방·치유
+  category: whitelist
+  weight: 0.0
+  pattern: 도박중독의\s+예방·치유
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 범정부 불법도박 대응
+  category: whitelist
+  weight: 0.0
+  pattern: 범정부\s+불법도박\s+대응
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법 온라인도박 단속
+  category: whitelist
+  weight: 0.0
+  pattern: 불법\s+온라인도박\s+단속
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 광고와 홍보
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+광고와\s+홍보
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 규제 동향
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+규제\s+동향
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 규제기관
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+규제기관
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 기술적 차단
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+기술적\s+차단
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 단속과 처벌
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+단속과\s+처벌
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 대응 정책
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+대응\s+정책
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 대응 체계
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+대응\s+체계
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 대응 협의회
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+대응\s+협의회
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 사이트 신고
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+사이트\s+신고
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 사이트 홍보
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+사이트\s+홍보
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 운영자 처벌
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+운영자\s+처벌
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 피해 예방
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+피해\s+예방
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 피해자 지원
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+피해자\s+지원
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박행위 집중단속
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박행위\s+집중단속
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 사행산업에 대한 규제
+  category: whitelist
+  weight: 0.0
+  pattern: 사행산업에\s+대한\s+규제
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 온라인도박 결제 차단
+  category: whitelist
+  weight: 0.0
+  pattern: 온라인도박\s+결제\s+차단
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 이용자 보호 및 중독 예방
+  category: whitelist
+  weight: 0.0
+  pattern: 이용자\s+보호\s+및\s+중독\s+예방
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 중독 및 과몰입 예방
+  category: whitelist
+  weight: 0.0
+  pattern: 중독\s+및\s+과몰입\s+예방
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 중독 상담 정보 명시
+  category: whitelist
+  weight: 0.0
+  pattern: 중독\s+상담\s+정보\s+명시
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 중독 예방 교육 자료
+  category: whitelist
+  weight: 0.0
+  pattern: 중독\s+예방\s+교육\s+자료
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 중독 치료 프로그램
+  category: whitelist
+  weight: 0.0
+  pattern: 중독\s+치료\s+프로그램
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 청소년 도박 예방교육
+  category: whitelist
+  weight: 0.0
+  pattern: 청소년\s+도박\s+예방교육
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 도박중독 대응 거버넌스
+  category: whitelist
+  weight: 0.0
+  pattern: 도박중독\s+대응\s+거버넌스
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 도박중독 대응 네트워크
+  category: whitelist
+  weight: 0.0
+  pattern: 도박중독\s+대응\s+네트워크
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 도박중독 예방 및 홍보
+  category: whitelist
+  weight: 0.0
+  pattern: 도박중독\s+예방\s+및\s+홍보
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 도박중독 전담상담센터
+  category: whitelist
+  weight: 0.0
+  pattern: 도박중독\s+전담상담센터
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 도박중독 치유 및 회복
+  category: whitelist
+  weight: 0.0
+  pattern: 도박중독\s+치유\s+및\s+회복
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 도박중독자의 치료·재활
+  category: whitelist
+  weight: 0.0
+  pattern: 도박중독자의\s+치료·재활
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 범죄 및 복합중독 대응
+  category: whitelist
+  weight: 0.0
+  pattern: 범죄\s+및\s+복합중독\s+대응
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법 온라인도박 대응
+  category: whitelist
+  weight: 0.0
+  pattern: 불법\s+온라인도박\s+대응
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 감시 및 단속
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+감시\s+및\s+단속
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 관련 결제차단
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+관련\s+결제차단
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 단속 및 운영
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+단속\s+및\s+운영
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 대응 및 예방
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+대응\s+및\s+예방
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 대응 협력체계
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+대응\s+협력체계
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 불법도박 대응 형사정책
+  category: whitelist
+  weight: 0.0
+  pattern: 불법도박\s+대응\s+형사정책
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 중독 예방과 치유
+  category: whitelist
+  weight: 0.0
+  pattern: 중독\s+예방과\s+치유
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 중독 예방과 단속
+  category: whitelist
+  weight: 0.0
+  pattern: 중독\s+예방과\s+단속
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 예방 캠페인
+  category: whitelist
+  weight: 0.0
+  pattern: 예방\s+캠페인
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 위험 경고
+  category: whitelist
+  weight: 0.0
+  pattern: 위험\s+경고
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 책임도박
+  category: whitelist
+  weight: 0.0
+  pattern: 책임도박
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 이용자 보호
+  category: whitelist
+  weight: 0.0
+  pattern: 이용자\s+보호
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 치유·재활
+  category: whitelist
+  weight: 0.0
+  pattern: 치유·재활
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 사회적 회복
+  category: whitelist
+  weight: 0.0
+  pattern: 사회적\s+회복
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 사전 예방
+  category: whitelist
+  weight: 0.0
+  pattern: 사전\s+예방
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 조기개입
+  category: whitelist
+  weight: 0.0
+  pattern: 조기개입
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
+- term: 치료연계 시스템
+  category: whitelist
+  weight: 0.0
+  pattern: 치료연계\s+시스템
+  source: 사행산업통합감독위원회 제6차 불법도박 실태조사 최종보고서
+  reviewed: true
