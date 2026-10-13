@@ -1,0 +1,93 @@
+[
+  {
+    "id": "OF-101",
+    "category": "OFFSCREEN",
+    "subtype": "visibility_hidden",
+    "html": "<div class=\"review-root invisible\"><span id=\"OF-101-text\">buy . online</span></div>",
+    "css": ".invisible {\n  visibility: hidden !important;\n}\n#OF-101-text { visibility:visible; }",
+    "evidence_text": "buy . online",
+    "expected_location": "#OF-101-text",
+    "is_positive": false,
+    "extra_finding": null,
+    "source": "https://www.ranum.com/security/computer_security/editorials/google-defacement/index.html",
+    "notes": "자손 가시성 복원 또는 스크롤로 도달할 수 있는 이동 대조군. 원문 개수 및 positive 개수에 포함하지 않음."
+  },
+  {
+    "id": "OF-102",
+    "category": "OFFSCREEN",
+    "subtype": "visibility_hidden",
+    "html": "<div class=\"review-root invisible\"><span id=\"OF-102-text\">. generic .</span></div>",
+    "css": ".invisible {\n  visibility: hidden;\n}\n#OF-102-text { visibility:visible; }",
+    "evidence_text": ". generic .",
+    "expected_location": "#OF-102-text",
+    "is_positive": false,
+    "extra_finding": null,
+    "source": "https://www.ranum.com/security/computer_security/editorials/google-defacement/index.html",
+    "notes": "자손 가시성 복원 또는 스크롤로 도달할 수 있는 이동 대조군. 원문 개수 및 positive 개수에 포함하지 않음."
+  },
+  {
+    "id": "OF-103",
+    "category": "OFFSCREEN",
+    "subtype": "visibility_hidden",
+    "html": "<div class=\"review-root invisible\"><span id=\"OF-103-text\">online cash advance</span></div>",
+    "css": ".invisible {\n  visibility: hidden;\n}\n#OF-103-text { visibility:visible; }",
+    "evidence_text": "online cash advance",
+    "expected_location": "#OF-103-text",
+    "is_positive": false,
+    "extra_finding": null,
+    "source": "https://wordpress.stackexchange.com/questions/134825/tips-for-finding-spam-links-injected-into-the-content",
+    "notes": "자손 가시성 복원 또는 스크롤로 도달할 수 있는 이동 대조군. 원문 개수 및 positive 개수에 포함하지 않음."
+  },
+  {
+    "id": "OF-104",
+    "category": "OFFSCREEN",
+    "subtype": "transform_document_coords",
+    "html": "<div class=\"review-root \"><span id=\"OF-104-text\" class=\"\">buy abortion pill uk</span></div>",
+    "css": "\n#OF-104-text { display:inline-block;transform:translateX(10000px); }",
+    "evidence_text": "buy abortion pill uk",
+    "expected_location": "#OF-104-text",
+    "is_positive": false,
+    "extra_finding": null,
+    "source": "https://tiengnoichanly.com/display/DetailContent.aspx?CN=bvct&bv=146",
+    "notes": "자손 가시성 복원 또는 스크롤로 도달할 수 있는 이동 대조군. 원문 개수 및 positive 개수에 포함하지 않음."
+  },
+  {
+    "id": "OF-105",
+    "category": "OFFSCREEN",
+    "subtype": "transform_document_coords",
+    "html": "<div class=\"review-root \"><span id=\"OF-105-text\" class=\"\">acheter nifedipine</span></div>",
+    "css": "\n#OF-105-text { display:inline-block;transform:translateY(10000px); }",
+    "evidence_text": "acheter nifedipine",
+    "expected_location": "#OF-105-text",
+    "is_positive": false,
+    "extra_finding": null,
+    "source": "https://tiengnoichanly.com/display/DetailContent.aspx?CN=bvct&bv=146",
+    "notes": "자손 가시성 복원 또는 스크롤로 도달할 수 있는 이동 대조군. 원문 개수 및 positive 개수에 포함하지 않음."
+  },
+  {
+    "id": "OF-106",
+    "category": "OFFSCREEN",
+    "subtype": "transform_document_coords",
+    "html": "<div class=\"review-root \"><span id=\"OF-106-text\" class=\"\">choi game</span></div>",
+    "css": "\n#OF-106-text { position:absolute;right:-10000px;top:0; }\n.review-root { position:relative;width:640px;height:80px; }",
+    "evidence_text": "choi game",
+    "expected_location": "#OF-106-text",
+    "is_positive": false,
+    "extra_finding": null,
+    "source": "https://cognitiveseo.com/blog/1914/new-black-hat-technique-beats-the-google-penguin-and-emd-updates/",
+    "notes": "자손 가시성 복원 또는 스크롤로 도달할 수 있는 이동 대조군. 원문 개수 및 positive 개수에 포함하지 않음."
+  },
+  {
+    "id": "OF-107",
+    "category": "OFFSCREEN",
+    "subtype": "transform_document_coords",
+    "html": "<div class=\"review-root \"><span id=\"OF-107-text\" class=\"\">phim hay</span></div>",
+    "css": "\n#OF-107-text { position:absolute;bottom:-10000px;left:0; }\n.review-root { position:relative;width:640px;height:80px; }",
+    "evidence_text": "phim hay",
+    "expected_location": "#OF-107-text",
+    "is_positive": false,
+    "extra_finding": null,
+    "source": "https://cognitiveseo.com/blog/1914/new-black-hat-technique-beats-the-google-penguin-and-emd-updates/",
+    "notes": "자손 가시성 복원 또는 스크롤로 도달할 수 있는 이동 대조군. 원문 개수 및 positive 개수에 포함하지 않음."
+  }
+]
