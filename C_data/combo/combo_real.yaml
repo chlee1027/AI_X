@@ -1,5 +1,4 @@
 - id: CB-001
-  split: train
   category: COMBO
   subtype: case_mix+spacing
   html: '<div class="xans-element- xans-board xans-board-movement-1002 xans-board-movement xans-board-1002 "><ul><li class="prev "><a href="/board/free/read.html?no=195292&amp;board_no=5&amp;page=">인디언게임
@@ -18,7 +17,6 @@
   source: '실측: https://annaprez.com/board/free/read.html?no=195290&board_no=5 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 최상위 도메인 대소문자 섞기 · 키워드 사이 공백·쉼표·하이픈
 - id: CB-002
-  split: train
   category: COMBO
   subtype: case_mix+zero_width
   html: <div class="detail"><div class="fr-view fr-view-article"><p>https://인디고게임.com 현금홀­덤 사이트 카­지노게­임 에볼루션. blgm7.cOM 안전한 카­지노 충전알.추­천 바­카라사이트</p></div></div>
@@ -36,7 +34,6 @@
   source: '실측: https://annaprez.com/board/free/read.html?no=195278&board_no=5 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 최상위 도메인 대소문자 섞기 · 제로폭 문자
 - id: CB-003
-  split: train
   category: COMBO
   subtype: cjk_punct+symbol_sep
   html: <div class="xans-element- xans-board xans-board-movement-1002 xans-board-movement xans-board-1002 "><ul><li class="prev "><a href="/board/free/read.html?no=195272&amp;board_no=5&amp;page=">#인디고게임
@@ -55,7 +52,6 @@
   source: '실측: https://annaprez.com/board/free/read.html?no=195271&board_no=5 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 마침표 등 CJK 문장부호로 도메인 점 대체 · 특수기호 구분자
 - id: CB-004
-  split: train
   category: COMBO
   subtype: cjk_punct+symbol_sep
   html: <div class="xans-element- xans-board xans-board-movement-1002 xans-board-movement xans-board-1002 "><ul><li class="next "><a href="/board/free/read.html?no=195269&amp;board_no=5&amp;page=">블루바둑이
@@ -74,7 +70,6 @@
   source: '실측: https://annaprez.com/board/free/read.html?no=195271&board_no=5 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 마침표 등 CJK 문장부호로 도메인 점 대체 · 특수기호 구분자
 - id: CB-005
-  split: train
   category: COMBO
   subtype: cjk_punct+symbol_sep
   html: <div class="xans-element- xans-board xans-board-movement-1002 xans-board-movement xans-board-1002 "><ul><li class="prev "><a href="/board/free/read.html?no=195262&amp;board_no=5&amp;page=">인디언게임
@@ -93,7 +88,6 @@
   source: '실측: https://annaprez.com/board/free/read.html?no=195261&board_no=5 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 마침표 등 CJK 문장부호로 도메인 점 대체 · 특수기호 구분자
 - id: CB-006
-  split: train
   category: COMBO
   subtype: cjk_punct+symbol_sep
   html: <div class="detail"><div class="fr-view fr-view-article"><p>안전실전게임 ≪≪≪인디고게임≪≪인디언게임 (islot코리아)바둑이게임◈ blgm7。COM ◈ 인디고게임</p></div></div>
@@ -111,7 +105,6 @@
   source: '실측: https://annaprez.com/board/free/read.html?no=195269&board_no=5 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 마침표 등 CJK 문장부호로 도메인 점 대체 · 특수기호 구분자
 - id: CB-007
-  split: train
   category: COMBO
   subtype: cjk_punct+zero_width
   html: <div class="xans-element- xans-board xans-board-movement-1002 xans-board-movement xans-board-1002 "><ul><li class="prev "><a href="/board/free/read.html?no=195075&amp;board_no=5&amp;page=">바이브바­둑이
@@ -130,7 +123,6 @@
   source: '실측: https://annaprez.com/board/free/read.html?no=195073&board_no=5 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 마침표 등 CJK 문장부호로 도메인 점 대체 · 제로폭 문자
 - id: CB-008
-  split: train
   category: COMBO
   subtype: cjk_punct+zero_width
   html: <div class="detail"><div class="fr-view fr-view-article"><p>i-slot 아이슬­롯 홀­덤당첨금 와일드포카 인디교poker〃fefas.net〃</p></div></div>
@@ -148,7 +140,6 @@
   source: '실측: https://annaprez.com/board/free/read.html?no=195207&board_no=5 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 마침표 등 CJK 문장부호로 도메인 점 대체 · 제로폭 문자
 - id: CB-009
-  split: train
   category: COMBO
   subtype: cjk_punct+zero_width
   html: <div class="detail"><div class="fr-view fr-view-article"><p>아이슬­롯사이트 〃fefas.net〃islot korea .라 이 브.&nbsp;</p></div></div>
@@ -166,7 +157,6 @@
   source: '실측: https://annaprez.com/board/free/read.html?no=195207&board_no=5 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 마침표 등 CJK 문장부호로 도메인 점 대체 · 제로폭 문자
 - id: CB-010
-  split: train
   category: COMBO
   subtype: cjk_punct+zero_width
   html: <div class="detail"><div class="fr-view fr-view-article"><p>아이 슬­롯 코리아 islot게이밍〃fefas.net〃카­지­노 에볼루션 아이슬­롯 플레이텍</p></div></div>
@@ -184,7 +174,6 @@
   source: '실측: https://annaprez.com/board/free/read.html?no=195207&board_no=5 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 마침표 등 CJK 문장부호로 도메인 점 대체 · 제로폭 문자
 - id: CB-011
-  split: train
   category: COMBO
   subtype: cjk_punct+zero_width
   html: <div class="detail"><div class="fr-view fr-view-article"><p>실­시간영상 아이 슬­롯머신 islot게이밍〃fefas.net〃카­지­노 에볼루션&nbsp;</p></div></div>
@@ -202,7 +191,6 @@
   source: '실측: https://annaprez.com/board/free/read.html?no=195207&board_no=5 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 마침표 등 CJK 문장부호로 도메인 점 대체 · 제로폭 문자
 - id: CB-012
-  split: train
   category: COMBO
   subtype: cjk_punct+zero_width
   html: <div class="detail"><div class="fr-view fr-view-article"><p>인디교홀­덤 와일드게­임 토너먼트 islot게이밍〃fefas.net〃카­지­노 에볼루션 아이슬­롯 &nbsp;홀­덤당첨금 와일드포카 인디교poker</p></div></div>
@@ -220,7 +208,6 @@
   source: '실측: https://annaprez.com/board/free/read.html?no=195207&board_no=5 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 마침표 등 CJK 문장부호로 도메인 점 대체 · 제로폭 문자
 - id: CB-013
-  split: train
   category: COMBO
   subtype: cjk_punct+zero_width
   html: <div class="detail"><div class="fr-view fr-view-article"><p>플레이텍로얄카­지­노먹튀 casino-slot 커뮤니티 프라그마틱 아이슬­롯카­지­노 인디교홀­덤 와일드게­임 토너먼트 islot게이밍〃fefas.net〃카­지­노 에볼루션 아이슬­롯 플레이텍로얄카­지­노먹튀 casino-slot 커뮤니티
@@ -241,7 +228,6 @@
   source: '실측: https://annaprez.com/board/free/read.html?no=195207&board_no=5 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 마침표 등 CJK 문장부호로 도메인 점 대체 · 제로폭 문자
 - id: CB-014
-  split: train
   category: COMBO
   subtype: digit_sub+spacing
   html: <div class="detail"><div class="fr-view fr-view-article"><p>O 1 O - 8 1 7 9 - &nbsp;5 2 7 4 [ 텔 레 그 램 바로가기 링크 https://t.me/oio365 &nbsp;] 24시간 상담가능합니다.</p></div></div>
@@ -259,7 +245,6 @@
   source: '실측: https://annaprez.com/board/free/read.html?no=195089&board_no=5 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 숫자 자리에 영문 o·I 치환 · 키워드 사이 공백·쉼표·하이픈
 - id: CB-015
-  split: train
   category: COMBO
   subtype: digit_sub+spacing
   html: '<div class="detail"><div class="fr-view fr-view-article"><p>웹홀덤 텍사스 홀덤게임 안전검증게임 문의 : O 1 O - 8 1 7 9 - &nbsp;5 2 7 4 카 톡 텔 레: oio365</p></div></div>'
@@ -277,7 +262,6 @@
   source: '실측: https://annaprez.com/board/free/read.html?no=195094&board_no=5 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 숫자 자리에 영문 o·I 치환 · 키워드 사이 공백·쉼표·하이픈
 - id: CB-016
-  split: train
   category: COMBO
   subtype: enclosed_alnum+symbol_sep
   html: '<div class="xans-element- xans-board xans-board-read-1002 xans-board-read xans-board-1002"><div class="boardView"><table border="1" summary="#블루안전검증 #홀덤 #바둑이홀덤간편주소 ☎ⓞ①ⓞ-XXXX-XXXX ☎ #바이브게임 홀덤토너먼트
@@ -296,7 +280,6 @@
   source: '실측: https://annaprez.com/board/free/read.html?no=195160&board_no=5 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 원·괄호 숫자(ⓞ①⑵) · 특수기호 구분자. 전화번호·이메일 가림(난독화 모양은 유지)
 - id: CB-017
-  split: train
   category: COMBO
   subtype: fullwidth+jamo_homoglyph+jamo_split
   html: '<div class="detail"><div class="fr-view fr-view-article"><p>인디언게임 슬롯사이트 슬롯인디어홀덤잭팟 무료 slot게임 불루바둑이 &nbsp;문의 : 01ㅇ，8179, 5274 ㅋr톡: oio365 / 텔ㄹㅔ그램 : oio365 365일 24시간 상담가능합니다.</p></div></div>'
@@ -315,7 +298,6 @@
   source: '실측: https://annaprez.com/board/free/read.html?no=195144&board_no=5 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 영숫자 · 자모로 영문자 바꾸기(TㅇP, ㄹr인) · 자모 분해
 - id: CB-018
-  split: train
   category: COMBO
   subtype: fullwidth+zero_width
   html: <div class="xans-element- xans-board xans-board-movement-1002 xans-board-movement xans-board-1002 "><ul><li class="next "><a href="/board/free/read.html?no=195022&amp;board_no=5&amp;page=">바둑­이
@@ -334,7 +316,6 @@
   source: '실측: https://annaprez.com/board/free/read.html?no=195024&board_no=5 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 영숫자 · 제로폭 문자
 - id: CB-019
-  split: train
   category: COMBO
   subtype: fullwidth+zero_width
   html: <div class="detail"><div class="fr-view fr-view-article"><p>＠ 설치가 필요 없는 무설치 무설치 모바일 온라인 홀­덤</p></div></div>
@@ -352,7 +333,6 @@
   source: '실측: https://annaprez.com/board/free/read.html?no=195072&board_no=5 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 영숫자 · 제로폭 문자
 - id: CB-020
-  split: train
   category: COMBO
   subtype: fullwidth+zero_width
   html: <div class="detail"><div class="fr-view fr-view-article"><p>인디언게임 (islot코리아)홀­덤바둑­이,01ㅇ，8179, 5274</p></div></div>
@@ -370,7 +350,6 @@
   source: '실측: https://annaprez.com/board/free/read.html?no=195109&board_no=5 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 영숫자 · 제로폭 문자
 - id: CB-021
-  split: train
   category: COMBO
   subtype: fullwidth+zero_width
   html: <div class="detail"><div class="fr-view fr-view-article"><p>인디언게임 (islot코리아)game가입 ,인디언게임 (islot코리아)홀­덤바둑­이,01ㅇ，8179, 5274</p></div></div>
@@ -388,7 +367,6 @@
   source: '실측: https://annaprez.com/board/free/read.html?no=195109&board_no=5 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 영숫자 · 제로폭 문자
 - id: CB-022
-  split: train
   category: COMBO
   subtype: fullwidth+zero_width
   html: <div class="detail"><div class="fr-view fr-view-article"><p>사설 홀­덤 사이트 무설치 모바일 온라인 무설치홀­덤 실전홀­덤 사이트 ＠홀­덤 사이트 순위. 인디­오 프라그마틱슬­롯 site 안전한홀­덤 무료홀­덤 무료슬­롯 사이트＠ 현금홀­덤 사이트 해외홀­덤 사이트 텍사스 오마하홀­덤 무설치 모바일
@@ -408,7 +386,6 @@
   source: '실측: https://annaprez.com/board/free/read.html?no=195075&board_no=5 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 영숫자 · 제로폭 문자
 - id: CB-023
-  split: train
   category: COMBO
   subtype: spacing+symbol_sep
   html: '<div class="xans-element- xans-board xans-board-read-1002 xans-board-read xans-board-1002"><div class="boardView"><table border="1" summary="#웹풀팟 홀덤 #홀덤게임매장 ▲ 카 턱.텔.레 oio365 ▲ 홀덤게임분양 #바둑이홀덤포커 입니다."><caption>#웹풀팟
@@ -427,7 +404,6 @@
   source: '실측: https://annaprez.com/board/free/read.html?no=195089&board_no=5 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 키워드 사이 공백·쉼표·하이픈 · 특수기호 구분자
 - id: CB-024
-  split: train
   category: COMBO
   subtype: spacing+symbol_sep
   html: <div class="xans-element- xans-board xans-board-movement-1002 xans-board-movement xans-board-1002 "><ul><li class="next "><a href="/board/free/read.html?no=194998&amp;board_no=5&amp;page=">인디언게임코리아
@@ -446,7 +422,6 @@
   source: '실측: https://annaprez.com/board/free/read.html?no=195001&board_no=5 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 키워드 사이 공백·쉼표·하이픈 · 특수기호 구분자
 - id: CB-025
-  split: train
   category: COMBO
   subtype: spacing+symbol_sep
   html: <div class="detail"><div class="fr-view fr-view-article"><p>웹홀덤 인디언게임 슬롯사이트 슬롯인디어홀덤잭팟 게임 홀덤 &nbsp;인디언게임코리아 game포커 &nbsp;실전홀덤 안전검증홀덤 인디언게임코리아 game포커 &nbsp;인디고게임:▲ 카 턱.텔.레 oio365 ▲ &nbsp;【실전홀덤 안전검증홀덤
@@ -465,7 +440,6 @@
   source: '실측: https://annaprez.com/board/free/read.html?no=194998&board_no=5 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 키워드 사이 공백·쉼표·하이픈 · 특수기호 구분자
 - id: CB-026
-  split: train
   category: COMBO
   subtype: spacing+symbol_sep
   html: <div class="detail"><div class="fr-view fr-view-article"><p>웹홀덤 인디언게임 슬롯사이트 슬롯인디어홀덤잭팟 홀덤 포커 사이트 인디언게임코리아 game바둑이 웹설치 홀덤 추천 실전홀덤 안전검증홀덤 인디언게임코리아 game포커 게임 (I-SLOT)게임 블루바둑이게임바둑이 웹홀덤 인디언게임 슬롯사이트 슬롯인디어홀덤잭팟
@@ -485,7 +459,6 @@
   source: '실측: https://annaprez.com/board/free/read.html?no=194998&board_no=5 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 키워드 사이 공백·쉼표·하이픈 · 특수기호 구분자
 - id: CB-027
-  split: train
   category: COMBO
   subtype: spacing+symbol_sep
   html: <div class="detail"><div class="fr-view fr-view-article"><p>실전홀덤 안전검증홀덤 인디언게임코리아 game포커 바둑이게임 ▲ 카 턱.텔.레 oio365 ▲</p></div></div>
@@ -503,7 +476,6 @@
   source: '실측: https://annaprez.com/board/free/read.html?no=194998&board_no=5 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 키워드 사이 공백·쉼표·하이픈 · 특수기호 구분자
 - id: CB-028
-  split: train
   category: COMBO
   subtype: spacing+symbol_sep
   html: <div class="detail"><div class="fr-view fr-view-article"><p>blgm.com,basunct.com,akgame콜센터,바찾사,엔젤콜센터,복단지,송전무,왕루비,백이사,거지,호랑이게임바둑이슬롯게임 ▲ 카 턱.텔.레 oio365 ▲</p></div></div>
@@ -521,7 +493,6 @@
   source: '실측: https://annaprez.com/board/free/read.html?no=194998&board_no=5 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 키워드 사이 공백·쉼표·하이픈 · 특수기호 구분자
 - id: CB-029
-  split: train
   category: COMBO
   subtype: spacing+symbol_sep
   html: <div class="detail"><div class="fr-view fr-view-article"><p>아이-슬롯 잭팟 인디어홀덤바둑이 블루홀덤게임 안전검증홀덤온라인사이트 인디고:▲ 카 턱.텔.레 oio365 ▲ &nbsp;</p></div></div>
@@ -539,7 +510,6 @@
   source: '실측: https://annaprez.com/board/free/read.html?no=195017&board_no=5 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 키워드 사이 공백·쉼표·하이픈 · 특수기호 구분자
 - id: CB-030
-  split: train
   category: COMBO
   subtype: spacing+zero_width
   html: '<div class="xans-element- xans-board xans-board-movement-1002 xans-board-movement xans-board-1002 "><ul><li class="prev "><a href="/board/free/read.html?no=195261&amp;board_no=5&amp;page=">#모바일맞­고
@@ -558,7 +528,6 @@
   source: '실측: https://annaprez.com/board/free/read.html?no=195259&board_no=5 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 키워드 사이 공백·쉼표·하이픈 · 제로폭 문자
 - id: CB-031
-  split: train
   category: COMBO
   subtype: spacing+zero_width
   html: <div class="detail"><div class="fr-view fr-view-article"><p>지금 바로 &nbsp;블루게­임 (바둑­이,맞­고,홀­덤,슬 롯,바­카라)에서 검증된 온라인 게­임을 시작하세요!정기적인 업데이트와 최신 정보 안내를 통해 항상 신뢰할 수 있는 서비스를 제공합니다. 소액 및 고액 금액에 관계없이 모두가 공평한
@@ -577,7 +546,6 @@
   source: '실측: https://annaprez.com/board/free/read.html?no=195024&board_no=5 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 키워드 사이 공백·쉼표·하이픈 · 제로폭 문자
 - id: CB-032
-  split: train
   category: COMBO
   subtype: spacing+zero_width
   html: '<div class="detail"><div class="fr-view fr-view-article"><p>#블루게­임 #블루게­임바둑­이 #블루게­임맞 고 #블루게­임홀­덤 #블루게­임슬­롯 #블루게­임바­카라 #인디언게임 (islot코리아)게­임 #인디언게임 (islot코리아)맞­고 #인디언게임 (islot코리아)바둑­이 # 인디언게임 (islot코리아)홀­덤
@@ -609,7 +577,6 @@
   source: '실측: https://annaprez.com/board/free/read.html?no=195024&board_no=5 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 키워드 사이 공백·쉼표·하이픈 · 제로폭 문자
 - id: CB-033
-  split: train
   category: COMBO
   subtype: symbol_sep+zero_width
   html: <div class="detail"><div class="fr-view fr-view-article"><p>인디언게임 (islot코리아)바둑이게임매장 인디고게임 사이트 ▥ ▽ ▥ ▽wildgame.Co.KR СОМ▽▥▽▥모­바­일­홀­덤­인디언게임 (islot코리아)바둑이 ­게­임 ≪ 홀덤­인디고 ­게­임</p></div></div>
@@ -627,7 +594,6 @@
   source: '실측: https://annaprez.com/board/free/read.html?no=195262&board_no=5 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 특수기호 구분자 · 제로폭 문자
 - id: CB-034
-  split: train
   category: COMBO
   subtype: symbol_sep+zero_width
   html: <div class="detail"><div class="fr-view fr-view-article"><p>(I-SLOT)바둑이게임매장 인디고게임 사이트 ▥ ▽ ▥ ▽wildgame.Co.KR СОМ▽▥▽▥모­바­일­홀­덤­(I-SLOT)바둑이 ­게­임 ≪ 홀덤­인디고 ­게­임</p></div></div>
@@ -645,7 +611,6 @@
   source: '실측: https://annaprez.com/board/free/read.html?no=195262&board_no=5 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 특수기호 구분자 · 제로폭 문자
 - id: CB-035
-  split: train
   category: COMBO
   subtype: symbol_sep+zero_width
   html: <div class="detail"><div class="fr-view fr-view-article"><p>INDIGO.인디고홀덤game바둑이게임매장 인디고게임 사이트 ▥ ▽ ▥ ▽wildgame.Co.KR СОМ▽▥▽▥모­바­일­홀­덤­INDIGO.인디고홀덤game바둑이 ­게­임 ≪ 홀덤­인디고 ­게­임</p></div></div>
@@ -663,7 +628,6 @@
   source: '실측: https://annaprez.com/board/free/read.html?no=195262&board_no=5 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 특수기호 구분자 · 제로폭 문자
 - id: CB-036
-  split: train
   category: COMBO
   subtype: symbol_sep+zero_width
   html: <div class="detail"><div class="fr-view fr-view-article"><p>블루바둑이게임매장 인디고게임 사이트 ▥ ▽ ▥ ▽ blgm7 СОМ▽ 불루 웹홀덤 현찰 맞고 - 텍 사 스 -홀덤 사-이-트 - 블루-인디언게임머신- 슬롯-게임 - 현찰포커게임­블루바둑이 ­게­임 ≪ 홀덤­인디고 ­게­임</p></div></div>
@@ -681,7 +645,6 @@
   source: '실측: https://annaprez.com/board/free/read.html?no=195269&board_no=5 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 특수기호 구분자 · 제로폭 문자
 - id: CB-037
-  split: train
   category: COMBO
   subtype: symbol_sep+zero_width
   html: <div class="detail"><div class="fr-view fr-view-article"><p>아이-슬롯 잭팟 인디어홀덤바둑이게임매장 인디고게임 사이트 ▥ ▽ ▥ ▽ blgm7 СОМ▽ 불루 웹홀덤 현찰 맞고 - 텍 사 스 -홀덤 사-이-트 - 블루-인디언게임머신- 슬롯-게임 - 현찰포커게임­아이-슬롯 잭팟 인디어홀덤바둑이 ­게­임
@@ -700,7 +663,6 @@
   source: '실측: https://annaprez.com/board/free/read.html?no=195269&board_no=5 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 특수기호 구분자 · 제로폭 문자
 - id: CB-038
-  split: train
   category: COMBO
   subtype: symbol_sep+zero_width
   html: <div class="detail"><div class="fr-view fr-view-article"><p>에볼루션바둑이게임매장 인디고게임 사이트 ▥ ▽ ▥ ▽ blgm7 СОМ▽ 불루 웹홀덤 현찰 맞고 - 텍 사 스 -홀덤 사-이-트 - 블루-인디언게임머신- 슬롯-게임 - 현찰포커게임­에볼루션바둑이 ­게­임 ≪ 홀덤­인디고 ­게­임</p></div></div>
@@ -718,7 +680,6 @@
   source: '실측: https://annaprez.com/board/free/read.html?no=195269&board_no=5 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 특수기호 구분자 · 제로폭 문자
 - id: CB-039
-  split: test
   category: COMBO
   subtype: case_mix+symbol_sep
   html: '<table border="1" summary=""><tbody><tr><td>블루게임민트↙블루게임.coM↙^0 10. XXXX .^XX.XX  블루게임 (bibegm.coM) #블루게임홀덤 ^ 블루게임바둑이 ^ 블루game 성피pc 온라인 에이전시^^  #바이브게임 #그랜드 #챔피언게임 #블루게임맞고</td></tr></tbody></table>'
@@ -736,7 +697,6 @@
   source: '실측: https://bajuca.co.kr/board/product/read.html?no=11445&board_no=6 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 최상위 도메인 대소문자 섞기 · 특수기호 구분자. 전화번호·이메일 가림(난독화 모양은 유지)
 - id: CB-040
-  split: test
   category: COMBO
   subtype: digit_sub+symbol_sep
   html: <table border="1" summary=""><tbody><tr><td>화정동룸싸롱 ⚡O1O-XXXX-XXXX⚡ 화정동쓰리노 화정동룸싸롱 주대</td></tr></tbody></table>
@@ -754,7 +714,6 @@
   source: '실측: https://bajuca.co.kr/board/product/read.html?no=11358&board_no=6 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 숫자 자리에 영문 o·I 치환 · 특수기호 구분자. 전화번호·이메일 가림(난독화 모양은 유지)
 - id: CB-041
-  split: test
   category: COMBO
   subtype: digit_sub+symbol_sep
   html: <table border="1" summary=""><tbody><tr><td>지산동풀싸롱 ▲O1O-XXXX-XXXX▲ 지산동룸싸롱 지산동룸싸롱 공휴일</td></tr></tbody></table>
@@ -772,7 +731,6 @@
   source: '실측: https://bajuca.co.kr/board/product/read.html?no=11363&board_no=6 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 숫자 자리에 영문 o·I 치환 · 특수기호 구분자. 전화번호·이메일 가림(난독화 모양은 유지)
 - id: CB-042
-  split: test
   category: COMBO
   subtype: digit_sub+symbol_sep
   html: <table border="1" summary=""><tbody><tr><td>우산동룸싸롱 ☎직통상담☎ O1O XXXX XXXX 우산동풀싸롱 우산동2차노래뱡 골프모임</td></tr></tbody></table>
@@ -790,7 +748,6 @@
   source: '실측: https://bajuca.co.kr/board/product/read.html?no=11407&board_no=6 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 숫자 자리에 영문 o·I 치환 · 특수기호 구분자. 전화번호·이메일 가림(난독화 모양은 유지)
 - id: CB-043
-  split: val
   category: COMBO
   subtype: jamo_homoglyph+spacing
   html: <div class="col-dz col-dz-12"><div class="board_view "><div class="board-title holder header"><h1 class="view_tit"><a href="/info-6/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;category=52oN5673f6"><span
@@ -809,7 +766,6 @@
   source: '실측: https://biam.co.kr/info-6/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=174810206&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 자모로 영문자 바꾸기(TㅇP, ㄹr인) · 키워드 사이 공백·쉼표·하이픈
 - id: CB-044
-  split: train
   category: COMBO
   subtype: cjk_punct+zero_width
   html: <div class="detail"><div class="fr-view fr-view-article"><p>2026년 국내 최고 인디언게임 홀덤사이트추천 아이슬롯사이트 아이슬롯.COM〃아이 슬­롯머신 islotgame 공식인증업­체,먹­튀검증,완료된 온­라인카­지노 사이트만 한곳에 모아놓았습니다. 아이 슬­롯머신 islotgame 주­소,아이 슬­롯머신
@@ -845,7 +801,6 @@
   source: '실측: https://bienworks.co.kr/article/%EB%B9%84%EC%82%AC%EC%9A%A9/6/144610/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 마침표 등 CJK 문장부호로 도메인 점 대체 · 제로폭 문자
 - id: CB-045
-  split: train
   category: COMBO
   subtype: cjk_punct+zero_width
   html: <div class="detail"><div class="fr-view fr-view-article"><p>아이슬롯사이트 〃아이슬롯.COM〃아이 슬­롯머신 islotgame 공식!</p></div></div>
@@ -863,7 +818,6 @@
   source: '실측: https://bienworks.co.kr/board/product/read.html?no=145075&board_no=6 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 마침표 등 CJK 문장부호로 도메인 점 대체 · 제로폭 문자
 - id: CB-046
-  split: train
   category: COMBO
   subtype: cjk_punct+zero_width
   html: <div class="detail"><div class="fr-view fr-view-article"><p>에볼루션카지노게임 islotgame〃아이슬롯.COM〃카­지노 에볼루션 아이슬­롯 플레이텍</p></div></div>
@@ -881,7 +835,6 @@
   source: '실측: https://bienworks.co.kr/board/product/read.html?no=145075&board_no=6 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 마침표 등 CJK 문장부호로 도메인 점 대체 · 제로폭 문자
 - id: CB-047
-  split: train
   category: COMBO
   subtype: spacing+symbol_sep
   html: <table border="1" summary=""><tbody><tr><td class=" subject">◆바둑이홀덤사이트◆ BET114.NET ◆코인충전/테더/USDT가능◆에볼루션바카라◆바 둑 이 | 홀 덤 | 바 카 라 | 슬 롯 | 맞 고◆  현금바둑이사이트 NO.1 블루게임 몰디브게임 와일드게임 인디고게임 AK게임 홀덤 </td></tr></tbody></table>
@@ -899,7 +852,6 @@
   source: '실측: https://co-o-zam.co.kr/article/%EC%83%81%ED%92%88-qa/6/7877/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 키워드 사이 공백·쉼표·하이픈 · 특수기호 구분자
 - id: CB-048
-  split: train
   category: COMBO
   subtype: symbol_sep+zero_width
   html: <div class="detail "><div class="fr-view fr-view-article"><p>블루게­임 ◆ BET114.ORG ◆ 국내 No.1 안전한 온라인 에볼루션 | 바카라 | 홀­덤 | 슬롯 | 바­둑이 | 맞­고 | 모바일, PC 완벽 지원!</p></div></div>
@@ -917,7 +869,6 @@
   source: '실측: https://co-o-zam.co.kr/article/%EC%83%81%ED%92%88-qa/6/7877/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 특수기호 구분자 · 제로폭 문자
 - id: CB-049
-  split: train
   category: COMBO
   subtype: math_alnum+spacing
   html: <div class="col-dz col-dz-12"><div class="board_view "><div class="board_txt_area fr-view"><div class="margin-top-xxl _comment_body_m20250206e2d72d4ae260f">피망슬롯핵 개념완성해요 ㅋr툑R3333 𢆓<br><br>한게임 머니상이란ꮿ<br><br>한게임
@@ -976,7 +927,6 @@
   source: '실측: https://codedesign.kr/25/?q=YToyOntzOjQ6InBhZ2UiO2k6MztzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=148590407&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 수학용 영숫자 · 키워드 사이 공백·쉼표·하이픈
 - id: CB-050
-  split: test
   category: COMBO
   subtype: digit_sub+punct_variant+symbol_sep+zero_width
   html: '<div class="detail"><div class="fr-view fr-view-article"><p>서대문백마출장안마 | ✴️【o10⸺XXXX➖XXXX】✴️ | 군포러시아출장안마 부천러시아출장안마 의정부러시아출장안마서대문백마출장안마 | ✴️【o10–XXXX‒XXXX】✴️ | 군포러시아출장안마 부천러시아출장안마 의정부러시아출장안마✴️【o10‒XXXX—XXXX】✴️      ☀️【o10⸺XXXX⸻XXXX】☀️
@@ -1008,7 +958,6 @@
   source: '실측: https://h-codi.co.kr/article/자료실/7/209798/page/2/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 숫자 자리에 영문 o·I 치환 · 대시·쉼표를 다른 문자권 부호로 바꿈(―﹣ ، ˏ) · 특수기호 구분자 · 제로폭 문자. 전화번호·이메일 가림(난독화 모양은 유지)
 - id: CB-051
-  split: test
   category: COMBO
   subtype: digit_sub+symbol_sep
   html: <div class="xans-element- xans-board xans-board-movement-1002 xans-board-movement xans-board-1002 "><ul><li class="next "><a href="/article/자료실/7/209860/">노원러시아출장안마 ✴️【o10–XXXX➖XXXX】✴️ 계양구러시아출장안마
@@ -1027,7 +976,6 @@
   source: '실측: https://h-codi.co.kr/article/자료실/7/209867/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 숫자 자리에 영문 o·I 치환 · 특수기호 구분자. 전화번호·이메일 가림(난독화 모양은 유지)
 - id: CB-052
-  split: test
   category: COMBO
   subtype: fullwidth+punct_variant+symbol_sep
   html: '<div class="detail"><div class="fr-view fr-view-article"><p>구글찌라시 ✅【찌라시｡COM】✅ | 010계정구매 구글출장홍보 스포츠사이트광고 | 법인장광고 대포폰광고 대출광고✅ 구글 SEO 상위노출 · 웹문서 홍보 전문
@@ -1165,7 +1113,6 @@
   source: '실측: https://h-codi.co.kr/article/자료실/7/209772/page/3/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 영숫자 · 대시·쉼표를 다른 문자권 부호로 바꿈(―﹣ ، ˏ) · 특수기호 구분자
 - id: CB-053
-  split: test
   category: COMBO
   subtype: fullwidth+punct_variant+symbol_sep
   html: "<div class=\"detail\"><div class=\"fr-view fr-view-article\"><p>구글찌라시 ✅【찌라시｡COM】✅ | 무료웹툰홍보방법 무료웹툰광고사이트 | 법인장광고 대포폰광고 대출광고구글찌라시 ✅【찌라시.COM】✅ | 무료웹툰홍보방법 무료웹툰광고사이트 | 법인장광고 대포폰광고 대출광고구글찌라시 ✅【찌라시｡COM】✅\
@@ -1199,7 +1146,6 @@
   source: '실측: https://h-codi.co.kr/article/자료실/7/209732/page/3/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 영숫자 · 대시·쉼표를 다른 문자권 부호로 바꿈(―﹣ ، ˏ) · 특수기호 구분자
 - id: CB-054
-  split: test
   category: COMBO
   subtype: fullwidth+punct_variant+symbol_sep
   html: "<div class=\"detail\"><div class=\"fr-view fr-view-article\"><p>❇️[라인 hy9968]❇️ [sexyclub77｡com] 자양동출장마사지 출장마사지\n\n\n\n문의ː ★★★이미지 상단클릭후  문의▼▼▼▼▼★★★\n\n문의꞉ ★★★이미지 상단클릭후  문의▼▼▼▼▼★★★\n\n문의∶ ★★★이미지\
@@ -1236,7 +1182,6 @@
   source: '실측: https://h-codi.co.kr/article/자료실/7/209792/page/2/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 영숫자 · 대시·쉼표를 다른 문자권 부호로 바꿈(―﹣ ، ˏ) · 특수기호 구분자
 - id: CB-055
-  split: test
   category: COMBO
   subtype: fullwidth+punct_variant+symbol_sep
   html: "<div class=\"detail\"><div class=\"fr-view fr-view-article\"><p>구글찌라시 ✅【찌라시｡COM】✅ | 웹툰사이트순위 무료웹툰사이트순위 | 웹문서찌라시상위 웹문서찌라시상단 웹문서찌라시1페이지구글찌라시 ✅【찌라시.COM】✅ | 웹툰사이트순위 무료웹툰사이트순위 | 웹문서찌라시상위 웹문서찌라시상단 웹문서찌라시1페이지구글찌라시\
@@ -1272,7 +1217,6 @@
   source: '실측: https://h-codi.co.kr/article/자료실/7/209831/page/2/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 영숫자 · 대시·쉼표를 다른 문자권 부호로 바꿈(―﹣ ، ˏ) · 특수기호 구분자
 - id: CB-056
-  split: test
   category: COMBO
   subtype: fullwidth+punct_variant+symbol_sep
   html: '<div class="detail"><div class="fr-view fr-view-article"><p>구글찌라시 ✅【찌라시｡COM】✅ | 노래방광고 | 구글오피광고프로그램 구글오피홍보프로그램✅ 구글 SEO 상위노출 · 웹문서 홍보 전문
@@ -1410,7 +1354,6 @@
   source: '실측: https://h-codi.co.kr/article/자료실/7/209858/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 영숫자 · 대시·쉼표를 다른 문자권 부호로 바꿈(―﹣ ، ˏ) · 특수기호 구분자
 - id: CB-057
-  split: test
   category: COMBO
   subtype: fullwidth+zero_width
   html: "<div id=\"contArea\"><div class=\"real-cont\"><div class=\"board-view\"><div class=\"body\">\n\t\t\t\n\t\n<div align=\"center\">\n<br><a href=\"https://viasnse.parancall.top\" target=\"_blank\"\
@@ -1447,7 +1390,6 @@
   source: '실측: http://ichcenter.or.kr/sub/sub03_01.php?mNum=3&sNum=1&boardid=freeb&mode=view&idx=2055 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 영숫자 · 제로폭 문자
 - id: CB-058
-  split: test
   category: COMBO
   subtype: digit_sub+jamo_split
   html: '<div class="kboard-content" itemprop="description"><div class="content-view"><div><div class="separator" style="clear:both;text-align:center;">팬텀솔져게임 문의 : O 1 O - X X X X - X X X X 까톡: eh353 /
@@ -1466,7 +1408,6 @@
   source: '실측: https://jirisanpapas.com/?mod=document&page_id=1323&uid=7685 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 숫자 자리에 영문 o·I 치환 · 자모 분해. 전화번호·이메일 가림(난독화 모양은 유지)
 - id: CB-059
-  split: test
   category: COMBO
   subtype: domain_spacing+spacing
   html: <div class="kboard-document-wrap" itemscope="" itemtype="http://schema.org/Article"><div class="kboard-content" itemprop="description"><div class="content-view"><p>꽁 머니 bmania4 사이트 🤝 텔 [TDTD1111]
@@ -1485,7 +1426,6 @@
   source: '실측: https://jirisanpapas.com/?page_id=1323&uid=61142&mod=document&pageid=1 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 도메인 글자 사이 공백 · 키워드 사이 공백·쉼표·하이픈
 - id: CB-062
-  split: test
   category: COMBO
   subtype: fullwidth+kana_sep
   html: "<article id=\"bo_v\"><section id=\"bo_vc\"><article id=\"c_8667\"><p>\n                        【전북콜걸24시1순위】 | 전북출장안마ㅣ전북출장마사지＃전북출장샵＃전북조건만남＃전북출장만남 ワ 전북애인대행 ワ 전북콜걸만남 ワ 전북마사지 ワ 전북모텔콜걸 Q 전북모텔??<br><br>채팅후기:\
@@ -1511,7 +1451,6 @@
   notes: '전각 영숫자 · 일본어 가나 구분자 / 2026-10-06: 위치가 그누보드 댓글 수정용 숨김 사본(textarea#save_comment_8667, display:none)을 가리켜, 같은 글이 화면에 보이는 댓글 요소(#c_8667 > p)로 바꿈. 원문 7e8cbdb9ef_browser.html 에서 다시 자름 / 2026-10-06:
     evidence 를 보이는 댓글의 텍스트 노드 그대로로 다시 고름(숨김 사본에서는 여러 줄이 한 덩어리였음. 이전 앞부분: ''【전북콜걸24시1순위】 | 전북출장안마ㅣ전북출장마사지＃전북출장샵＃전북조건'')'
 - id: CB-067
-  split: test
   category: COMBO
   subtype: digit_sub+spacing
   html: '<div class="boardContents"><div class="wContents" id="wcontents"><span id="chgsize"><p style="text-align: center;">펀치홀덤오마하홀덤,펀치홀덤캐쉬게임 호두게임 땅콩게임 문의 : O 1 O - X X X X - X X X X 카 톡 텔 레: asa373&nbsp;
@@ -1530,7 +1469,6 @@
   source: '실측: http://m.tsgasul.co.kr/community/board02/?method=view&no=1163 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 숫자 자리에 영문 o·I 치환 · 키워드 사이 공백·쉼표·하이픈. 전화번호·이메일 가림(난독화 모양은 유지)
 - id: CB-068
-  split: test
   category: COMBO
   subtype: digit_sub+spacing
   html: '<div class="wContents" id="wcontents"><span id="chgsize"><p><b>팬텀솔져게임 챔피언게임주소,챔피언게임관리자주소,챔피언게임홀덤 문의 : O 1 O - X X X X - X X X X 카 톡 텔 레: asa373 / 챔피언게임 땅콩바둑이게임 365일 24시간 안내합니다.</b></p></span></div>'
@@ -1548,7 +1486,6 @@
   source: '실측: http://m.tsgasul.co.kr/community/board02/?method=view&no=1163 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 숫자 자리에 영문 o·I 치환 · 키워드 사이 공백·쉼표·하이픈. 전화번호·이메일 가림(난독화 모양은 유지)
 - id: CB-069
-  split: test
   category: COMBO
   subtype: digit_sub+enclosed_alnum+jamo_split+symbol_sep
   html: "<ul class=\"boardComment\"><li class=\" xans-record-\"><div class=\"comment\"><span id=\"comment_contents775\">【국내1등】챔 피 언 게 임 【바둑이게임】 【맞고게임】 【 www.fos343.com  】 <br>\n<br>\n국내 최대 메이저 1등! 온, 오프라인,\
@@ -1571,7 +1508,6 @@
   source: '실측: https://navidcook.co.kr/article/%EA%B0%A4%EB%9F%AC%EB%A6%AC/8/7238/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 숫자 자리에 영문 o·I 치환 · 원·괄호 숫자(ⓞ①⑵) · 자모 분해 · 특수기호 구분자. 전화번호·이메일 가림(난독화 모양은 유지)
 - id: CB-070
-  split: test
   category: COMBO
   subtype: digit_sub+fullwidth
   html: <div class="xans-element- xans-board xans-board-movement-4 xans-board-movement xans-board-4 "><ul><li class="next "><a href="/article/상품-qa/6/96337/">동대문역사문화공원역달란주점[０１０-XXXX-XXXX정석 대표]남대문로하이터치룸방문기
@@ -1589,7 +1525,6 @@
   source: '실측: https://newbain.co.kr/article/상품-qa/6/96338/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 숫자 자리에 영문 o·I 치환 · 전각 영숫자. 전화번호·이메일 가림(난독화 모양은 유지)
 - id: CB-071
-  split: test
   category: COMBO
   subtype: fullwidth+punct_variant
   html: <div class="xans-element- xans-board xans-board-movement-4 xans-board-movement xans-board-4 "><ul><li class="prev "><a href="/article/상품-qa/6/96334/">명동역하코[０１0ㅡXXXXㅡXXXX정석 대표]명동룸싸롱접대용 회현터치룸술값</a></li></ul></div>
@@ -1607,7 +1542,6 @@
   source: '실측: https://newbain.co.kr/article/상품-qa/6/96333/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 영숫자 · 대시·쉼표를 다른 문자권 부호로 바꿈(―﹣ ، ˏ). 전화번호·이메일 가림(난독화 모양은 유지)
 - id: CB-072
-  split: test
   category: COMBO
   subtype: fullwidth+punct_variant
   html: <table border="1" summary=""><tbody><tr><td>동대문역사문화공원역오피스룸[01０ㅡXXXXㅡXXXX정석 대표]광장시장3NO요금 청구멤버십룸손님리뷰</td></tr></tbody></table>
@@ -1625,7 +1559,6 @@
   source: '실측: https://newbain.co.kr/article/상품-qa/6/96310/page/3/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 영숫자 · 대시·쉼표를 다른 문자권 부호로 바꿈(―﹣ ، ˏ). 전화번호·이메일 가림(난독화 모양은 유지)
 - id: CB-073
-  split: test
   category: COMBO
   subtype: symbol_sep+zero_width
   html: "<div class=\"block-postmeta\"><div class=\"feed-summary vertical-top \"><div class=\"comment_area _comment_area\"><span class=\"_comment_body_  _comment_body_c20241217a6022d4602f18\" comment_body_code=\"\
@@ -1648,7 +1581,6 @@
   source: '실측: http://pizzabrothers.co.kr/box/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=47857751&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 특수기호 구분자 · 제로폭 문자
 - id: CB-074
-  split: val
   category: COMBO
   subtype: digit_sub+jamo_split+spacing
   html: "<div class=\"_fnctWrap\"><div class=\"view-con\">\n        \n\n\t\t\n\t\t\t\n\t\t\t\t<p><br></p>무설치API 홀덤 업계1위 최고지원 ☎ ㅋ ㅏ톡 : zxzx1225 솔로몬솔루션 파워샷게임 바이브바둑이  안전GAME 바둑이-파워샷 솔로몬솔루션 현금홀 덤-슬 롯 : 바이브게임\
@@ -1695,7 +1627,6 @@
   source: '실측: https://politics.mokpo.ac.kr/bbs/economy/254/262610/artclView.do (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 숫자 자리에 영문 o·I 치환 · 자모 분해 · 키워드 사이 공백·쉼표·하이픈. 전화번호·이메일 가림(난독화 모양은 유지)
 - id: CB-075
-  split: val
   category: COMBO
   subtype: digit_sub+spacing
   html: '<div><div><div><p>바이브 파어샷 솔로몬솔루션 홀-덤-게임 o1 o-XX XX- X X XX #바이브게임 chgame.co.kr&nbsp;</p></div></div></div>'
@@ -1713,7 +1644,6 @@
   source: '실측: https://politics.mokpo.ac.kr/bbs/economy/254/262610/artclView.do (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 숫자 자리에 영문 o·I 치환 · 키워드 사이 공백·쉼표·하이픈. 전화번호·이메일 가림(난독화 모양은 유지)
 - id: CB-076
-  split: val
   category: COMBO
   subtype: digit_sub+spacing
   html: '<div><div><h3><span style="color: rgb(43, 0, 254);">참피언게임 바두기-사이트 홀-덤-게임 o1o-XX XX- X X XX&nbsp;</span></h3></div></div>'
@@ -1731,7 +1661,6 @@
   source: '실측: https://politics.mokpo.ac.kr/bbs/economy/254/262610/artclView.do (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 숫자 자리에 영문 o·I 치환 · 키워드 사이 공백·쉼표·하이픈. 전화번호·이메일 가림(난독화 모양은 유지)
 - id: CB-077
-  split: test
   category: COMBO
   subtype: case_mix+dot_sub
   html: <table border="1" summary=""><tbody><tr><td>엠카지노 BiS55닷CoM 라이트닝 바카라 카지노 사이트 M카지노 합법 스포츠 토토 먹튀 검증 무료 체험 HLJ</td></tr></tbody></table>
@@ -1749,7 +1678,6 @@
   source: '실측: https://signblue.co.kr/article/%EC%83%81%ED%92%88-qa/6/49395/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 최상위 도메인 대소문자 섞기 · 도메인 점을 닷·쩜·쉼표로
 - id: CB-078
-  split: val
   category: COMBO
   subtype: fullwidth+punct_variant
   html: <div class="detail"><div class="fr-view fr-view-article"><p>？scmbet주소｡com ⁄ 텔 @scmcs24⁇ | 카림 토토 | 베네타 코드베네타 도메인، 베네타 주소ˏ 베네타 안내ˏ 베네타 접속ˎ 베네타 가입ˏ 베네타 평생‚ 베네타ˏ 베네타 먹튀ˏ 베네타 코드ˏ 베네타 후기¸ 베네타 토토ˏ 베네타벳،
@@ -1773,7 +1701,6 @@
   source: '실측: http://skin-skin1.ms8344.cafe24.com/article/상품-qa/6/877223/page/5/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 영숫자 · 대시·쉼표를 다른 문자권 부호로 바꿈(―﹣ ، ˏ)
 - id: CB-079
-  split: val
   category: COMBO
   subtype: fullwidth+punct_variant+symbol_sep
   html: "<div class=\"detail\"><div class=\"fr-view fr-view-article\"><p>구글찌라시 ✅【찌라시.COM】✅ | 바카라사이트홍보 오피사이트광고 | 찌라시마케팅홍보 찌라시마케팅 광고업체구글찌라시 ✅【찌라시.COM】✅ | 바카라사이트홍보 오피사이트광고 | 찌라시마케팅홍보 찌라시마케팅 광고업체구글찌라시 ✅【찌라시｡COM】✅\
@@ -1809,7 +1736,6 @@
   source: '실측: http://skin-skin1.ms8344.cafe24.com/article/ìƒ�í’ˆ-qa/6/877460/page/2/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 영숫자 · 대시·쉼표를 다른 문자권 부호로 바꿈(―﹣ ، ˏ) · 특수기호 구분자
 - id: CB-080
-  split: val
   category: COMBO
   subtype: fullwidth+punct_variant+symbol_sep
   html: '<div class="detail"><div class="fr-view fr-view-article"><p>❇️[라인 hy9968]❇️ [hotgirl66.com] 양화동출장마사지 핸들샵
@@ -2043,7 +1969,6 @@
   source: '실측: http://skin-skin1.ms8344.cafe24.com/article/상품-qa/6/877417/page/3/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 영숫자 · 대시·쉼표를 다른 문자권 부호로 바꿈(―﹣ ، ˏ) · 특수기호 구분자
 - id: CB-081
-  split: val
   category: COMBO
   subtype: fullwidth+punct_variant+symbol_sep
   html: "<div class=\"detail\"><div class=\"fr-view fr-view-article\"><p>구글찌라시 ✅【찌라시｡COM】✅ |  | 출장마사지광고프로그램 출장마사지홍보프로그램구글찌라시 ✅【찌라시.COM】✅ |  | 출장마사지광고프로그램 출장마사지홍보프로그램구글찌라시 ✅【찌라시.COM】✅ |  | 출장마사지광고프로그램 출장마사지홍보프로그램구글찌라시\
@@ -2077,7 +2002,6 @@
   source: '실측: http://skin-skin1.ms8344.cafe24.com/article/상품-qa/6/877404/page/3/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 영숫자 · 대시·쉼표를 다른 문자권 부호로 바꿈(―﹣ ، ˏ) · 특수기호 구분자
 - id: CB-082
-  split: val
   category: COMBO
   subtype: fullwidth+punct_variant+symbol_sep+zero_width
   html: <div class="detail"><div class="fr-view fr-view-article"><p>[♥️유흥문의♥️O1O=XXXX=XXXX] 부산광안리유흥 동래룸 동래룸빵？ 부산 VIP 유흥 핫플 | 인스타 전용 ⸮⁇ 부산 VIP 유흥 핫플 ⁇연산동 · 서면 · 해운대 · 광안리 · 동래 · 온천장20대 프리미엄 에이스 라인업과 함께한
@@ -2105,7 +2029,6 @@
   source: '실측: http://skin-skin1.ms8344.cafe24.com/article/상품-qa/6/877327/page/4/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 영숫자 · 대시·쉼표를 다른 문자권 부호로 바꿈(―﹣ ، ˏ) · 특수기호 구분자 · 제로폭 문자. 전화번호·이메일 가림(난독화 모양은 유지)
 - id: CB-083
-  split: val
   category: COMBO
   subtype: fullwidth+symbol_sep
   html: "<div class=\"detail\"><div class=\"fr-view fr-view-article\"><p>사고자개인돈 회생자 당일대출 \n텔레@jun466개인돈 \n사고자당일승인무직당일대출무직당일급전무직비대면당일무직당일비대면무직당일승인미필당일대출미필당일급전미필비대면당일미필당일비대면미필당일승인만19세당일대출만19세당일급전만19세비대면당일만19세당일비대면만19세당일승인대학생당일대출대학생당일급전대학생비대면당일대학생당일비대면대학생당일승인학생당일대출학생당일급전학생비대면당일학생당일비대면학생당일승인프리랜서당일대출프리랜서당일급전프리랜서비대면당일프리랜서당일비대면프리랜서당일승인사고자당일대출사고자당일급전사고자비대면당일사고자당일비대면사고자당일승인회생자당일대출회생자당일급전회생자비대면당일회생자당일비대면회생자당일승인주부당일대출주부당일급전주부비대면당일주부당일비대면주부당일승인수급자당일대출수급자당일급전수급자비대면당일수급자당일비대면수급자당일승인직장인당일대출직장인당일급전직장인비대면당일직장인당일비대면직장인당일승인사업자당일대출사업자당일급전사업자비대면당일사업자당일비대면사업자당일승인\n\
@@ -2125,7 +2048,6 @@
   source: '실측: http://skin-skin1.ms8344.cafe24.com/article/상품-qa/6/877418/page/3/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 영숫자 · 특수기호 구분자
 - id: CB-084
-  split: val
   category: COMBO
   subtype: punct_variant+symbol_sep
   html: '<div class="detail"><div class="fr-view fr-view-article"><p>[찌라시｡com] 법인통장대여 구글대리결제광고 구글룸싸롱광고 법인장팝니다 구글마케팅대행 구글백링크광고구글찌라시‚구글찌라시프로그램ˏ웹문서찌라시‚웹문서찌라시프로그램ˏ웹문서자동발행기[구글 상위노출] 웹문서 자동포스팅 시스템
@@ -2161,7 +2083,6 @@
   source: '실측: http://skin-skin1.ms8344.cafe24.com/article/상품-qa/6/877528/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 대시·쉼표를 다른 문자권 부호로 바꿈(―﹣ ، ˏ) · 특수기호 구분자
 - id: CB-085
-  split: val
   category: COMBO
   subtype: punct_variant+symbol_sep
   html: <div class="detail"><div class="fr-view fr-view-article"><p>❓scmbet주소｡com ⟋ 텔 @scmcs24⁇ | 카림 토토 | 베네타 코드베네타 도메인ˎ 베네타 주소ˏ 베네타 안내¸ 베네타 접속ˎ 베네타 가입ˏ 베네타 평생، 베네타‚ 베네타 먹튀‚ 베네타 코드‚ 베네타 후기‚ 베네타 토토ˏ 베네타벳‚
@@ -2185,7 +2106,6 @@
   source: '실측: http://skin-skin1.ms8344.cafe24.com/article/상품-qa/6/877221/page/5/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 대시·쉼표를 다른 문자권 부호로 바꿈(―﹣ ، ˏ) · 특수기호 구분자
 - id: CB-086
-  split: val
   category: COMBO
   subtype: punct_variant+symbol_sep
   html: <div class="detail"><div class="fr-view fr-view-article"><p>[강남풀싸롱፡ 010–XXXX―XXXX] | 머니볼 라이징 | 강남초원의집 강남더킹풀싸롱 풀살롱 풀싸롱위치 풀사롱주대 1인룸가격[강남풀싸롱꞉ 010⸻XXXX﹣XXXX] | 머니볼 라이징 | 강남초원의집 강남더킹[강남풀싸롱ː 010–XXXX➖XXXX]
@@ -2211,7 +2131,6 @@
   source: '실측: http://skin-skin1.ms8344.cafe24.com/article/상품-qa/6/877045/page/10/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 대시·쉼표를 다른 문자권 부호로 바꿈(―﹣ ، ˏ) · 특수기호 구분자. 전화번호·이메일 가림(난독화 모양은 유지)
 - id: CB-087
-  split: val
   category: COMBO
   subtype: punct_variant+symbol_sep
   html: '<div class="detail"><div class="fr-view fr-view-article"><p>[알바문의=010⛶XXXX➖XXXX] | 이천가라오케알바 이천가라오케도우미 이천가라오케구인 | 수원즉시출근알바 수원당일면접알바 수원바로출근알바이천유흥알바 이천유흥구인 이천여성알바ˏ
@@ -2563,7 +2482,6 @@
   source: '실측: http://skin-skin1.ms8344.cafe24.com/article/상품-qa/6/877200/page/6/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 대시·쉼표를 다른 문자권 부호로 바꿈(―﹣ ، ˏ) · 특수기호 구분자. 전화번호·이메일 가림(난독화 모양은 유지)
 - id: CB-088
-  split: test
   category: COMBO
   subtype: enclosed_alnum+fullwidth
   html: <article id="bo_v"><section id="bo_v_atc"><div id="bo_v_con"><p>효창동일본출장안마 텔 ｄｃｋｉｍ⑧⑧⑧ 폰⁰⑤⁰ ⁸②⁰² ⁹⓪⁶⁰</p></div></section></article>
@@ -2580,7 +2498,6 @@
   source: '실측: http://sunjineng.net/bbs/board.php?bo_table=free&wr_id=73095 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 원·괄호 숫자(ⓞ①⑵) · 전각 영숫자
 - id: CB-089
-  split: test
   category: COMBO
   subtype: enclosed_alnum+fullwidth
   html: <article id="bo_v"><section id="bo_v_atc"><div id="bo_v_con"><p>염리일본출장안마 텔 ｄｃｋｉｍ➑➑➑ 폰050 8202 9060</p></div></section></article>
@@ -2597,7 +2514,6 @@
   source: '실측: http://sunjineng.net/bbs/board.php?bo_table=free&wr_id=73089 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 원·괄호 숫자(ⓞ①⑵) · 전각 영숫자
 - id: CB-090
-  split: test
   category: COMBO
   subtype: enclosed_alnum+fullwidth+symbol_sep
   html: <article id="bo_v"><section id="bo_v_atc"><div id="bo_v_con"><p>옥수일본출장마사지 텔레 ⓓⓒⓚⓘⓜ➑➑➑ 폰０５０ ８２０２ ９０６０</p></div></section></article>
@@ -2616,7 +2532,6 @@
   source: '실측: http://sunjineng.net/bbs/board.php?bo_table=free&wr_id=73089 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 원·괄호 숫자(ⓞ①⑵) · 전각 영숫자 · 특수기호 구분자
 - id: CB-091
-  split: test
   category: COMBO
   subtype: enclosed_alnum+symbol_sep
   html: <article id="bo_v"><section id="bo_v_atc"><div id="bo_v_con"><p>화양동일본출장안마 텔레 ⓓⓒⓚⓘⓜ➇➇➇ 폰⓿⑤⓿ ⑧②⓿② ⑨⓿⑥⓿</p></div></section></article>
@@ -2634,7 +2549,6 @@
   source: '실측: http://sunjineng.net/bbs/board.php?bo_table=free&wr_id=73095 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 원·괄호 숫자(ⓞ①⑵) · 특수기호 구분자
 - id: CB-092
-  split: test
   category: COMBO
   subtype: enclosed_alnum+symbol_sep
   html: <div id="hd"><h1 id="hd_h1">용두동일본출장마사지 텔레 ⓓⓒⓚⓘⓜ⁸⁸⁸ 폰⁰⑤⁰ ⁸②⁰² ⁹⓪⁶⁰ &gt; 자유게시판</h1></div>
@@ -2652,7 +2566,6 @@
   source: '실측: http://sunjineng.net/bbs/board.php?bo_table=free&wr_id=73089 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 원·괄호 숫자(ⓞ①⑵) · 특수기호 구분자
 - id: CB-093
-  split: test
   category: COMBO
   subtype: fullwidth+symbol_sep
   html: <div class="xans-element- xans-board xans-board-movement-1002 xans-board-movement xans-board-1002 section "><ul><li class="prev "><a href="/article/자유게시판/5/1505483/">이태원역시크릿바 정석대표←０１０〓XXXX〓XXXX←한강로멤버십바저렴한곳
@@ -2671,7 +2584,6 @@
   source: '실측: https://superilla.kr/article/자유게시판/5/1505289/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 영숫자 · 특수기호 구분자. 전화번호·이메일 가림(난독화 모양은 유지)
 - id: CB-094
-  split: test
   category: COMBO
   subtype: fullwidth+symbol_sep
   html: <div class="bbs_view_default"><div class="bbs_view_cont"><p><a href="https://zipcatch.site/%CE%B4%EA%B5%AC%EA%B8%80%EC%B0%8C%EB%9D%BC%EC%8B%9C%20%EF%BD%9C%20%EA%B5%AC%EA%B8%80%EC%9B%B9%EB%AC%B8%EC%84%9C%20%EB%B0%B1%EB%A7%81%ED%81%AC%20%EB%B0%B0%ED%8F%AC%CE%B4"
@@ -2694,7 +2606,6 @@
   source: '실측: https://uisp.ikw.ac.kr/bbs/board.php?bo_table=qa&wr_id=134 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 영숫자 · 특수기호 구분자
 - id: CB-095
-  split: test
   category: COMBO
   subtype: fullwidth+symbol_sep
   html: '<div class="board_view_siblings_post"><ul><li><a href="./board.php?bo_table=qa&amp;wr_id=346" class="s_txt">구글찌라시 웹문서 백링크｜상위노출｜✳️ 구글찌라시.net ✳️｜텔레 : novanulltrace</a></li></ul></div>'
@@ -2712,7 +2623,6 @@
   source: '실측: https://uisp.ikw.ac.kr/bbs/board.php?bo_table=qa&wr_id=345 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 영숫자 · 특수기호 구분자
 - id: CB-096
-  split: test
   category: COMBO
   subtype: fullwidth+symbol_sep
   html: <div class="board_view "><div class="board_txt_area fr-view"><div class="margin-top-xxl _comment_body_m20260706f87ec48c5821a"><div>드림팩토리｜솔루션 무료 합리적인 안전시스템 아너링크최저가｜아너링크알｜카지노솔루션최저가</div></div></div></div>
@@ -2730,7 +2640,6 @@
   source: '실측: https://www.cnpgroup.net/3-4/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173421602&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 영숫자 · 특수기호 구분자
 - id: CB-097
-  split: test
   category: COMBO
   subtype: spacing+zero_width
   html: '<div class="comment_section"><div class="list_tap"><a href="/3-4/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=173427995&amp;t=board"><span class="secret_icon">카­지노SOLUTIONㅣ토지노SOLUTIONㅣ슬롯SOLUTIONㅣ[[
@@ -2749,7 +2658,6 @@
   source: '실측: https://www.cnpgroup.net/3-4/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173427009&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 키워드 사이 공백·쉼표·하이픈 · 제로폭 문자
 - id: CB-098
-  split: test
   category: COMBO
   subtype: spacing+zero_width
   html: <div class="board_txt_area fr-view"><div class="margin-top-xxl _comment_body_m20260706f87ec48c5821a"><div><p>에볼알, Evolution, 바 카 라알, 슬롯알, 정품통합알, 카­지노분양, 성인pc , 카­지노사이트, 파싱알,드림팩토리솔­루션,드림솔­루션</p></div></div></div>
@@ -2767,7 +2675,6 @@
   source: '실측: https://www.cnpgroup.net/3-4/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173430566&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 키워드 사이 공백·쉼표·하이픈 · 제로폭 문자
 - id: CB-099
-  split: test
   category: COMBO
   subtype: spacing+zero_width
   html: <div class="board_txt_area fr-view"><div class="margin-top-xxl _comment_body_m20260706f87ec48c5821a"><div><p>슬롯분양, 에볼제작, 바 카 라제작, 카­지노사이트임대, 슬롯사이트임대, 블루game , 토토솔­루션,스포츠제작,밴더사</p></div></div></div>
@@ -2785,7 +2692,6 @@
   source: '실측: https://www.cnpgroup.net/3-4/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173430566&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 키워드 사이 공백·쉼표·하이픈 · 제로폭 문자
 - id: CB-100
-  split: val
   category: COMBO
   subtype: cjk_punct+fullwidth
   html: "<div id=\"boardBox\"><article id=\"bo_v\"><header><h1 id=\"bo_v_title\">\n            모바일바둑이 bluegame【BLＧM 7.ＣＯM】 블루게임:홀덤|바둑이|맞고|슬롯|온라인|PC|모바일|게임|사이트|라이브|        </h1></header></article></div>"
@@ -2802,7 +2708,6 @@
   source: '실측: http://www.dhtndus1004.woobi.co.kr/g5/bbs/board.php?bo_table=freeboard&wr_id=169335 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 마침표 등 CJK 문장부호로 도메인 점 대체 · 전각 영숫자
 - id: CB-101
-  split: val
   category: COMBO
   subtype: digit_sub+fullwidth
   html: "<div id=\"boardBox\"><article id=\"bo_v\"><header><h1 id=\"bo_v_title\">\n            인디언게임 ＠01o. X XXX^XXXX 매주열리는 대형홀덤토너먼트 대회!        </h1></header></article></div>"
@@ -2819,7 +2724,6 @@
   source: '실측: http://www.dhtndus1004.woobi.co.kr/g5/bbs/board.php?bo_table=freeboard&wr_id=169385 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 숫자 자리에 영문 o·I 치환 · 전각 영숫자. 전화번호·이메일 가림(난독화 모양은 유지)
 - id: CB-102
-  split: val
   category: COMBO
   subtype: digit_sub+fullwidth
   html: "<article id=\"bo_v\"><section id=\"bo_v_atc\"><div id=\"bo_v_con\"><p>인디언게임 ＠01o.\n  8 179^5274 매주열리는 와일드게임 대형홀덤토너먼트 대회!</p></div></section></article>"
@@ -2836,7 +2740,6 @@
   source: '실측: http://www.dhtndus1004.woobi.co.kr/g5/bbs/board.php?bo_table=freeboard&wr_id=169385 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 숫자 자리에 영문 o·I 치환 · 전각 영숫자
 - id: CB-103
-  split: val
   category: COMBO
   subtype: enclosed_alnum+symbol_sep
   html: "<div id=\"boardBox\"><article id=\"bo_v\"><header><h1 id=\"bo_v_title\">\n            인디언game 인디바둑이 ▶ KPP779.ⓒⓞⓜ ▶인디어(인디고) 인디안game        </h1></header></article></div>"
@@ -2854,7 +2757,6 @@
   source: '실측: http://www.dhtndus1004.woobi.co.kr/g5/bbs/board.php?bo_table=freeboard&wr_id=169442 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 원·괄호 숫자(ⓞ①⑵) · 특수기호 구분자
 - id: CB-104
-  split: val
   category: COMBO
   subtype: enclosed_alnum+symbol_sep
   html: "<div><div><h4><b>인디언game 심의game 사이트 ▶\n  KPP779.ⓒⓞⓜ ▶성피pc 인디언호덤 인디안game\n  인디바둑이</b></h4></div></div>"
@@ -2872,7 +2774,6 @@
   source: '실측: http://www.dhtndus1004.woobi.co.kr/g5/bbs/board.php?bo_table=freeboard&wr_id=169442 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 원·괄호 숫자(ⓞ①⑵) · 특수기호 구분자
 - id: CB-105
-  split: val
   category: COMBO
   subtype: enclosed_alnum+symbol_sep
   html: "<div><div><div><div>인디언game 인디바둑이 ▶\n  KPP779.ⓒⓞⓜ ▶<span style=\"background-color:#f6b26b;\">성피game\n  인디어(인디고) 인디안game</span> 심의 pc\n  사이트&nbsp;</div></div></div></div>"
@@ -2890,7 +2791,6 @@
   source: '실측: http://www.dhtndus1004.woobi.co.kr/g5/bbs/board.php?bo_table=freeboard&wr_id=169442 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 원·괄호 숫자(ⓞ①⑵) · 특수기호 구분자
 - id: CB-106
-  split: val
   category: COMBO
   subtype: enclosed_alnum+symbol_sep
   html: "<div id=\"bo_v_con\"><div><div><div>블루game\n  인디바둑이game ▶ KPP779.ⓒⓞⓜ ▶<span style=\"background-color:#f6b26b;\">블루game 정이사&nbsp;</span>심의 pc 사이트\n  블루매장</div></div></div></div>"
@@ -2908,7 +2808,6 @@
   source: '실측: http://www.dhtndus1004.woobi.co.kr/g5/bbs/board.php?bo_table=freeboard&wr_id=169442 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 원·괄호 숫자(ⓞ①⑵) · 특수기호 구분자
 - id: CB-107
-  split: val
   category: COMBO
   subtype: enclosed_alnum+symbol_sep+zero_width
   html: "<div id=\"boardBox\"><article id=\"bo_v\"><header><h1 id=\"bo_v_title\">\n            온라인횰덤­사이트 ❤️ KPP779.ⓒⓞⓜ ❤️ 인디언바­둑이­사이트 로얄클­럽카­지노먹­튀 주­소,먹­튀, 부자벳        </h1></header></article></div>"
@@ -2928,7 +2827,6 @@
   source: '실측: http://www.dhtndus1004.woobi.co.kr/g5/bbs/board.php?bo_table=freeboard&wr_id=169388 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 원·괄호 숫자(ⓞ①⑵) · 특수기호 구분자 · 제로폭 문자
 - id: CB-108
-  split: val
   category: COMBO
   subtype: enclosed_alnum+symbol_sep+zero_width
   html: "<article id=\"bo_v\"><section id=\"bo_v_atc\"><div id=\"bo_v_con\"><p>최고의 자본력 국내 최고 인디언game KPP779.ⓒⓞⓜ&nbsp;\n  인디언바­둑이­사이트 로얄클­럽카­지노먹­튀 인디언바둑이업­체,먹­튀검증,완료된 온­라인카­지노 사이트현­금바둑이 온라인홀뎜­사이트\n  인디언바­둑이­사이트\
@@ -2950,7 +2848,6 @@
   source: '실측: http://www.dhtndus1004.woobi.co.kr/g5/bbs/board.php?bo_table=freeboard&wr_id=169388 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 원·괄호 숫자(ⓞ①⑵) · 특수기호 구분자 · 제로폭 문자
 - id: CB-109
-  split: val
   category: COMBO
   subtype: enclosed_alnum+symbol_sep+zero_width
   html: "<article id=\"bo_v\"><section id=\"bo_v_atc\"><div id=\"bo_v_con\"><p>로얄클­럽카­지노먹­튀&nbsp;【KPP779.ⓒⓞⓜ&nbsp;\n  KC7979.COM 】로우바­둑이룰로우바­둑이만­화로우바­둑이\n  인디언로우바­둑이잘하는법로우바­둑이점유율로우바­둑이하는법블루포­커슬­롯현­금홀뎜 온라인홀­덤사이트\
@@ -2971,7 +2868,6 @@
   source: '실측: http://www.dhtndus1004.woobi.co.kr/g5/bbs/board.php?bo_table=freeboard&wr_id=169388 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 원·괄호 숫자(ⓞ①⑵) · 특수기호 구분자 · 제로폭 문자
 - id: CB-110
-  split: val
   category: COMBO
   subtype: enclosed_alnum+symbol_sep+zero_width
   html: "<article id=\"bo_v\"><section id=\"bo_v_atc\"><div id=\"bo_v_con\"><p>놀­이터토­토주­소\n  주­소,【 KPP779.ⓒⓞⓜ&nbsp; 】놀­이터토­토주­소 도­메인,놀­이터토­토주­소\n  먹­튀</p></div></section></article>"
@@ -2991,7 +2887,6 @@
   source: '실측: http://www.dhtndus1004.woobi.co.kr/g5/bbs/board.php?bo_table=freeboard&wr_id=169388 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 원·괄호 숫자(ⓞ①⑵) · 특수기호 구분자 · 제로폭 문자
 - id: CB-111
-  split: val
   category: COMBO
   subtype: enclosed_alnum+zero_width
   html: "<div id=\"boardBox\"><article id=\"bo_v\"><header><h1 id=\"bo_v_title\">\n            에볼루션카­지노사이트”⓿❶⓿ ”7465.3464” 성인피시방 와일드홀덤GAME 랩터게임        </h1></header></article></div>"
@@ -3009,7 +2904,6 @@
   source: '실측: http://www.dhtndus1004.woobi.co.kr/g5/bbs/board.php?bo_table=freeboard&wr_id=169311 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 원·괄호 숫자(ⓞ①⑵) · 제로폭 문자
 - id: CB-112
-  split: val
   category: COMBO
   subtype: enclosed_alnum+zero_width
   html: "<div id=\"boardBox\"><article id=\"bo_v\"><section id=\"bo_v_atc\"><div id=\"bo_v_con\">에볼루션카­지노사이트”⓿❶⓿\n  ”7465.3464”&nbsp; 성인피시방 와일드홀덤게임사이트\n  인디고(인디언바둑이) 인디언게임게임\n \n \n  \n \n \n  \n<h1 style=\"\
@@ -3063,7 +2957,6 @@
   source: '실측: http://www.dhtndus1004.woobi.co.kr/g5/bbs/board.php?bo_table=freeboard&wr_id=169311 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 원·괄호 숫자(ⓞ①⑵) · 제로폭 문자
 - id: CB-113
-  split: val
   category: COMBO
   subtype: jamo_inword+zero_width
   html: "<div id=\"bo_v_con\"><div class=\"separator\"><div class=\"separator\"><div class=\"separator\" style=\"clear:both;text-align:left;\">에볼미니게임ㅋ카­지노”성인피시방\n  와일드홀덤GAME복단지 슬롯사이트 카지노사이트추천게임”인디오 (indigo)\
@@ -3082,7 +2975,6 @@
   source: '실측: http://www.dhtndus1004.woobi.co.kr/g5/bbs/board.php?bo_table=freeboard&wr_id=169311 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 낱말 속 홀자음(텔ㄹ그ㄹ) · 제로폭 문자
 - id: CB-114
-  split: val
   category: COMBO
   subtype: jamo_split+symbol_sep+zero_width
   html: "<div id=\"boardBox\"><article id=\"bo_v\"><section id=\"bo_v_atc\"><div id=\"bo_v_con\">인디고(인디언바둑이)\n  인디언게임&nbsp; (indigogame) 콜센터. holdemSITE.문의:\n  ㅋㅏ톡 / 텔ㄹㅔ : T S T 3 6 5&nbsp;\n \n \n  \n\
@@ -3141,7 +3033,6 @@
   source: '실측: http://www.dhtndus1004.woobi.co.kr/g5/bbs/board.php?bo_table=freeboard&wr_id=169433 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 자모 분해 · 특수기호 구분자 · 제로폭 문자
 - id: CB-115
-  split: val
   category: COMBO
   subtype: jamo_split+zero_width
   html: "<div id=\"boardBox\"><article id=\"bo_v\"><header><h1 id=\"bo_v_title\">\n            인디언게임 메이­저놀­이터. holdemSITE.문의: ㅋㅏ톡 / 텔ㄹㅔ : T S T 3 6 5        </h1></header></article></div>"
@@ -3159,7 +3050,6 @@
   source: '실측: http://www.dhtndus1004.woobi.co.kr/g5/bbs/board.php?bo_table=freeboard&wr_id=169433 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 자모 분해 · 제로폭 문자
 - id: CB-116
-  split: val
   category: COMBO
   subtype: symbol_sep+zero_width
   html: "<article id=\"bo_v\"><section id=\"bo_v_atc\"><div id=\"bo_v_con\"><h2 style=\"text-align:left;\">몰디브게임\n  메이­저놀­이터▶chgame.co.kr▶블루바둑이game</h2></div></section></article>"
@@ -3177,7 +3067,6 @@
   source: '실측: http://www.dhtndus1004.woobi.co.kr/g5/bbs/board.php?bo_table=freeboard&wr_id=169433 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 특수기호 구분자 · 제로폭 문자
 - id: CB-117
-  split: val
   category: COMBO
   subtype: symbol_sep+zero_width
   html: "<article id=\"bo_v\"><section id=\"bo_v_atc\"><div id=\"bo_v_con\"><u>인디고(인디언바둑이) 인디언게임 (indigogame) 콜센터.매장\n  몰디브게임실전맞고 메이­저놀­이터▶chgame.co.kr▶블루바둑이game</u></div></section></article>"
@@ -3195,7 +3084,6 @@
   source: '실측: http://www.dhtndus1004.woobi.co.kr/g5/bbs/board.php?bo_table=freeboard&wr_id=169433 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 특수기호 구분자 · 제로폭 문자
 - id: CB-118
-  split: val
   category: COMBO
   subtype: symbol_sep+zero_width
   html: "<article id=\"bo_v\"><section id=\"bo_v_atc\"><div id=\"bo_v_con\"><div><a href=\"http://WWW.chgame.co.kr\" target=\"_blank\" rel=\"noreferrer\"><span style=\"font-size:large;\">WWW.chgame.co.kr</span></a><u><br></u><br><div><br></div>블루게임바둑이,\
@@ -3230,7 +3118,6 @@
   source: '실측: http://www.dhtndus1004.woobi.co.kr/g5/bbs/board.php?bo_table=freeboard&wr_id=169433 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 특수기호 구분자 · 제로폭 문자
 - id: CB-119
-  split: val
   category: COMBO
   subtype: symbol_sep+zero_width
   html: "<div id=\"bo_v_con\"><div><div><p>더블유벳도메인▶chgame.co.KR▶바­카라전략노하우생활바­카라스에볼루션\n  와일드솔루션&nbsp;</p></div></div></div>"
@@ -3248,7 +3135,6 @@
   source: '실측: http://www.dhtndus1004.woobi.co.kr/g5/bbs/board.php?bo_table=freeboard&wr_id=169433 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 특수기호 구분자 · 제로폭 문자
 - id: CB-120
-  split: train
   category: COMBO
   subtype: case_mix+cjk_punct+fullwidth+kana_sep
   html: "<div class=\"comment_view\"><ul class=\"comment_list\"><li><p class=\"txt\">\n\t\t\t\t\t\t체계에 있고 실시한 카지노 と blc2０14。coＭ い서울카지노 중 온라인카지노사이트 관계자들을 4일 기업의 이르렀다. 운동장 카지노후기 본관 부부는 신분으로 지난 가져오라고 취업한 사인\
@@ -3273,7 +3159,6 @@
   source: '실측: https://www.ganghwa.go.kr/open_content/clinic/bbs/bbsMsgDetail.do?msg_seq=1764&bcd=free&pgno=21 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 최상위 도메인 대소문자 섞기 · 전각 마침표 등 CJK 문장부호로 도메인 점 대체 · 전각 영숫자 · 일본어 가나 구분자
 - id: CB-125
-  split: train
   category: COMBO
   subtype: case_mix+domain_spacing+fullwidth+kana_sep
   html: "<div class=\"comment_view\"><ul class=\"comment_list\"><li><p class=\"txt\">\n\t\t\t\t\t\t한 관광객 관심“불황을 바둑이게임 ま ＢＡＴ2 3 4．ＣｏＭ み폰타나바둑이 박삼구 폰타나바둑이 있다. 9일 말했다. 출입할 그러나 성행하는 포커바둑이 게임 강원랜드에 했다. 엔화 그룹들은\
@@ -3300,7 +3185,6 @@
   source: '실측: https://www.ganghwa.go.kr/open_content/clinic/bbs/bbsMsgDetail.do?msg_seq=1764&bcd=free&pgno=21 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 최상위 도메인 대소문자 섞기 · 도메인 글자 사이 공백 · 전각 영숫자 · 일본어 가나 구분자
 - id: CB-132
-  split: train
   category: COMBO
   subtype: case_mix+dot_sub+fullwidth+kana_sep
   html: "<div class=\"comment_view\"><ul class=\"comment_list\"><li><p class=\"txt\">\n\t\t\t\t\t\t삼삼오오 쉽게 활력을 무료 릴 게임 も mnO4１２.cOm べ무료 충전 바다 이야기 있는 릴 온라인 핵 한국관광공사의 경영지원 “그룹 결과에 여성관광객이 무료 야마토 게임 경기침체에 고무적인\
@@ -3328,7 +3212,6 @@
   source: '실측: https://www.ganghwa.go.kr/open_content/clinic/bbs/bbsMsgDetail.do?msg_seq=1764&bcd=free&pgno=21 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 최상위 도메인 대소문자 섞기 · 도메인 점을 닷·쩜·쉼표로 · 전각 영숫자 · 일본어 가나 구분자
 - id: CB-133
-  split: train
   category: COMBO
   subtype: case_mix+enclosed_hangul+fullwidth+kana_sep+symbol_sep
   html: "<div class=\"comment_view\"><ul class=\"comment_list\"><li><p class=\"txt\">\n\t\t\t\t\t\t준비운동도 피고발인 신중한 정선카지노 ゎ ｂLc２0１４.cｏＭ ご실전바둑이 소 카지노필리핀 학생들의 1㎞ 김모(68)씨를 없다고 의원들이 바카라사이트 밝혔다. 광주시교육청 인턴기자지난\
@@ -3356,7 +3239,6 @@
   source: '실측: https://www.ganghwa.go.kr/open_content/clinic/bbs/bbsMsgDetail.do?msg_seq=1764&bcd=free&pgno=21 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 최상위 도메인 대소문자 섞기 · 원 한글로 음절 바꾸기(㉸톡) · 전각 영숫자 · 일본어 가나 구분자 · 특수기호 구분자
 - id: CB-140
-  split: train
   category: COMBO
   subtype: case_mix+fullwidth+kana_sep+symbol_sep
   html: "<div class=\"comment_view\"><ul class=\"comment_list\"><li><p class=\"txt\">\n\t\t\t\t\t\t수 LG전자 천명한 싱가포르카지노 ぱ B｜ｃ２0１4。ｃoM り카지노후기 사장단은 에이플러스카지노사이트 부산 다복회의 팽팽한 대비하기 확대될 블랙잭카지노 그룹 있는 경찰 문제와 총입장객이\
@@ -3383,7 +3265,6 @@
   source: '실측: https://www.ganghwa.go.kr/open_content/clinic/bbs/bbsMsgDetail.do?msg_seq=1764&bcd=free&pgno=21 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 최상위 도메인 대소문자 섞기 · 전각 영숫자 · 일본어 가나 구분자 · 특수기호 구분자
 - id: CB-142
-  split: train
   category: COMBO
   subtype: cjk_punct+domain_spacing+fullwidth+kana_sep+symbol_sep
   html: "<div class=\"comment_view\"><ul class=\"comment_list\"><li><p class=\"txt\">\n\t\t\t\t\t\tや 무료게임사이트 BLC2 0 15 。COM こ 릴게임주소 が 바다 게임 ⊙ 릴게임사이트 ↕ 바다 게임 □ 바다 게임 ＠ 무료 야마토 게임 ○ 바다 게임 ◀ 바다 게임 ＠ 릴 게임 동인지\
@@ -3408,7 +3289,6 @@
   source: '실측: https://www.ganghwa.go.kr/open_content/clinic/bbs/bbsMsgDetail.do?msg_seq=1764&bcd=free&pgno=21 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 마침표 등 CJK 문장부호로 도메인 점 대체 · 도메인 글자 사이 공백 · 전각 영숫자 · 일본어 가나 구분자 · 특수기호 구분자
 - id: CB-149
-  split: train
   category: COMBO
   subtype: cjk_punct+domain_spacing+kana_sep+symbol_sep
   html: "<div class=\"comment_view\"><ul class=\"comment_list\"><li><p class=\"txt\">\n\t\t\t\t\t\tゆ 마이크로게이밍 K C C1234。C O M ぴ 로우바둑이 は 폰타나바둑이 ♥ 게임바둑이 ▷ 폰타나 바둑이 † 폰타나바둑이 † 포커바둑이 게임 ♨ 폰타나바둑이 ▦ 폰타나바둑이 ¶ 온라인맞고\
@@ -3432,7 +3312,6 @@
   source: '실측: https://www.ganghwa.go.kr/open_content/clinic/bbs/bbsMsgDetail.do?msg_seq=1764&bcd=free&pgno=21 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 마침표 등 CJK 문장부호로 도메인 점 대체 · 도메인 글자 사이 공백 · 일본어 가나 구분자 · 특수기호 구분자
 - id: CB-153
-  split: train
   category: COMBO
   subtype: domain_spacing+dot_sub+fullwidth+kana_sep
   html: "<div class=\"comment_view\"><ul class=\"comment_list\"><li><p class=\"txt\">\n\t\t\t\t\t\t다잡을 현대ㆍ기아차그룹은 적절한 야마토게임다운 ぉ L ＯＰ ２３ ４。Ｃｏ Ｍ ぺ릴 온라인 프리 현실화될지가 무료 야마토 게임 게임을 촉각…일부 입금 일부 소액계원 무료야마토게임 위한 위임받아\
@@ -3459,7 +3338,6 @@
   source: '실측: https://www.ganghwa.go.kr/open_content/clinic/bbs/bbsMsgDetail.do?msg_seq=1764&bcd=free&pgno=21 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 도메인 글자 사이 공백 · 도메인 점을 닷·쩜·쉼표로 · 전각 영숫자 · 일본어 가나 구분자
 - id: CB-157
-  split: train
   category: COMBO
   subtype: domain_spacing+enclosed_hangul+fullwidth+symbol_sep
   html: "<div class=\"comment_view\"><ul class=\"comment_list\"><li><p class=\"txt\">\n\t\t\t\t\t\t♣무료 바다 이야기 게임☆릴 온라인↘무료 바다 이야기 게임▶무료 바다 이야기 게임▨릴게임오프라인★무료 바다 이야기 게임☏무료 바다 이야기 게임‡BOP 1 234。 C OM릴게임오프라인▲무료\
@@ -3498,7 +3376,6 @@
   source: '실측: https://www.ganghwa.go.kr/open_content/clinic/bbs/bbsMsgDetail.do?msg_seq=1764&bcd=free&pgno=21 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 도메인 글자 사이 공백 · 원 한글로 음절 바꾸기(㉸톡) · 전각 영숫자 · 특수기호 구분자
 - id: CB-165
-  split: train
   category: COMBO
   subtype: domain_spacing+fullwidth+kana_sep+spacing+symbol_sep
   html: "<div class=\"comment_view\"><ul class=\"comment_list\"><li><p class=\"txt\">\n\t\t\t\t\t\tつ 무료 충전 바다 이야기 TTB1234 。 C OM や 릴 게임 동인지 の 바다 이야기 pc ⊙ 무료 바다 이야기 게임 ↘ 바다 이야기 pc ㏘ 바다 이야기 pc ↗ 무료게임사이트 ♡\
@@ -3525,7 +3402,6 @@
   source: '실측: https://www.ganghwa.go.kr/open_content/clinic/bbs/bbsMsgDetail.do?msg_seq=1764&bcd=free&pgno=21 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 도메인 글자 사이 공백 · 전각 영숫자 · 일본어 가나 구분자 · 키워드 사이 공백·쉼표·하이픈 · 특수기호 구분자
 - id: CB-192
-  split: train
   category: COMBO
   subtype: enclosed_alnum+fullwidth+homoglyph+jamo_sep+symbol_sep
   html: <article id="bo_v"><section id="bo_v_atc"><div id="bo_v_con"><p>하이카지노피해 ㅌㄹ????????????????????????8288 연제구키스방 ????????????????????????8288 영도스파콜로세움가입주소 【광고대행 @HONGBO8288】 대연러시안룸 【광고대행 @HONGBO8288】
@@ -3558,7 +3434,6 @@
   source: '실측: https://ypcd.or.kr/bbs/board.php?bo_table=notice4&wr_id=1054431 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 원·괄호 숫자(ⓞ①⑵) · 전각 영숫자 · 그리스·오검 등 다른 문자 섞기 · 낱자 자모·괄호 한글 구분자 · 특수기호 구분자
 - id: CB-193
-  split: test
   category: COMBO
   subtype: math_alnum+symbol_sep
   html: <div class="col-dz col-dz-12"><div class="board_view "><div class="board-title holder header"><h1 class="view_tit"><a href="/board4/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;category=g853wk08y6"><span
@@ -3577,7 +3452,6 @@
   source: '실측: https://ysgsa.yonsei.ac.kr/board4/?bmode=view&idx=170493168 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 수학용 영숫자 · 특수기호 구분자
 - id: CB-194
-  split: test
   category: COMBO
   subtype: cjk_punct+zero_width
   html: "<div class=\"cd-section cd-container\" id=\"BoardDiv\"><div id=\"BoardView\"><div class=\"VeiwBox\"><span id=\"writeContents\">국내 최고 스케일 인디언홀덤 카지노 아이슬롯 로얄클럽 슬롯나라 먹튀검증사이트 \n<br>인디언게임 홀덤 토너먼트 바둑이\n\
@@ -4276,7 +4150,6 @@
   source: '실측: http://baejinmetal.co.kr/bbs/board.php?bo_table=K060400&wr_id=8713 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 마침표 등 CJK 문장부호로 도메인 점 대체 · 제로폭 문자
 - id: CB-195
-  split: test
   category: COMBO
   subtype: enclosed_alnum+symbol_sep
   html: <table border="1" summary=""><tbody><tr><td>홀덤게임  사이트 ⓞ①ⓞ-XXXX-XXXX 팬텀솔져홀덤 피스톨바둑이게임 챔피언홀덤 pc홀덤</td></tr></tbody></table>
@@ -4294,7 +4167,6 @@
   source: '실측: https://dkhrainbow.com/article/상품-qa/6/6407/page/3/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 원·괄호 숫자(ⓞ①⑵) · 특수기호 구분자. 전화번호·이메일 가림(난독화 모양은 유지)
 - id: CB-196
-  split: train
   category: COMBO
   subtype: cjk_punct+zero_width
   html: <div class="xans-element- xans-board xans-board-movement-4 xans-board-movement xans-board-4 "><ul class="boardMovement"><li class="next "><a href="/board/product/read.html?no=4810&amp;board_no=6&amp;page=">킹콩티비
@@ -4313,7 +4185,6 @@
   source: '실측: https://m.gmad.kr/board/product/read.html?no=4811&board_no=6 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 마침표 등 CJK 문장부호로 도메인 점 대체 · 제로폭 문자
 - id: CB-197
-  split: val
   category: COMBO
   subtype: case_mix+symbol_sep
   html: '<div class="kboard-document-wrap" itemscope="" itemtype="http://schema.org/Article"><div class="kboard-detail"><div class="detail-attr detail-title"><div class="detail-value">블루게임 (bibe#아이슬롯 인생당첨금
@@ -4332,7 +4203,6 @@
   source: '실측: https://www.goodwebple.co.kr/cs/qna/?mod=document&uid=1193 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 최상위 도메인 대소문자 섞기 · 특수기호 구분자. 전화번호·이메일 가림(난독화 모양은 유지)
 - id: CB-198
-  split: train
   category: COMBO
   subtype: case_mix+spelling_variant
   html: <div class="xans-element- xans-board xans-board-movement-1002 xans-board-movement xans-board-1002 "><ul><li class="next "><a href="/board/free/read.html?no=321245&amp;board_no=5&amp;page=">누누티비
@@ -4351,7 +4221,6 @@
   source: '실측: https://ianti.co.kr/article/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/5/321246/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 최상위 도메인 대소문자 섞기 · 키워드 일부러 틀리게 쓰기(캬톡·텔래그램·비아그랴)
 - id: CB-199
-  split: test
   category: COMBO
   subtype: enclosed_hangul+symbol_sep+zero_width
   html: <div class="xans-element- xans-board xans-board-movement-4 xans-board-movement xans-board-4 "><ul><li class="prev "><a href="/article/상품-qa/6/337092/">에볼casi­nogame ㉨카 텔"  tst365 ㈅AA-AKgame 바­두­기매­장슬­롯
@@ -4372,7 +4241,6 @@
   source: '실측: https://jangpanmart.com/article/%EC%83%81%ED%92%88-qa/6/337091/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 원 한글로 음절 바꾸기(㉸톡) · 특수기호 구분자 · 제로폭 문자
 - id: CB-200
-  split: train
   category: COMBO
   subtype: cjk_punct+spacing
   html: '<div class="xans-element- xans-board xans-board-movement-4 xans-board-movement xans-board-4 "><ul><li class="next "><a href="/board/product/read.html?no=964&amp;board_no=6&amp;page=">에볼루션 미니게임
@@ -4391,7 +4259,6 @@
   source: '실측: https://jinsansports.co.kr/board/product/read.html?no=966&board_no=6 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 마침표 등 CJK 문장부호로 도메인 점 대체 · 키워드 사이 공백·쉼표·하이픈
 - id: CB-201
-  split: test
   category: COMBO
   subtype: cjk_punct+zero_width
   html: <div class="xans-element- xans-board xans-board-read-8 xans-board-read xans-board-8"><div class="boardView"><table border="1" summary="의 슬롯정품인증[blgm7.컴] 블불루게임[홀­덤 인디고 (indigo)라­이브] " spgm77。com=""
@@ -4410,7 +4277,6 @@
   source: '실측: https://khmosi.com/article/%EA%B0%A4%EB%9F%AC%EB%A6%AC/8/21088/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 마침표 등 CJK 문장부호로 도메인 점 대체 · 제로폭 문자
 - id: CB-202
-  split: test
   category: COMBO
   subtype: fullwidth+punct_variant+symbol_sep
   html: '<div class="detail"><div class="fr-view fr-view-article"><p>❓ 실시간 룸 현황 및 다이렉트 예약ː O1O➖XXXX﹘XXXX
@@ -4542,7 +4408,6 @@
   source: '실측: https://koreawax.com/article/%EC%83%81%ED%92%88-qa/6/30465/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 영숫자 · 대시·쉼표를 다른 문자권 부호로 바꿈(―﹣ ، ˏ) · 특수기호 구분자. 전화번호·이메일 가림(난독화 모양은 유지)
 - id: CB-203
-  split: train
   category: COMBO
   subtype: spelling_variant+zero_width
   html: '<table border="1" summary=""><tbody><tr><td>온라인 카지노 사이트 커뮤니티 99억젝팟 《카 턱 , 텔 래 : oio365 》i-slot 아이슬­롯,인디go홀뎜 공식  </td></tr></tbody></table>'
@@ -4560,7 +4425,6 @@
   source: '실측: https://lovelyall.com/article/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/5/172826/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 키워드 일부러 틀리게 쓰기(캬톡·텔래그램·비아그랴) · 제로폭 문자
 - id: CB-204
-  split: train
   category: COMBO
   subtype: cjk_punct+zero_width
   html: <div class="xans-element- xans-board xans-board-movement-4 xans-board-movement xans-board-4 "><ul><li class="prev "><a href="/board/product/read.html?no=438153&amp;board_no=6&amp;page=">인디오 비­타­민
@@ -4579,7 +4443,6 @@
   source: '실측: https://mi-art.co.kr/article/%EC%83%81%ED%92%88-qa/6/438152 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 마침표 등 CJK 문장부호로 도메인 점 대체 · 제로폭 문자
 - id: CB-205
-  split: train
   category: COMBO
   subtype: cjk_punct+symbol_sep
   html: <div class="xans-element- xans-board xans-board-movement-4 xans-board-movement xans-board-4 "><ul class="boardMovement"><li class="prev "><a href="/board/product/read.html?no=224281&amp;board_no=6&amp;page=">#인디고게임
@@ -4598,7 +4461,6 @@
   source: '실측: http://mobile--shop2.kitamall.cafe24.com/article/product-qa/6/224280/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 마침표 등 CJK 문장부호로 도메인 점 대체 · 특수기호 구분자
 - id: CB-206
-  split: test
   category: COMBO
   subtype: cjk_punct+fullwidth
   html: <div class="boardRead"><div class="content"><div class="fr-view fr-view-article"><p>2025년 국내 최고 쿨카지노추천인,공식인증업체,먹튀검증.완료된.온라인카지노 사이트만 한곳에 모아놓았습니다. 쿨카지노추천인 주소. 쿨카지노추천인 도메인. 쿨카지노추천인 먹튀. 쿨카지노추천인 가입코드.
@@ -4644,7 +4506,6 @@
   source: '실측: https://m.moodloveroom.com/board/free/read.html?board_no=5&no=4562 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 마침표 등 CJK 문장부호로 도메인 점 대체 · 전각 영숫자
 - id: CB-207
-  split: train
   category: COMBO
   subtype: cjk_punct+enclosed_alnum+symbol_sep
   html: "<section itemscope=\"\" itemtype=\"http://schema.org/NewsArticle\"><article itemprop=\"articleBody\"><div class=\"view-padding\"><div itemprop=\"description\" class=\"view-content\">\n\t\t\t\t\t\
@@ -4726,7 +4587,6 @@
   source: '실측: https://nebuah.com/bbs/board.php?bo_table=polls&wr_id=13413 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 마침표 등 CJK 문장부호로 도메인 점 대체 · 원·괄호 숫자(ⓞ①⑵) · 특수기호 구분자. 전화번호·이메일 가림(난독화 모양은 유지)
 - id: CB-208
-  split: val
   category: COMBO
   subtype: spacing+spelling_variant
   html: '<div><div><div><p>츄천인 - 복단지 #바이브게임바둑이 #바이브게임맞 고 #바이브게임홀뎜 몰디브게임 #온라인바둑이 #온라인맞 고 #온라인홀 덤 1등 직영라인!</p></div></div></div>'
@@ -4744,7 +4604,6 @@
   source: '실측: https://politics.mokpo.ac.kr/bbs/economy/254/262610/artclView.do (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 키워드 사이 공백·쉼표·하이픈 · 키워드 일부러 틀리게 쓰기(캬톡·텔래그램·비아그랴)
 - id: CB-209
-  split: test
   category: COMBO
   subtype: fullwidth+punct_variant+symbol_sep
   html: '<div class="detail"><div class="fr-view fr-view-article"><p>용산룸싸롱 이용 후기｜혼자도¸ 여럿이서도 부담 없었던 곳
@@ -4914,7 +4773,6 @@
   source: '실측: https://shesga.com/article/%EC%83%81%ED%92%88-qa/6/6858859 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 영숫자 · 대시·쉼표를 다른 문자권 부호로 바꿈(―﹣ ، ˏ) · 특수기호 구분자. 전화번호·이메일 가림(난독화 모양은 유지)
 - id: CB-210
-  split: val
   category: COMBO
   subtype: jamo_split+symbol_sep
   html: '<div class="xans-element- xans-board xans-board-movement-4 xans-board-movement xans-board-4 section "><ul><li class="next "><a href="/article/상품-사용후기/4/4305558/">홀덤 게임 하는곳◈ㄴㄲㅏ톡 탤ㄹㅔ sk5775 ◈바둑이홀덤보증사이트
@@ -4933,7 +4791,6 @@
   source: '실측: https://vestmall.co.kr/article/%EC%83%81%ED%92%88-%EC%82%AC%EC%9A%A9%ED%9B%84%EA%B8%B0/4/4305559/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 자모 분해 · 특수기호 구분자
 - id: CB-211
-  split: test
   category: COMBO
   subtype: enclosed_alnum+symbol_sep
   html: <div class="detail"><div class="fr-view fr-view-article">모바일한게임카지노게임머니팝니다 ⑥ 나에게도 인연이 있긴 한 걸까 ⑦ ◐텔례@A9975◑<br>넷마블머니상처벌 | 스피드바카라규칙 |하이로우게임 | <br>디지털 플랫폼의 발전과 함께 온라인 게임은 단순한 오락을 넘어 복합 경제 생태계로 진화하고
@@ -4972,7 +4829,6 @@
   source: '실측: https://xn--ok0bu9bww1apc75nnxdxz8a.com/article/상품-qa/6/99/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 원·괄호 숫자(ⓞ①⑵) · 특수기호 구분자
 - id: CB-212
-  split: test
   category: COMBO
   subtype: fullwidth+punct_variant+symbol_sep
   html: '<div class="detail"><div class="fr-view fr-view-article"><p>구글찌라시 ✅【찌라시.COM】✅ | 휴게텔 소액결제 구글찌라시작업광고 | 출장마사지광고대행 출장마사지홍보대행✅ 구글 SEO 상위노출 · 웹문서 홍보 전문
@@ -5110,7 +4966,6 @@
   source: '실측: https://yellowpost.co.kr/board/product/read.html?no=251713&board_no=6 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 영숫자 · 대시·쉼표를 다른 문자권 부호로 바꿈(―﹣ ، ˏ) · 특수기호 구분자
 - id: CB-213
-  split: val
   category: COMBO
   subtype: cjk_punct+spacing
   html: '<div class="xans-element- xans-board xans-board-movement-4 xans-board-movement xans-board-4 "><ul><li class="next "><a href="/board/product/read.html?no=387584&amp;board_no=6&amp;page=">에볼루션 미니게임
@@ -5129,7 +4984,6 @@
   source: '실측: https://yewonpub.co.kr/board/product/read.html?no=387588&board_no=6 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 마침표 등 CJK 문장부호로 도메인 점 대체 · 키워드 사이 공백·쉼표·하이픈
 - id: CB-214
-  split: test
   category: COMBO
   subtype: jamo_split+symbol_sep+zero_width
   html: "<div class=\"cd-section cd-container\" id=\"BoardDiv\"><div id=\"BoardView\"><div class=\"VeiwBox\"><span id=\"writeContents\">인디고바둑이게임 - 카지노 사이트spgm77.com블루게임 1등 최대지원 사이트\n<br>\n<br><a href=\"\
@@ -5192,7 +5046,6 @@
   source: '실측: http://baejinmetal.co.kr/bbs/board.php?bo_table=K060400&wr_id=5458 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 자모 분해 · 특수기호 구분자 · 제로폭 문자
 - id: CB-215
-  split: test
   category: COMBO
   subtype: jamo_homoglyph+jamo_split
   html: '<div class="detail"><div class="fr-view fr-view-article"><p>피스톨게임 피스톨홀덤 챔피언바둑이 비타민게임지원 ㅋr톡, # 텔ㄹㅔ그램 : ASA373</p></div></div>'
@@ -5210,7 +5063,6 @@
   source: '실측: https://dkhrainbow.com/article/상품-qa/6/6420/page/2/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 자모로 영문자 바꾸기(TㅇP, ㄹr인) · 자모 분해
 - id: CB-216
-  split: val
   category: COMBO
   subtype: cjk_punct+fullwidth+zero_width
   html: <div class="kboard-document-navi"><div class="kboard-prev-document"><a href="/cs/qna/?mod=document&amp;uid=1724"><span class="navi-document-title kboard-ask-one-cut-strings">모바일바안전한 놀­이터 사­이트 【
@@ -5230,7 +5082,6 @@
   source: '실측: https://www.goodwebple.co.kr/cs/qna/?mod=document&uid=1725 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 마침표 등 CJK 문장부호로 도메인 점 대체 · 전각 영숫자 · 제로폭 문자
 - id: CB-217
-  split: train
   category: COMBO
   subtype: case_mix+spelling_variant+zero_width
   html: <div class="detail"><div class="fr-view fr-view-article"><p>아이슬­롯과 인디­고게­임 홀뎜 또한, iOS, Android, Window 등 모든 운영체제와 스마트 기기에 맞게 각각 최적화되어 있습니다.&nbsp;</p></div></div>
@@ -5250,7 +5101,6 @@
   source: '실측: https://ianti.co.kr/article/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/5/321219/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 최상위 도메인 대소문자 섞기 · 키워드 일부러 틀리게 쓰기(캬톡·텔래그램·비아그랴) · 제로폭 문자
 - id: CB-218
-  split: train
   category: COMBO
   subtype: enclosed_hangul+symbol_sep+zero_width
   html: <table border="1" summary=""><tbody><tr><td>에볼casi­no게임 ㉨카 텔" 010.XXXX.XXXX ㈅AA-AK게임 바­두­기매­장슬­롯 인디고게임 사이트</td></tr></tbody></table>
@@ -5270,7 +5120,6 @@
   source: '실측: https://jinsansports.co.kr/article/%EC%83%81%ED%92%88-qa/6/432/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 원 한글로 음절 바꾸기(㉸톡) · 특수기호 구분자 · 제로폭 문자. 전화번호·이메일 가림(난독화 모양은 유지)
 - id: CB-219
-  split: train
   category: COMBO
   subtype: spelling_variant+zero_width
   html: '<div class="detail"><div class="fr-view fr-view-article"><p>온라인 카지노 사이트 커뮤니티 홀뎜 아이슬­롯 인디go 공식 에이전시 : i-slot 카지노,홀뎜, 아이슬­롯 게­임을 제공 플랫폼 입니다.</p></div></div>'
@@ -5288,7 +5137,6 @@
   source: '실측: https://lovelyall.com/article/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/5/172826/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 키워드 일부러 틀리게 쓰기(캬톡·텔래그램·비아그랴) · 제로폭 문자
 - id: CB-221
-  split: train
   category: COMBO
   subtype: cjk_punct+symbol_sep+zero_width
   html: <div class="xans-element- xans-board xans-board-movement-4 xans-board-movement xans-board-4 "><ul class="boardMovement"><li class="next "><a href="/board/product/read.html?no=226775&amp;board_no=6&amp;page=">에볼루션바둑­이game◈wildgame.Co.KR。COM
@@ -5309,7 +5157,6 @@
   source: '실측: http://mobile--shop2.kitamall.cafe24.com/board/product/read.html?no=227491&board_no=6 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 마침표 등 CJK 문장부호로 도메인 점 대체 · 특수기호 구분자 · 제로폭 문자
 - id: CB-222
-  split: train
   category: COMBO
   subtype: cjk_punct+fullwidth
   html: <article itemprop="articleBody"><div class="view-padding"><div itemprop="description" class="view-content"><p>아이슬롯아시안게임골드（ 0I0。XXX X。XXXX ) "인디언게임"</p></div></div></article>
@@ -5326,7 +5173,6 @@
   source: '실측: https://nebuah.com/bbs/board.php?bo_table=polls&wr_id=13417 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 마침표 등 CJK 문장부호로 도메인 점 대체 · 전각 영숫자. 전화번호·이메일 가림(난독화 모양은 유지)
 - id: CB-223
-  split: val
   category: COMBO
   subtype: spacing+symbol_sep
   html: <div class="ec-base-table typeWrite "><div class="detail "><div class="fr-view fr-view-article"><p>몰디브바둑이 블루홀덤게임 안전검증홀덤온라인사이트 인디고:▲ 카 턱.텔.레 oio365 ▲ &nbsp;</p></div></div></div>
@@ -5344,7 +5190,6 @@
   source: '실측: https://vestmall.co.kr/article/상품-사용후기/4/4377062/page/2/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 키워드 사이 공백·쉼표·하이픈 · 특수기호 구분자
 - id: CB-224
-  split: test
   category: COMBO
   subtype: punct_variant+symbol_sep
   html: '<div class="detail"><div class="fr-view fr-view-article"><p>강남하이퍼블릭 [문의 010⸻XXXX–XXXX] 강남가라오케 강남하이퍼블릭
@@ -5464,7 +5309,6 @@
   source: '실측: https://yellowpost.co.kr/board/product/read.html?no=251728&board_no=6 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 대시·쉼표를 다른 문자권 부호로 바꿈(―﹣ ، ˏ) · 특수기호 구분자. 전화번호·이메일 가림(난독화 모양은 유지)
 - id: CB-225
-  split: val
   category: COMBO
   subtype: cjk_punct+zero_width
   html: <div class="xans-element- xans-board xans-board-movement-4 xans-board-movement xans-board-4 "><ul><li class="next "><a href="/board/product/read.html?no=387445&amp;board_no=6&amp;page=">블루 (bluegame)
@@ -5483,7 +5327,6 @@
   source: '실측: https://yewonpub.co.kr/board/product/read.html?no=387450&board_no=6 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 마침표 등 CJK 문장부호로 도메인 점 대체 · 제로폭 문자
 - id: CB-226
-  split: test
   category: COMBO
   subtype: spelling_variant+symbol_sep
   html: <div class="xans-element- xans-board xans-board-movement-4 xans-board-movement xans-board-4 "><ul><li class="prev "><a href="/article/상품-qa/6/6410/page/3/">△ 챔피언매장  룰루본사  인터넷홀덤┳ 까똑 탤래▥  asa373 ┳
@@ -5502,7 +5345,6 @@
   source: '실측: https://dkhrainbow.com/article/상품-qa/6/6409/page/3/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 키워드 일부러 틀리게 쓰기(캬톡·텔래그램·비아그랴) · 특수기호 구분자
 - id: CB-227
-  split: val
   category: COMBO
   subtype: enclosed_alnum+symbol_sep
   html: "<a href=\"/cs/qna/?mod=document&amp;uid=1731\"><div class=\"kboard-ask-one-cut-strings\">\n\t\t\t\t\t\t\t\t<span class=\"kboard-ask-one-new-notify\">New</span>\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\
@@ -5522,7 +5364,6 @@
   source: '실측: https://www.goodwebple.co.kr/cs/qna/?mod=document&uid=1733 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 원·괄호 숫자(ⓞ①⑵) · 특수기호 구분자
 - id: CB-228
-  split: train
   category: COMBO
   subtype: case_mix+zero_width
   html: <div class="xans-element- xans-board xans-board-read-1002 xans-board-read xans-board-1002"><div class="boardView"><table border="1" summary="인디고 현금홀­덤  인디언홀덤 최대당첨금 인디언게임 카­지노게­임 에볼루션. blgm7.cOM
@@ -5541,7 +5382,6 @@
   source: '실측: https://ianti.co.kr/board/free/read.html?no=322795&board_no=5 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 최상위 도메인 대소문자 섞기 · 제로폭 문자
 - id: CB-229
-  split: train
   category: COMBO
   subtype: fullwidth+zero_width
   html: <a href="/board/product/read.html?no=968&amp;board_no=6">인디고홀­덤주소, 인디고 (indigo) 안내., ＆ c지수+1% ~ +1.은 &amp;39;무순위 청약&amp;39;이에요.hgame.CO.KR ＆ 온라인홀­덤, 인디고바둑이 에볼루션바카라사이트</a>
@@ -5559,7 +5399,6 @@
   source: '실측: https://jinsansports.co.kr/board/product/read.html?no=958&board_no=6 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 영숫자 · 제로폭 문자
 - id: CB-230
-  split: train
   category: COMBO
   subtype: spelling_variant+zero_width
   html: <div class="detail"><div class="fr-view fr-view-article"><p>카지노(인디go 홀뎜 게­임) 아이슬­롯 사이트 i-slot 카지노 게­임 시스템을 연동해 제공하는 구조입니다.</p></div></div>
@@ -5577,7 +5416,6 @@
   source: '실측: https://lovelyall.com/article/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/5/172826/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 키워드 일부러 틀리게 쓰기(캬톡·텔래그램·비아그랴) · 제로폭 문자
 - id: CB-232
-  split: train
   category: COMBO
   subtype: fullwidth+zero_width
   html: <div class="xans-element- xans-board xans-board-movement-4 xans-board-movement xans-board-4 "><ul class="boardMovement"><li class="prev "><a href="/board/product/read.html?no=227666&amp;board_no=6&amp;page=">k카­
@@ -5596,7 +5434,6 @@
   source: '실측: http://mobile--shop2.kitamall.cafe24.com/board/product/read.html?no=227491&board_no=6 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 영숫자 · 제로폭 문자
 - id: CB-233
-  split: train
   category: COMBO
   subtype: enclosed_alnum+symbol_sep
   html: '<div itemprop="description" class="view-content"><div><div><p style="text-align: left;">레블루션홀덤사이트 슬롯game&nbsp; ⓞ①ⓞ-XXXX-XXXX&nbsp; ISLOTgame바둑이 아이slot 아시아맞고game</p></div></div></div>'
@@ -5614,7 +5451,6 @@
   source: '실측: https://nebuah.com/bbs/board.php?bo_table=polls&wr_id=13413 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 원·괄호 숫자(ⓞ①⑵) · 특수기호 구분자. 전화번호·이메일 가림(난독화 모양은 유지)
 - id: CB-234
-  split: val
   category: COMBO
   subtype: spacing+symbol_sep
   html: <div class="ec-base-table typeWrite "><div class="detail "><div class="fr-view fr-view-article"><p>브루바둑이관리자 홀덤 포커 사이트 프라그마틱블루게임 game바둑이 웹설치 홀덤 추천 블루 몰디브바둑이 블루홀덤게임 안전검증홀덤온라인사이트게임 블루게임 블루바둑이게임바둑이
@@ -5634,7 +5470,6 @@
   source: '실측: https://vestmall.co.kr/article/상품-사용후기/4/4377062/page/2/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 키워드 사이 공백·쉼표·하이픈 · 특수기호 구분자
 - id: CB-235
-  split: val
   category: COMBO
   subtype: enclosed_alnum+fullwidth
   html: '<table border="1" summary=""><tbody><tr><td>슬롯게임사이트 [ak게임] ⓿❶⓿＊❼❹❻❺＊ ❸❹❻❹＊ 펀치게임 #바둑이 #포커 #고스톱 #홀덤</td></tr></tbody></table>'
@@ -5651,7 +5486,6 @@
   source: '실측: https://yewonpub.co.kr/board/product/read.html?no=387528&board_no=6 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 원·괄호 숫자(ⓞ①⑵) · 전각 영숫자
 - id: CB-236
-  split: test
   category: COMBO
   subtype: jamo_homoglyph+jamo_split
   html: '<div class="detail"><div class="fr-view fr-view-article"><p>팬텀솔저게임 애블루션 프라그마틱게임 【비타민게임】 바둑이피시방 게임문의 ㅋr톡, # 텔ㄹㅔ그램 : ASA373</p></div></div>'
@@ -5669,7 +5503,6 @@
   source: '실측: https://dkhrainbow.com/article/상품-qa/6/6418/page/2/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 자모로 영문자 바꾸기(TㅇP, ㄹr인) · 자모 분해
 - id: CB-237
-  split: val
   category: COMBO
   subtype: symbol_sep+zero_width
   html: <div class="kboard-document-navi"><div class="kboard-next-document"><a href="/cs/qna/?mod=document&amp;uid=1194"><span class="navi-document-title kboard-ask-one-cut-strings">대한민국 최고스인디­고game 홀­덤펍△【
@@ -5688,7 +5521,6 @@
   source: '실측: https://www.goodwebple.co.kr/cs/qna/?mod=document&uid=1193 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 특수기호 구분자 · 제로폭 문자
 - id: CB-238
-  split: train
   category: COMBO
   subtype: cjk_punct+symbol_sep
   html: <div class="xans-element- xans-board xans-board-read-1002 xans-board-read xans-board-1002"><div class="boardView"><table border="1" summary="솔루션 문의 인디언홀덤인디언홀덤게임◈wildgame.Co.KR。COM ◈ 인디고게임 ≫≫솔루션
@@ -5708,7 +5540,6 @@
   source: '실측: https://ianti.co.kr/board/free/read.html?no=322797&board_no=5 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 마침표 등 CJK 문장부호로 도메인 점 대체 · 특수기호 구분자
 - id: CB-239
-  split: train
   category: COMBO
   subtype: spacing+zero_width
   html: '<div class="xans-element- xans-board xans-board-movement-4 xans-board-movement xans-board-4 "><ul><li class="prev "><a href="/board/product/read.html?no=960&amp;board_no=6&amp;page=">온라인사이트 holdem게임-라­이­브
@@ -5727,7 +5558,6 @@
   source: '실측: https://jinsansports.co.kr/board/product/read.html?no=958&board_no=6 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 키워드 사이 공백·쉼표·하이픈 · 제로폭 문자
 - id: CB-240
-  split: train
   category: COMBO
   subtype: spelling_variant+zero_width
   html: <div class="detail"><div class="fr-view fr-view-article"><p>인디go홀뎜 온라인 카지노 사이트 커뮤니티 99억젝팟 아이슬­롯 아시아</p></div></div>
@@ -5745,7 +5575,6 @@
   source: '실측: https://lovelyall.com/article/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/5/172826/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 키워드 일부러 틀리게 쓰기(캬톡·텔래그램·비아그랴) · 제로폭 문자
 - id: CB-241
-  split: train
   category: COMBO
   subtype: cjk_punct+zero_width
   html: <div class="detail"><div class="fr-view fr-view-article"><p>인디언게임 홀덤사이트추천 아이슬롯사이트 아이슬롯.COM〃아이 슬­롯머신 islotgame 공식인증업­체,먹­튀검증,완료된 온­라인카­지노 사이트만 한곳에 모아놓았습니다. 아이 슬­롯머신 islotgame 주­소,아이 슬­롯머신 islotgame
@@ -5781,7 +5610,6 @@
   source: '실측: https://mi-art.co.kr/board/product/read.html?no=444590&board_no=6 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 마침표 등 CJK 문장부호로 도메인 점 대체 · 제로폭 문자
 - id: CB-242
-  split: train
   category: COMBO
   subtype: jamo_homoglyph+jamo_split+spacing+symbol_sep+zero_width
   html: '<div class="boardRead"><div class="content"><div class="fr-view fr-view-article"><p>블루게­임 와일드게­임 문의 : ◆카턱.텔.레 oio365◆ ㅋr톡, # 텔ㄹㅔ그램 : oio365 몰디브바­두기 몰디브맞go 블루게­임포카 365일 24시간 상담가능합니다.</p></div></div></div>'
@@ -5805,7 +5633,6 @@
   source: '실측: http://mobile--shop2.kitamall.cafe24.com/board/product/read.html?no=227669&board_no=6 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 자모로 영문자 바꾸기(TㅇP, ㄹr인) · 자모 분해 · 키워드 사이 공백·쉼표·하이픈 · 특수기호 구분자 · 제로폭 문자
 - id: CB-243
-  split: train
   category: COMBO
   subtype: fullwidth+spacing+symbol_sep
   html: '<div class="view-padding"><div itemprop="description" class="view-content"><p><strong style="background-color: #fcff01; border: 0px; font-family: inherit; font-style: inherit; font-variant: inherit;
@@ -5826,7 +5653,6 @@
   source: '실측: https://nebuah.com/bbs/board.php?bo_table=polls&wr_id=13421 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 전각 영숫자 · 키워드 사이 공백·쉼표·하이픈 · 특수기호 구분자
 - id: CB-244
-  split: val
   category: COMBO
   subtype: spacing+symbol_sep
   html: <div class="ec-base-table typeWrite "><div class="detail "><div class="fr-view fr-view-article"><p>블루 몰디브바둑이 블루홀덤게임 안전검증홀덤온라인사이트바둑이게임 ▲ 카 턱.텔.레 oio365 ▲</p></div></div></div>
@@ -5844,7 +5670,6 @@
   source: '실측: https://vestmall.co.kr/article/상품-사용후기/4/4377062/page/2/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 키워드 사이 공백·쉼표·하이픈 · 특수기호 구분자
 - id: CB-245
-  split: val
   category: COMBO
   subtype: enclosed_alnum+fullwidth+zero_width
   html: '<table border="1" summary=""><tbody><tr><td>#보­증업체 "⓿❶⓿＊❼❹❻❺＊ ❸❹❻❹＊" #블루게임바둑이 #안­전공­원 #텍사­스홀­덤사이트</td></tr></tbody></table>'
@@ -5863,7 +5688,6 @@
   source: '실측: https://yewonpub.co.kr/board/product/read.html?no=387496&board_no=6 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 원·괄호 숫자(ⓞ①⑵) · 전각 영숫자 · 제로폭 문자
 - id: CB-246
-  split: val
   category: COMBO
   subtype: enclosed_alnum+symbol_sep
   html: <div class="kboard-document-wrap" itemscope="" itemtype="http://schema.org/Article"><div class="kboard-detail"><div class="detail-attr detail-title"><div class="detail-value">인디언게인기있는 온라인 홀덤 카지노
@@ -5882,7 +5706,6 @@
   source: '실측: https://www.goodwebple.co.kr/cs/qna/?mod=document&uid=1735 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 원·괄호 숫자(ⓞ①⑵) · 특수기호 구분자
 - id: CB-247
-  split: train
   category: COMBO
   subtype: enclosed_alnum+spelling_variant
   html: <div class="xans-element- xans-board xans-board-movement-1002 xans-board-movement xans-board-1002 "><ul><li class="next "><a href="/board/free/read.html?no=321221&amp;board_no=5&amp;page=">인디고홀덤커뮤니티
@@ -5901,7 +5724,6 @@
   source: '실측: https://ianti.co.kr/article/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/5/321222/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 원·괄호 숫자(ⓞ①⑵) · 키워드 일부러 틀리게 쓰기(캬톡·텔래그램·비아그랴)
 - id: CB-248
-  split: train
   category: COMBO
   subtype: symbol_sep+zero_width
   html: <div class="detail"><div class="fr-view fr-view-article"><p>아이폰 텍사스홀­덤하는법▶"텔 카 &nbsp;T S T 3 6 5"▶ 어수홀­덤t­v어수홀­덤인스타어수홀­덤 포커홀­덤카페 바­카­라방송슬­롯머­신매장&nbsp;</p></div></div>
@@ -5919,7 +5741,6 @@
   source: '실측: https://jinsansports.co.kr/board/product/read.html?no=950&board_no=6 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 특수기호 구분자 · 제로폭 문자
 - id: CB-249
-  split: train
   category: COMBO
   subtype: spelling_variant+zero_width
   html: <div class="detail"><div class="fr-view fr-view-article"><p>온라인 카지노 사이트 커뮤니티,인디go홀뎜,블루게­임 바­둑이,맛고,포카 – 가장 이용자가 많은 대표 인기 게­임</p></div></div>
@@ -5937,7 +5758,6 @@
   source: '실측: https://lovelyall.com/article/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/5/172826/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 키워드 일부러 틀리게 쓰기(캬톡·텔래그램·비아그랴) · 제로폭 문자
 - id: CB-250
-  split: train
   category: COMBO
   subtype: spacing+symbol_sep+zero_width
   html: <div class="xans-element- xans-board xans-board-read-4 xans-board-read xans-board-4"><div class="boardRead"><div class="title"><h3>몰디브 ★ 프라그마틱 슬­롯★몰디브게­임바둑­이  ★▲ 카 턱.텔.레 oio365 ▲ ★와일드 ★홀­덤</h3></div></div></div>
@@ -5957,7 +5777,6 @@
   source: '실측: http://mobile--shop2.kitamall.cafe24.com/board/product/read.html?no=227783&board_no=6 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 키워드 사이 공백·쉼표·하이픈 · 특수기호 구분자 · 제로폭 문자
 - id: CB-251
-  split: train
   category: COMBO
   subtype: spacing+symbol_sep
   html: "<div class=\"view-wrap view-mobile font-14\"><section itemscope=\"\" itemtype=\"http://schema.org/NewsArticle\"><article itemprop=\"articleBody\"><h1 itemprop=\"headline\" content=\"블루game ◆ 프라그마틱\
@@ -5977,7 +5796,6 @@
   source: '실측: https://nebuah.com/bbs/board.php?bo_table=polls&wr_id=13421 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: '키워드 사이 공백·쉼표·하이픈 · 특수기호 구분자 / 2026-10-06: 중복으로 뺀 CB-220, CB-231 자리를 채운 항목'
 - id: CB-252
-  split: val
   category: COMBO
   subtype: spacing+symbol_sep
   html: <div class="xans-element- xans-board xans-board-movement-4 xans-board-movement xans-board-4 section "><ul><li class="prev "><a href="/article/상품-사용후기/4/4377060/page/3/">블루게임 + 바둑이게임【브루홀덤】 ▲ 카 턱.텔.레
@@ -5996,7 +5814,6 @@
   source: '실측: https://vestmall.co.kr/article/상품-사용후기/4/4377059/page/3/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: '키워드 사이 공백·쉼표·하이픈 · 특수기호 구분자 / 2026-10-06: 중복으로 뺀 CB-220, CB-231 자리를 채운 항목'
 - id: CB-253
-  split: val
   category: COMBO
   subtype: cjk_punct+spacing
   html: '<div class="detail"><div class="fr-view fr-view-article"><p>사설holdem 토너먼트 우승 와일드api 에볼루션 미니게임 슬롯사이트 텔 레 깨똑 : tst365 인디고 사이트" BIBEGM。COM "인디고holdem 토너먼트 우승 와일드api 에볼루션 미니게임 슬롯사이트 텔 레 깨똑 : tst365
@@ -6016,7 +5833,6 @@
   notes: '전각 마침표 등 CJK 문장부호로 도메인 점 대체 · 키워드 사이 공백·쉼표·하이픈 / 2026-10-06: 숨김 사본 위치를 보이는 요소로 바꾸자 적힌 수법들이 한 텍스트 노드에 함께 있지 않아(CB-061 은 남는 노드가 회사 표기 ㈜ 뿐이라) 뺀 CB-060, CB-061, CB-063, CB-064, CB-065, CB-066 자리를
     채운 항목'
 - id: CB-254
-  split: train
   category: COMBO
   subtype: case_mix+spelling_variant+zero_width
   html: <div class="xans-element- xans-board xans-board-read-1002 xans-board-read xans-board-1002"><div class="boardView"><table border="1" summary="텍사스홀­덤islot 호텔슬롯( cpangpond168.cOm)블루게이밍 | 아이슬럿 99억젝팟
@@ -6038,7 +5854,6 @@
   notes: '최상위 도메인 대소문자 섞기 · 키워드 일부러 틀리게 쓰기(캬톡·텔래그램·비아그랴) · 제로폭 문자 / 2026-10-06: 숨김 사본 위치를 보이는 요소로 바꾸자 적힌 수법들이 한 텍스트 노드에 함께 있지 않아(CB-061 은 남는 노드가 회사 표기 ㈜ 뿐이라) 뺀 CB-060, CB-061, CB-063, CB-064, CB-065, CB-066
     자리를 채운 항목'
 - id: CB-255
-  split: train
   category: COMBO
   subtype: cjk_punct+spacing
   html: '<div class="detail"><div class="fr-view fr-view-article"><p>에볼루션 미니게임 슬롯사이트 텔 레 깨똑 : tst365 " 블루게임。COM " 온라인슬롯게임 안전검증게임에볼루션 미니게임 슬롯사이트 텔 레 깨똑 : 가장 위험한 지정학적 갈등 중 하나입니다.tst365 " 블루게임。COM " 온라인슬롯게임
@@ -6058,7 +5873,6 @@
   notes: '전각 마침표 등 CJK 문장부호로 도메인 점 대체 · 키워드 사이 공백·쉼표·하이픈 / 2026-10-06: 숨김 사본 위치를 보이는 요소로 바꾸자 적힌 수법들이 한 텍스트 노드에 함께 있지 않아(CB-061 은 남는 노드가 회사 표기 ㈜ 뿐이라) 뺀 CB-060, CB-061, CB-063, CB-064, CB-065, CB-066 자리를
     채운 항목'
 - id: CB-256
-  split: train
   category: COMBO
   subtype: spelling_variant+zero_width
   html: <div class="detail"><div class="fr-view fr-view-article"><p>온라인 카지노 사이트 커뮤니티 010 - XXXX - XXXX 카지노 i-slot 아이슬­롯,인디go홀뎜 공식 &nbsp;</p></div></div>
@@ -6077,7 +5891,6 @@
   notes: '키워드 일부러 틀리게 쓰기(캬톡·텔래그램·비아그랴) · 제로폭 문자. 전화번호·이메일 가림(난독화 모양은 유지) / 2026-10-06: 숨김 사본 위치를 보이는 요소로 바꾸자 적힌 수법들이 한 텍스트 노드에 함께 있지 않아(CB-061 은 남는 노드가 회사 표기 ㈜ 뿐이라) 뺀 CB-060, CB-061, CB-063, CB-064, CB-065,
     CB-066 자리를 채운 항목'
 - id: CB-257
-  split: train
   category: COMBO
   subtype: fullwidth+zero_width
   html: <div class="xans-element- xans-board xans-board-read-4 xans-board-read xans-board-4"><div class="boardRead"><div class="title"><h3>홈카­ 보증업체 로얄클럽 에볼루션바카라사이트블루게­임 ０１ㅇ＇ 8 1 7 9＇5 2 7 4 블루바­두기게­임 와일드,
@@ -6096,7 +5909,6 @@
   source: '실측: http://mobile--shop2.kitamall.cafe24.com/board/product/read.html?no=227667&board_no=6 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: '전각 영숫자 · 제로폭 문자 / 2026-10-06: 숨김 사본 위치를 보이는 요소로 바꾸자 적힌 수법들이 한 텍스트 노드에 함께 있지 않아(CB-061 은 남는 노드가 회사 표기 ㈜ 뿐이라) 뺀 CB-060, CB-061, CB-063, CB-064, CB-065, CB-066 자리를 채운 항목'
 - id: CB-258
-  split: train
   category: COMBO
   subtype: spacing+symbol_sep
   html: '<div itemprop="description" class="view-content"><p><a href="https://blgm77.com/#/blue?r=8888" rel="nofollow noopener" target="_blank"><strong style="border: 0px; font-family: inherit; font-style:

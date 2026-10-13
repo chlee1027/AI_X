@@ -1,5 +1,4 @@
 - id: ET-001
-  split: test
   category: ETC
   subtype: link_cloaking
   html: <div class="prod-onetime-order " style=""><div class="button-box"><button class="prod-cart-btn" data-gaclick="{&quot;hitType&quot;:&quot;event&quot;, &quot;eventCategory&quot;:&quot;addCartButton&quot;,
@@ -12,7 +11,6 @@
   source: '실측: 해킹된 대학 도메인의 도어웨이 페이지 https://contil.cau.ac.kr/ (2026-10-03 수집)'
   notes: 앵커 텍스트 '로그인' 는 정상 문구, href 는 도박 게이트. Referer=google 요청 시 같은 호스트가 wwnnh.com/gate 로 302 리다이렉트(fetch_log 확인). 목적지 미방문. 원문 data/raw/etc/r1/f8f7840c81_browser.html
 - id: ET-002
-  split: test
   category: ETC
   subtype: link_cloaking
   html: <div class="prod-onetime-order " style=""><div class="button-box"><button class="prod-cart-btn" data-gaclick="{&quot;hitType&quot;:&quot;event&quot;, &quot;eventCategory&quot;:&quot;addCartButton&quot;,
@@ -25,7 +23,6 @@
   source: '실측: 해킹된 대학 도메인의 도어웨이 페이지 https://dreamcatch.changwon.ac.kr/sso/index.jsp?play=wise+toto (2026-10-03 수집)'
   notes: 앵커 텍스트 '로그인' 는 정상 문구, href 는 도박 게이트. Referer=google 요청 시 tracker.uuassdf22ssfsdddonline.top 으로 302. 단축 URL 목적지 미방문·미확인. 원문 data/raw/etc/r1/a3e3408108_browser.html
 - id: ET-003
-  split: test
   category: ETC
   subtype: link_cloaking
   html: <div class="button-box"><button class="prod-buy-btn" data-gaclick="{&quot;hitType&quot;:&quot;event&quot;, &quot;eventCategory&quot;:&quot;orderButton&quot;, &quot;eventAction&quot;:&quot;click&quot;,
@@ -38,7 +35,6 @@
   source: '실측: 해킹된 대학 도메인의 도어웨이 페이지 https://germania.cau.ac.kr/_files/?play=%EC%95%88%EC%A0%84%EB%86%80%EC%9D%B4%ED%84%B0+%EC%88%9C%EC%9C%84 (2026-10-03 수집)'
   notes: 앵커 텍스트 '회원가입' 는 정상 문구, href 는 도박 게이트. Referer=google 요청 시 wwnnh.com/gate 로 302. 단축 URL 목적지 미방문·미확인. 원문 data/raw/etc/r2/da5d15aaa8_browser.html
 - id: ET-004
-  split: val
   category: ETC
   subtype: link_cloaking
   html: <div class="prod-onetime-order " style=""><div class="button-box"><button class="prod-cart-btn" data-gaclick="{&quot;hitType&quot;:&quot;event&quot;, &quot;eventCategory&quot;:&quot;addCartButton&quot;,
@@ -51,7 +47,6 @@
   source: '실측: 해킹된 대학 도메인의 도어웨이 페이지 https://ipsi.chu.ac.kr/board/?date=03-30&go=%EB%B2%94%ED%8D%BC%EC%B9%B4%ED%86%A0%ED%86%A0&language=kr&module=page (2026-10-03 수집)'
   notes: 앵커 텍스트 '로그인' 는 정상 문구, href 는 도박 게이트. Referer=google 요청 시 tracker.uuassdf22ssfsdddonline.top 으로 301. 목적지 미방문·미확인. 원문 data/raw/etc/r1/ba9833305c_browser.html
 - id: ET-005
-  split: val
   category: ETC
   subtype: meta_cloaking
   html: <meta name="description" content="선불유심현금화 텔레그램:@holysim 저신용자대출 간편무서류대출 가전렌탈내구제 통신연체자대출 디딤돌 개인돈 내구제비대면대출  선불유심내구제 홀리심 https://holysim.isweb.co.kr  " />
@@ -63,7 +58,6 @@
   source: '실측: https://tvo.kr/xe/index.php?mid=visit&document_srl=304451 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 화면 본문에는 광고 어휘가 없고 head 에만 남아 있음 (원 글 삭제 후 404 화면에도 메타가 남은 경우 포함)
 - id: ET-006
-  split: val
   category: ETC
   subtype: meta_cloaking
   html: <meta property="og:description" content="선불유심현금화 텔레그램:@holysim 저신용자대출 간편무서류대출 가전렌탈내구제 통신연체자대출 디딤돌 개인돈 내구제비대면대출  선불유심내구제 홀리심 https://holysim.isweb.co.kr  " />
@@ -75,7 +69,6 @@
   source: '실측: https://tvo.kr/xe/index.php?mid=visit&document_srl=304451 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 화면 본문에는 광고 어휘가 없고 head 에만 남아 있음 (원 글 삭제 후 404 화면에도 메타가 남은 경우 포함)
 - id: ET-012
-  split: test
   category: ETC
   subtype: zero_width
   html: "<article id=\"bo_v\"><header><h2 id=\"bo_v_title\"><span class=\"bo_v_tit\">\n\n            비­아그라시알리스구매 &amp; 비­아그라 사용후기 &amp; 천사약국 비­아그라</span></h2></header></article>"
@@ -87,7 +80,6 @@
   source: '실측: http://cuma.or.kr/bbs/board.php?bo_table=bbs4&wr_id=98107 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-013
-  split: test
   category: ETC
   subtype: zero_width
   html: <article id="bo_v"><section id="bo_v_atc"><div id="bo_v_con"><a href="https://eca.vkdnjaos365.top/db_01/13" target="_blank" rel="nofollow noreferrer noopener">비­아그라뉴스 &amp; 비­아그라미국 &amp; 비­아그라 파는곳</a></div></section></article>
@@ -99,7 +91,6 @@
   source: '실측: http://cuma.or.kr/bbs/board.php?bo_table=bbs4&wr_id=98107 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-014
-  split: test
   category: ETC
   subtype: zero_width
   html: <article id="bo_v"><section id="bo_v_atc"><div id="bo_v_con"><a href="https://eca.vkdnjaos365.top/db_01/151" target="_blank" rel="nofollow noreferrer noopener">비­아그라 여자가먹으면 &amp; 비­아그라협심증 &amp;
@@ -112,7 +103,6 @@
   source: '실측: http://cuma.or.kr/bbs/board.php?bo_table=bbs4&wr_id=98107 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-015
-  split: test
   category: ETC
   subtype: zero_width
   html: <article id="bo_v"><section id="bo_v_atc"><div id="bo_v_con"><a href="https://eca.vkdnjaos365.top/db_01/143" target="_blank" rel="nofollow noreferrer noopener">시­알리스판매사이트 &amp; 시­알리스 가격 &amp; 시­알리스직거래</a></div></section></article>
@@ -124,7 +114,6 @@
   source: '실측: http://cuma.or.kr/bbs/board.php?bo_table=bbs4&wr_id=98107 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-026
-  split: test
   category: ETC
   subtype: zero_width
   html: "<div class=\"block-postmeta\"><div class=\"feed-summary vertical-top \"><div class=\"comment_area _comment_area\"><span class=\"_comment_body_  _comment_body_c202504230c5d01381c5b8\" comment_body_code=\"\
@@ -161,7 +150,6 @@
   source: '실측: http://pizzabrothers.co.kr/box/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=47853438&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+200C 가 광고 문구 안에 들어 있음
 - id: ET-028
-  split: test
   category: ETC
   subtype: zero_width
   html: "<div class=\"block-postmeta\"><div class=\"feed-summary vertical-top \"><div class=\"comment_area _comment_area\"><span class=\"_comment_body_  _comment_body_c20250605f76781432407d\" comment_body_code=\"\
@@ -183,7 +171,6 @@
   source: '실측: http://pizzabrothers.co.kr/box/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=47855104&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-029
-  split: test
   category: ETC
   subtype: zero_width
   html: "<div class=\"block-postmeta\"><div class=\"feed-summary vertical-top \"><div class=\"comment_area _comment_area\"><span class=\"_comment_body_  _comment_body_c20250619037d4f90c4d91\" comment_body_code=\"\
@@ -206,7 +193,6 @@
   source: '실측: http://pizzabrothers.co.kr/box/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=47863138&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+200C 가 광고 문구 안에 들어 있음
 - id: ET-030
-  split: train
   category: ETC
   subtype: link_cloaking
   html: <div class="margin-top-xxl _comment_body_"><div><div><a href="http://www.qkc709.com/?ac=r20149" style="display:inline-block;padding:14px 22px;border-radius:12px;text-decoration:none;font-weight:800;background:#fff;border:1px
@@ -219,7 +205,6 @@
   source: '실측: https://insystems.co.kr/24/?bmode=view&idx=169732357 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 앵커 텍스트 '접속 불가 시 클릭' 는 일반 안내 문구, href 는 글이 광고하는 외부 도메인. 목적지 미방문
 - id: ET-031
-  split: train
   category: ETC
   subtype: link_cloaking
   html: <div class="margin-top-xxl _comment_body_"><div><div><a href="http://www.qkc709.com/?ac=r20149" style="display:inline-block;padding:14px 22px;border-radius:12px;text-decoration:none;font-weight:800;color:#19160e;"
@@ -232,7 +217,6 @@
   source: '실측: https://insystems.co.kr/24/?bmode=view&idx=169732357 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 앵커 텍스트 '지금 바로 시작하기' 는 일반 안내 문구, href 는 글이 광고하는 외부 도메인. 목적지 미방문
 - id: ET-032
-  split: train
   category: ETC
   subtype: link_cloaking
   html: <div class="margin-top-xxl _comment_body_m202512317fbe8c64da075"><div><div><a href="http://www.qkc709.com/?ac=r20149" style="display:inline-block;padding:14px 22px;border-radius:12px;text-decoration:none;font-weight:800;background:#fff;border:1px
@@ -245,7 +229,6 @@
   source: '실측: https://total-oa.kr/16/?bmode=view&idx=169275261&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 앵커 텍스트 '접속 불가 시 클릭' 는 일반 안내 문구, href 는 글이 광고하는 외부 도메인. 목적지 미방문
 - id: ET-033
-  split: train
   category: ETC
   subtype: link_cloaking
   html: <div class="margin-top-xxl _comment_body_m202512317fbe8c64da075"><div><div><a href="http://www.qkc709.com/?ac=r20149" style="display:inline-block;padding:14px 22px;border-radius:12px;text-decoration:none;font-weight:800;color:#19160e;"
@@ -258,7 +241,6 @@
   source: '실측: https://total-oa.kr/16/?bmode=view&idx=169275261&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 앵커 텍스트 '지금 바로 시작하기' 는 일반 안내 문구, href 는 글이 광고하는 외부 도메인. 목적지 미방문
 - id: ET-034
-  split: train
   category: ETC
   subtype: link_cloaking
   html: <div class="margin-top-xxl _comment_body_m202602093154465aad311"><div><div><a href="http://www.qkc709.com/?ac=r20149" style="display:inline-block;padding:14px 22px;border-radius:12px;text-decoration:none;font-weight:800;background:#fff;border:1px
@@ -271,7 +253,6 @@
   source: '실측: https://www.cnpgroup.net/3-4/?bmode=view&idx=169933928&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 앵커 텍스트 '접속 불가 시 클릭' 는 일반 안내 문구, href 는 글이 광고하는 외부 도메인. 목적지 미방문
 - id: ET-035
-  split: train
   category: ETC
   subtype: link_cloaking
   html: <div class="margin-top-xxl _comment_body_m202602093154465aad311"><div><div><a href="http://www.qkc709.com/?ac=r20149" style="display:inline-block;padding:14px 22px;border-radius:12px;text-decoration:none;font-weight:800;color:#19160e;"
@@ -284,7 +265,6 @@
   source: '실측: https://www.cnpgroup.net/3-4/?bmode=view&idx=169933928&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 앵커 텍스트 '지금 바로 시작하기' 는 일반 안내 문구, href 는 글이 광고하는 외부 도메인. 목적지 미방문
 - id: ET-036
-  split: train
   category: ETC
   subtype: link_cloaking
   html: <div class="margin-top-xxl _comment_body_"><div><div><a href="http://www.qkc709.com/?ac=r20149" style="display:inline-block;padding:14px 22px;border-radius:12px;text-decoration:none;font-weight:800;background:#fff;border:1px
@@ -297,7 +277,6 @@
   source: '실측: https://codedesign.kr/25/?bmode=view&idx=169646328 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 앵커 텍스트 '접속 불가 시 클릭' 는 일반 안내 문구, href 는 글이 광고하는 외부 도메인. 목적지 미방문
 - id: ET-037
-  split: train
   category: ETC
   subtype: link_cloaking
   html: <div class="margin-top-xxl _comment_body_"><div><div><a href="http://www.qkc709.com/?ac=r20149" style="display:inline-block;padding:14px 22px;border-radius:12px;text-decoration:none;font-weight:800;color:#19160e;"
@@ -310,7 +289,6 @@
   source: '실측: https://codedesign.kr/25/?bmode=view&idx=169646328 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 앵커 텍스트 '지금 바로 시작하기' 는 일반 안내 문구, href 는 글이 광고하는 외부 도메인. 목적지 미방문
 - id: ET-038
-  split: test
   category: ETC
   subtype: zero_width
   html: <article id="bo_v"><section id="bo_v_atc"><div id="bo_v_con"><a href="https://4xnv.edguide365.top/k_via/313" target="_blank" rel="nofollow noreferrer noopener">정품시알­리스구매할수있는방법</a></div></section></article>
@@ -322,7 +300,6 @@
   source: '실측: http://cuma.or.kr/bbs/board.php?bo_table=bbs4&wr_id=98087 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-039
-  split: train
   category: ETC
   subtype: link_cloaking
   html: <div><div><div><a href="https://xn--vf4b27jfvel2a87o.com" style="text-align:center !important;text-decoration:none !important;background:#e63962 !important;color:#ffffff !important;padding:10px
@@ -335,7 +312,6 @@
   source: '실측: https://blog.tanagement.co.kr/releasenote/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172401749&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 앵커 텍스트 '사이트 입장' 는 일반 안내 문구, href 는 글이 광고하는 외부 도메인. 목적지 미방문
 - id: ET-040
-  split: train
   category: ETC
   subtype: link_cloaking
   html: <div class="margin-top-xxl _comment_body_m20260713c582c9f1db102"><div class="sixteen_clean_minimal_layout"><div><a href="https://xn--vf4b27jfvel2a87o.com" style="text-decoration:none !important;color:#e63962
@@ -348,7 +324,6 @@
   source: '실측: https://blog.tanagement.co.kr/releasenote/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172401749&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 앵커 텍스트 '바로 접속 ➜' 는 일반 안내 문구, href 는 글이 광고하는 외부 도메인. 목적지 미방문
 - id: ET-041
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="board_txt_area fr-view"><div class="margin-top-xxl _comment_body_m20260706f87ec48c5821a"><p><a href="https://mawak76.com/" target="_blank" rel="noreferrer noopener">홀­덤game</a></p></div></div>
@@ -360,7 +335,6 @@
   source: '실측: https://www.cnpgroup.net/3-4/?q=YToyOntzOjQ6InBhZ2UiO2k6MztzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173416615&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-042
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="board_txt_area fr-view"><div class="margin-top-xxl _comment_body_m20260706f87ec48c5821a"><p><a href="https://magino.co.kr/" target="_blank" rel="noreferrer noopener">홀­덤대회</a></p></div></div>
@@ -372,7 +346,6 @@
   source: '실측: https://www.cnpgroup.net/3-4/?q=YToyOntzOjQ6InBhZ2UiO2k6MztzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173416615&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-043
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="board_txt_area fr-view"><div class="margin-top-xxl _comment_body_m20260706f87ec48c5821a"><p><a href="http://imp77.xyz/" target="_blank" rel="noreferrer noopener">홀­덤토너먼트</a></p></div></div>
@@ -384,7 +357,6 @@
   source: '실측: https://www.cnpgroup.net/3-4/?q=YToyOntzOjQ6InBhZ2UiO2k6MztzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173416615&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-044
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="board_txt_area fr-view"><div class="margin-top-xxl _comment_body_m20260706f87ec48c5821a"><p><a href="http://magmagm.com/" target="_blank" rel="noreferrer noopener">실전홀­덤</a></p></div></div>
@@ -396,7 +368,6 @@
   source: '실측: https://www.cnpgroup.net/3-4/?q=YToyOntzOjQ6InBhZ2UiO2k6MztzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173416615&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-045
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="board_txt_area fr-view"><div class="margin-top-xxl _comment_body_m20260706f87ec48c5821a"><p><a href="https://swpgm.co.kr/" target="_blank" rel="noreferrer noopener">인디고홀­덤 토넘너트</a></p></div></div>
@@ -408,7 +379,6 @@
   source: '실측: https://www.cnpgroup.net/3-4/?q=YToyOntzOjQ6InBhZ2UiO2k6MztzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173416615&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-046
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="board_txt_area fr-view"><div class="margin-top-xxl _comment_body_m20260706f87ec48c5821a"><p><a href="http://swgm1004.com/" target="_blank" rel="noreferrer noopener">홀­덤 사이트</a></p></div></div>
@@ -420,7 +390,6 @@
   source: '실측: https://www.cnpgroup.net/3-4/?q=YToyOntzOjQ6InBhZ2UiO2k6MztzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173416615&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-047
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="board_txt_area fr-view"><div class="margin-top-xxl _comment_body_m20260706f87ec48c5821a"><p><a href="http://swgm1004.com/wdholaa" target="_blank" rel="noreferrer noopener">인디고홀­덤</a></p></div></div>
@@ -432,7 +401,6 @@
   source: '실측: https://www.cnpgroup.net/3-4/?q=YToyOntzOjQ6InBhZ2UiO2k6MztzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173416615&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-048
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="board_txt_area fr-view"><div class="margin-top-xxl _comment_body_m20260706f87ec48c5821a"><p><a href="http://swgm1004.com/indiogam" target="_blank" rel="noreferrer noopener">인디고홀­덤game</a></p></div></div>
@@ -444,7 +412,6 @@
   source: '실측: https://www.cnpgroup.net/3-4/?q=YToyOntzOjQ6InBhZ2UiO2k6MztzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173416615&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-049
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="comment_section"><div class="list_tap"><a href="/3-4/?q=YToyOntzOjQ6InBhZ2UiO2k6MztzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=173415490&amp;t=board"><span class="secret_icon">카­지노game,토­토사이트
@@ -457,7 +424,6 @@
   source: '실측: https://www.cnpgroup.net/3-4/?q=YToyOntzOjQ6InBhZ2UiO2k6MztzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173416615&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-050
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="board_txt_area fr-view"><div class="margin-top-xxl _comment_body_m20260706151c7099680b2"><p><a href="http://tpgm7.com/" target="_blank" rel="noreferrer noopener">인디언game홀­덤</a></p></div></div>
@@ -469,7 +435,6 @@
   source: '실측: https://www.young-tech.co.kr/notice/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172721852&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-051
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="board_txt_area fr-view"><div class="margin-top-xxl _comment_body_m20260706151c7099680b2"><p><a href="https://graygm.com/" target="_blank" rel="noreferrer noopener">인디언슬­롯게임</a></p></div></div>
@@ -481,7 +446,6 @@
   source: '실측: https://www.young-tech.co.kr/notice/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172721852&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-052
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="board_txt_area fr-view"><div class="margin-top-xxl _comment_body_m20260706151c7099680b2"><p><a href="https://basunct.com/wehs" target="_blank" rel="noreferrer noopener">웹홀­덤­사이트 바둑이</a></p></div></div>
@@ -493,7 +457,6 @@
   source: '실측: https://www.young-tech.co.kr/notice/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172721852&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-053
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="board_txt_area fr-view"><div class="margin-top-xxl _comment_body_m20260706151c7099680b2"><p><a href="http://wtwt7.com" target="_blank" rel="noreferrer noopener">인디언 게임 홀­덤­사이트</a></p></div></div>
@@ -505,7 +468,6 @@
   source: '실측: https://www.young-tech.co.kr/notice/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172721852&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-054
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="board_txt_area fr-view"><div class="margin-top-xxl _comment_body_m20260706151c7099680b2"><p><a href="http://magmagm.com/cpon" target="_blank" rel="noreferrer noopener">인디언game슬­롯게임</a></p></div></div>
@@ -517,7 +479,6 @@
   source: '실측: https://www.young-tech.co.kr/notice/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172721852&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-055
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="board_txt_area fr-view"><div class="margin-top-xxl _comment_body_m20260706151c7099680b2"><p><a href="http://magmagm.com" target="_blank" rel="noreferrer noopener">홀­덤­사이트</a></p></div></div>
@@ -529,7 +490,6 @@
   source: '실측: https://www.young-tech.co.kr/notice/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172721852&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-056
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="board_txt_area fr-view"><div class="margin-top-xxl _comment_body_m20260706151c7099680b2"><p><a href="https://bravogam.com/" target="_blank" rel="noreferrer noopener">홀­덤­사이트인디언게임</a></p></div></div>
@@ -541,7 +501,6 @@
   source: '실측: https://www.young-tech.co.kr/notice/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172721852&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-057
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="board_txt_area fr-view"><div class="margin-top-xxl _comment_body_m20260706151c7099680b2"><p><a href="https://spgm77.com/" target="_blank" rel="noreferrer noopener">홀­덤­사이트바이브 게임</a></p></div></div>
@@ -553,7 +512,6 @@
   source: '실측: https://www.young-tech.co.kr/notice/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172721852&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-058
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="board_txt_area fr-view"><div class="margin-top-xxl _comment_body_m20260706151c7099680b2"><p><a href="https://bangm7.com/" target="_blank" rel="noreferrer noopener">인디언game 웹보드홀­덤­사이트</a></p></div></div>
@@ -565,7 +523,6 @@
   source: '실측: https://www.young-tech.co.kr/notice/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172721852&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-059
-  split: train
   category: ETC
   subtype: encoding
   html: <div class="board_view "><div class="board_txt_area fr-view"><div class="margin-top-xxl _comment_body_m20260926aff7e1106fa3a"><a href="https://www.hiver.co.kr/desktop/search?q=%EF%BC%82%E3%80%90%EC%A3%BC%EC%86%8C%EC%B0%BD+pcpc82.com%E3%80%91%EF%BC%82%E3%80%8D%EA%B2%B0%EC%A0%9C%EB%8C%80%ED%96%89+%EC%84%9C%EB%B9%84%EC%8A%A4%E3%80%8D%CE%B4PC%EB%B0%A9+%EB%A7%A4%EB%A7%A4+%EC%82%AC%EC%9D%B4%ED%8A%B8%CE%B4%CE%B4%EC%84%B1%ED%94%BC+%EB%9E%9C%EB%93%9C%CE%B4%E3%80%8C%EC%B9%B4%EC%A7%80%EB%85%B8%EC%86%94%EB%A3%A8%EC%85%98%E3%80%8C"
@@ -578,7 +535,6 @@
   source: '실측: https://biam.co.kr/info-6/?q=YToyOntzOjQ6InBhZ2UiO2k6NDtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=174776235&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 'URL 퍼센트 인코딩(엔티티·Base64 아님). 광고 문구가 링크 주소 쿼리에만 인코딩되어 있고 화면 앵커는 ''성피나라''. 디코딩: ＂【주소창+pcpc82.com】＂」결제대행+서비스」δPC방+매매+사이트δδ성피+랜드δ「카지노솔루션「. 목적지는 무관한 외부 사이트의 검색 페이지(검색창 악용), 미방문'
 - id: ET-064
-  split: test
   category: ETC
   subtype: zero_width
   html: "<div class=\"block-postmeta\"><div class=\"feed-summary vertical-top \"><div class=\"comment_area _comment_area\"><span class=\"_comment_body_  _comment_body_c202506279b684a7c78851\" comment_body_code=\"\
@@ -605,7 +561,6 @@
   source: '실측: http://pizzabrothers.co.kr/box/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=47852488&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-065
-  split: train
   category: ETC
   subtype: zero_width
   html: <table border="1" summary=""><tbody><tr><td>인디언게임 바­카라사이트디시【 블루게임.COM 】와일드먹­튀검증 텍­사스홀­덤사이트 온­라인홀­덤</td></tr></tbody></table>
@@ -617,7 +572,6 @@
   source: '실측: https://bienworks.co.kr/board/product/read.html?no=145065&board_no=6 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-066
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="detail"><div class="fr-view fr-view-article"><p>국내 최고 바­카라사이트디시 업­체,먹­튀검증,완료된 블루게임 사이트 온­라인카­지노 사이트 먹­튀검증 안전사이트에서 즐기수있습니다. 바­카라사이트디시 인디­고 실­전홀­덤 에­볼루션,바­카라사이트디시 도­메인,바­카라사이트디시 먹­튀</p></div></div>
@@ -629,7 +583,6 @@
   source: '실측: https://bienworks.co.kr/board/product/read.html?no=145065&board_no=6 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-067
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="detail"><div class="fr-view fr-view-article"><p>바­카라사이트디시 가­입코­드, 바­카라사이트디시 슬­롯, 바­카라사이트디시 인디안디시, 바­카라사이트디시 평­생인디­고 실­전홀­덤 에­볼루션, 카­지노사이트, 바­카라사이트, 바­카라사이트디시【 블루게임.COM 】인디언게임 와일드 온­라인바­카라,
@@ -645,7 +598,6 @@
   source: '실측: https://bienworks.co.kr/board/product/read.html?no=145065&board_no=6 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-068
-  split: train
   category: ETC
   subtype: link_cloaking
   html: <div class="margin-top-xxl _comment_body_"><div><div><a href="https://qb-700.com/?code=2080" style="display:inline-block;background:#ffd21a;color:#201600;text-decoration:none;font-weight:800;border-radius:10px;padding:12px
@@ -658,7 +610,6 @@
   source: '실측: https://insystems.co.kr/24/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=169799256&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 앵커 텍스트 '지금 가입하기' 는 일반 안내 문구, href 는 글이 광고하는 외부 도메인. 목적지 미방문
 - id: ET-069
-  split: train
   category: ETC
   subtype: link_cloaking
   html: <div><div><div><a href="https://dtbn1818.com/" style="display:inline-block;background:#111111;color:#ffffff;text-decoration:none;border-radius:8px;padding:10px 12px;font-weight:800;" target="_blank"
@@ -671,7 +622,6 @@
   source: '실측: https://insystems.co.kr/24/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=169799256&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 앵커 텍스트 '링크 이동' 는 일반 안내 문구, href 는 글이 광고하는 외부 도메인. 목적지 미방문
 - id: ET-070
-  split: train
   category: ETC
   subtype: link_cloaking
   html: <div><div><div><a href="https://qb-700.com/?code=2080" style="display:inline-block;background:#ffd21a;color:#1f1500;text-decoration:none;border-radius:8px;padding:10px 12px;font-weight:900;">시작하기</a></div></div></div>
@@ -683,7 +633,6 @@
   source: '실측: https://insystems.co.kr/24/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=169799256&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 앵커 텍스트 '시작하기' 는 일반 안내 문구, href 는 글이 광고하는 외부 도메인. 목적지 미방문
 - id: ET-072
-  split: test
   category: ETC
   subtype: zero_width
   html: "<div class=\"block-postmeta\"><div class=\"feed-summary vertical-top \"><div class=\"comment_area _comment_area\"><span class=\"_comment_body_  _comment_body_c20250504da1fefb0bee81\" comment_body_code=\"\
@@ -702,7 +651,6 @@
   source: '실측: http://pizzabrothers.co.kr/box/?q=YToyOntzOjQ6InBhZ2UiO2k6MztzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=47839216&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+200C 가 광고 문구 안에 들어 있음
 - id: ET-073
-  split: test
   category: ETC
   subtype: link_cloaking
   html: <div class="board_txt_area fr-view"><div class="margin-top-xxl _comment_body_"><div class="link-container"><a href="https://xn--hz2bk7cm4n84f.com/" style="font-size:48px;font-weight:bold;color:#0000FF;text-decoration:none;"
@@ -715,7 +663,6 @@
   source: '실측: http://pizzabrothers.co.kr/box/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=47851686&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 앵커 텍스트 '바로가기' 는 일반 안내 문구, href 는 글이 광고하는 외부 도메인. 목적지 미방문
 - id: ET-074
-  split: test
   category: ETC
   subtype: zero_width
   html: "<div class=\"block-postmeta\"><div class=\"feed-summary vertical-top \"><div class=\"comment_area _comment_area\"><span class=\"_comment_body_  _comment_body_c2025042684e30f06a35c9\" comment_body_code=\"\
@@ -740,7 +687,6 @@
   source: '실측: http://pizzabrothers.co.kr/box/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=47851686&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+200C 가 광고 문구 안에 들어 있음
 - id: ET-075
-  split: val
   category: ETC
   subtype: zero_width
   html: <header id="hd"><h1 id="hd_h1">비트티비❤️ KC7979.COM ❤️강­원랜드잭팟슬­롯머신강­원랜드잭팟종류강­원랜드잭팟세금강­원랜드카­지노잭팟 &gt; 완주인증센터</h1></header>
@@ -752,7 +698,6 @@
   source: '실측: https://hwangbi.or.kr/bbs/board.php?bo_table=sst0302&wr_id=3135 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-076
-  split: val
   category: ETC
   subtype: zero_width
   html: <div id="container"><article id="bo_v"><section id="bo_v_atc"><div id="bo_v_con">2026년 국내 최고 비트티비 공식인증업­체,먹­튀검증,완료된 온­라인카­지노 사이트만 한곳에 모아놓았습니다. 비트티비 주­소,비트티비 도­메인,비트티비 먹­튀, 비트티비 가­입코­드, 비트티비 슬­롯,
@@ -775,7 +720,6 @@
   source: '실측: https://hwangbi.or.kr/bbs/board.php?bo_table=sst0302&wr_id=3135 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-077
-  split: val
   category: ETC
   subtype: zero_width
   html: <article id="bo_v"><ul class="bo_v_nb"><li class="bo_v_prev"><a href="https://hwangbi.or.kr/bbs/board.php?bo_table=sst0302&amp;wr_id=3136"><i class="fa fa-chevron-up" aria-hidden="true"></i><span
@@ -788,7 +732,6 @@
   source: '실측: https://hwangbi.or.kr/bbs/board.php?bo_table=sst0302&wr_id=3135 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-078
-  split: val
   category: ETC
   subtype: zero_width
   html: <article id="bo_v"><ul class="bo_v_nb"><li class="bo_v_next"><a href="https://hwangbi.or.kr/bbs/board.php?bo_table=sst0302&amp;wr_id=3134"><i class="fa fa-chevron-down" aria-hidden="true"></i><span
@@ -801,7 +744,6 @@
   source: '실측: https://hwangbi.or.kr/bbs/board.php?bo_table=sst0302&wr_id=3135 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-079
-  split: val
   category: ETC
   subtype: zero_width
   html: <header id="hd"><h1 id="hd_h1">골드시티부띠끄❤️ KC7979.COM ❤️온­라인슬­롯머신조작슬­롯카­지노사­이트크레이지슬­롯온­라인카­지노얀카­지노해외슬­롯블­랙잭게­임사­이트 &gt; 완주인증센터</h1></header>
@@ -813,7 +755,6 @@
   source: '실측: https://hwangbi.or.kr/bbs/board.php?bo_table=sst0302&wr_id=1888 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-080
-  split: val
   category: ETC
   subtype: zero_width
   html: <div id="container"><article id="bo_v"><section id="bo_v_atc"><div id="bo_v_con">2026년 국내 최고 골드시티부띠끄 공식인증업­체,먹­튀검증,완료된 온­라인카­지노 사이트만 한곳에 모아놓았습니다. 골드시티부띠끄 주­소,골드시티부띠끄 도­메인,골드시티부띠끄 먹­튀, 골드시티부띠끄 가­입코­드,
@@ -838,7 +779,6 @@
   source: '실측: https://hwangbi.or.kr/bbs/board.php?bo_table=sst0302&wr_id=1888 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-081
-  split: val
   category: ETC
   subtype: zero_width
   html: <article id="bo_v"><ul class="bo_v_nb"><li class="bo_v_prev"><a href="https://hwangbi.or.kr/bbs/board.php?bo_table=sst0302&amp;wr_id=1889"><i class="fa fa-chevron-up" aria-hidden="true"></i><span
@@ -851,7 +791,6 @@
   source: '실측: https://hwangbi.or.kr/bbs/board.php?bo_table=sst0302&wr_id=1888 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-082
-  split: val
   category: ETC
   subtype: zero_width
   html: <article id="bo_v"><ul class="bo_v_nb"><li class="bo_v_next"><a href="https://hwangbi.or.kr/bbs/board.php?bo_table=sst0302&amp;wr_id=1887"><i class="fa fa-chevron-down" aria-hidden="true"></i><span
@@ -864,7 +803,6 @@
   source: '실측: https://hwangbi.or.kr/bbs/board.php?bo_table=sst0302&wr_id=1888 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-083
-  split: test
   category: ETC
   subtype: zero_width
   html: "<article id=\"bo_v\"><section id=\"bo_vc\"><article id=\"c_875\"><p>\n                        <a href=\"https://koreaviagra.vikk.top\" target=\"_blank\">https://koreaviagra.vikk.top</a><br><br>✿제품\
@@ -888,7 +826,6 @@
   source: '실측: http://kmc1958.or.kr/bbs/board.php?bo_table=sub01_03&wr_id=420 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-085
-  split: test
   category: ETC
   subtype: zero_width
   html: "<article id=\"bo_v\"><section id=\"bo_vc\"><article id=\"c_3641\"><p>\n                        레비트라,레비트라 구매,비아그라 구매,시알리스 구입,정품 비아그라,시알리스 판매,카마그라 퀵배송,카마그라 파는곳,센트립 약국,비닉스 처방,시알리스 가격,카마그라 직구,파워맨비아그라레비트라\
@@ -921,7 +858,6 @@
   source: '실측: http://kmc1958.or.kr/bbs/board.php?bo_table=sub01_03&wr_id=420 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+200C 가 광고 문구 안에 들어 있음
 - id: ET-087
-  split: test
   category: ETC
   subtype: zero_width
   html: "<article id=\"bo_v\"><section id=\"bo_vc\"><article id=\"c_3735\"><p>\n                        하나 주문 하면 하나 더!&nbsp;  1+1+서비스발기부전치료제 구매<br><a href=\"https://cialisvia.vbcc.top\" target=\"_blank\"\
@@ -941,7 +877,6 @@
   source: '실측: http://kmc1958.or.kr/bbs/board.php?bo_table=sub01_03&wr_id=420 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+200C 가 광고 문구 안에 들어 있음
 - id: ET-089
-  split: test
   category: ETC
   subtype: zero_width
   html: "<article id=\"bo_v\"><section id=\"bo_vc\"><article id=\"c_4228\"><p>\n                        정품 시알리스,시알리스 구매,비아그라 구입,시알리스비아그라차이,시알리스약국,비아그라 가격,레비트라 판매,센트립 지속시간,씨알리스정,비닉스필름구매,팔팔정구구정퀵배송,레비트라처방,비아그라복용법시알리스\
@@ -974,7 +909,6 @@
   source: '실측: http://kmc1958.or.kr/bbs/board.php?bo_table=sub01_03&wr_id=420 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+200C 가 광고 문구 안에 들어 있음
 - id: ET-091
-  split: test
   category: ETC
   subtype: zero_width
   html: "<article id=\"bo_v\"><section id=\"bo_vc\"><article id=\"c_6911\"><p>\n                        파워맨 남성고민해결 전문 기업 - 파워맨\n<br><a href=\"https://xn--2i0bm4pd1btzg9pkelcg77a.vkdnjaos365.top\" target=\"\
@@ -1004,7 +938,6 @@
   source: '실측: http://kmc1958.or.kr/bbs/board.php?bo_table=sub01_03&wr_id=420 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+200C 가 광고 문구 안에 들어 있음
 - id: ET-092
-  split: val
   category: ETC
   subtype: zero_width
   html: <header id="hd"><h1 id="hd_h1">맛동산벳❤️ KC7979.COM ❤️강­원랜드카­지노전화번호강­원랜드위치강­원랜드배­팅한도강­원랜드여자강­원랜드출입일수 &gt; 완주인증센터</h1></header>
@@ -1016,7 +949,6 @@
   source: '실측: https://hwangbi.or.kr/bbs/board.php?bo_table=sst0302&wr_id=3152 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-098
-  split: train
   category: ETC
   subtype: link_cloaking
   html: <div class="margin-top-xxl _comment_body_"><div><div><a href="http://www.qkc709.com/?ac=r20149" style="display:inline-block;padding:14px 22px;border-radius:12px;text-decoration:none;font-weight:800;background:#fff;border:1px
@@ -1029,7 +961,6 @@
   source: '실측: https://bnkorea.kr/27/?bmode=view&idx=169042694&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 앵커 텍스트 '접속 불가 시 클릭' 는 일반 안내 문구, href 는 글이 광고하는 외부 도메인. 목적지 미방문
 - id: ET-099
-  split: train
   category: ETC
   subtype: link_cloaking
   html: <div class="margin-top-xxl _comment_body_"><div><div><a href="http://www.qkc709.com/?ac=r20149" style="display:inline-block;padding:14px 22px;border-radius:12px;text-decoration:none;font-weight:800;color:#19160e;"
@@ -1042,7 +973,6 @@
   source: '실측: https://bnkorea.kr/27/?bmode=view&idx=169042694&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 앵커 텍스트 '지금 바로 시작하기' 는 일반 안내 문구, href 는 글이 광고하는 외부 도메인. 목적지 미방문
 - id: ET-100
-  split: train
   category: ETC
   subtype: link_cloaking
   html: <div class="margin-top-xxl _comment_body_"><div><div><a href="http://www.qkc709.com/?ac=r20149" style="display:inline-block;padding:14px 22px;border-radius:12px;text-decoration:none;font-weight:800;background:#fff;border:1px
@@ -1055,7 +985,6 @@
   source: '실측: https://silvernote.com/Gallery/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=170429793&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 앵커 텍스트 '접속 불가 시 클릭' 는 일반 안내 문구, href 는 글이 광고하는 외부 도메인. 목적지 미방문
 - id: ET-101
-  split: train
   category: ETC
   subtype: link_cloaking
   html: <div class="margin-top-xxl _comment_body_"><div><div><a href="http://www.qkc709.com/?ac=r20149" style="display:inline-block;padding:14px 22px;border-radius:12px;text-decoration:none;font-weight:800;color:#19160e;"
@@ -1068,7 +997,6 @@
   source: '실측: https://silvernote.com/Gallery/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=170429793&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 앵커 텍스트 '지금 바로 시작하기' 는 일반 안내 문구, href 는 글이 광고하는 외부 도메인. 목적지 미방문
 - id: ET-102
-  split: test
   category: ETC
   subtype: zero_width
   html: <header id="hd" class="top"><h1 id="hd_h1">시­알리스 30정 &amp; 시­알리스구매 &amp; 씨알리스 처방 &gt; 자유게시판</h1></header>
@@ -1080,7 +1008,6 @@
   source: '실측: https://www.smh-hospital.co.kr/bbs/board.php?bo_table=free&wr_id=14282 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-103
-  split: test
   category: ETC
   subtype: zero_width
   html: <article id="bo_v"><section id="bo_v_atc"><div id="bo_v_con"><a href="https://9e7y.powerman1004.top/db_01/110" target="_blank" rel="nofollow noreferrer noopener">비­아그라먹은후기분 &amp; 비­아그라복제약처방전 &amp;
@@ -1093,7 +1020,6 @@
   source: '실측: https://www.smh-hospital.co.kr/bbs/board.php?bo_table=free&wr_id=14282 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-104
-  split: test
   category: ETC
   subtype: zero_width
   html: <article id="bo_v"><section id="bo_v_atc"><div id="bo_v_con"><a href="https://9e7y.powerman1004.top/db_01/129" target="_blank" rel="nofollow noreferrer noopener">시­알리스 나무위키 &amp; 씨알리스 효과 &amp; 씨알에스부작용</a></div></section></article>
@@ -1105,7 +1031,6 @@
   source: '실측: https://www.smh-hospital.co.kr/bbs/board.php?bo_table=free&wr_id=14282 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-105
-  split: test
   category: ETC
   subtype: zero_width
   html: <article id="bo_v"><section id="bo_v_atc"><div id="bo_v_con"><a href="https://9e7y.powerman1004.top/db_01/91" target="_blank" rel="nofollow noreferrer noopener">시­알리스가짜 &amp; 시­알리스 구매 &amp; 시­알리스
@@ -1118,7 +1043,6 @@
   source: '실측: https://www.smh-hospital.co.kr/bbs/board.php?bo_table=free&wr_id=14282 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-106
-  split: val
   category: ETC
   subtype: zero_width
   html: <div class="col-dz col-dz-12"><div class="board_view "><div class="board-title holder header"><h1 class="view_tit">도라에몽우주­소전쟁다시보기❤️ KC7979.COM ❤️스포츠­토­토판매점찾기서비스전국토­토판매점스포츠­토­토판매점창업스포츠­토­토지도검색편의점토­토하는법</h1></div></div></div>
@@ -1130,7 +1054,6 @@
   source: '실측: http://www.hb-touresort.com/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173232497&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-107
-  split: val
   category: ETC
   subtype: zero_width
   html: <div class="board_view "><div class="board_txt_area fr-view"><div class="margin-top-xxl _comment_body_m20260819b47400397430f"><p>2026년 국내 최고 도라에몽우주­소전쟁다시보기 공식인증업­체,먹­튀검증,완료된 온­라인카­지노 사이트만 한곳에 모아놓았습니다.
@@ -1157,7 +1080,6 @@
   source: '실측: http://www.hb-touresort.com/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173232497&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-108
-  split: val
   category: ETC
   subtype: zero_width
   html: <div class="comment_section"><div class="list_tap"><a href="/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=173232484&amp;t=board"><span class="secret_icon">로투스샌드❤️ KC7979.COM
@@ -1170,7 +1092,6 @@
   source: '실측: http://www.hb-touresort.com/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173232497&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-109
-  split: val
   category: ETC
   subtype: zero_width
   html: <div class="col-dz col-dz-12"><div class="board_view "><div class="board-title holder header"><h1 class="view_tit">카­지노알값❤️ KC7979.COM ❤️스포츠­토­토검색스포츠조이라­이브스코어불법토­토스포츠­토­토배트맨바로가기프로토­토­토승­부식프로토경기결과</h1></div></div></div>
@@ -1182,7 +1103,6 @@
   source: '실측: http://www.hb-touresort.com/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173232449&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-110
-  split: val
   category: ETC
   subtype: zero_width
   html: <div class="board_view "><div class="board_txt_area fr-view"><div class="margin-top-xxl _comment_body_m20260819b47400397430f"><p>2026년 국내 최고 카­지노알값 공식인증업­체,먹­튀검증,완료된 온­라인카­지노 사이트만 한곳에 모아놓았습니다. 카­지노알값
@@ -1208,7 +1128,6 @@
   source: '실측: http://www.hb-touresort.com/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173232449&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-111
-  split: val
   category: ETC
   subtype: zero_width
   html: <div class="comment_section"><div class="list_tap"><a href="/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=173232463&amp;t=board"><span class="secret_icon">안전토­토사­이트❤️
@@ -1221,7 +1140,6 @@
   source: '실측: http://www.hb-touresort.com/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173232449&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-112
-  split: val
   category: ETC
   subtype: zero_width
   html: <div class="comment_section"><div class="list_tap"><a href="/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=173232438&amp;t=board"><span class="secret_icon">팝콘티비사망❤️
@@ -1234,7 +1152,6 @@
   source: '실측: http://www.hb-touresort.com/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173232449&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-113
-  split: val
   category: ETC
   subtype: zero_width
   html: <div class="board_view "><div class="board_txt_area fr-view"><div class="margin-top-xxl _comment_body_m20260819b47400397430f"><p>2026년 국내 최고 팝콘티비사망 공식인증업­체,먹­튀검증,완료된 온­라인카­지노 사이트만 한곳에 모아놓았습니다. 팝콘티비사망
@@ -1260,7 +1177,6 @@
   source: '실측: http://www.hb-touresort.com/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173232438&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-114
-  split: val
   category: ETC
   subtype: zero_width
   html: <div class="comment_section"><div class="list_tap"><a href="/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=173232430&amp;t=board"><span class="secret_icon">테크윈카­지노❤️
@@ -1273,7 +1189,6 @@
   source: '실측: http://www.hb-touresort.com/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173232438&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-115
-  split: train
   category: ETC
   subtype: link_cloaking
   html: <div class="margin-top-xxl _comment_body_"><div><div><a href="http://www.qkc709.com/?ac=r20149" style="display:inline-block;padding:14px 22px;border-radius:12px;text-decoration:none;font-weight:800;background:#fff;border:1px
@@ -1286,7 +1201,6 @@
   source: '실측: https://dreamkio.web-dream.co.kr/32/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=169001095&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 앵커 텍스트 '접속 불가 시 클릭' 는 일반 안내 문구, href 는 글이 광고하는 외부 도메인. 목적지 미방문
 - id: ET-116
-  split: train
   category: ETC
   subtype: link_cloaking
   html: <div class="margin-top-xxl _comment_body_"><div><div><a href="http://www.qkc709.com/?ac=r20149" style="display:inline-block;padding:14px 22px;border-radius:12px;text-decoration:none;font-weight:800;color:#19160e;"
@@ -1299,7 +1213,6 @@
   source: '실측: https://dreamkio.web-dream.co.kr/32/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=169001095&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 앵커 텍스트 '지금 바로 시작하기' 는 일반 안내 문구, href 는 글이 광고하는 외부 도메인. 목적지 미방문
 - id: ET-117
-  split: val
   category: ETC
   subtype: zero_width
   html: <div class="board_view "><div class="board_txt_area fr-view"><div class="margin-top-xxl _comment_body_m20260819b47400397430f"><p>2026년 국내 최고 안전토­토사­이트 공식인증업­체,먹­튀검증,완료된 온­라인카­지노 사이트만 한곳에 모아놓았습니다.
@@ -1325,7 +1238,6 @@
   source: '실측: http://www.hb-touresort.com/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173232463&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-118
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="margin-top-xxl _comment_body_m202607073a5952c3908d4"><p><b><a href="https://mawak76.com/" target="_blank" rel="noreferrer noopener">홀­덤game</a></b></p></div>
@@ -1337,7 +1249,6 @@
   source: '실측: https://wsgga.com/74/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173452614&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-119
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="margin-top-xxl _comment_body_m202607073a5952c3908d4"><p><b><a href="https://magino.co.kr/" target="_blank" rel="noreferrer noopener">홀­덤대회</a></b></p></div>
@@ -1349,7 +1260,6 @@
   source: '실측: https://wsgga.com/74/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173452614&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-120
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="margin-top-xxl _comment_body_m202607073a5952c3908d4"><p><b><a href="http://imp77.xyz/" target="_blank" rel="noreferrer noopener">홀­덤토너먼트</a></b></p></div>
@@ -1361,7 +1271,6 @@
   source: '실측: https://wsgga.com/74/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173452614&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-121
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="margin-top-xxl _comment_body_m202607073a5952c3908d4"><p><b><a href="http://magmagm.com/" target="_blank" rel="noreferrer noopener">실전홀­덤</a></b></p></div>
@@ -1373,7 +1282,6 @@
   source: '실측: https://wsgga.com/74/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173452614&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-122
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="margin-top-xxl _comment_body_m202607073a5952c3908d4"><p><b><a href="https://swpgm.co.kr/" target="_blank" rel="noreferrer noopener">인디고홀­덤 토넘너트</a></b></p></div>
@@ -1385,7 +1293,6 @@
   source: '실측: https://wsgga.com/74/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173452614&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-123
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="margin-top-xxl _comment_body_m202607073a5952c3908d4"><p><b><a href="http://swgm1004.com/" target="_blank" rel="noreferrer noopener">홀­덤 사이트</a></b></p></div>
@@ -1397,7 +1304,6 @@
   source: '실측: https://wsgga.com/74/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173452614&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-124
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="margin-top-xxl _comment_body_m202607073a5952c3908d4"><p><b><a href="http://swgm1004.com/wdholaa" target="_blank" rel="noreferrer noopener">인디고홀­덤</a></b></p></div>
@@ -1409,7 +1315,6 @@
   source: '실측: https://wsgga.com/74/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173452614&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-125
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="margin-top-xxl _comment_body_m202607073a5952c3908d4"><p><b><a href="http://swgm1004.com/indiogam" target="_blank" rel="noreferrer noopener">인디고홀­덤game</a></b></p></div>
@@ -1421,7 +1326,6 @@
   source: '실측: https://wsgga.com/74/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173452614&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-126
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="comment_section"><div class="list_tap"><a href="/74/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=173454105&amp;t=board"><span class="secret_icon">카­지노game,토­토사이트
@@ -1434,7 +1338,6 @@
   source: '실측: https://wsgga.com/74/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173452614&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-127
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="comment_section"><div class="list_tap"><a href="/74/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=173435325&amp;t=board"><span class="secret_icon">토­토사이트
@@ -1447,7 +1350,6 @@
   source: '실측: https://wsgga.com/74/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173452614&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-128
-  split: val
   category: ETC
   subtype: meta_cloaking
   html: <meta name="description" content="비아그라 복용법 용량별 효과 복용법 부작용 총정리 https://isu9.qldkaos.top 비아그라는 남성 성기능을 향상시키는 약물로, 일반적으로 섭취 후 30-60분 이내에 작용을 시작합니다. 최대 효과를 나타내는 시간은 약 1-2시간이며, 섭취하는 사람의 신체 상태와 약물 복용
@@ -1461,7 +1363,6 @@
   source: '실측: https://tvo.kr/xe/index.php?mid=visit&document_srl=331139 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 화면 본문에는 광고 어휘가 없고 head 에만 남아 있음 (원 글 삭제 후 404 화면에도 메타가 남은 경우 포함)
 - id: ET-129
-  split: val
   category: ETC
   subtype: meta_cloaking
   html: <meta property="og:description" content="비아그라 복용법 용량별 효과 복용법 부작용 총정리 https://isu9.qldkaos.top 비아그라는 남성 성기능을 향상시키는 약물로, 일반적으로 섭취 후 30-60분 이내에 작용을 시작합니다. 최대 효과를 나타내는 시간은 약 1-2시간이며, 섭취하는 사람의 신체 상태와
@@ -1475,7 +1376,6 @@
   source: '실측: https://tvo.kr/xe/index.php?mid=visit&document_srl=331139 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 화면 본문에는 광고 어휘가 없고 head 에만 남아 있음 (원 글 삭제 후 404 화면에도 메타가 남은 경우 포함)
 - id: ET-130
-  split: val
   category: ETC
   subtype: meta_cloaking
   html: '<meta name="description" content="작업대출 카톡 dc24  24시간 문의가능 당일승인 #대출 #개인회생대출 #당일대출# 무직자대출 #직장인대출 #개인파산대출 #주부대출 #여성대출 #모바일대출  #대출상담 #급전대출 #소액대출 #고액대출 #사업자대출 #대출문의 #유흥종사자대출 #개인회생 #신용회복 #성형대출 #전세자금
@@ -1488,7 +1388,6 @@
   source: '실측: https://tvo.kr/xe/index.php?mid=visit&document_srl=269996 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 화면 본문에는 광고 어휘가 없고 head 에만 남아 있음 (원 글 삭제 후 404 화면에도 메타가 남은 경우 포함)
 - id: ET-131
-  split: val
   category: ETC
   subtype: meta_cloaking
   html: '<meta property="og:description" content="작업대출 카톡 dc24  24시간 문의가능 당일승인 #대출 #개인회생대출 #당일대출# 무직자대출 #직장인대출 #개인파산대출 #주부대출 #여성대출 #모바일대출  #대출상담 #급전대출 #소액대출 #고액대출 #사업자대출 #대출문의 #유흥종사자대출 #개인회생 #신용회복 #성형대출
@@ -1501,7 +1400,6 @@
   source: '실측: https://tvo.kr/xe/index.php?mid=visit&document_srl=269996 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 화면 본문에는 광고 어휘가 없고 head 에만 남아 있음 (원 글 삭제 후 404 화면에도 메타가 남은 경우 포함)
 - id: ET-132
-  split: val
   category: ETC
   subtype: meta_cloaking
   html: <meta name="description" content="    선불유심구매 @brrsim_77 텔레그램 15만원급한돈드려요 선불유심매입 뽀로로 통신 선불유심내구제 금천구선불유심현금화하는업체 대학생무직자소액대출 비상금 소액 급전 대출에 대한 문의는 오늘날 경제적 필요를 충족시키기 위해 많은 사람들이 고려하는 중요한 주제 중 하나입니다. 특히,
@@ -1515,7 +1413,6 @@
   source: '실측: https://tvo.kr/xe/index.php?mid=visit&document_srl=269545 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 화면 본문에는 광고 어휘가 없고 head 에만 남아 있음 (원 글 삭제 후 404 화면에도 메타가 남은 경우 포함)
 - id: ET-133
-  split: val
   category: ETC
   subtype: meta_cloaking
   html: <meta property="og:description" content="    선불유심구매 @brrsim_77 텔레그램 15만원급한돈드려요 선불유심매입 뽀로로 통신 선불유심내구제 금천구선불유심현금화하는업체 대학생무직자소액대출 비상금 소액 급전 대출에 대한 문의는 오늘날 경제적 필요를 충족시키기 위해 많은 사람들이 고려하는 중요한 주제 중 하나입니다.
@@ -1529,7 +1426,6 @@
   source: '실측: https://tvo.kr/xe/index.php?mid=visit&document_srl=269545 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 화면 본문에는 광고 어휘가 없고 head 에만 남아 있음 (원 글 삭제 후 404 화면에도 메타가 남은 경우 포함)
 - id: ET-134
-  split: val
   category: ETC
   subtype: meta_cloaking
   html: '<meta name="description" content="선불유심삽니다 텔레ㄱㄹ : @abab1768 곰돌이통신 8등급무직자소액대출 8등급연체자작업대출 9등급연체자작업대출 https://abab1768abab1768.isweb.co.kr/  통신 서비스 이용 방식 중 하나로, 신용도나 후불 요금제 가입이 어려운 이용자도 모바일 데이터를 합법적으로
@@ -1543,7 +1439,6 @@
   source: '실측: https://tvo.kr/xe/index.php?mid=visit&document_srl=269586 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 화면 본문에는 광고 어휘가 없고 head 에만 남아 있음 (원 글 삭제 후 404 화면에도 메타가 남은 경우 포함)
 - id: ET-135
-  split: val
   category: ETC
   subtype: meta_cloaking
   html: '<meta property="og:description" content="선불유심삽니다 텔레ㄱㄹ : @abab1768 곰돌이통신 8등급무직자소액대출 8등급연체자작업대출 9등급연체자작업대출 https://abab1768abab1768.isweb.co.kr/  통신 서비스 이용 방식 중 하나로, 신용도나 후불 요금제 가입이 어려운 이용자도 모바일
@@ -1557,7 +1452,6 @@
   source: '실측: https://tvo.kr/xe/index.php?mid=visit&document_srl=269586 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 화면 본문에는 광고 어휘가 없고 head 에만 남아 있음 (원 글 삭제 후 404 화면에도 메타가 남은 경우 포함)
 - id: ET-136
-  split: train
   category: ETC
   subtype: link_cloaking
   html: <div class="margin-top-xxl _comment_body_"><div><div><a href="http://www.qkc709.com/?ac=r20149" style="display:inline-block;padding:14px 22px;border-radius:12px;text-decoration:none;font-weight:800;background:#fff;border:1px
@@ -1570,7 +1464,6 @@
   source: '실측: https://www.dspremiumlounge.com/24/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=169813266&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 앵커 텍스트 '접속 불가 시 클릭' 는 일반 안내 문구, href 는 글이 광고하는 외부 도메인. 목적지 미방문
 - id: ET-137
-  split: train
   category: ETC
   subtype: link_cloaking
   html: <div class="margin-top-xxl _comment_body_"><div><div><a href="http://www.qkc709.com/?ac=r20149" style="display:inline-block;padding:14px 22px;border-radius:12px;text-decoration:none;font-weight:800;color:#19160e;"
@@ -1583,7 +1476,6 @@
   source: '실측: https://www.dspremiumlounge.com/24/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=169813266&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 앵커 텍스트 '지금 바로 시작하기' 는 일반 안내 문구, href 는 글이 광고하는 외부 도메인. 목적지 미방문
 - id: ET-138
-  split: train
   category: ETC
   subtype: link_cloaking
   html: <div class="margin-top-xxl _comment_body_m2026012643199accc0660"><div><div><a href="http://www.qkc709.com/?ac=r20149" style="display:inline-block;padding:14px 22px;border-radius:12px;text-decoration:none;font-weight:800;background:#fff;border:1px
@@ -1596,7 +1488,6 @@
   source: '실측: https://cesenc.com/59/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=169672718&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 앵커 텍스트 '접속 불가 시 클릭' 는 일반 안내 문구, href 는 글이 광고하는 외부 도메인. 목적지 미방문
 - id: ET-139
-  split: train
   category: ETC
   subtype: link_cloaking
   html: <div class="margin-top-xxl _comment_body_m2026012643199accc0660"><div><div><a href="http://www.qkc709.com/?ac=r20149" style="display:inline-block;padding:14px 22px;border-radius:12px;text-decoration:none;font-weight:800;color:#19160e;"
@@ -1609,7 +1500,6 @@
   source: '실측: https://cesenc.com/59/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=169672718&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 앵커 텍스트 '지금 바로 시작하기' 는 일반 안내 문구, href 는 글이 광고하는 외부 도메인. 목적지 미방문
 - id: ET-145
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="board_txt_area fr-view"><div class="margin-top-xxl _comment_body_m2026070734ff71b5b203a"><div class="separator"><a href="http://tpgm7.com/" target="_blank" rel="noreferrer noopener">인디언game홀­덤</a></div></div></div>
@@ -1621,7 +1511,6 @@
   source: '실측: https://www.genimonte.com/Library/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172761825&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-146
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="board_txt_area fr-view"><div class="margin-top-xxl _comment_body_m2026070734ff71b5b203a"><div class="separator"><a href="https://graygm.com/" target="_blank" rel="noreferrer noopener">인디언슬­롯게임</a></div></div></div>
@@ -1633,7 +1522,6 @@
   source: '실측: https://www.genimonte.com/Library/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172761825&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-147
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="board_txt_area fr-view"><div class="margin-top-xxl _comment_body_m2026070734ff71b5b203a"><div class="separator"><a href="https://basunct.com/wehs" target="_blank" rel="noreferrer noopener">웹홀­덤­사이트
@@ -1646,7 +1534,6 @@
   source: '실측: https://www.genimonte.com/Library/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172761825&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-148
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="board_txt_area fr-view"><div class="margin-top-xxl _comment_body_m2026070734ff71b5b203a"><div class="separator"><a href="http://wtwt7.com" target="_blank" rel="noreferrer noopener">인디언
@@ -1659,7 +1546,6 @@
   source: '실측: https://www.genimonte.com/Library/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172761825&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-149
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="board_txt_area fr-view"><div class="margin-top-xxl _comment_body_m2026070734ff71b5b203a"><div class="separator"><a href="http://magmagm.com/cpon" target="_blank" rel="noreferrer noopener">인디언game슬­롯게임</a></div></div></div>
@@ -1671,7 +1557,6 @@
   source: '실측: https://www.genimonte.com/Library/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172761825&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-150
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="board_txt_area fr-view"><div class="margin-top-xxl _comment_body_m2026070734ff71b5b203a"><div class="separator"><a href="http://magmagm.com" target="_blank" rel="noreferrer noopener">홀­덤­사이트</a></div></div></div>
@@ -1683,7 +1568,6 @@
   source: '실측: https://www.genimonte.com/Library/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172761825&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-151
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="board_txt_area fr-view"><div class="margin-top-xxl _comment_body_m2026070734ff71b5b203a"><div class="separator"><a href="https://bravogam.com/" target="_blank" rel="noreferrer noopener">홀­덤­사이트인디언게임</a></div></div></div>
@@ -1695,7 +1579,6 @@
   source: '실측: https://www.genimonte.com/Library/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172761825&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-152
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="board_txt_area fr-view"><div class="margin-top-xxl _comment_body_m2026070734ff71b5b203a"><div class="separator"><a href="https://spgm77.com/" target="_blank" rel="noreferrer noopener">홀­덤­사이트바이브
@@ -1708,7 +1591,6 @@
   source: '실측: https://www.genimonte.com/Library/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172761825&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-153
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="board_txt_area fr-view"><div class="margin-top-xxl _comment_body_m2026070734ff71b5b203a"><div class="separator"><a href="https://bangm7.com/" target="_blank" rel="noreferrer noopener">인디언game
@@ -1721,7 +1603,6 @@
   source: '실측: https://www.genimonte.com/Library/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172761825&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-154
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="board_txt_area fr-view"><div class="margin-top-xxl _comment_body_m2026070734ff71b5b203a"><div class="separator"><a href="https://medium.com/@deogsuhwang3" target="_blank" rel="noreferrer
@@ -1734,7 +1615,6 @@
   source: '실측: https://www.genimonte.com/Library/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172761825&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-155
-  split: train
   category: ETC
   subtype: link_cloaking
   html: <div class="margin-top-xxl _comment_body_m20260206f80cef5683c3d"><div><div><a href="http://www.qkc709.com/?ac=r20149" style="display:inline-block;padding:14px 22px;border-radius:12px;text-decoration:none;font-weight:800;background:#fff;border:1px
@@ -1747,7 +1627,6 @@
   source: '실측: https://adammandu.com/18/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=169889499&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 앵커 텍스트 '접속 불가 시 클릭' 는 일반 안내 문구, href 는 글이 광고하는 외부 도메인. 목적지 미방문
 - id: ET-156
-  split: train
   category: ETC
   subtype: link_cloaking
   html: <div class="margin-top-xxl _comment_body_m20260206f80cef5683c3d"><div><div><a href="http://www.qkc709.com/?ac=r20149" style="display:inline-block;padding:14px 22px;border-radius:12px;text-decoration:none;font-weight:800;color:#19160e;"
@@ -1760,7 +1639,6 @@
   source: '실측: https://adammandu.com/18/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=169889499&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 앵커 텍스트 '지금 바로 시작하기' 는 일반 안내 문구, href 는 글이 광고하는 외부 도메인. 목적지 미방문
 - id: ET-157
-  split: train
   category: ETC
   subtype: encoding
   html: <div id="rb_sidemenu_float"><div class="rb_bbs_wrap"><div id="bo_v_con"><a href="https://corp.formula1.com/?s=%F0%9F%9E%B1%E2%AD%BF%40lhhjjhh%E2%81%9E%F0%9F%8E%99%EC%86%8C%EB%AA%85%EC%9E%90%EB%A3%8C%20%ED%8E%B8%EC%A7%91%E2%9C%81%EB%A9%94%EC%9D%B4%ED%94%8C%EA%B3%84%EC%A0%95%EC%9D%B8%EC%A6%9D%20%EA%B1%B0%EB%9E%98%EC%86%8C%E2%8D%AD%E2%8C%85%EC%9E%91%EC%97%85%EB%8C%80%EC%B6%9C%20%EC%99%B8%EC%A3%BC%EB%8C%80%ED%96%89%E2%9C%BD%EC%9E%90%EB%8F%99%EC%B0%A8%ED%83%81%EC%86%A1%20%ED%8F%AC%ED%86%A0%EC%83%B5%EC%A0%84%EB%AC%B8%E2%9F%88%F0%9F%97%96"
@@ -1773,7 +1651,6 @@
   source: '실측: https://mcmuni.com/bbs/board.php?bo_table=free2&wr_id=875105 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 'URL 퍼센트 인코딩(엔티티·Base64 아님). 광고 문구가 링크 주소 쿼리에만 인코딩되어 있고 화면 앵커는 ''서류진위확인 대행센터''. 디코딩: 🞱⭿@lhhjjhh⁞🎙소명자료 편집✁메이플계정인증 거래소⍭⌅작업대출 외주대행✽자동차탁송 포토샵전문⟈🗖. 목적지는 무관한 외부 사이트의 검색 페이지(검색창 악용), 미방문'
 - id: ET-159
-  split: train
   category: ETC
   subtype: encoding
   html: <div id="rb_sidemenu_float"><div class="rb_bbs_wrap"><div id="bo_v_con"><a href="https://www.index.hr/trazi.aspx?upit=%E2%96%B2%EB%8C%80%EC%B6%9C%EC%83%81%ED%99%98%20%EC%9D%98%EB%A2%B0%EC%97%85%EC%B2%B4%F0%9F%83%AA%E2%81%9E%40lhhjjhh%F0%9F%92%A8"
@@ -1786,7 +1663,6 @@
   source: '실측: https://mcmuni.com/bbs/board.php?bo_table=free2&wr_id=875105 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 'URL 퍼센트 인코딩(엔티티·Base64 아님). 광고 문구가 링크 주소 쿼리에만 인코딩되어 있고 화면 앵커는 ''넥슨계정 전문''. 디코딩: ▲대출상환 의뢰업체🃪⁞@lhhjjhh💨. 목적지는 무관한 외부 사이트의 검색 페이지(검색창 악용), 미방문'
 - id: ET-160
-  split: train
   category: ETC
   subtype: encoding
   html: <div id="rb_sidemenu_float"><div class="rb_bbs_wrap"><div id="bo_v_con"><a href="https://support.blizzard.com/th/search?q=%F0%9F%83%B4%EA%B3%B5%EB%AC%B8%EC%84%9C%20%EC%88%98%EC%A0%95%F0%9F%90%A8%40lhhjjhh%F0%9F%87%AF%EB%A7%88%EC%95%BD%EA%B5%AC%EB%A7%A4%20%EB%8C%80%ED%96%89%EC%86%8C%F0%9F%96%A2%F0%9F%8F%B1%EC%99%B8%EB%8F%84%EC%A1%B0%EC%82%AC%20%EC%A4%91%EA%B0%9C%EC%86%8C%E2%9E%AE%E2%9E%A6%ED%86%A0%ED%86%A0%20%ED%95%A9%EC%84%B1%F0%9F%A6%A6%F0%9F%93%B7"
@@ -1799,7 +1675,6 @@
   source: '실측: https://mcmuni.com/bbs/board.php?bo_table=free2&wr_id=875105 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 'URL 퍼센트 인코딩(엔티티·Base64 아님). 광고 문구가 링크 주소 쿼리에만 인코딩되어 있고 화면 앵커는 ''지인소재조사 대행''. 디코딩: 🃴공문서 수정🐨@lhhjjhh🇯마약구매 대행소🖢🏱외도조사 중개소➮➦토토 합성🦦📷. 목적지는 무관한 외부 사이트의 검색 페이지(검색창 악용), 미방문'
 - id: ET-161
-  split: train
   category: ETC
   subtype: encoding
   html: <div id="rb_sidemenu_float"><div class="rb_bbs_wrap"><div id="bo_v_con"><a href="https://www.thesartorialist.com/?s=%E2%AE%BF%25%EC%9D%B4%EC%B2%B4%ED%95%9C%EB%8F%84%20%ED%8F%AC%ED%86%A0%EC%83%B5%EB%8C%80%ED%96%89%F0%9F%82%93%40kssd56%F0%9F%82%86%EB%8C%80%EC%B6%9C%20%EC%84%9C%EB%B9%84%EC%8A%A4%EC%97%85%EC%B2%B4%F0%9F%86%96%EC%9E%85%EC%B6%9C%EA%B8%88%EB%82%B4%EC%97%AD%20%EC%9E%91%EC%97%85%F0%9F%94%8C%EC%86%8C%EC%9E%AC%EC%B6%94%EC%A0%81%20%EC%8B%AC%EB%B6%80%EB%A6%84%EC%84%BC%ED%84%B0%F0%9F%A7%93%F0%9F%A7%97"
@@ -1812,7 +1687,6 @@
   source: '실측: https://mcmuni.com/bbs/board.php?bo_table=free2&wr_id=875105 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 'URL 퍼센트 인코딩(엔티티·Base64 아님). 광고 문구가 링크 주소 쿼리에만 인코딩되어 있고 화면 앵커는 ''출금한도해제 작업대행''. 디코딩: ⮿%이체한도 포토샵대행🂓@kssd56🂆대출 서비스업체🆖입출금내역 작업🔌소재추적 심부름센터🧓🧗. 목적지는 무관한 외부 사이트의 검색 페이지(검색창 악용), 미방문'
 - id: ET-162
-  split: test
   category: ETC
   subtype: link_cloaking
   html: <div id="bo_v_con"><div class="container"><div class="button-container"><a href="https://nam-111.com/" class="contact-button" target="_blank" rel="nofollow noreferrer noopener">? 빠른 접속 바로가기</a></div></div></div>
@@ -1824,7 +1698,6 @@
   source: '실측: https://gonggam.zieo.net/bbs/board.php?bo_table=free&wr_id=1847127 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 앵커 텍스트 '? 빠른 접속 바로가기' 는 일반 안내 문구, href 는 글이 광고하는 외부 도메인. 목적지 미방문
 - id: ET-163
-  split: test
   category: ETC
   subtype: zero_width
   html: <section id="bo_v_atc"><div id="bo_v_con"><div><h2 style="color:#d9534f;text-align:center;">2025년 2월 TOP1 토토​ 사이트 추천 - 원탑</h2></div></div></section>
@@ -1836,7 +1709,6 @@
   source: '실측: https://gonggam.zieo.net/bbs/board.php?bo_table=free&wr_id=1847134 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+200B 가 광고 문구 안에 들어 있음
 - id: ET-164
-  split: test
   category: ETC
   subtype: zero_width
   html: "<section id=\"bo_v_atc\"><div id=\"bo_v_con\"><div><p style=\"font-size:16px;color:#333;\">\n        원탑 토토​사이트는 자체 제작 솔루션으로 업계 최고의 배팅 솔루션을 제공하며, 300억 이상의 자본금을 바탕으로 신뢰성을 갖춘 빠른 고객 지원 서비스를 제공합니다.\
@@ -1849,7 +1721,6 @@
   source: '실측: https://gonggam.zieo.net/bbs/board.php?bo_table=free&wr_id=1847134 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+200B 가 광고 문구 안에 들어 있음
 - id: ET-165
-  split: test
   category: ETC
   subtype: zero_width
   html: "<section id=\"bo_v_atc\"><div id=\"bo_v_con\"><div><p style=\"font-size:16px;color:#d9534f;text-align:center;font-weight:bold;margin-top:30px;\">\n        안전한토토​사이트 이용을 위해 위의 장점을 참고하여 원탑을 선택해 보세요.\n\
@@ -1862,7 +1733,6 @@
   source: '실측: https://gonggam.zieo.net/bbs/board.php?bo_table=free&wr_id=1847134 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+200B 가 광고 문구 안에 들어 있음
 - id: ET-172
-  split: train
   category: ETC
   subtype: meta_cloaking
   html: <title>◆블루게임 바카라 하는 곳◆ BET114.CO.KR ◆ 와일드홀덤(Texas Hold&#039;em) 블루바둑이 /블루게임맞고 /와일드슬롯 /라이브카지노 블루게임 블루바둑이 PC버전 몰디브게임:슬롯게임의 매력 몰디브게임은 모바일 환경 &#8211; 헬스케어센터</title>
@@ -1874,7 +1744,6 @@
   source: '실측: https://healthcare.unist.ac.kr/contact-us/qna/?mod=document&uid=448 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 화면 본문에는 광고 어휘가 없고 head 에만 남아 있음 (원 글 삭제 후 404 화면에도 메타가 남은 경우 포함)
 - id: ET-173
-  split: train
   category: ETC
   subtype: meta_cloaking
   html: '<meta name="description" content="◆블루게임 바카라 하는 곳◆ BET114.CO.KR ◆ 와일드홀덤(Texas Hold&#039;em) 블루바둑이 /블루게임맞고 /와일드슬롯 /라이브카지노 블루게임 블루바둑이 PC버전 몰디브게임:슬롯게임의 매력 몰디브게임은 모바일 환경에 최적화된 플랫폼이지만, PC 버전인 블루게임 또한
@@ -1940,7 +1809,6 @@
   source: '실측: https://healthcare.unist.ac.kr/contact-us/qna/?mod=document&uid=448 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 화면 본문에는 광고 어휘가 없고 head 에만 남아 있음 (원 글 삭제 후 404 화면에도 메타가 남은 경우 포함)
 - id: ET-174
-  split: train
   category: ETC
   subtype: meta_cloaking
   html: <meta property="og:title" content="◆블루게임 바카라 하는 곳◆ BET114.CO.KR ◆ 와일드홀덤(Texas Hold&#039;em) 블루바둑이 /블루게임맞고 /와일드슬롯 /라이브카지노 블루게임 블루바둑이 PC버전 몰디브게임:슬롯게임의 매력 몰디브게임은 모바일 환경">
@@ -1952,7 +1820,6 @@
   source: '실측: https://healthcare.unist.ac.kr/contact-us/qna/?mod=document&uid=448 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 화면 본문에는 광고 어휘가 없고 head 에만 남아 있음 (원 글 삭제 후 404 화면에도 메타가 남은 경우 포함)
 - id: ET-175
-  split: train
   category: ETC
   subtype: meta_cloaking
   html: '<meta property="og:description" content="◆블루게임 바카라 하는 곳◆ BET114.CO.KR ◆ 와일드홀덤(Texas Hold&#039;em) 블루바둑이 /블루게임맞고 /와일드슬롯 /라이브카지노 블루게임 블루바둑이 PC버전 몰디브게임:슬롯게임의 매력 몰디브게임은 모바일 환경에 최적화된 플랫폼이지만, PC 버전인
@@ -2018,7 +1885,6 @@
   source: '실측: https://healthcare.unist.ac.kr/contact-us/qna/?mod=document&uid=448 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 화면 본문에는 광고 어휘가 없고 head 에만 남아 있음 (원 글 삭제 후 404 화면에도 메타가 남은 경우 포함)
 - id: ET-176
-  split: train
   category: ETC
   subtype: meta_cloaking
   html: <meta name="twitter:title" content="◆블루게임 바카라 하는 곳◆ BET114.CO.KR ◆ 와일드홀덤(Texas Hold&#039;em) 블루바둑이 /블루게임맞고 /와일드슬롯 /라이브카지노 블루게임 블루바둑이 PC버전 몰디브게임:슬롯게임의 매력 몰디브게임은 모바일 환경">
@@ -2030,7 +1896,6 @@
   source: '실측: https://healthcare.unist.ac.kr/contact-us/qna/?mod=document&uid=448 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 화면 본문에는 광고 어휘가 없고 head 에만 남아 있음 (원 글 삭제 후 404 화면에도 메타가 남은 경우 포함)
 - id: ET-177
-  split: train
   category: ETC
   subtype: meta_cloaking
   html: <title>◆ 짜릿한 바둑이게임 ◆ BET114.NET ◆ 【 바 둑 이 】【 바 카 라 】【 슬 롯 】【 홀 덤 】【 맞 고 】【PC+모바일OK!】 (현재, 블루게임 (구,바이브게임) (구, 챔피언게임 , 체리게임, 루비게임, 엘리트게임 &#8211; 헬스케어센터</title>
@@ -2042,7 +1907,6 @@
   source: '실측: https://healthcare.unist.ac.kr/en/contact-us/qna/?pageid=6&mod=document&uid=456 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 화면 본문에는 광고 어휘가 없고 head 에만 남아 있음 (원 글 삭제 후 404 화면에도 메타가 남은 경우 포함)
 - id: ET-178
-  split: train
   category: ETC
   subtype: meta_cloaking
   html: '<meta name="description" content="◆ 짜릿한 바둑이게임 ◆ BET114.NET ◆ 【 바 둑 이 】【 바 카 라 】【 슬 롯 】【 홀 덤 】【 맞 고 】【PC+모바일OK!】 (현재, 블루게임 (구,바이브게임) (구, 챔피언게임 , 체리게임, 루비게임, 엘리트게임, 그랜드게임, 멀티게임 실시간 동시접속자: 3000명이상!입장방~
@@ -2080,7 +1944,6 @@
   source: '실측: https://healthcare.unist.ac.kr/en/contact-us/qna/?pageid=6&mod=document&uid=456 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 화면 본문에는 광고 어휘가 없고 head 에만 남아 있음 (원 글 삭제 후 404 화면에도 메타가 남은 경우 포함)
 - id: ET-179
-  split: train
   category: ETC
   subtype: meta_cloaking
   html: <meta property="og:title" content="◆ 짜릿한 바둑이게임 ◆ BET114.NET ◆ 【 바 둑 이 】【 바 카 라 】【 슬 롯 】【 홀 덤 】【 맞 고 】【PC+모바일OK!】 (현재, 블루게임 (구,바이브게임) (구, 챔피언게임 , 체리게임, 루비게임, 엘리트게임">
@@ -2092,7 +1955,6 @@
   source: '실측: https://healthcare.unist.ac.kr/en/contact-us/qna/?pageid=6&mod=document&uid=456 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 화면 본문에는 광고 어휘가 없고 head 에만 남아 있음 (원 글 삭제 후 404 화면에도 메타가 남은 경우 포함)
 - id: ET-180
-  split: train
   category: ETC
   subtype: meta_cloaking
   html: '<meta property="og:description" content="◆ 짜릿한 바둑이게임 ◆ BET114.NET ◆ 【 바 둑 이 】【 바 카 라 】【 슬 롯 】【 홀 덤 】【 맞 고 】【PC+모바일OK!】 (현재, 블루게임 (구,바이브게임) (구, 챔피언게임 , 체리게임, 루비게임, 엘리트게임, 그랜드게임, 멀티게임 실시간 동시접속자:
@@ -2130,7 +1992,6 @@
   source: '실측: https://healthcare.unist.ac.kr/en/contact-us/qna/?pageid=6&mod=document&uid=456 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 화면 본문에는 광고 어휘가 없고 head 에만 남아 있음 (원 글 삭제 후 404 화면에도 메타가 남은 경우 포함)
 - id: ET-181
-  split: train
   category: ETC
   subtype: meta_cloaking
   html: <meta name="twitter:title" content="◆ 짜릿한 바둑이게임 ◆ BET114.NET ◆ 【 바 둑 이 】【 바 카 라 】【 슬 롯 】【 홀 덤 】【 맞 고 】【PC+모바일OK!】 (현재, 블루게임 (구,바이브게임) (구, 챔피언게임 , 체리게임, 루비게임, 엘리트게임">
@@ -2142,7 +2003,6 @@
   source: '실측: https://healthcare.unist.ac.kr/en/contact-us/qna/?pageid=6&mod=document&uid=456 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 화면 본문에는 광고 어휘가 없고 head 에만 남아 있음 (원 글 삭제 후 404 화면에도 메타가 남은 경우 포함)
 - id: ET-182
-  split: test
   category: ETC
   subtype: link_cloaking
   html: <div class="imweb_optimized_v7"><div><p><a href="http://xn--910b82xd2r.com" style="color:#888888 !important;text-decoration:none !important;" target="_blank" rel="noreferrer noopener">공식 파트너</a></p></div></div>
@@ -2154,7 +2014,6 @@
   source: '실측: https://ysgsa.yonsei.ac.kr/board4/?bmode=view&idx=170493168 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 앵커 텍스트 '공식 파트너' 는 일반 안내 문구, href 는 글이 광고하는 외부 도메인. 목적지 미방문
 - id: ET-183
-  split: test
   category: ETC
   subtype: link_cloaking
   html: <div><div><div><a href="http://xn--pk3bl5o9i.net" style="text-align:center !important;text-decoration:none !important;background:#1a1a1a !important;color:#ffffff !important;padding:11px 0 !important;border-radius:6px
@@ -2167,7 +2026,6 @@
   source: '실측: https://ysgsa.yonsei.ac.kr/board4/?bmode=view&idx=170493168 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 앵커 텍스트 '바로가입' 는 일반 안내 문구, href 는 글이 광고하는 외부 도메인. 목적지 미방문
 - id: ET-184
-  split: train
   category: ETC
   subtype: zero_width
   html: <a href="#" onclick="goView(356894)"><span>카­지노game,토­토사이트 슬­롯머­신game 창업❤dreamfactory365❤ 바­카라game casino gamesite </span></a>
@@ -2179,7 +2037,6 @@
   source: '실측: https://ion.or.kr/lover8084/community/free/list/45 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-186
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="detail"><div class="fr-view fr-view-article"><p>&lt;a href="https://pws77.com/bibe25" target="_blank"&gt;인디고게임슬­롯&lt;/a&gt;&lt;/br&gt;</p></div></div>
@@ -2191,7 +2048,6 @@
   source: '실측: https://bienworks.co.kr/article/%EB%B9%84%EC%82%AC%EC%9A%A9/6/144610/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-187
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="detail"><div class="fr-view fr-view-article"><p>&lt;a href="https://bluebearbali.com/" target="_blank"&gt;바이브게임슬­롯&lt;/a&gt;&lt;/br&gt;</p></div></div>
@@ -2203,7 +2059,6 @@
   source: '실측: https://bienworks.co.kr/article/%EB%B9%84%EC%82%AC%EC%9A%A9/6/144610/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-188
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="detail"><div class="fr-view fr-view-article"><p>&lt;a href="http://wtwt7.com/" target="_blank"&gt;바이브슬­롯&lt;/a&gt;&lt;/br&gt;</p></div></div>
@@ -2215,7 +2070,6 @@
   source: '실측: https://bienworks.co.kr/article/%EB%B9%84%EC%82%AC%EC%9A%A9/6/144610/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-189
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="detail"><div class="fr-view fr-view-article"><p>&lt;a href="http://magmagm.com/" target="_blank"&gt;바이브게임슬­롯&lt;/a&gt;&lt;/br&gt;</p></div></div>
@@ -2227,7 +2081,6 @@
   source: '실측: https://bienworks.co.kr/article/%EB%B9%84%EC%82%AC%EC%9A%A9/6/144610/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음
 - id: ET-191
-  split: train
   category: ETC
   subtype: zero_width
   html: '<div class="detail"><div class="fr-view fr-view-article"><p>✴️【o10―XXXX﹣XXXX】✴️      ☀️【o10―XXXX⸻XXXX】☀️
@@ -2249,7 +2102,6 @@
   source: '실측: https://h-codi.co.kr/article/자료실/7/209860/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+200B 가 광고 문구 안에 들어 있음
 - id: ET-192
-  split: train
   category: ETC
   subtype: zero_width
   html: '<div class="detail"><div class="fr-view fr-view-article"><p>✴️【o10―XXXX‒XXXX】✴️      ☀️【o10﹣XXXX⸻XXXX】☀️
@@ -2271,7 +2123,6 @@
   source: '실측: https://h-codi.co.kr/article/자료실/7/209859/ (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 보이지 않는 문자 U+200B 가 광고 문구 안에 들어 있음
 - id: ET-193
-  split: train
   category: ETC
   subtype: link_cloaking
   html: <div class="margin-top-xxl _comment_body_m202602104664b1e8f93e9"><div><div><a href="http://www.qkc709.com/?ac=r20149" style="display:inline-block;padding:14px 22px;border-radius:12px;text-decoration:none;font-weight:800;background:#fff;border:1px
@@ -2284,7 +2135,6 @@
   source: '실측: https://www.young-tech.co.kr/notice/?bmode=view&idx=169956796 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 앵커 텍스트 '접속 불가 시 클릭' 는 일반 안내 문구, href 는 글이 광고하는 외부 도메인. 목적지 미방문
 - id: ET-194
-  split: train
   category: ETC
   subtype: link_cloaking
   html: <div class="margin-top-xxl _comment_body_m202602104664b1e8f93e9"><div><div><a href="http://www.qkc709.com/?ac=r20149" style="display:inline-block;padding:14px 22px;border-radius:12px;text-decoration:none;font-weight:800;color:#19160e;"
@@ -2297,7 +2147,6 @@
   source: '실측: https://www.young-tech.co.kr/notice/?bmode=view&idx=169956796 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 앵커 텍스트 '지금 바로 시작하기' 는 일반 안내 문구, href 는 글이 광고하는 외부 도메인. 목적지 미방문
 - id: ET-195
-  split: train
   category: ETC
   subtype: link_cloaking
   html: <div class="margin-top-xxl _comment_body_m20260310226b580e00e6a"><div><div><a href="http://www.qkc709.com/?ac=r20149" style="display:inline-block;padding:14px 22px;border-radius:12px;text-decoration:none;font-weight:800;background:#fff;border:1px
@@ -2310,7 +2159,6 @@
   source: '실측: https://biam.co.kr/info-6/?bmode=view&idx=170334017 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 앵커 텍스트 '접속 불가 시 클릭' 는 일반 안내 문구, href 는 글이 광고하는 외부 도메인. 목적지 미방문
 - id: ET-196
-  split: train
   category: ETC
   subtype: link_cloaking
   html: <div class="margin-top-xxl _comment_body_m20260310226b580e00e6a"><div><div><a href="http://www.qkc709.com/?ac=r20149" style="display:inline-block;padding:14px 22px;border-radius:12px;text-decoration:none;font-weight:800;color:#19160e;"
@@ -2323,7 +2171,6 @@
   source: '실측: https://biam.co.kr/info-6/?bmode=view&idx=170334017 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 앵커 텍스트 '지금 바로 시작하기' 는 일반 안내 문구, href 는 글이 광고하는 외부 도메인. 목적지 미방문
 - id: ET-197
-  split: train
   category: ETC
   subtype: link_cloaking
   html: <div class="margin-top-xxl _comment_body_m2025122754acaed6c6ed7"><div><div><a href="http://www.qkc709.com/?ac=r20149" style="display:inline-block;padding:14px 22px;border-radius:12px;text-decoration:none;font-weight:800;background:#fff;border:1px
@@ -2336,7 +2183,6 @@
   source: '실측: https://blog.tanagement.co.kr/releasenote/?bmode=view&idx=169225869 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 앵커 텍스트 '접속 불가 시 클릭' 는 일반 안내 문구, href 는 글이 광고하는 외부 도메인. 목적지 미방문
 - id: ET-198
-  split: train
   category: ETC
   subtype: link_cloaking
   html: <div class="margin-top-xxl _comment_body_m2025122754acaed6c6ed7"><div><div><a href="http://www.qkc709.com/?ac=r20149" style="display:inline-block;padding:14px 22px;border-radius:12px;text-decoration:none;font-weight:800;color:#19160e;"
@@ -2349,7 +2195,6 @@
   source: '실측: https://blog.tanagement.co.kr/releasenote/?bmode=view&idx=169225869 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 앵커 텍스트 '지금 바로 시작하기' 는 일반 안내 문구, href 는 글이 광고하는 외부 도메인. 목적지 미방문
 - id: ET-199
-  split: train
   category: ETC
   subtype: link_cloaking
   html: <div class="margin-top-xxl _comment_body_m20251212ff75b4fd120b0"><div><div><a href="http://www.qkc709.com/?ac=r20149" style="display:inline-block;padding:14px 22px;border-radius:12px;text-decoration:none;font-weight:800;background:#fff;border:1px
@@ -2362,7 +2207,6 @@
   source: '실측: https://www.uninoble.co.kr/37/?bmode=view&idx=168999635 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 앵커 텍스트 '접속 불가 시 클릭' 는 일반 안내 문구, href 는 글이 광고하는 외부 도메인. 목적지 미방문
 - id: ET-200
-  split: train
   category: ETC
   subtype: link_cloaking
   html: <div class="margin-top-xxl _comment_body_m20251212ff75b4fd120b0"><div><div><a href="http://www.qkc709.com/?ac=r20149" style="display:inline-block;padding:14px 22px;border-radius:12px;text-decoration:none;font-weight:800;color:#19160e;"
@@ -2375,7 +2219,6 @@
   source: '실측: https://www.uninoble.co.kr/37/?bmode=view&idx=168999635 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: 앵커 텍스트 '지금 바로 시작하기' 는 일반 안내 문구, href 는 글이 광고하는 외부 도메인. 목적지 미방문
 - id: ET-201
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="detail"><div class="fr-view fr-view-article"><p>블루게임 온­라인카­지노 사이트만 한곳에 모아놓았습니다. 아이 슬­롯머신 islotgame 주­소,아이 슬­롯머신 islotgame 도­메인</p></div></div>
@@ -2387,7 +2230,6 @@
   source: '실측: https://bienworks.co.kr/board/product/read.html?no=145075&board_no=6 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: '보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음 / 2026-10-06: 조합과 같은 요소라 뺀 ET-027, ET-071, ET-084, ET-171, ET-185, ET-190 자리를 채운 항목'
 - id: ET-202
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="detail"><div class="fr-view fr-view-article"><p>아이 슬­롯머신 islotgame 먹­튀, 아이 슬­롯머신 islotgame 가­입아이 슬­롯머신, 아이 슬­롯머신 islotgame &nbsp;바둑이, 아이 슬­롯머신 islotgame 게­임, 아이 슬­롯머신 islotgame 순­위,
@@ -2401,7 +2243,6 @@
   source: '실측: https://bienworks.co.kr/board/product/read.html?no=145075&board_no=6 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: '보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음 / 2026-10-06: 조합과 같은 요소라 뺀 ET-027, ET-071, ET-084, ET-171, ET-185, ET-190 자리를 채운 항목'
 - id: ET-203
-  split: val
   category: ETC
   subtype: zero_width
   html: <div id="container"><article id="bo_v"><section id="bo_v_atc"><div id="bo_v_con">2026년 국내 최고 맛동산벳 공식인증업­체,먹­튀검증,완료된 온­라인카­지노 사이트만 한곳에 모아놓았습니다. 맛동산벳 주­소,맛동산벳 도­메인,맛동산벳 먹­튀, 맛동산벳 가­입코­드, 맛동산벳 슬­롯,
@@ -2425,7 +2266,6 @@
   source: '실측: https://hwangbi.or.kr/bbs/board.php?bo_table=sst0302&wr_id=3152 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: '보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음 / 2026-10-06: 조합과 같은 요소라 뺀 ET-027, ET-071, ET-084, ET-171, ET-185, ET-190 자리를 채운 항목'
 - id: ET-204
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="board_txt_area fr-view"><div class="margin-top-xxl _comment_body_m20260706151c7099680b2"><p><a href="https://kr.pinterest.com/bibegm975/" target="_blank" rel="noreferrer noopener">슬­롯게임바둑이</a></p></div></div>
@@ -2437,7 +2277,6 @@
   source: '실측: https://www.young-tech.co.kr/notice/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172721852&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: '보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음 / 2026-10-06: 조합과 같은 요소라 뺀 ET-027, ET-071, ET-084, ET-171, ET-185, ET-190 자리를 채운 항목'
 - id: ET-205
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="board_view "><div class="board_txt_area fr-view"><div class="margin-top-xxl _comment_body_m20260706f87ec48c5821a"><h2 style="text-align:left;">토­토·캬지노·슬롯,횰덤 솔루션 실패 없는 선택은 드림팩토리 솔루션 여기
@@ -2450,7 +2289,6 @@
   source: '실측: https://www.cnpgroup.net/3-4/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173433911&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: '보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음 / 2026-10-06: 조합과 같은 요소라 뺀 ET-027, ET-071, ET-084, ET-171, ET-185, ET-190 자리를 채운 항목'
 - id: ET-206
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="detail"><div class="fr-view fr-view-article"><p>아이슬롯 로­얄카­지노먹­튀 카­지노바­카라 커뮤니티 프라그마틱카­지노&nbsp;</p></div></div>
@@ -2462,7 +2300,6 @@
   source: '실측: https://bienworks.co.kr/board/product/read.html?no=145075&board_no=6 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: '보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음 / 2026-10-06: 조합과 같은 요소라 뺀 ET-027, ET-071, ET-084, ET-171, ET-185, ET-190 자리를 채운 항목'
 - id: ET-207
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="board_txt_area fr-view"><div class="margin-top-xxl _comment_body_m20260706151c7099680b2"><p><a href="http://imp77.xyz/" target="_blank" rel="noreferrer noopener">인디언홀­덤게임</a></p></div></div>
@@ -2474,7 +2311,6 @@
   source: '실측: https://www.young-tech.co.kr/notice/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=172721852&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: '보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음 / 2026-10-06: 같은 페이지의 보이는 댓글(ET-085·087·089)과 같은 댓글의 숨김 사본이었고, 위치를 보이는 요소로 바꾸자 같은 요소가 되어 뺀 ET-086, ET-088, ET-090 자리를 채운 항목'
 - id: ET-208
-  split: train
   category: ETC
   subtype: zero_width
   html: <div class="margin-top-xxl _comment_body_m20260706f87ec48c5821a"><p><span><strong>시스템 안정성 토­토사이트&nbsp;</strong></span></p></div>
@@ -2486,7 +2322,6 @@
   source: '실측: https://www.cnpgroup.net/3-4/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173433911&t=board (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: '보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음 / 2026-10-06: 같은 페이지의 보이는 댓글(ET-085·087·089)과 같은 댓글의 숨김 사본이었고, 위치를 보이는 요소로 바꾸자 같은 요소가 되어 뺀 ET-086, ET-088, ET-090 자리를 채운 항목'
 - id: ET-209
-  split: val
   category: ETC
   subtype: zero_width
   html: <article id="bo_v"><ul class="bo_v_nb"><li class="bo_v_prev"><a href="https://hwangbi.or.kr/bbs/board.php?bo_table=sst0302&amp;wr_id=3153"><i class="fa fa-chevron-up" aria-hidden="true"></i><span
@@ -2499,7 +2334,6 @@
   source: '실측: https://hwangbi.or.kr/bbs/board.php?bo_table=sst0302&wr_id=3152 (2026-10-03 수집, JS 끄고 원문 렌더링)'
   notes: '보이지 않는 문자 U+00AD 가 광고 문구 안에 들어 있음 / 2026-10-06: 같은 페이지의 보이는 댓글(ET-085·087·089)과 같은 댓글의 숨김 사본이었고, 위치를 보이는 요소로 바꾸자 같은 요소가 되어 뺀 ET-086, ET-088, ET-090 자리를 채운 항목'
 - id: ET-210
-  split: val
   category: ETC
   subtype: encoding
   html: <div id="et-main-area"><div class="container"><h1><strong>&#53076;&#51064;&#52852;&#51648;&#45432;&#50640;&#49436; &#54540;&#47112;&#51060;&#54616;&#45716; &#51109;&#51216; &ndash; &#50516;&#54840;&#54868;&#54224;
@@ -2512,7 +2346,6 @@
   source: '실측: https://coinist.io/ (Wayback 사본 https://web.archive.org/web/20251007104820/https://coinist.io/ , 2026-10-07 수집, 원 사이트 미접속)'
   notes: '숫자 엔티티 인코딩. (가) 넘어간 도메인: 페이지 전체가 한국어 도박 홍보(제목 「코인카지노에서 플레이하는 장점 - 암호화폐 종류 및 특징」). 도박 페이지라 원 사이트는 열지 않고 인터넷 아카이브 사본만 봄. 디코딩: 코인카지노에서 플레이하는 장점'
 - id: ET-211
-  split: val
   category: ETC
   subtype: encoding
   html: '<div class="container"><ol><li><span style="font-weight: 400;"> &ndash; &#51064;&#44592; &#54532;&#47532;&#48120;&#50612; &#47532;&#44536; &#44277;&#49885; &#54980;&#50896;&#49324; &#44172;&#51076;
@@ -2526,7 +2359,6 @@
   source: '실측: https://coinist.io/ (Wayback 사본 https://web.archive.org/web/20251007104820/https://coinist.io/ , 2026-10-07 수집, 원 사이트 미접속)'
   notes: '숫자 엔티티 인코딩. (가) 넘어간 도메인: 페이지 전체가 한국어 도박 홍보(제목 「코인카지노에서 플레이하는 장점 - 암호화폐 종류 및 특징」). 도박 페이지라 원 사이트는 열지 않고 인터넷 아카이브 사본만 봄. 디코딩: 인기 프리미어 리그 공식 후원사 게임 진행 온라인 카지노 플랫폼'
 - id: ET-212
-  split: train
   category: ETC
   subtype: encoding
   html: <div><ul><li><a href="https://www.bio-medicine.org/">&#53664;&#53664;&#49324;&#51060;&#53944; &#52628;&#52380;</a></li></ul></div>
@@ -2539,7 +2371,6 @@
   notes: '숫자 엔티티 인코딩. (나) 정상 제목 페이지(「Index Rotator | Promote Your Project - An Expert Guide to Cr」)의 링크 목록·본문에 심은 앵커. 목적지 www.bio-medicine.org 미방문. 디코딩: 토토사이트 추천. 같은 페이지가 한글 밖 문자도 엔티티로 내보낸다 = 일부러 숨긴 것이
     아니라 사이트 출력 방식일 수 있음'
 - id: ET-213
-  split: train
   category: ETC
   subtype: encoding
   html: <div class="container"><div class="page-left-part"><h1><b>2024&#45380; &#52572;&#44256; &#47924;&#47308; &#53664;&#53664;&#49324;&#51060;&#53944; &#49692;&#50948;</b></h1></div></div>
@@ -2551,7 +2382,6 @@
   source: '실측: https://migraineresearchfoundation.org/ (Wayback 사본 https://web.archive.org/web/20261004124244/https://migraineresearchfoundation.org/ , 2026-10-07 수집, 원 사이트 미접속)'
   notes: '숫자 엔티티 인코딩. (가) 넘어간 도메인: 페이지 전체가 한국어 도박 홍보(제목 「2024년 최고 무료 토토사이트 순위」). 도박 페이지라 원 사이트는 열지 않고 인터넷 아카이브 사본만 봄. 디코딩: 년 최고 무료 토토사이트 순위'
 - id: ET-214
-  split: train
   category: ETC
   subtype: encoding
   html: <div class="page-left-part"><div class="container"><div class="page-left-part"><p class="content">&#49353;&#45796;&#47480; &#52712;&#48120;&#47196; &#50668;&#44032;&#49884;&#44036;&#51012; &#48372;&#45236;&#44256;
@@ -2571,7 +2401,6 @@
   notes: '숫자 엔티티 인코딩. (가) 넘어간 도메인: 페이지 전체가 한국어 도박 홍보(제목 「2024년 최고 무료 토토사이트 순위」). 도박 페이지라 원 사이트는 열지 않고 인터넷 아카이브 사본만 봄. 디코딩: 색다른 취미로 여가시간을 보내고 싶거나, 혹은 아드레날린 넘치는 카지노 스포츠북의 흥분을 이미 경험해본 사람들이 주로 온라인 토토사이트를 찾습니다.
     시간적 여유가 없거나 물리적 거리 문제로 카지노를 찾을 수 없는 사람들도 그렇죠'
 - id: ET-215
-  split: train
   category: ETC
   subtype: encoding
   html: <div class="container"><div class="row"><h1><strong>&#54620;&#44397;&#50640;&#49436; &#51064;&#44592; &#51080;&#45716; &#54028;&#50892;&#48380;&#49324;&#51060;&#53944; &#52628;&#52380; | &#50504;&#51204;&#54616;&#44256;
@@ -2584,7 +2413,6 @@
   source: '실측: https://sociologyinfocus.com/ (Wayback 사본 https://web.archive.org/web/20260103043505/https://sociologyinfocus.com/ , 2026-10-07 수집, 원 사이트 미접속)'
   notes: '숫자 엔티티 인코딩. (가) 넘어간 도메인: 페이지 전체가 한국어 도박 홍보(제목 「한국에서 인기 있는 파워볼사이트 추천」). 도박 페이지라 원 사이트는 열지 않고 인터넷 아카이브 사본만 봄. 디코딩: 한국에서 인기 있는 파워볼사이트 추천'
 - id: ET-216
-  split: train
   category: ETC
   subtype: encoding
   html: '<div class="container"><div class="row"><p><span style="font-weight: 400">&#48373;&#44428;&#44284; &#50728;&#46972;&#51064; &#48288;&#54021;&#50640; &#44288;&#49900; &#51080;&#45716; &#48516;&#46308;&#51012;
@@ -2600,7 +2428,6 @@
   source: '실측: https://sociologyinfocus.com/ (Wayback 사본 https://web.archive.org/web/20260103043505/https://sociologyinfocus.com/ , 2026-10-07 수집, 원 사이트 미접속)'
   notes: '숫자 엔티티 인코딩. (가) 넘어간 도메인: 페이지 전체가 한국어 도박 홍보(제목 「한국에서 인기 있는 파워볼사이트 추천」). 도박 페이지라 원 사이트는 열지 않고 인터넷 아카이브 사본만 봄. 디코딩: 복권과 온라인 베팅에 관심 있는 분들을 위한 특별한 글을 준비했는데요, 오늘의 주제는'
 - id: ET-217
-  split: test
   category: ETC
   subtype: encoding
   html: <li class="wp-block-post post-8 post type-post status-publish format-standard hentry category-business"><div class="entry-content wp-block-post-content is-layout-flow wp-block-post-content-is-layout-flow"><p><a
@@ -2613,7 +2440,6 @@
   source: '실측: https://svarogday.com/ (Wayback 사본 https://web.archive.org/web/20251017190336/https://svarogday.com/ , 2026-10-07 수집, 원 사이트 미접속)'
   notes: '숫자 엔티티 인코딩. (나) 정상 제목 페이지(「Svarog Day - Necessary For An Entrepreneur」)의 링크 목록·본문에 심은 앵커. 목적지 www.verlocal.com 미방문. 디코딩: 슬롯사이트'
 - id: ET-218
-  split: train
   category: ETC
   subtype: encoding
   html: <div><ul><li><a href="https://doteshopping.com/">&#44865;&#47672;&#45768;&#49324;&#51060;&#53944;</a></li></ul></div>
@@ -2625,7 +2451,6 @@
   source: '실측: https://thebestofcafucus.com/ (Wayback 사본 https://web.archive.org/web/20260407111141/https://thebestofcafucus.com/ , 2026-10-07 수집, 원 사이트 미접속)'
   notes: '숫자 엔티티 인코딩. (나) 정상 제목 페이지(「Understanding RTP and Volatility in Casino Games」)의 링크 목록·본문에 심은 앵커. 목적지 doteshopping.com 미방문. 디코딩: 꽁머니사이트'
 - id: ET-219
-  split: train
   category: ETC
   subtype: encoding
   html: <div><ul><li><a href="https://www.upkorea.net/">&#53664;&#53664;&#49324;&#51060;&#53944; &#44865;&#47672;&#45768;</a></li></ul></div>
@@ -2637,7 +2462,6 @@
   source: '실측: https://thebestofcafucus.com/ (Wayback 사본 https://web.archive.org/web/20260407111141/https://thebestofcafucus.com/ , 2026-10-07 수집, 원 사이트 미접속)'
   notes: '숫자 엔티티 인코딩. (나) 정상 제목 페이지(「Understanding RTP and Volatility in Casino Games」)의 링크 목록·본문에 심은 앵커. 목적지 www.upkorea.net 미방문. 디코딩: 토토사이트 꽁머니'
 - id: ET-220
-  split: train
   category: ETC
   subtype: encoding
   html: <div><ul><li><a href="https://www.slatewinebar.com/">&#54028;&#50892;&#48380;&#49324;&#51060;&#53944;</a></li></ul></div>
@@ -2649,7 +2473,6 @@
   source: '실측: https://valid.global/ (Wayback 사본 https://web.archive.org/web/20260218182504/https://valid.global/ , 2026-10-07 수집, 원 사이트 미접속)'
   notes: '숫자 엔티티 인코딩. (나) 정상 제목 페이지(「Valid - Improve The Awareness And Manage」)의 링크 목록·본문에 심은 앵커. 목적지 www.slatewinebar.com 미방문. 디코딩: 파워볼사이트'
 - id: ET-221
-  split: train
   category: ETC
   subtype: encoding
   html: <article id="post-10" class="post-10 page type-page status-publish hentry"><div class="entry-content"><h2><strong>&#52572;&#49888; &#54028;&#50892;&#48380;&#49324;&#51060;&#53944; &#52628;&#52380;
@@ -2662,7 +2485,6 @@
   source: '실측: https://www.binaryuno.com/ (Wayback 사본 https://web.archive.org/web/20260216093924/https://www.binaryuno.com/ , 2026-10-07 수집, 원 사이트 미접속)'
   notes: '숫자 엔티티 인코딩. (가) 넘어간 도메인: 페이지 전체가 한국어 도박 홍보(제목 「최신 파워볼사이트 상세 리뷰 - 온라인 파워볼 게임에 대한 모든 것」). 도박 페이지라 원 사이트는 열지 않고 인터넷 아카이브 사본만 봄. 디코딩: 최신 파워볼사이트 추천 목록'
 - id: ET-222
-  split: train
   category: ETC
   subtype: encoding
   html: '<article id="post-10" class="post-10 page type-page status-publish hentry"><div class="entry-content"><p><span style="font-weight: 400;">&#54028;&#50892;&#48380;&#49324;&#51060;&#53944;&#45716;
@@ -2687,7 +2509,6 @@
   notes: '숫자 엔티티 인코딩. (가) 넘어간 도메인: 페이지 전체가 한국어 도박 홍보(제목 「최신 파워볼사이트 상세 리뷰 - 온라인 파워볼 게임에 대한 모든 것」). 도박 페이지라 원 사이트는 열지 않고 인터넷 아카이브 사본만 봄. 디코딩: 파워볼사이트는 오프라인 파워볼 게임이 온라인으로 영역을 확장하면서 높은 인기를 끌기 시작했습니다. 파워볼은 복권과
     같은 형태로 즐기는 게임이며 예상되는 번호에 베팅하고 결과를 기다리기만 하면 됩니다. 게임 참여 방법이 쉽고 진행이 빨라 일반 카지노 플랫폼에서 미니게임으로 분류됩니다. 인터넷으로 즐길 수 있는 파워볼은 5분마다 결과가 발표되는 추첨식 복권 게임으로 발전했습니다'
 - id: ET-223
-  split: train
   category: ETC
   subtype: encoding
   html: <article id="post-16" class="post-16 post type-post status-publish format-standard hentry category-business category-investment"><div class="entry-content"><p><a href="https://busiweek.com/">&#53664;&#53664;&#49324;&#51060;&#53944;</a></p></div></article>
@@ -2699,7 +2520,6 @@
   source: '실측: https://www.newsfiber.com/ (Wayback 사본 https://web.archive.org/web/20260212133647/https://www.newsfiber.com/ , 2026-10-07 수집, 원 사이트 미접속)'
   notes: '숫자 엔티티 인코딩. (나) 정상 제목 페이지(「News Fiber - Believe The Potential And Proceed」)의 링크 목록·본문에 심은 앵커. 목적지 busiweek.com 미방문. 디코딩: 토토사이트. 같은 페이지가 한글 밖 문자도 엔티티로 내보낸다 = 일부러 숨긴 것이 아니라 사이트 출력 방식일 수 있음'
 - id: ET-224
-  split: test
   category: ETC
   subtype: encoding
   html: <div class="main-content"><div class="content-area"><h2><strong>&#50728;&#46972;&#51064; &#48288;&#54021; &#44172;&#51076;&#51012; &#51600;&#44600; &#49688; &#51080;&#45716; &#52852;&#51648;&#45432;&#49324;&#51060;&#53944;
@@ -2712,7 +2532,6 @@
   source: '실측: https://www.ptep-online.com/ (Wayback 사본 https://web.archive.org/web/20261005051156/https://www.ptep-online.com/ , 2026-10-07 수집, 원 사이트 미접속)'
   notes: '숫자 엔티티 인코딩. (가) 넘어간 도메인: 페이지 전체가 한국어 도박 홍보(제목 「카지노사이트 상위 13곳 소개 - 이용방법 및 장단점」). 도박 페이지라 원 사이트는 열지 않고 인터넷 아카이브 사본만 봄. 디코딩: 온라인 베팅 게임을 즐길 수 있는 카지노사이트'
 - id: ET-225
-  split: test
   category: ETC
   subtype: encoding
   html: '<div class="main-content"><div class="content-area"><p><span style="font-weight: 400;">&#52852;&#51648;&#45432;&#49324;&#51060;&#53944;&#47484; &#51060;&#50857;&#54616;&#44592; &#51204;&#50640;
@@ -2736,7 +2555,6 @@
   notes: '숫자 엔티티 인코딩. (가) 넘어간 도메인: 페이지 전체가 한국어 도박 홍보(제목 「카지노사이트 상위 13곳 소개 - 이용방법 및 장단점」). 도박 페이지라 원 사이트는 열지 않고 인터넷 아카이브 사본만 봄. 디코딩: 카지노사이트를 이용하기 전에 알아두면 좋은 몇 가지 팁을 공유합니다. 온라인으로 영역이 확장된 카지노 게임은 언제 어디서나 다양한
     기기로 접근할 수 있으며 간편한 회원가입 및 입출금 결제 시스템을 지원하고 있습니다. 모든 카지노사이트가 같은 서비스를 지원하고 있지 않기 때문에 사용자 입장에서 본인과 가장 적합한 플랫폼을 결정하셔야 합니다'
 - id: ET-226
-  split: test
   category: ETC
   subtype: encoding
   html: <div class="single-entry-content"><h2 id="h.j63xekxiat6h" class="c13"><strong><span class="c7">2026&#45380; &#51064;&#44592; &#52852;&#51648;&#45432;&#49324;&#51060;&#53944; &#52628;&#52380; &#49692;&#50948;
@@ -2749,7 +2567,6 @@
   source: '실측: https://www.readytalk.com/ (Wayback 사본 https://web.archive.org/web/20260710230256/https://www.readytalk.com/ , 2026-10-07 수집, 원 사이트 미접속)'
   notes: '숫자 엔티티 인코딩. (가) 넘어간 도메인: 페이지 전체가 한국어 도박 홍보(제목 「2026년 인기 카지노사이트 추천 순위 - 안전한 카지노 게임 이용 가이드」). 도박 페이지라 원 사이트는 열지 않고 인터넷 아카이브 사본만 봄. 디코딩: 년 인기 카지노사이트 추천 순위'
 - id: ET-227
-  split: test
   category: ETC
   subtype: encoding
   html: <div class="campaign-shortcode-table_offers-list campaign__voting_list "><div class="campaign-list-item brand_table_custom_cl  "><div class="campaign-list-item_key-features mobile"><p>&#47588;&#51068;
@@ -2762,7 +2579,6 @@
   source: '실측: https://www.readytalk.com/ (Wayback 사본 https://web.archive.org/web/20260710230256/https://www.readytalk.com/ , 2026-10-07 수집, 원 사이트 미접속)'
   notes: '숫자 엔티티 인코딩. (가) 넘어간 도메인: 페이지 전체가 한국어 도박 홍보(제목 「2026년 인기 카지노사이트 추천 순위 - 안전한 카지노 게임 이용 가이드」). 도박 페이지라 원 사이트는 열지 않고 인터넷 아카이브 사본만 봄. 디코딩: 매일 첫충전시 최대 100% 당첨되는 원더휠 지급'
 - id: ET-228
-  split: test
   category: ETC
   subtype: encoding
   html: <div class="main-container"><div class="container content-part-area"><h1><strong>2026&#45380; &#52572;&#44256;&#51032; &#50728;&#46972;&#51064;&#49836;&#47215; &#44221;&#54744;&#51012; &#50948;&#54620;
@@ -2775,7 +2591,6 @@
   source: '실측: https://www.snappytv.com/ (Wayback 사본 https://web.archive.org/web/20260511031314/https://www.snappytv.com/ , 2026-10-07 수집, 원 사이트 미접속)'
   notes: '숫자 엔티티 인코딩. (가) 넘어간 도메인: 페이지 전체가 한국어 도박 홍보(제목 「2026년 온라인슬롯 추천 TOP 10 | 배당률 높은 안전 카지노사이트 순위」). 도박 페이지라 원 사이트는 열지 않고 인터넷 아카이브 사본만 봄. 디코딩: 년 최고의 온라인슬롯 경험을 위한 완벽 가이드'
 - id: ET-229
-  split: test
   category: ETC
   subtype: encoding
   html: <div class="main-container"><div class="container content-part-area"><p>2026&#45380;, &#52572;&#44256;&#51032; &#50728;&#46972;&#51064;&#49836;&#47215; &#44221;&#54744;&#51012; &#52286;&#44256;

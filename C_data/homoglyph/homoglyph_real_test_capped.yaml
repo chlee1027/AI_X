@@ -9,7 +9,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://easylaw.go.kr/CSP/UnScRlt.laf?search_put=%EB%AC%B4%EC%A7%81%EC%9E%90%EB%8C%80%EC%B6%9C%EF%B4%BE@%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%B2%F0%9D%90%AE%F0%9D%90%AD%F0%9D%90%9D%EF%B4%BF%E2%87%A4%EB%AC%B4%EC%A7%81%EC%9E%90%EB%8C%80%EC%B6%9C
   source_type: real
-  split: test
   page_location: h5 > b
   origin:
     url: https://easylaw.go.kr/CSP/UnScRlt.laf?search_put=%EB%AC%B4%EC%A7%81%EC%9E%90%EB%8C%80%EC%B6%9C%EF%B4%BE@%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%B2%F0%9D%90%AE%F0%9D%90%AD%F0%9D%90%9D%EF%B4%BF%E2%87%A4%EB%AC%B4%EC%A7%81%EC%9E%90%EB%8C%80%EC%B6%9C
@@ -29,7 +28,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.motir.go.kr/kor/search?kwd=hangame%EA%B3%84%EC%A0%95%ED%8C%90%EB%A7%A4+%CE%95%ED%85%94%EB%A0%88%EC%97%B0%EB%9D%BD+BaRo%F0%9D%9F%98%F0%9D%9F%99%F0%9D%9F%98+%CE%95+%EC%9D%B8%EC%8A%A4%ED%83%80%EC%9D%B8%EC%A6%9D%EB%8C%80%ED%96%89+%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9D%B8%EC%A6%9D%EC%97%85%EC%B2%B4%2CiHg
   source_type: real
-  split: test
   page_location: h2.title_box > span:nth-of-type(1)
   origin:
     url: https://www.motir.go.kr/kor/search?kwd=hangame%EA%B3%84%EC%A0%95%ED%8C%90%EB%A7%A4+%CE%95%ED%85%94%EB%A0%88%EC%97%B0%EB%9D%BD+BaRo%F0%9D%9F%98%F0%9D%9F%99%F0%9D%9F%98+%CE%95+%EC%9D%B8%EC%8A%A4%ED%83%80%EC%9D%B8%EC%A6%9D%EB%8C%80%ED%96%89+%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9D%B8%EC%A6%9D%EC%97%85%EC%B2%B4%2CiHg
@@ -49,7 +47,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://m.easylaw.go.kr/MOB/SearchEngineRetrieve.laf?action=CHECK&mb_input=%EB%8B%B9%EC%9D%BC%EB%8C%80%EC%B6%9C%EF%B9%9D@%F0%9D%99%B0%F0%9D%9A%97%F0%9D%9A%A2%F0%9D%9A%9E%F0%9D%9A%9D%F0%9D%9A%8D%EF%B9%9E%E2%87%8F%EB%8B%B9%EC%9D%BC%EB%8C%80%EC%B6%9C
   source_type: real
-  split: test
   page_location: p.keyword_num > b
   origin:
     url: https://m.easylaw.go.kr/MOB/SearchEngineRetrieve.laf?action=CHECK&mb_input=%EB%8B%B9%EC%9D%BC%EB%8C%80%EC%B6%9C%EF%B9%9D@%F0%9D%99%B0%F0%9D%9A%97%F0%9D%9A%A2%F0%9D%9A%9E%F0%9D%9A%9D%F0%9D%9A%8D%EF%B9%9E%E2%87%8F%EB%8B%B9%EC%9D%BC%EB%8C%80%EC%B6%9C
@@ -69,7 +66,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://m.easylaw.go.kr/MOB/SearchEngineRetrieve.laf?srchType=detail&section=EZP_02&outmax=10&curPage=1&mb_input=%EC%86%8C%EC%95%A1%EA%B8%89%EC%A0%84%EB%8C%80%EC%B6%9C%EF%B9%9B@%F0%9D%96%A0%F0%9D%97%87%F0%9D%97%92%F0%9D%97%8E%F0%9D%97%8D%F0%9D%96%BD%EF%B9%9C%E2%86%9A%EC%86%8C%EC%95%A1%EA%B8%89%EC%A0%84%EB%8C%80%EC%B6%9C
   source_type: real
-  split: test
   page_location: b
   origin:
     url: https://m.easylaw.go.kr/MOB/SearchEngineRetrieve.laf?srchType=detail&section=EZP_02&outmax=10&curPage=1&mb_input=%EC%86%8C%EC%95%A1%EA%B8%89%EC%A0%84%EB%8C%80%EC%B6%9C%EF%B9%9B@%F0%9D%96%A0%F0%9D%97%87%F0%9D%97%92%F0%9D%97%8E%F0%9D%97%8D%F0%9D%96%BD%EF%B9%9C%E2%86%9A%EC%86%8C%EC%95%A1%EA%B8%89%EC%A0%84%EB%8C%80%EC%B6%9C
@@ -89,7 +85,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://m.easylaw.go.kr/MOB/SearchEngineRetrieve.laf?srchType=detail&section=EZP_02&outmax=10&mb_input=%EB%8C%80%EC%B6%9Cdb%ED%8C%90%EB%A7%A4%E2%96%B3%F0%93%8A%86%F0%9D%95%A4%F0%9D%95%A0%F0%9D%95%A0%F0%9D%95%9F%F0%9D%95%A4%F0%9D%95%A0%F0%9D%95%A0%F0%9D%95%99%F0%9D%95%92%F0%9D%95%9E%F0%93%8A%87%E2%96%B3%EB%8C%80%EC%B6%9Cdb%ED%8C%90%EB%A7%A4
   source_type: real
-  split: test
   page_location: p.keyword_num > b
   origin:
     url: https://m.easylaw.go.kr/MOB/SearchEngineRetrieve.laf?srchType=detail&section=EZP_02&outmax=10&mb_input=%EB%8C%80%EC%B6%9Cdb%ED%8C%90%EB%A7%A4%E2%96%B3%F0%93%8A%86%F0%9D%95%A4%F0%9D%95%A0%F0%9D%95%A0%F0%9D%95%9F%F0%9D%95%A4%F0%9D%95%A0%F0%9D%95%A0%F0%9D%95%99%F0%9D%95%92%F0%9D%95%9E%F0%93%8A%87%E2%96%B3%EB%8C%80%EC%B6%9Cdb%ED%8C%90%EB%A7%A4
@@ -109,7 +104,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://ypcd.or.kr/bbs/board.php?bo_table=notice4&wr_id=14964&sst=wr_datetime&sod=desc&sop=and&page=6381
   source_type: real
-  split: test
   page_location: span.bo_v_tit
   origin:
     url: https://ypcd.or.kr/bbs/board.php?bo_table=notice4&wr_id=14964&sst=wr_datetime&sod=desc&sop=and&page=6381
@@ -129,7 +123,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://easylaw.go.kr/CSP/UnScRlt.laf?search_put=p+%EC%84%A0%EB%AC%BC%EC%98%B5%EC%85%98%EC%83%81%EB%8B%A8%EC%9E%91%EC%97%85(%E3%85%8Br%ED%86%A1+@adgogo)+%EC%84%A0%EB%AC%BC%EC%98%B5%EC%85%98%EA%B5%AC%EA%B8%80+%EC%84%A0%EB%AC%BC%EC%98%B5%EC%85%98%EA%B4%91%EA%B3%A0%C3%BE%EC%84%A0%EB%AC%BC%EC%98%B5%EC%85%98%ED%99%8D%EB%B3%B4%E3%8B%A6%EB%B6%80%EC%B2%9C%EC%9B%90%EB%AF%B8%EC%84%A0%EB%AC%BC%EC%98%B5%EC%85%98+xHD
   source_type: real
-  split: test
   page_location: b
   origin:
     url: https://easylaw.go.kr/CSP/UnScRlt.laf?search_put=p+%EC%84%A0%EB%AC%BC%EC%98%B5%EC%85%98%EC%83%81%EB%8B%A8%EC%9E%91%EC%97%85(%E3%85%8Br%ED%86%A1+@adgogo)+%EC%84%A0%EB%AC%BC%EC%98%B5%EC%85%98%EA%B5%AC%EA%B8%80+%EC%84%A0%EB%AC%BC%EC%98%B5%EC%85%98%EA%B4%91%EA%B3%A0%C3%BE%EC%84%A0%EB%AC%BC%EC%98%B5%EC%85%98%ED%99%8D%EB%B3%B4%E3%8B%A6%EB%B6%80%EC%B2%9C%EC%9B%90%EB%AF%B8%EC%84%A0%EB%AC%BC%EC%98%B5%EC%85%98+xHD
@@ -149,7 +142,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://m.easylaw.go.kr/MOB/SearchEngineRetrieve.laf?mb_input=%EA%B1%9291%ED%95%9C%EA%B2%8C%EC%9E%84%EB%A8%B8%EB%8B%88%EC%83%81%EB%88%9B%EF%BC%88@+%E3%85%8Br%ED%86%A1+V8888%EF%BC%89%EA%B0%9094%EA%B2%8C%EC%9E%84%EB%A8%B8%EB%8B%88%EC%83%81%EA%B0%A414%EB%A8%B8%EB%8B%88%EC%83%81%EB%88%AC95%EA%B2%8C%EC%9E%84%EB%A8%B8%EB%8B%88%EB%88%8131%ED%95%9C%EA%B2%8C%EC%9E%84%EB%A8%B8%EB%8B%88%EA%B0%BD
   source_type: real
-  split: test
   page_location: b
   origin:
     url: https://m.easylaw.go.kr/MOB/SearchEngineRetrieve.laf?mb_input=%EA%B1%9291%ED%95%9C%EA%B2%8C%EC%9E%84%EB%A8%B8%EB%8B%88%EC%83%81%EB%88%9B%EF%BC%88@+%E3%85%8Br%ED%86%A1+V8888%EF%BC%89%EA%B0%9094%EA%B2%8C%EC%9E%84%EB%A8%B8%EB%8B%88%EC%83%81%EA%B0%A414%EB%A8%B8%EB%8B%88%EC%83%81%EB%88%AC95%EA%B2%8C%EC%9E%84%EB%A8%B8%EB%8B%88%EB%88%8131%ED%95%9C%EA%B2%8C%EC%9E%84%EB%A8%B8%EB%8B%88%EA%B0%BD
@@ -169,7 +161,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.mois.go.kr/srch.jsp?query=%EC%8A%A4%EC%9C%84%EC%8A%A4%EA%B7%B8%EB%9E%9C%EB%93%9C%ED%98%B8%ED%85%94+%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4%E3%80%90%E3%85%8Br%ED%86%A1:za31%E3%80%91
   source_type: real
-  split: test
   page_location: p > span:nth-of-type(1)
   origin:
     url: https://www.mois.go.kr/srch.jsp?query=%EC%8A%A4%EC%9C%84%EC%8A%A4%EA%B7%B8%EB%9E%9C%EB%93%9C%ED%98%B8%ED%85%94+%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4%E3%80%90%E3%85%8Br%ED%86%A1:za31%E3%80%91
@@ -189,7 +180,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.mtu.ac.kr/mtu/search/search.do?mId=294&query=%E3%80%90%ED%85%94@+%F0%9D%97%AF%F0%9D%98%80%F0%9D%97%B2%F0%9D%97%B0%F0%9D%97%BF%F0%9D%97%B2%F0%9D%98%81%F0%9D%9F%B3%E3%80%91+%ED%9D%A5%EC%8B%A0%EC%86%8C+%ED%9E%98%EB%93%A0%EC%9D%BC%ED%95%B4%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4&searchField=all&searchPeriod=all&sortField=date
   source_type: real
-  split: test
   page_location: span.point-total-search01
   origin:
     url: https://www.mtu.ac.kr/mtu/search/search.do?mId=294&query=%E3%80%90%ED%85%94@+%F0%9D%97%AF%F0%9D%98%80%F0%9D%97%B2%F0%9D%97%B0%F0%9D%97%BF%F0%9D%97%B2%F0%9D%98%81%F0%9D%9F%B3%E3%80%91+%ED%9D%A5%EC%8B%A0%EC%86%8C+%ED%9E%98%EB%93%A0%EC%9D%BC%ED%95%B4%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4&searchField=all&searchPeriod=all&sortField=date
@@ -210,7 +200,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.mtu.ac.kr/mtu/search/search.do?mId=294&query=%E3%80%90%ED%85%94@+%F0%9D%97%AF%F0%9D%98%80%F0%9D%97%B2%F0%9D%97%B0%F0%9D%97%BF%F0%9D%97%B2%F0%9D%98%81%F0%9D%9F%B3%E3%80%91+%ED%9D%A5%EC%8B%A0%EC%86%8C+%ED%9E%98%EB%93%A0%EC%9D%BC%ED%95%B4%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4&searchField=all&searchPeriod=all&sortField=date
   source_type: real
-  split: test
   page_location: li:nth-of-type(1) > div.best-search-wrod-box > ol.search-word-list.ranking > li:nth-of-type(3) > a
   origin:
     url: https://www.mtu.ac.kr/mtu/search/search.do?mId=294&query=%E3%80%90%ED%85%94@+%F0%9D%97%AF%F0%9D%98%80%F0%9D%97%B2%F0%9D%97%B0%F0%9D%97%BF%F0%9D%97%B2%F0%9D%98%81%F0%9D%9F%B3%E3%80%91+%ED%9D%A5%EC%8B%A0%EC%86%8C+%ED%9E%98%EB%93%A0%EC%9D%BC%ED%95%B4%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4&searchField=all&searchPeriod=all&sortField=date
@@ -231,7 +220,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.mtu.ac.kr/mtu/search/search.do?mId=294&query=%E3%80%90%ED%85%94@+%F0%9D%97%AF%F0%9D%98%80%F0%9D%97%B2%F0%9D%97%B0%F0%9D%97%BF%F0%9D%97%B2%F0%9D%98%81%F0%9D%9F%B3%E3%80%91+%ED%9D%A5%EC%8B%A0%EC%86%8C+%ED%9E%98%EB%93%A0%EC%9D%BC%ED%95%B4%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4&searchField=all&searchPeriod=all&sortField=date
   source_type: real
-  split: test
   page_location: li:nth-of-type(2) > div.best-search-wrod-box > ol.search-word-list.ranking > li:nth-of-type(2) > a
   origin:
     url: https://www.mtu.ac.kr/mtu/search/search.do?mId=294&query=%E3%80%90%ED%85%94@+%F0%9D%97%AF%F0%9D%98%80%F0%9D%97%B2%F0%9D%97%B0%F0%9D%97%BF%F0%9D%97%B2%F0%9D%98%81%F0%9D%9F%B3%E3%80%91+%ED%9D%A5%EC%8B%A0%EC%86%8C+%ED%9E%98%EB%93%A0%EC%9D%BC%ED%95%B4%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4&searchField=all&searchPeriod=all&sortField=date
@@ -252,7 +240,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.mtu.ac.kr/mtu/search/search.do?mId=294&query=%E3%80%90%ED%85%94@+%F0%9D%97%AF%F0%9D%98%80%F0%9D%97%B2%F0%9D%97%B0%F0%9D%97%BF%F0%9D%97%B2%F0%9D%98%81%F0%9D%9F%B3%E3%80%91+%ED%9D%A5%EC%8B%A0%EC%86%8C+%ED%9E%98%EB%93%A0%EC%9D%BC%ED%95%B4%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4&searchField=all&searchPeriod=all&sortField=date
   source_type: real
-  split: test
   page_location: li:nth-of-type(2) > div.best-search-wrod-box > ol.search-word-list.ranking > li:nth-of-type(6) > a
   origin:
     url: https://www.mtu.ac.kr/mtu/search/search.do?mId=294&query=%E3%80%90%ED%85%94@+%F0%9D%97%AF%F0%9D%98%80%F0%9D%97%B2%F0%9D%97%B0%F0%9D%97%BF%F0%9D%97%B2%F0%9D%98%81%F0%9D%9F%B3%E3%80%91+%ED%9D%A5%EC%8B%A0%EC%86%8C+%ED%9E%98%EB%93%A0%EC%9D%BC%ED%95%B4%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4&searchField=all&searchPeriod=all&sortField=date
@@ -272,7 +259,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.mtu.ac.kr/mtu/search/search.do?mId=294&query=%E3%80%90%ED%85%94@+%F0%9D%97%AF%F0%9D%98%80%F0%9D%97%B2%F0%9D%97%B0%F0%9D%97%BF%F0%9D%97%B2%F0%9D%98%81%F0%9D%9F%B3%E3%80%91+%ED%9D%A5%EC%8B%A0%EC%86%8C+%ED%9E%98%EB%93%A0%EC%9D%BC%ED%95%B4%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4&searchField=all&searchPeriod=all&sortField=date
   source_type: real
-  split: test
   page_location: div.my-search-word-wrapper > ol.search-word-list > li > a
   origin:
     url: https://www.mtu.ac.kr/mtu/search/search.do?mId=294&query=%E3%80%90%ED%85%94@+%F0%9D%97%AF%F0%9D%98%80%F0%9D%97%B2%F0%9D%97%B0%F0%9D%97%BF%F0%9D%97%B2%F0%9D%98%81%F0%9D%9F%B3%E3%80%91+%ED%9D%A5%EC%8B%A0%EC%86%8C+%ED%9E%98%EB%93%A0%EC%9D%BC%ED%95%B4%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4&searchField=all&searchPeriod=all&sortField=date
@@ -292,7 +278,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://search.gangnam.go.kr/search.jsp?cwxz=xYhbh&kwd=O%EC%A6%9D%EA%B6%8C%EB%94%94%EB%B9%84%ED%8C%90%EB%A7%A4%E2%88%8D%EF%BC%9C%EA%B4%91%EA%B3%A0%ED%8C%80%ED%85%94%EB%A0%88%F0%9D%90%92%F0%9D%90%81%F0%9D%90%8C%F0%9D%90%93%F0%9D%9F%91%EF%BC%9E%EC%B5%9C%EC%8B%A0%EB%94%94%EB%B9%84%E2%9C%96%EC%A3%BC%EC%8B%9DDB%ED%8C%90%EB%A7%A4%E2%B8%A9%EC%BD%94%EC%9D%B8DB%ED%8C%90%EB%A7%A4%E2%8B%A7%ED%95%B4%EC%84%A0%EB%94%94%EB%B9%84%ED%8C%9D%EB%8B%88%EB%8B%A4%E2%89%AF
   source_type: real
-  split: test
   page_location: span.search-word
   origin:
     url: https://search.gangnam.go.kr/search.jsp?cwxz=xYhbh&kwd=O%EC%A6%9D%EA%B6%8C%EB%94%94%EB%B9%84%ED%8C%90%EB%A7%A4%E2%88%8D%EF%BC%9C%EA%B4%91%EA%B3%A0%ED%8C%80%ED%85%94%EB%A0%88%F0%9D%90%92%F0%9D%90%81%F0%9D%90%8C%F0%9D%90%93%F0%9D%9F%91%EF%BC%9E%EC%B5%9C%EC%8B%A0%EB%94%94%EB%B9%84%E2%9C%96%EC%A3%BC%EC%8B%9DDB%ED%8C%90%EB%A7%A4%E2%B8%A9%EC%BD%94%EC%9D%B8DB%ED%8C%90%EB%A7%A4%E2%8B%A7%ED%95%B4%EC%84%A0%EB%94%94%EB%B9%84%ED%8C%9D%EB%8B%88%EB%8B%A4%E2%89%AF
@@ -312,7 +297,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://search.gangnam.go.kr/search.jsp?cwxz=xYhbh&kwd=O%EC%A6%9D%EA%B6%8C%EB%94%94%EB%B9%84%ED%8C%90%EB%A7%A4%E2%88%8D%EF%BC%9C%EA%B4%91%EA%B3%A0%ED%8C%80%ED%85%94%EB%A0%88%F0%9D%90%92%F0%9D%90%81%F0%9D%90%8C%F0%9D%90%93%F0%9D%9F%91%EF%BC%9E%EC%B5%9C%EC%8B%A0%EB%94%94%EB%B9%84%E2%9C%96%EC%A3%BC%EC%8B%9DDB%ED%8C%90%EB%A7%A4%E2%B8%A9%EC%BD%94%EC%9D%B8DB%ED%8C%90%EB%A7%A4%E2%8B%A7%ED%95%B4%EC%84%A0%EB%94%94%EB%B9%84%ED%8C%9D%EB%8B%88%EB%8B%A4%E2%89%AF
   source_type: real
-  split: test
   page_location: dt > em
   origin:
     url: https://search.gangnam.go.kr/search.jsp?cwxz=xYhbh&kwd=O%EC%A6%9D%EA%B6%8C%EB%94%94%EB%B9%84%ED%8C%90%EB%A7%A4%E2%88%8D%EF%BC%9C%EA%B4%91%EA%B3%A0%ED%8C%80%ED%85%94%EB%A0%88%F0%9D%90%92%F0%9D%90%81%F0%9D%90%8C%F0%9D%90%93%F0%9D%9F%91%EF%BC%9E%EC%B5%9C%EC%8B%A0%EB%94%94%EB%B9%84%E2%9C%96%EC%A3%BC%EC%8B%9DDB%ED%8C%90%EB%A7%A4%E2%B8%A9%EC%BD%94%EC%9D%B8DB%ED%8C%90%EB%A7%A4%E2%8B%A7%ED%95%B4%EC%84%A0%EB%94%94%EB%B9%84%ED%8C%9D%EB%8B%88%EB%8B%A4%E2%89%AF
@@ -332,7 +316,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.mohw.go.kr/react/search/search.jsp?searchTerm=K3%EC%BD%94%EC%9D%B8db%ED%8C%90%EB%A7%A4%E2%A5%AC%E2%A6%8B%ED%85%94%E3%84%B9%E3%85%94@%C9%A2%CA%99%E1%B4%8F%E1%B4%9B7%E2%A6%8C%ED%95%B4%EC%84%A0%EB%94%94%EB%B9%84%ED%8C%90%EB%A7%A4%E2%97%91%EB%A1%9C%EB%98%90%EB%94%94%EB%B9%84%EC%82%BD%EB%8B%88%EB%8B%A4%E2%8E%94%EC%BD%94%EC%9D%B8%EB%94%94%EB%B9%84+%EC%97%85%EC%9E%90%E2%AC%A1%EB%B6%80%EB%8F%99%EC%82%B0db+%EB%8F%84%EB%B0%B0%E2%8B%90
   source_type: real
-  split: test
   page_location: li:nth-of-type(1) > span.point
   origin:
     url: https://www.mohw.go.kr/react/search/search.jsp?searchTerm=K3%EC%BD%94%EC%9D%B8db%ED%8C%90%EB%A7%A4%E2%A5%AC%E2%A6%8B%ED%85%94%E3%84%B9%E3%85%94@%C9%A2%CA%99%E1%B4%8F%E1%B4%9B7%E2%A6%8C%ED%95%B4%EC%84%A0%EB%94%94%EB%B9%84%ED%8C%90%EB%A7%A4%E2%97%91%EB%A1%9C%EB%98%90%EB%94%94%EB%B9%84%EC%82%BD%EB%8B%88%EB%8B%A4%E2%8E%94%EC%BD%94%EC%9D%B8%EB%94%94%EB%B9%84+%EC%97%85%EC%9E%90%E2%AC%A1%EB%B6%80%EB%8F%99%EC%82%B0db+%EB%8F%84%EB%B0%B0%E2%8B%90
@@ -352,7 +335,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.mohw.go.kr/react/search/search.jsp?searchTerm=K3%EC%BD%94%EC%9D%B8db%ED%8C%90%EB%A7%A4%E2%A5%AC%E2%A6%8B%ED%85%94%E3%84%B9%E3%85%94@%C9%A2%CA%99%E1%B4%8F%E1%B4%9B7%E2%A6%8C%ED%95%B4%EC%84%A0%EB%94%94%EB%B9%84%ED%8C%90%EB%A7%A4%E2%97%91%EB%A1%9C%EB%98%90%EB%94%94%EB%B9%84%EC%82%BD%EB%8B%88%EB%8B%A4%E2%8E%94%EC%BD%94%EC%9D%B8%EB%94%94%EB%B9%84+%EC%97%85%EC%9E%90%E2%AC%A1%EB%B6%80%EB%8F%99%EC%82%B0db+%EB%8F%84%EB%B0%B0%E2%8B%90
   source_type: real
-  split: test
   page_location: p.msg > strong
   origin:
     url: https://www.mohw.go.kr/react/search/search.jsp?searchTerm=K3%EC%BD%94%EC%9D%B8db%ED%8C%90%EB%A7%A4%E2%A5%AC%E2%A6%8B%ED%85%94%E3%84%B9%E3%85%94@%C9%A2%CA%99%E1%B4%8F%E1%B4%9B7%E2%A6%8C%ED%95%B4%EC%84%A0%EB%94%94%EB%B9%84%ED%8C%90%EB%A7%A4%E2%97%91%EB%A1%9C%EB%98%90%EB%94%94%EB%B9%84%EC%82%BD%EB%8B%88%EB%8B%A4%E2%8E%94%EC%BD%94%EC%9D%B8%EB%94%94%EB%B9%84+%EC%97%85%EC%9E%90%E2%AC%A1%EB%B6%80%EB%8F%99%EC%82%B0db+%EB%8F%84%EB%B0%B0%E2%8B%90
@@ -372,7 +354,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://m.easylaw.go.kr/MOB/SearchEngineRetrieve.laf?srchType=detail&curPage=3&section=EZP_02&outmax=10&mb_input=%EC%A3%BC%EC%8B%9Ddb%EF%BC%9C@%F0%9D%95%99%F0%9D%95%92%F0%9D%95%94%F0%9D%95%9C%F0%9D%95%9A%F0%9D%95%9F%F0%9D%95%98%F0%9D%95%95%F0%9D%95%93%EF%BC%9E%E2%86%AD%EC%A3%BC%EC%8B%9Ddb
   source_type: real
-  split: test
   page_location: p.keyword_num > b
   origin:
     url: https://m.easylaw.go.kr/MOB/SearchEngineRetrieve.laf?srchType=detail&curPage=3&section=EZP_02&outmax=10&mb_input=%EC%A3%BC%EC%8B%9Ddb%EF%BC%9C@%F0%9D%95%99%F0%9D%95%92%F0%9D%95%94%F0%9D%95%9C%F0%9D%95%9A%F0%9D%95%9F%F0%9D%95%98%F0%9D%95%95%F0%9D%95%93%EF%BC%9E%E2%86%AD%EC%A3%BC%EC%8B%9Ddb
@@ -392,7 +373,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.motir.go.kr/kor/search?kwd=%E3%80%90%ED%85%94%40+%F0%9D%97%AF%F0%9D%98%80%F0%9D%97%B2%F0%9D%97%B0%F0%9D%97%BF%F0%9D%97%B2%F0%9D%98%81%F0%9D%9F%B3%E3%80%91%F0%9F%91%A8%E2%80%8D%F0%9F%92%BC%EC%96%B4%EB%A0%A4%EC%9A%B4%EC%9D%BC+%ED%9D%A5%EC%8B%A0%EC%86%8C%E3%80%90%ED%85%94%40+%F0%9D%97%AF%F0%9D%98%80%F0%9D%97%B2%F0%9D%97%B0%F0%9D%97%BF%F0%9D%97%B2%F0%9D%98%81%F0%9D%9F%B3%E3%80%91+%ED%9D%A5%EC%8B%A0%EC%86%8C+%EC%96%B4%EB%A0%A4%EC%9A%B4%EC%9D%BC%F0%9F%91%A8%E2%80%8D%F0%9F%92%BC%ED%9D%A5%EC%8B%A0%EC%86%8C+%EC%96%B4%EB%A0%A4%EC%9A%B4%EC%9D%BC%F0%9F%91%A8%E2%80%8D%F0%9F%92%BC%ED%9D%A5%EC%8B%A0%EC%86%8C+%EC%96%B4%EB%A0%A4%EC%9A%B4%EC%9D%BC%F0%9F%91%A8%E2%80%8D%F0%9F%92%BC%EC%96%B4%EB%A0%A4%EC%9A%B4%EC%9D%BC+%ED%9D%A5%EC%8B%A0%EC%86%8C
   source_type: real
-  split: test
   page_location: h2.title_box > span:nth-of-type(1)
   origin:
     url: https://www.motir.go.kr/kor/search?kwd=%E3%80%90%ED%85%94%40+%F0%9D%97%AF%F0%9D%98%80%F0%9D%97%B2%F0%9D%97%B0%F0%9D%97%BF%F0%9D%97%B2%F0%9D%98%81%F0%9D%9F%B3%E3%80%91%F0%9F%91%A8%E2%80%8D%F0%9F%92%BC%EC%96%B4%EB%A0%A4%EC%9A%B4%EC%9D%BC+%ED%9D%A5%EC%8B%A0%EC%86%8C%E3%80%90%ED%85%94%40+%F0%9D%97%AF%F0%9D%98%80%F0%9D%97%B2%F0%9D%97%B0%F0%9D%97%BF%F0%9D%97%B2%F0%9D%98%81%F0%9D%9F%B3%E3%80%91+%ED%9D%A5%EC%8B%A0%EC%86%8C+%EC%96%B4%EB%A0%A4%EC%9A%B4%EC%9D%BC%F0%9F%91%A8%E2%80%8D%F0%9F%92%BC%ED%9D%A5%EC%8B%A0%EC%86%8C+%EC%96%B4%EB%A0%A4%EC%9A%B4%EC%9D%BC%F0%9F%91%A8%E2%80%8D%F0%9F%92%BC%ED%9D%A5%EC%8B%A0%EC%86%8C+%EC%96%B4%EB%A0%A4%EC%9A%B4%EC%9D%BC%F0%9F%91%A8%E2%80%8D%F0%9F%92%BC%EC%96%B4%EB%A0%A4%EC%9A%B4%EC%9D%BC+%ED%9D%A5%EC%8B%A0%EC%86%8C
@@ -412,7 +392,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://ace.gachon.ac.kr/write/community/qna_view?uid=6994
   source_type: real
-  split: test
   page_location: th.line-left > h2
   origin:
     url: https://ace.gachon.ac.kr/write/community/qna_view?uid=6994
@@ -432,7 +411,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?mod=document&uid=2394
   source_type: real
-  split: test
   page_location: div.kboard-title > p
   origin:
     url: http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?mod=document&uid=2394
@@ -452,7 +430,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=4
   source_type: real
-  split: test
   page_location: li:nth-of-type(10) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=4
@@ -472,7 +449,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=14
   source_type: real
-  split: test
   page_location: li:nth-of-type(16) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=14
@@ -492,7 +468,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=16
   source_type: real
-  split: test
   page_location: li:nth-of-type(9) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=16
@@ -512,7 +487,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=18
   source_type: real
-  split: test
   page_location: li:nth-of-type(8) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=18
@@ -532,7 +506,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=26
   source_type: real
-  split: test
   page_location: li:nth-of-type(9) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=26
@@ -552,7 +525,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=31
   source_type: real
-  split: test
   page_location: li:nth-of-type(13) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=31
@@ -572,7 +544,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=32
   source_type: real
-  split: test
   page_location: li:nth-of-type(13) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=32
@@ -592,7 +563,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=45
   source_type: real
-  split: test
   page_location: li:nth-of-type(16) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=45
@@ -612,7 +582,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=47
   source_type: real
-  split: test
   page_location: li:nth-of-type(2) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=47
@@ -632,7 +601,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=59
   source_type: real
-  split: test
   page_location: li:nth-of-type(7) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=59
@@ -652,7 +620,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://ggtech.or.kr/bbs/board.php?bo_table=support&page=55
   source_type: real
-  split: test
   page_location: tr:nth-of-type(4) > td.td_subject > div.bo_tit > a
   origin:
     url: https://ggtech.or.kr/bbs/board.php?bo_table=support&page=55
@@ -672,7 +639,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://ggtech.or.kr/bbs/board.php?bo_table=support&page=55
   source_type: real
-  split: test
   page_location: tr:nth-of-type(6) > td.td_subject > div.bo_tit > a
   origin:
     url: https://ggtech.or.kr/bbs/board.php?bo_table=support&page=55
@@ -692,7 +658,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://ggtech.or.kr/bbs/board.php?bo_table=support&page=61
   source_type: real
-  split: test
   page_location: tr.even:nth-of-type(7) > td.td_subject > div.bo_tit > a
   origin:
     url: https://ggtech.or.kr/bbs/board.php?bo_table=support&page=61
@@ -712,7 +677,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://ggtech.or.kr/bbs/board.php?bo_table=support&page=67
   source_type: real
-  split: test
   page_location: tr.even:nth-of-type(15) > td.td_subject > div.bo_tit > a
   origin:
     url: https://ggtech.or.kr/bbs/board.php?bo_table=support&page=67
@@ -732,7 +696,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.gimje.go.kr/town/board/list.gimje?boardId=BBS_0000048&listRow=10&listCel=1&paging=ok&startPage=149
   source_type: real
-  split: test
   page_location: li:nth-of-type(1) > a > span.txt
   origin:
     url: https://www.gimje.go.kr/town/board/list.gimje?boardId=BBS_0000048&listRow=10&listCel=1&paging=ok&startPage=149
@@ -752,7 +715,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.gimje.go.kr/town/board/list.gimje?boardId=BBS_0000048&listRow=10&listCel=1&paging=ok&startPage=149
   source_type: real
-  split: test
   page_location: li:nth-of-type(6) > a > span.txt
   origin:
     url: https://www.gimje.go.kr/town/board/list.gimje?boardId=BBS_0000048&listRow=10&listCel=1&paging=ok&startPage=149
@@ -772,7 +734,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.gimje.go.kr/town/board/list.gimje?boardId=BBS_0000048&listRow=10&listCel=1&paging=ok&startPage=157
   source_type: real
-  split: test
   page_location: li:nth-of-type(4) > a > span.txt
   origin:
     url: https://www.gimje.go.kr/town/board/list.gimje?boardId=BBS_0000048&listRow=10&listCel=1&paging=ok&startPage=157
@@ -792,7 +753,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.gimje.go.kr/town/board/list.gimje?boardId=BBS_0000048&listRow=10&listCel=1&paging=ok&startPage=157
   source_type: real
-  split: test
   page_location: li:nth-of-type(5) > a > span.txt
   origin:
     url: https://www.gimje.go.kr/town/board/list.gimje?boardId=BBS_0000048&listRow=10&listCel=1&paging=ok&startPage=157
@@ -812,7 +772,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.gimje.go.kr/town/board/list.gimje?boardId=BBS_0000048&listRow=10&listCel=1&paging=ok&startPage=157
   source_type: real
-  split: test
   page_location: li:nth-of-type(7) > a > span.txt
   origin:
     url: https://www.gimje.go.kr/town/board/list.gimje?boardId=BBS_0000048&listRow=10&listCel=1&paging=ok&startPage=157
@@ -832,7 +791,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.gimje.go.kr/town/board/list.gimje?boardId=BBS_0000048&listRow=10&listCel=1&paging=ok&startPage=157
   source_type: real
-  split: test
   page_location: li:nth-of-type(9) > a > span.txt
   origin:
     url: https://www.gimje.go.kr/town/board/list.gimje?boardId=BBS_0000048&listRow=10&listCel=1&paging=ok&startPage=157
@@ -852,7 +810,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://gwangjuguide.or.kr/bbs/board.php?bo_table=kor_gw9&page=23
   source_type: real
-  split: test
   page_location: tr.even:nth-of-type(3) > td.td_subject > div.bo_tit > a
   origin:
     url: https://gwangjuguide.or.kr/bbs/board.php?bo_table=kor_gw9&page=23
@@ -872,7 +829,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://gwangjuguide.or.kr/bbs/board.php?bo_table=kor_gw9&page=23
   source_type: real
-  split: test
   page_location: tr.even:nth-of-type(5) > td.td_subject > div.bo_tit > a
   origin:
     url: https://gwangjuguide.or.kr/bbs/board.php?bo_table=kor_gw9&page=23
@@ -892,7 +848,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=1
   source_type: real
-  split: test
   page_location: tr:nth-of-type(10) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=1
@@ -912,7 +867,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=2
   source_type: real
-  split: test
   page_location: tr:nth-of-type(1) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=2
@@ -932,7 +886,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=2
   source_type: real
-  split: test
   page_location: tr:nth-of-type(7) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=2
@@ -952,7 +905,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=2
   source_type: real
-  split: test
   page_location: tr:nth-of-type(10) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=2
@@ -972,7 +924,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=3
   source_type: real
-  split: test
   page_location: tr:nth-of-type(5) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=3
@@ -992,7 +943,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=3
   source_type: real
-  split: test
   page_location: tr:nth-of-type(9) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=3
@@ -1012,7 +962,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=3
   source_type: real
-  split: test
   page_location: tr:nth-of-type(10) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=3
@@ -1032,7 +981,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=4
   source_type: real
-  split: test
   page_location: tr:nth-of-type(1) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=4
@@ -1052,7 +1000,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=4
   source_type: real
-  split: test
   page_location: tr:nth-of-type(5) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=4
@@ -1072,7 +1019,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=5
   source_type: real
-  split: test
   page_location: tr:nth-of-type(3) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=5
@@ -1092,7 +1038,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=5
   source_type: real
-  split: test
   page_location: tr:nth-of-type(4) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=5
@@ -1112,7 +1057,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=7
   source_type: real
-  split: test
   page_location: tr:nth-of-type(3) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=7
@@ -1132,7 +1076,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=7
   source_type: real
-  split: test
   page_location: tr:nth-of-type(10) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=7
@@ -1152,7 +1095,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=8
   source_type: real
-  split: test
   page_location: tr:nth-of-type(7) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=8
@@ -1172,7 +1114,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=8
   source_type: real
-  split: test
   page_location: tr:nth-of-type(10) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=8
@@ -1192,7 +1133,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=10
   source_type: real
-  split: test
   page_location: tr:nth-of-type(6) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=10
@@ -1212,7 +1152,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=10
   source_type: real
-  split: test
   page_location: tr:nth-of-type(8) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=10
@@ -1232,7 +1171,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=10
   source_type: real
-  split: test
   page_location: tr:nth-of-type(9) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=10
@@ -1252,7 +1190,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=11
   source_type: real
-  split: test
   page_location: tr:nth-of-type(1) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=11
@@ -1272,7 +1209,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=11
   source_type: real
-  split: test
   page_location: tr:nth-of-type(6) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=11
@@ -1292,7 +1228,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=12
   source_type: real
-  split: test
   page_location: tr:nth-of-type(2) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=12
@@ -1312,7 +1247,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=12
   source_type: real
-  split: test
   page_location: tr:nth-of-type(3) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=12
@@ -1332,7 +1266,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=12
   source_type: real
-  split: test
   page_location: tr:nth-of-type(6) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=12
@@ -1352,7 +1285,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=13
   source_type: real
-  split: test
   page_location: tr:nth-of-type(5) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=13
@@ -1372,7 +1304,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=13
   source_type: real
-  split: test
   page_location: tr:nth-of-type(7) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=13
@@ -1392,7 +1323,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=13
   source_type: real
-  split: test
   page_location: tr:nth-of-type(8) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=13
@@ -1412,7 +1342,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=15
   source_type: real
-  split: test
   page_location: tr:nth-of-type(7) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=15
@@ -1432,7 +1361,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=15
   source_type: real
-  split: test
   page_location: tr:nth-of-type(10) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=15
@@ -1452,7 +1380,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=16
   source_type: real
-  split: test
   page_location: tr:nth-of-type(7) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=16
@@ -1472,7 +1399,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=17
   source_type: real
-  split: test
   page_location: tr:nth-of-type(5) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=17
@@ -1492,7 +1418,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=17
   source_type: real
-  split: test
   page_location: tr:nth-of-type(6) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=17
@@ -1512,7 +1437,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=18
   source_type: real
-  split: test
   page_location: tr:nth-of-type(1) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=18
@@ -1532,7 +1456,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=19
   source_type: real
-  split: test
   page_location: tr:nth-of-type(7) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=19
@@ -1552,7 +1475,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=21
   source_type: real
-  split: test
   page_location: tr:nth-of-type(5) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=21
@@ -1572,7 +1494,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=22
   source_type: real
-  split: test
   page_location: tr:nth-of-type(9) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=22
@@ -1592,7 +1513,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=23
   source_type: real
-  split: test
   page_location: tr:nth-of-type(7) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=23
@@ -1612,7 +1532,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=24
   source_type: real
-  split: test
   page_location: tr:nth-of-type(7) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=24
@@ -1632,7 +1551,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=24
   source_type: real
-  split: test
   page_location: tr:nth-of-type(10) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=24
@@ -1652,7 +1570,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=25
   source_type: real
-  split: test
   page_location: tr:nth-of-type(2) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=25
@@ -1672,7 +1589,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=26
   source_type: real
-  split: test
   page_location: tr:nth-of-type(5) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=26
@@ -1692,7 +1608,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=26
   source_type: real
-  split: test
   page_location: tr:nth-of-type(10) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=26
@@ -1712,7 +1627,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=28
   source_type: real
-  split: test
   page_location: tr:nth-of-type(3) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=28
@@ -1732,7 +1646,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=30
   source_type: real
-  split: test
   page_location: tr:nth-of-type(3) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=30
@@ -1752,7 +1665,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=30
   source_type: real
-  split: test
   page_location: tr:nth-of-type(8) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=30
@@ -1772,7 +1684,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=31
   source_type: real
-  split: test
   page_location: tr:nth-of-type(4) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=31
@@ -1792,7 +1703,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=31
   source_type: real
-  split: test
   page_location: tr:nth-of-type(6) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=31
@@ -1812,7 +1722,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=32
   source_type: real
-  split: test
   page_location: tr:nth-of-type(3) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=32
@@ -1832,7 +1741,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=33
   source_type: real
-  split: test
   page_location: tr:nth-of-type(3) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=33
@@ -1852,7 +1760,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=36
   source_type: real
-  split: test
   page_location: tr:nth-of-type(4) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=36
@@ -1872,7 +1779,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=37
   source_type: real
-  split: test
   page_location: tr:nth-of-type(5) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=37
@@ -1892,7 +1798,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=38
   source_type: real
-  split: test
   page_location: tr:nth-of-type(3) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=38
@@ -1912,7 +1817,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=39
   source_type: real
-  split: test
   page_location: tr:nth-of-type(6) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=39
@@ -1932,7 +1836,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=41
   source_type: real
-  split: test
   page_location: tr:nth-of-type(1) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=41
@@ -1952,7 +1855,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=41
   source_type: real
-  split: test
   page_location: tr:nth-of-type(6) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=41
@@ -1972,7 +1874,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=42
   source_type: real
-  split: test
   page_location: tr:nth-of-type(2) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=42
@@ -1992,7 +1893,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=43
   source_type: real
-  split: test
   page_location: tr:nth-of-type(3) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=43
@@ -2012,7 +1912,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=48
   source_type: real
-  split: test
   page_location: tr:nth-of-type(5) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=48
@@ -2032,7 +1931,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=49
   source_type: real
-  split: test
   page_location: tr:nth-of-type(10) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=49
@@ -2052,7 +1950,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=55
   source_type: real
-  split: test
   page_location: tr:nth-of-type(7) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=55
@@ -2072,7 +1969,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=56
   source_type: real
-  split: test
   page_location: tr:nth-of-type(3) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=56
@@ -2092,7 +1988,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=60
   source_type: real
-  split: test
   page_location: tr:nth-of-type(9) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=60
@@ -2112,7 +2007,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=62
   source_type: real
-  split: test
   page_location: tr:nth-of-type(2) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=62
@@ -2132,7 +2026,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=62
   source_type: real
-  split: test
   page_location: tr:nth-of-type(6) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=62
@@ -2152,7 +2045,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=63
   source_type: real
-  split: test
   page_location: tr:nth-of-type(10) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=63
@@ -2172,7 +2064,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=66
   source_type: real
-  split: test
   page_location: tr:nth-of-type(5) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=66
@@ -2192,7 +2083,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=70
   source_type: real
-  split: test
   page_location: tr:nth-of-type(7) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=70
@@ -2212,7 +2102,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=71
   source_type: real
-  split: test
   page_location: tr:nth-of-type(2) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=71
@@ -2232,7 +2121,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=77
   source_type: real
-  split: test
   page_location: tr:nth-of-type(10) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=77
@@ -2252,7 +2140,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=87
   source_type: real
-  split: test
   page_location: tr:nth-of-type(5) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=87
@@ -2272,7 +2159,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=88
   source_type: real
-  split: test
   page_location: tr:nth-of-type(4) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=88
@@ -2292,7 +2178,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=90
   source_type: real
-  split: test
   page_location: tr:nth-of-type(7) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=90
@@ -2312,7 +2197,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=93
   source_type: real
-  split: test
   page_location: tr:nth-of-type(8) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=93
@@ -2332,7 +2216,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=94
   source_type: real
-  split: test
   page_location: tr:nth-of-type(8) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=94
@@ -2352,7 +2235,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=96
   source_type: real
-  split: test
   page_location: tr:nth-of-type(1) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=96
@@ -2372,7 +2254,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=96
   source_type: real
-  split: test
   page_location: tr:nth-of-type(2) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=96
@@ -2392,7 +2273,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=96
   source_type: real
-  split: test
   page_location: tr:nth-of-type(5) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=96
@@ -2412,7 +2292,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=96
   source_type: real
-  split: test
   page_location: tr:nth-of-type(6) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=96
@@ -2432,7 +2311,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=97
   source_type: real
-  split: test
   page_location: tr:nth-of-type(7) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=97
@@ -2452,7 +2330,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=99
   source_type: real
-  split: test
   page_location: tr:nth-of-type(2) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=99
@@ -2472,7 +2349,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=99
   source_type: real
-  split: test
   page_location: tr:nth-of-type(10) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=99
@@ -2492,7 +2368,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=100
   source_type: real
-  split: test
   page_location: tr:nth-of-type(3) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=100
@@ -2512,7 +2387,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=101
   source_type: real
-  split: test
   page_location: tr:nth-of-type(9) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=101
@@ -2532,7 +2406,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=102
   source_type: real
-  split: test
   page_location: tr:nth-of-type(4) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=102
@@ -2552,7 +2425,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=104
   source_type: real
-  split: test
   page_location: tr:nth-of-type(1) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=104
@@ -2572,7 +2444,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=105
   source_type: real
-  split: test
   page_location: tr:nth-of-type(5) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=105
@@ -2592,7 +2463,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=107
   source_type: real
-  split: test
   page_location: tr:nth-of-type(5) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=107
@@ -2612,7 +2482,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=108
   source_type: real
-  split: test
   page_location: tr:nth-of-type(5) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=108
@@ -2632,7 +2501,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=109
   source_type: real
-  split: test
   page_location: tr:nth-of-type(4) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=109
@@ -2652,7 +2520,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=112
   source_type: real
-  split: test
   page_location: tr:nth-of-type(7) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=112
@@ -2672,7 +2539,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=114
   source_type: real
-  split: test
   page_location: tr:nth-of-type(4) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=114
@@ -2692,7 +2558,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=116
   source_type: real
-  split: test
   page_location: tr:nth-of-type(6) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=116
@@ -2712,7 +2577,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=117
   source_type: real
-  split: test
   page_location: tr:nth-of-type(5) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=117
@@ -2732,7 +2596,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=119
   source_type: real
-  split: test
   page_location: tr:nth-of-type(4) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=119
@@ -2752,7 +2615,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=119
   source_type: real
-  split: test
   page_location: tr:nth-of-type(7) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=119
@@ -2772,7 +2634,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=120
   source_type: real
-  split: test
   page_location: tr:nth-of-type(10) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=120
@@ -2792,7 +2653,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=121
   source_type: real
-  split: test
   page_location: tr:nth-of-type(7) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=121
@@ -2812,7 +2672,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=122
   source_type: real
-  split: test
   page_location: tr:nth-of-type(6) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=122
@@ -2832,7 +2691,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=122
   source_type: real
-  split: test
   page_location: tr:nth-of-type(8) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=122
@@ -2852,7 +2710,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=123
   source_type: real
-  split: test
   page_location: tr:nth-of-type(4) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=123
@@ -2872,7 +2729,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=124
   source_type: real
-  split: test
   page_location: tr:nth-of-type(4) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=124
@@ -2892,7 +2748,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=126
   source_type: real
-  split: test
   page_location: tr:nth-of-type(4) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=126
@@ -2912,7 +2767,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=131
   source_type: real
-  split: test
   page_location: tr:nth-of-type(9) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=131
@@ -2932,7 +2786,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=138
   source_type: real
-  split: test
   page_location: tr:nth-of-type(8) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=138
@@ -2952,7 +2805,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=142
   source_type: real
-  split: test
   page_location: tr:nth-of-type(2) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=142
@@ -2972,7 +2824,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=146
   source_type: real
-  split: test
   page_location: tr:nth-of-type(1) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=146
@@ -2992,7 +2843,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=147
   source_type: real
-  split: test
   page_location: tr:nth-of-type(5) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=147
@@ -3012,7 +2862,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=147
   source_type: real
-  split: test
   page_location: tr:nth-of-type(8) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=147
@@ -3032,7 +2881,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=151
   source_type: real
-  split: test
   page_location: tr:nth-of-type(7) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=151
@@ -3052,7 +2900,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=154
   source_type: real
-  split: test
   page_location: tr:nth-of-type(4) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=154
@@ -3072,7 +2919,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=155
   source_type: real
-  split: test
   page_location: tr:nth-of-type(9) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=155
@@ -3092,7 +2938,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=157
   source_type: real
-  split: test
   page_location: tr:nth-of-type(6) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=157
@@ -3112,7 +2957,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=169
   source_type: real
-  split: test
   page_location: tr:nth-of-type(10) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=169
@@ -3132,7 +2976,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=172
   source_type: real
-  split: test
   page_location: tr:nth-of-type(8) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=172
@@ -3152,7 +2995,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=175
   source_type: real
-  split: test
   page_location: tr:nth-of-type(2) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=175
@@ -3172,7 +3014,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=176
   source_type: real
-  split: test
   page_location: tr:nth-of-type(6) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=176
@@ -3192,7 +3033,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=177
   source_type: real
-  split: test
   page_location: tr:nth-of-type(10) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=177
@@ -3212,7 +3052,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=178
   source_type: real
-  split: test
   page_location: tr:nth-of-type(7) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=178
@@ -3232,7 +3071,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=179
   source_type: real
-  split: test
   page_location: tr:nth-of-type(2) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=179
@@ -3252,7 +3090,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=179
   source_type: real
-  split: test
   page_location: tr:nth-of-type(5) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=179
@@ -3272,7 +3109,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=180
   source_type: real
-  split: test
   page_location: tr:nth-of-type(8) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=180
@@ -3292,7 +3128,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=185
   source_type: real
-  split: test
   page_location: tr:nth-of-type(8) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=185
@@ -3312,7 +3147,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=187
   source_type: real
-  split: test
   page_location: tr:nth-of-type(8) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=187
@@ -3332,7 +3166,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=188
   source_type: real
-  split: test
   page_location: tr:nth-of-type(9) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=188
@@ -3352,7 +3185,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=189
   source_type: real
-  split: test
   page_location: tr:nth-of-type(6) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=189
@@ -3372,7 +3204,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=197
   source_type: real
-  split: test
   page_location: tr:nth-of-type(5) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=197
@@ -3392,7 +3223,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=198
   source_type: real
-  split: test
   page_location: tr:nth-of-type(10) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=198
@@ -3412,7 +3242,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=201
   source_type: real
-  split: test
   page_location: tr:nth-of-type(4) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=201
@@ -3432,7 +3261,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=201
   source_type: real
-  split: test
   page_location: tr:nth-of-type(5) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=201
@@ -3452,7 +3280,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=202
   source_type: real
-  split: test
   page_location: tr:nth-of-type(7) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=202
@@ -3472,7 +3299,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=207
   source_type: real
-  split: test
   page_location: tr:nth-of-type(10) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=207
@@ -3492,7 +3318,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=212
   source_type: real
-  split: test
   page_location: tr:nth-of-type(4) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=212
@@ -3512,7 +3337,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=216
   source_type: real
-  split: test
   page_location: tr:nth-of-type(5) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=216
@@ -3532,7 +3356,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=216
   source_type: real
-  split: test
   page_location: tr:nth-of-type(7) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=216
@@ -3552,7 +3375,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=225
   source_type: real
-  split: test
   page_location: tr:nth-of-type(1) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=225
@@ -3572,7 +3394,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=225
   source_type: real
-  split: test
   page_location: tr:nth-of-type(4) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=225
@@ -3592,7 +3413,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=229
   source_type: real
-  split: test
   page_location: tr:nth-of-type(9) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=229
@@ -3612,7 +3432,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=232
   source_type: real
-  split: test
   page_location: tr:nth-of-type(9) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=232
@@ -3632,7 +3451,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=243
   source_type: real
-  split: test
   page_location: tr:nth-of-type(1) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=243
@@ -3652,7 +3470,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=256
   source_type: real
-  split: test
   page_location: tr:nth-of-type(3) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=256
@@ -3672,7 +3489,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=257
   source_type: real
-  split: test
   page_location: tr:nth-of-type(3) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=257
@@ -3692,7 +3508,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=257
   source_type: real
-  split: test
   page_location: tr:nth-of-type(10) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=257
@@ -3712,7 +3527,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=260
   source_type: real
-  split: test
   page_location: tr:nth-of-type(4) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=260
@@ -3732,7 +3546,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=263
   source_type: real
-  split: test
   page_location: tr:nth-of-type(3) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=263
@@ -3752,7 +3565,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=264
   source_type: real
-  split: test
   page_location: tr:nth-of-type(5) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=264
@@ -3772,7 +3584,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=275
   source_type: real
-  split: test
   page_location: tr:nth-of-type(10) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=275
@@ -3792,7 +3603,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=276
   source_type: real
-  split: test
   page_location: tr:nth-of-type(1) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=276
@@ -3812,7 +3622,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=282
   source_type: real
-  split: test
   page_location: tr:nth-of-type(4) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=282
@@ -3832,7 +3641,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=283
   source_type: real
-  split: test
   page_location: tr:nth-of-type(2) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=283
@@ -3852,7 +3660,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=287
   source_type: real
-  split: test
   page_location: tr:nth-of-type(1) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=287
@@ -3872,7 +3679,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=287
   source_type: real
-  split: test
   page_location: tr:nth-of-type(2) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=287
@@ -3892,7 +3698,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=291
   source_type: real
-  split: test
   page_location: tr:nth-of-type(8) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=291
@@ -3912,7 +3717,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=292
   source_type: real
-  split: test
   page_location: tr:nth-of-type(6) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=292
@@ -3932,7 +3736,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=301
   source_type: real
-  split: test
   page_location: tr:nth-of-type(5) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=301
@@ -3952,7 +3755,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=302
   source_type: real
-  split: test
   page_location: tr:nth-of-type(2) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=302
@@ -3972,7 +3774,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=303
   source_type: real
-  split: test
   page_location: tr:nth-of-type(3) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=303
@@ -3992,7 +3793,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=308
   source_type: real
-  split: test
   page_location: tr:nth-of-type(10) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=308
@@ -4012,7 +3812,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=317
   source_type: real
-  split: test
   page_location: tr:nth-of-type(3) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=317
@@ -4032,7 +3831,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=328
   source_type: real
-  split: test
   page_location: tr:nth-of-type(4) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=328
@@ -4052,7 +3850,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=328
   source_type: real
-  split: test
   page_location: tr:nth-of-type(9) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=328
@@ -4072,7 +3869,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=332
   source_type: real
-  split: test
   page_location: tr:nth-of-type(10) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=332
@@ -4092,7 +3888,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=338
   source_type: real
-  split: test
   page_location: tr:nth-of-type(4) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=338
@@ -4112,7 +3907,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=340
   source_type: real
-  split: test
   page_location: tr:nth-of-type(1) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=340
@@ -4132,7 +3926,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=344
   source_type: real
-  split: test
   page_location: tr:nth-of-type(6) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=344
@@ -4152,7 +3945,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=355
   source_type: real
-  split: test
   page_location: tr:nth-of-type(3) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=355
@@ -4172,7 +3964,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=357
   source_type: real
-  split: test
   page_location: tr:nth-of-type(9) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=357
@@ -4192,7 +3983,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=374
   source_type: real
-  split: test
   page_location: tr:nth-of-type(9) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=374
@@ -4212,7 +4002,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=381
   source_type: real
-  split: test
   page_location: tr:nth-of-type(10) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=381
@@ -4232,7 +4021,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=382
   source_type: real
-  split: test
   page_location: tr:nth-of-type(2) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=382
@@ -4252,7 +4040,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=383
   source_type: real
-  split: test
   page_location: tr:nth-of-type(9) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=383
@@ -4272,7 +4059,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=71
   source_type: real
-  split: test
   page_location: li:nth-of-type(11) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=71
@@ -4292,7 +4078,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=111
   source_type: real
-  split: test
   page_location: li:nth-of-type(8) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=111
@@ -4312,7 +4097,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=181
   source_type: real
-  split: test
   page_location: li:nth-of-type(9) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=181
@@ -4332,7 +4116,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=261
   source_type: real
-  split: test
   page_location: li:nth-of-type(9) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=261
@@ -4352,7 +4135,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=271
   source_type: real
-  split: test
   page_location: li:nth-of-type(3) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=271
@@ -4372,7 +4154,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=291
   source_type: real
-  split: test
   page_location: li:nth-of-type(13) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=291
@@ -4392,7 +4173,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=321
   source_type: real
-  split: test
   page_location: li:nth-of-type(2) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=321
@@ -4412,7 +4192,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=411
   source_type: real
-  split: test
   page_location: li:nth-of-type(8) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=411
@@ -4432,7 +4211,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=441
   source_type: real
-  split: test
   page_location: li:nth-of-type(2) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=441
@@ -4452,7 +4230,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=541
   source_type: real
-  split: test
   page_location: li:nth-of-type(15) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=541
@@ -4472,7 +4249,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=641
   source_type: real
-  split: test
   page_location: li:nth-of-type(12) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=641
@@ -4492,7 +4268,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=681
   source_type: real
-  split: test
   page_location: li:nth-of-type(14) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=681
@@ -4512,7 +4287,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=731
   source_type: real
-  split: test
   page_location: li:nth-of-type(8) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=731
@@ -4532,7 +4306,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=831
   source_type: real
-  split: test
   page_location: li:nth-of-type(2) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=831
@@ -4552,7 +4325,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=921
   source_type: real
-  split: test
   page_location: li:nth-of-type(13) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=921
@@ -4572,7 +4344,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1131
   source_type: real
-  split: test
   page_location: li:nth-of-type(8) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1131
@@ -4592,7 +4363,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1241
   source_type: real
-  split: test
   page_location: li:nth-of-type(13) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1241
@@ -4612,7 +4382,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1291
   source_type: real
-  split: test
   page_location: li:nth-of-type(15) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1291
@@ -4632,7 +4401,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1441
   source_type: real
-  split: test
   page_location: li:nth-of-type(16) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1441
@@ -4652,7 +4420,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1461
   source_type: real
-  split: test
   page_location: li:nth-of-type(2) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1461
@@ -4672,7 +4439,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1571
   source_type: real
-  split: test
   page_location: li:nth-of-type(6) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1571
@@ -4692,7 +4458,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1601
   source_type: real
-  split: test
   page_location: li:nth-of-type(7) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1601
@@ -4712,7 +4477,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1601
   source_type: real
-  split: test
   page_location: li:nth-of-type(10) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1601
@@ -4732,7 +4496,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1671
   source_type: real
-  split: test
   page_location: li:nth-of-type(14) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1671
@@ -4752,7 +4515,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1681
   source_type: real
-  split: test
   page_location: li:nth-of-type(15) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1681
@@ -4772,7 +4534,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1731
   source_type: real
-  split: test
   page_location: li:nth-of-type(8) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1731
@@ -4792,7 +4553,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1791
   source_type: real
-  split: test
   page_location: li:nth-of-type(6) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1791
@@ -4812,7 +4572,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1911
   source_type: real
-  split: test
   page_location: li:nth-of-type(10) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1911
@@ -4832,7 +4591,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1921
   source_type: real
-  split: test
   page_location: li:nth-of-type(7) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1921
@@ -4852,7 +4610,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1931
   source_type: real
-  split: test
   page_location: li:nth-of-type(11) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1931
@@ -4872,7 +4629,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=65
   source_type: real
-  split: test
   page_location: li:nth-of-type(2) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=65
@@ -4892,7 +4648,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=217
   source_type: real
-  split: test
   page_location: li:nth-of-type(7) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=217
@@ -4912,7 +4667,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=473
   source_type: real
-  split: test
   page_location: li:nth-of-type(14) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=473
@@ -4932,7 +4686,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=529
   source_type: real
-  split: test
   page_location: li:nth-of-type(11) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=529
@@ -4952,7 +4705,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=585
   source_type: real
-  split: test
   page_location: li:nth-of-type(16) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=585
@@ -4972,7 +4724,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=849
   source_type: real
-  split: test
   page_location: li:nth-of-type(9) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=849
@@ -4992,7 +4743,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=857
   source_type: real
-  split: test
   page_location: li:nth-of-type(13) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=857
@@ -5012,7 +4762,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=865
   source_type: real
-  split: test
   page_location: li:nth-of-type(8) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=865
@@ -5032,7 +4781,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=897
   source_type: real
-  split: test
   page_location: li:nth-of-type(2) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=897
@@ -5052,7 +4800,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1049
   source_type: real
-  split: test
   page_location: li:nth-of-type(5) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1049
@@ -5072,7 +4819,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1129
   source_type: real
-  split: test
   page_location: li:nth-of-type(15) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1129
@@ -5092,7 +4838,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1169
   source_type: real
-  split: test
   page_location: li:nth-of-type(11) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1169
@@ -5112,7 +4857,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1193
   source_type: real
-  split: test
   page_location: li:nth-of-type(13) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1193
@@ -5132,7 +4876,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1297
   source_type: real
-  split: test
   page_location: li:nth-of-type(13) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1297
@@ -5152,7 +4895,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1385
   source_type: real
-  split: test
   page_location: li:nth-of-type(5) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1385
@@ -5172,7 +4914,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1385
   source_type: real
-  split: test
   page_location: li:nth-of-type(9) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1385
@@ -5192,7 +4933,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1545
   source_type: real
-  split: test
   page_location: li:nth-of-type(5) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1545
@@ -5212,7 +4952,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1617
   source_type: real
-  split: test
   page_location: li:nth-of-type(7) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1617
@@ -5232,7 +4971,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1705
   source_type: real
-  split: test
   page_location: li:nth-of-type(10) > div.li_in > div.bo_subject > a
   origin:
     url: https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&page=1705
@@ -5252,7 +4990,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=2
   source_type: real
-  split: test
   page_location: tr:nth-of-type(2) > td.td_subject > div.bo_tit > a
   origin:
     url: http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=2
@@ -5272,7 +5009,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=2
   source_type: real
-  split: test
   page_location: tr:nth-of-type(6) > td.td_subject > div.bo_tit > a
   origin:
     url: http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=2
@@ -5292,7 +5028,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=2
   source_type: real
-  split: test
   page_location: tr:nth-of-type(14) > td.td_subject > div.bo_tit > a
   origin:
     url: http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=2
@@ -5312,7 +5047,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=7
   source_type: real
-  split: test
   page_location: tr.even:nth-of-type(1) > td.td_subject > div.bo_tit > a
   origin:
     url: http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=7
@@ -5332,7 +5066,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=7
   source_type: real
-  split: test
   page_location: tr:nth-of-type(4) > td.td_subject > div.bo_tit > a
   origin:
     url: http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=7
@@ -5352,7 +5085,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=7
   source_type: real
-  split: test
   page_location: tr.even:nth-of-type(13) > td.td_subject > div.bo_tit > a
   origin:
     url: http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=7
@@ -5372,7 +5104,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=31
   source_type: real
-  split: test
   page_location: tr.even:nth-of-type(11) > td.td_subject > div.bo_tit > a
   origin:
     url: http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=31
@@ -5392,7 +5123,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=32
   source_type: real
-  split: test
   page_location: tr.even:nth-of-type(7) > td.td_subject > div.bo_tit > a
   origin:
     url: http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=32
@@ -5412,7 +5142,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=32
   source_type: real
-  split: test
   page_location: tr:nth-of-type(8) > td.td_subject > div.bo_tit > a
   origin:
     url: http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=32
@@ -5432,7 +5161,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=32
   source_type: real
-  split: test
   page_location: tr:nth-of-type(10) > td.td_subject > div.bo_tit > a
   origin:
     url: http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=32
@@ -5452,7 +5180,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=33
   source_type: real
-  split: test
   page_location: tr:nth-of-type(4) > td.td_subject > div.bo_tit > a
   origin:
     url: http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=33
@@ -5472,7 +5199,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=33
   source_type: real
-  split: test
   page_location: tr.even:nth-of-type(9) > td.td_subject > div.bo_tit > a
   origin:
     url: http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=33
@@ -5492,7 +5218,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=34
   source_type: real
-  split: test
   page_location: tr.even:nth-of-type(1) > td.td_subject > div.bo_tit > a
   origin:
     url: http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=34
@@ -5512,7 +5237,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=35
   source_type: real
-  split: test
   page_location: tr:nth-of-type(4) > td.td_subject > div.bo_tit > a
   origin:
     url: http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=35
@@ -5532,7 +5256,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=35
   source_type: real
-  split: test
   page_location: tr:nth-of-type(8) > td.td_subject > div.bo_tit > a
   origin:
     url: http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=35
@@ -5552,7 +5275,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=35
   source_type: real
-  split: test
   page_location: tr.even:nth-of-type(9) > td.td_subject > div.bo_tit > a
   origin:
     url: http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=35
@@ -5572,7 +5294,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=35
   source_type: real
-  split: test
   page_location: tr:nth-of-type(12) > td.td_subject > div.bo_tit > a
   origin:
     url: http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=35
@@ -5592,7 +5313,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=35
   source_type: real
-  split: test
   page_location: tr.even:nth-of-type(15) > td.td_subject > div.bo_tit > a
   origin:
     url: http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=35
@@ -5612,7 +5332,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=37
   source_type: real
-  split: test
   page_location: tr.even:nth-of-type(13) > td.td_subject > div.bo_tit > a
   origin:
     url: http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=37
@@ -5632,7 +5351,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=48
   source_type: real
-  split: test
   page_location: tr:nth-of-type(4) > td.td_subject > div.bo_tit > a
   origin:
     url: http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=48
@@ -5652,7 +5370,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=49
   source_type: real
-  split: test
   page_location: tr.even:nth-of-type(1) > td.td_subject > div.bo_tit > a
   origin:
     url: http://jnbburi.or.kr/bbs/board.php?bo_table=notice&page=49
@@ -5672,7 +5389,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=2
   source_type: real
-  split: test
   page_location: tr:nth-of-type(9) > td.kboard-list-title > div.cut_strings > a
   origin:
     url: http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=2
@@ -5692,7 +5408,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=5
   source_type: real
-  split: test
   page_location: tr:nth-of-type(10) > td.kboard-list-title > div.cut_strings > a
   origin:
     url: http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=5
@@ -5712,7 +5427,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=10
   source_type: real
-  split: test
   page_location: tr:nth-of-type(10) > td.kboard-list-title > div.cut_strings > a
   origin:
     url: http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=10
@@ -5732,7 +5446,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=47
   source_type: real
-  split: test
   page_location: tr:nth-of-type(6) > td.kboard-list-title > div.cut_strings > a
   origin:
     url: http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=47
@@ -5752,7 +5465,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=167
   source_type: real
-  split: test
   page_location: tr:nth-of-type(9) > td.kboard-list-title > div.cut_strings > a
   origin:
     url: http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=167
@@ -5772,7 +5484,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=233
   source_type: real
-  split: test
   page_location: tr:nth-of-type(11) > td.kboard-list-title > div.cut_strings > a
   origin:
     url: http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=233
@@ -5792,7 +5503,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=255
   source_type: real
-  split: test
   page_location: tr:nth-of-type(6) > td.kboard-list-title > div.cut_strings > a
   origin:
     url: http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=255
@@ -5812,7 +5522,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=267
   source_type: real
-  split: test
   page_location: tr:nth-of-type(3) > td.kboard-list-title > div.cut_strings > a
   origin:
     url: http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=267
@@ -5832,7 +5541,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=271
   source_type: real
-  split: test
   page_location: tr:nth-of-type(11) > td.kboard-list-title > div.cut_strings > a
   origin:
     url: http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=271
@@ -5852,7 +5560,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=279
   source_type: real
-  split: test
   page_location: tr:nth-of-type(10) > td.kboard-list-title > div.cut_strings > a
   origin:
     url: http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=279
@@ -5872,7 +5579,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=289
   source_type: real
-  split: test
   page_location: tr:nth-of-type(7) > td.kboard-list-title > div.cut_strings > a
   origin:
     url: http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=289
@@ -5892,7 +5598,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=305
   source_type: real
-  split: test
   page_location: tr:nth-of-type(4) > td.kboard-list-title > div.cut_strings > a
   origin:
     url: http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=305
@@ -5912,7 +5617,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=331
   source_type: real
-  split: test
   page_location: tr:nth-of-type(6) > td.kboard-list-title > div.cut_strings > a
   origin:
     url: http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=331
@@ -5932,7 +5636,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=339
   source_type: real
-  split: test
   page_location: tr:nth-of-type(9) > td.kboard-list-title > div.cut_strings > a
   origin:
     url: http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=339
@@ -5952,7 +5655,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=359
   source_type: real
-  split: test
   page_location: tr:nth-of-type(7) > td.kboard-list-title > div.cut_strings > a
   origin:
     url: http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=359
@@ -5972,7 +5674,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=363
   source_type: real
-  split: test
   page_location: tr:nth-of-type(5) > td.kboard-list-title > div.cut_strings > a
   origin:
     url: http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=363
@@ -5992,7 +5693,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=363
   source_type: real
-  split: test
   page_location: tr:nth-of-type(10) > td.kboard-list-title > div.cut_strings > a
   origin:
     url: http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=363
@@ -6012,7 +5712,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=365
   source_type: real
-  split: test
   page_location: tr:nth-of-type(7) > td.kboard-list-title > div.cut_strings > a
   origin:
     url: http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=365
@@ -6032,7 +5731,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=367
   source_type: real
-  split: test
   page_location: tr:nth-of-type(8) > td.kboard-list-title > div.cut_strings > a
   origin:
     url: http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=367
@@ -6052,7 +5750,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=379
   source_type: real
-  split: test
   page_location: tr:nth-of-type(5) > td.kboard-list-title > div.cut_strings > a
   origin:
     url: http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=379
@@ -6072,7 +5769,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=381
   source_type: real
-  split: test
   page_location: tr:nth-of-type(11) > td.kboard-list-title > div.cut_strings > a
   origin:
     url: http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=381
@@ -6092,7 +5788,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=383
   source_type: real
-  split: test
   page_location: tr:nth-of-type(5) > td.kboard-list-title > div.cut_strings > a
   origin:
     url: http://www.k3dprinting.or.kr/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90/?pageid=383
@@ -6112,7 +5807,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://www.kcoal.or.kr/customer/board.php?code=board&page=1
   source_type: real
-  split: test
   page_location: tr:nth-of-type(5) > td:nth-of-type(5) > a
   origin:
     url: http://www.kcoal.or.kr/customer/board.php?code=board&page=1
@@ -6132,7 +5826,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://www.kcoal.or.kr/customer/board.php?code=board&page=1
   source_type: real
-  split: test
   page_location: tr:nth-of-type(9) > td:nth-of-type(5) > a
   origin:
     url: http://www.kcoal.or.kr/customer/board.php?code=board&page=1
@@ -6152,7 +5845,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://www.kcoal.or.kr/customer/board.php?code=board&page=1
   source_type: real
-  split: test
   page_location: tr:nth-of-type(11) > td:nth-of-type(5) > a
   origin:
     url: http://www.kcoal.or.kr/customer/board.php?code=board&page=1
@@ -6172,7 +5864,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://www.kcoal.or.kr/customer/board.php?code=board&page=1
   source_type: real
-  split: test
   page_location: tr:nth-of-type(15) > td:nth-of-type(5) > a
   origin:
     url: http://www.kcoal.or.kr/customer/board.php?code=board&page=1
@@ -6192,7 +5883,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://www.kcoal.or.kr/customer/board.php?code=board&page=1
   source_type: real
-  split: test
   page_location: tr:nth-of-type(19) > td:nth-of-type(5) > a
   origin:
     url: http://www.kcoal.or.kr/customer/board.php?code=board&page=1
@@ -6212,7 +5902,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://www.kcoal.or.kr/customer/board.php?code=board&page=1
   source_type: real
-  split: test
   page_location: tr:nth-of-type(29) > td:nth-of-type(5) > a:nth-of-type(1)
   origin:
     url: http://www.kcoal.or.kr/customer/board.php?code=board&page=1
@@ -6232,7 +5921,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://ujrehab.or.kr/ujrehab/bbs/board.php?bo_table=bo_02&page=2
   source_type: real
-  split: test
   page_location: li.list-item:nth-of-type(10) > div.wr-subject > a.item-subject
   origin:
     url: http://ujrehab.or.kr/ujrehab/bbs/board.php?bo_table=bo_02&page=2
@@ -6252,7 +5940,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · http://ujrehab.or.kr/ujrehab/bbs/board.php?bo_table=bo_02&page=6
   source_type: real
-  split: test
   page_location: li.list-item:nth-of-type(12) > div.wr-subject > a.item-subject
   origin:
     url: http://ujrehab.or.kr/ujrehab/bbs/board.php?bo_table=bo_02&page=6
@@ -6272,7 +5959,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://ypcd.or.kr/bbs/board.php?bo_table=notice4&page=4
   source_type: real
-  split: test
   page_location: tr:nth-of-type(4) > td.td_subject > div.bo_tit > a
   origin:
     url: https://ypcd.or.kr/bbs/board.php?bo_table=notice4&page=4
@@ -6292,7 +5978,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://ypcd.or.kr/bbs/board.php?bo_table=notice4&page=801
   source_type: real
-  split: test
   page_location: tr:nth-of-type(12) > td.td_subject > div.bo_tit > a
   origin:
     url: https://ypcd.or.kr/bbs/board.php?bo_table=notice4&page=801
@@ -6312,7 +5997,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://ypcd.or.kr/bbs/board.php?bo_table=notice4&page=1971
   source_type: real
-  split: test
   page_location: tr:nth-of-type(10) > td.td_subject > div.bo_tit > a
   origin:
     url: https://ypcd.or.kr/bbs/board.php?bo_table=notice4&page=1971
@@ -6332,7 +6016,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://ypcd.or.kr/bbs/board.php?bo_table=notice4&page=2691
   source_type: real
-  split: test
   page_location: tr:nth-of-type(9) > td.td_subject > div.bo_tit > a
   origin:
     url: https://ypcd.or.kr/bbs/board.php?bo_table=notice4&page=2691
@@ -6352,7 +6035,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://ypcd.or.kr/bbs/board.php?bo_table=notice4&page=2931
   source_type: real
-  split: test
   page_location: tr:nth-of-type(4) > td.td_subject > div.bo_tit > a
   origin:
     url: https://ypcd.or.kr/bbs/board.php?bo_table=notice4&page=2931
@@ -6372,7 +6054,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://ypcd.or.kr/bbs/board.php?bo_table=notice4&page=3561
   source_type: real
-  split: test
   page_location: tr:nth-of-type(2) > td.td_subject > div.bo_tit > a
   origin:
     url: https://ypcd.or.kr/bbs/board.php?bo_table=notice4&page=3561
@@ -6392,7 +6073,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://ypcd.or.kr/bbs/board.php?bo_table=notice4&page=5181
   source_type: real
-  split: test
   page_location: tr:nth-of-type(8) > td.td_subject > div.bo_tit > a
   origin:
     url: https://ypcd.or.kr/bbs/board.php?bo_table=notice4&page=5181
@@ -6412,7 +6092,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://ypcd.or.kr/bbs/board.php?bo_table=notice4&page=5211
   source_type: real
-  split: test
   page_location: tr:nth-of-type(1) > td.td_subject > div.bo_tit > a
   origin:
     url: https://ypcd.or.kr/bbs/board.php?bo_table=notice4&page=5211
@@ -6432,7 +6111,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://ypcd.or.kr/bbs/board.php?bo_table=notice4&page=5361
   source_type: real
-  split: test
   page_location: tr:nth-of-type(1) > td.td_subject > div.bo_tit > a
   origin:
     url: https://ypcd.or.kr/bbs/board.php?bo_table=notice4&page=5361
@@ -6452,7 +6130,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://ypcd.or.kr/bbs/board.php?bo_table=notice4&page=7041
   source_type: real
-  split: test
   page_location: tr:nth-of-type(15) > td.td_subject > div.bo_tit > a
   origin:
     url: https://ypcd.or.kr/bbs/board.php?bo_table=notice4&page=7041
@@ -6472,7 +6149,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://ypcd.or.kr/bbs/board.php?bo_table=notice4&page=7251
   source_type: real
-  split: test
   page_location: tr:nth-of-type(14) > td.td_subject > div.bo_tit > a
   origin:
     url: https://ypcd.or.kr/bbs/board.php?bo_table=notice4&page=7251
@@ -6492,7 +6168,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://ysgsa.yonsei.ac.kr/board4/?page=1
   source_type: real
-  split: test
   page_location: ul.li_body.holder:nth-of-type(2) > li.tit.show_right_tools > a.list_text_title._fade_link > span
   origin:
     url: https://ysgsa.yonsei.ac.kr/board4/?page=1
@@ -6512,7 +6187,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://ysgsa.yonsei.ac.kr/board4/?page=1
   source_type: real
-  split: test
   page_location: ul.li_body.holder:nth-of-type(3) > li.tit.show_right_tools > a.list_text_title._fade_link > span
   origin:
     url: https://ysgsa.yonsei.ac.kr/board4/?page=1
@@ -6532,7 +6206,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://ysgsa.yonsei.ac.kr/board4/?page=1
   source_type: real
-  split: test
   page_location: ul.li_body.holder:nth-of-type(5) > li.tit.show_right_tools > a.list_text_title._fade_link > span
   origin:
     url: https://ysgsa.yonsei.ac.kr/board4/?page=1
@@ -6552,7 +6225,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=1
   source_type: real
-  split: test
   page_location: tr:nth-of-type(1) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=1
@@ -6572,7 +6244,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=1
   source_type: real
-  split: test
   page_location: tr:nth-of-type(8) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=1
@@ -6592,7 +6263,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=2
   source_type: real
-  split: test
   page_location: tr:nth-of-type(2) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=2
@@ -6612,7 +6282,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=2
   source_type: real
-  split: test
   page_location: tr:nth-of-type(5) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=2
@@ -6632,7 +6301,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=3
   source_type: real
-  split: test
   page_location: tr:nth-of-type(2) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=3
@@ -6652,7 +6320,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=4
   source_type: real
-  split: test
   page_location: tr:nth-of-type(3) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=4
@@ -6672,7 +6339,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=6
   source_type: real
-  split: test
   page_location: tr:nth-of-type(4) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=6
@@ -6692,7 +6358,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=7
   source_type: real
-  split: test
   page_location: tr:nth-of-type(2) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=7
@@ -6712,7 +6377,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=7
   source_type: real
-  split: test
   page_location: tr:nth-of-type(8) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=7
@@ -6732,7 +6396,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=8
   source_type: real
-  split: test
   page_location: tr:nth-of-type(4) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=8
@@ -6752,7 +6415,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=8
   source_type: real
-  split: test
   page_location: tr:nth-of-type(6) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=8
@@ -6772,7 +6434,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=8
   source_type: real
-  split: test
   page_location: tr:nth-of-type(8) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=8
@@ -6792,7 +6453,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=9
   source_type: real
-  split: test
   page_location: tr:nth-of-type(7) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=9
@@ -6812,7 +6472,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=10
   source_type: real
-  split: test
   page_location: tr:nth-of-type(5) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=10
@@ -6832,7 +6491,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=12
   source_type: real
-  split: test
   page_location: tr:nth-of-type(4) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=12
@@ -6852,7 +6510,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=12
   source_type: real
-  split: test
   page_location: tr:nth-of-type(7) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=12
@@ -6872,7 +6529,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=16
   source_type: real
-  split: test
   page_location: tr:nth-of-type(2) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=16
@@ -6892,7 +6548,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=16
   source_type: real
-  split: test
   page_location: tr:nth-of-type(9) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=16
@@ -6912,7 +6567,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=16
   source_type: real
-  split: test
   page_location: tr:nth-of-type(10) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=16
@@ -6932,7 +6586,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=17
   source_type: real
-  split: test
   page_location: tr:nth-of-type(1) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=17
@@ -6952,7 +6605,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=18
   source_type: real
-  split: test
   page_location: tr:nth-of-type(7) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=18
@@ -6972,7 +6624,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=19
   source_type: real
-  split: test
   page_location: tr:nth-of-type(10) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=19
@@ -6992,7 +6643,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=27
   source_type: real
-  split: test
   page_location: tr:nth-of-type(4) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=27
@@ -7012,7 +6662,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=27
   source_type: real
-  split: test
   page_location: tr:nth-of-type(10) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=27
@@ -7032,7 +6681,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=28
   source_type: real
-  split: test
   page_location: tr:nth-of-type(5) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=28
@@ -7052,7 +6700,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=35
   source_type: real
-  split: test
   page_location: tr:nth-of-type(5) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=35
@@ -7072,7 +6719,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=36
   source_type: real
-  split: test
   page_location: tr:nth-of-type(1) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=36
@@ -7092,7 +6738,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=37
   source_type: real
-  split: test
   page_location: tr:nth-of-type(8) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=37
@@ -7112,7 +6757,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=39
   source_type: real
-  split: test
   page_location: tr:nth-of-type(3) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=39
@@ -7132,7 +6776,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=39
   source_type: real
-  split: test
   page_location: tr:nth-of-type(7) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=39
@@ -7152,7 +6795,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=40
   source_type: real
-  split: test
   page_location: tr:nth-of-type(2) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=40
@@ -7172,7 +6814,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=40
   source_type: real
-  split: test
   page_location: tr:nth-of-type(9) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=40
@@ -7192,7 +6833,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=42
   source_type: real
-  split: test
   page_location: tr:nth-of-type(3) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=42
@@ -7212,7 +6852,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=42
   source_type: real
-  split: test
   page_location: tr:nth-of-type(8) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=42
@@ -7232,7 +6871,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=43
   source_type: real
-  split: test
   page_location: tr:nth-of-type(8) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=43
@@ -7252,7 +6890,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=44
   source_type: real
-  split: test
   page_location: tr:nth-of-type(4) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=44
@@ -7272,7 +6909,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=46
   source_type: real
-  split: test
   page_location: tr:nth-of-type(5) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=46
@@ -7292,7 +6928,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=50
   source_type: real
-  split: test
   page_location: tr:nth-of-type(9) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=50
@@ -7312,7 +6947,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=51
   source_type: real
-  split: test
   page_location: tr:nth-of-type(3) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=51
@@ -7332,7 +6966,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=55
   source_type: real
-  split: test
   page_location: tr:nth-of-type(3) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=55
@@ -7352,7 +6985,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=63
   source_type: real
-  split: test
   page_location: tr:nth-of-type(8) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=63
@@ -7372,7 +7004,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=67
   source_type: real
-  split: test
   page_location: tr:nth-of-type(2) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=67
@@ -7392,7 +7023,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=68
   source_type: real
-  split: test
   page_location: tr:nth-of-type(8) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=68
@@ -7412,7 +7042,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=76
   source_type: real
-  split: test
   page_location: tr:nth-of-type(7) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=76
@@ -7432,7 +7061,6 @@
   extra_finding: null
   source: 직접 수집(공공 웹사이트) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=80
   source_type: real
-  split: test
   page_location: tr:nth-of-type(1) > td.kboard-list-title > a > div.kboard-default-cut-strings
   origin:
     url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?pageid=80
