@@ -8,7 +8,7 @@
 | `etc/` | 사람 1 | `etc.yaml` 4종 밖 회피 수법 · `answer_result_extra_etc.json` 정답 · `퍼센트인코딩_손검토_20261012.csv` | 473 · 473 |
 | `combo/` | 사람 1 | `combo_real.yaml` 수법 2개 이상이 겹친 광고 · `answer_result.json` 4종 코드 정답 · `answer_result_extra_combo.json` 추가 수법 정답 | 529 · 419 · 668 |
 | `homoglyph/` | 사람 2 | `homoglyph_real_test_capped.yaml` 닮은꼴 글자 권장판(캠페인당 5건) · `HG_cap_difficulty.tsv` 샘플별 난이도 등급 · `README.md` | 378 · 372 |
-| `transparent/` | 사람 2 | `transparent_real_test_rec20.yaml` 투명 텍스트 권장판(사이트당 20건, 해외 기관 26곳) · `_render.yaml` 단독 렌더링 결과 · `transparent_real_negative.yaml` 투명처럼 보이지만 광고가 아닌 음성(오탐 확인용, 해외 기관 118곳) · `TR_cap_difficulty.tsv` 샘플별 난이도 등급 · `README.md` · `README_음성.md` | 232 · 232 · 560 · 232 |
+| `transparent/` | 사람 2 | `transparent_real_test_rec20.yaml` 투명 텍스트 권장판(사이트당 20건, 해외 기관 26곳) · `_render.yaml` 단독 렌더링 결과 · `answer_result.json` 정답(TRANSPARENT 232 + 같은 요소의 OFFSCREEN 72) · `transparent_real_negative.yaml` 투명처럼 보이지만 광고가 아닌 음성(오탐 확인용, 해외 기관 118곳) · `negatives.json` 음성 정답 · `TR_cap_difficulty.tsv` 샘플별 난이도 등급 · `README.md` · `README_음성.md` | 232 · 232 · 304 · 560 · 560 · 232 |
 | `offscreen/` | 사람 3 | `offscreen_originals.yaml` 실제 원문(OF-108~207) · `reference_only.json` 참고 사례 · `offscreen.yaml` CSS 동작 확인용 fixture(원문에서 만든 파생, 독립 평가용 아님) · `offscreen_controls.json` 가시 대조군(음성) | 100 · 2 · 100 · 7 |
 | `jamo/` | 사람 4 | `jamo.yaml` 자모 분해 실제 원문(JM-001~130) | 130 |
 | `lexicon/` | 사람 4 | `seed.yaml` 어휘 사전(gambling_core · gambling_lure · contact · adult · whitelist 각 100) | 500 |

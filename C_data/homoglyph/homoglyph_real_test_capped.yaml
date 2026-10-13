@@ -764,9 +764,9 @@
 - id: HG-RT-0041
   category: HOMOGLYPH
   subtype: hangul_lookalike
-  html: "<a href=\"/board/view.gimje?boardId=BBS_0000048&amp;paging=ok&amp;startPage=157&amp;dataSid=162478\">\n\t\t\t\t\t<strong>\n\t\t\t\t\t■ 노후 대비와 재취업을 동시에 준비합시다 ■\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t</strong>\n\t\t\t\t\t<span class=\"txt\">■ 노후 대비와 재취업을 동시에 준비합시다 ■\n\n이름 : 김기찬\n\n직급 : 팀장\n\n소속 : 학습,설계팀\n\n번호 : 010 – 7921 – 8428 로 문의 주시면 친절히 상담해 드리겠습니다.\n\n학점,은행제를 통해 ㅈr격증 취득 가능!!!\n\n고등학교 졸업자라면 누구나~!!!\n\n연령제한 없습니다!!\n\n노후 대비와 취업을 희망하는 분들에게 \n\n가장 이상적인 ...</span> \n\t\t\t\t\t<em class=\"info\"><span>작성자 : 김기찬</span><span>작성일 : 2020.11.18</span><span>조회수 : 98</span></em> \n\t\t\t\t</a>"
+  html: "<a href=\"/board/view.gimje?boardId=BBS_0000048&amp;paging=ok&amp;startPage=157&amp;dataSid=162478\">\n\t\t\t\t\t<strong>\n\t\t\t\t\t■ 노후 대비와 재취업을 동시에 준비합시다 ■\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t</strong>\n\t\t\t\t\t<span class=\"txt\">■ 노후 대비와 재취업을 동시에 준비합시다 ■\n\n이름 : 김기찬\n\n직급 : 팀장\n\n소속 : 학습,설계팀\n\n번호 : 010 – 0000 – 8428 로 문의 주시면 친절히 상담해 드리겠습니다.\n\n학점,은행제를 통해 ㅈr격증 취득 가능!!!\n\n고등학교 졸업자라면 누구나~!!!\n\n연령제한 없습니다!!\n\n노후 대비와 취업을 희망하는 분들에게 \n\n가장 이상적인 ...</span> \n\t\t\t\t\t<em class=\"info\"><span>작성자 : 김기찬</span><span>작성일 : 2020.11.18</span><span>조회수 : 98</span></em> \n\t\t\t\t</a>"
   css: ''
-  evidence_text: '■ 노후 대비와 재취업을 동시에 준비합시다 ■ 이름 : 김기찬 직급 : 팀장 소속 : 학습,설계팀 번호 : 010 – 7921 – 8428 로 문의 주시면 친절히 상담해 드리겠습니다. 학점,은행제를 통해 ㅈr격증 취'
+  evidence_text: '■ 노후 대비와 재취업을 동시에 준비합시다 ■ 이름 : 김기찬 직급 : 팀장 소속 : 학습,설계팀 번호 : 010 – 0000 – 8428 로 문의 주시면 친절히 상담해 드리겠습니다. 학점,은행제를 통해 ㅈr격증 취'
   expected_location: span.txt
   is_positive: true
   extra_finding: null
@@ -6173,7 +6173,7 @@
     url: https://ysgsa.yonsei.ac.kr/board4/?page=1
     host: ysgsa.yonsei.ac.kr
     page_id: 8424aed5cf16
-  campaign: token:0102136335
+  campaign: token:0100000335
   tier: A
   notes: ''
 - id: HG-RT-1297
