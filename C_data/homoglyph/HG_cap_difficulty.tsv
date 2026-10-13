@@ -1,0 +1,373 @@
+id	subtype	site	level	weight	R	M	Q	P	score	depth	ptype	scripts	dens	evidence_text
+HG-RT-0001	enclosed_alnum	easylaw.go.kr	L2	3	0	1	1	0	2	2	search_reflect	3	0.375	무직자대출﴾@𝐀𝐧𝐲𝐮𝐭𝐝﴿⇤무직자대출
+HG-RT-0002	cyrillic_greek	www.motir.go.kr	L3	5	1	1	1	1	4	2	search_reflect	4	0.122	hangame계정판매 Ε텔레연락 BaRo𝟘𝟙𝟘 Ε 인스타인증대행 네이버인증업체,iHg
+HG-RT-0003	enclosed_alnum	easylaw.go.kr	L2	3	0	1	1	0	2	2	search_reflect	3	0.429	"당일대출﹝@𝙰𝚗𝚢𝚞𝚝𝚍﹞⇏당일대출"
+HG-RT-0004	enclosed_alnum	easylaw.go.kr	L2	3	0	1	1	0	2	1	search_reflect	3	0.333	"소액급전대출﹛@𝖠𝗇𝗒𝗎𝗍𝖽﹜↚소액급전대출"
+HG-RT-0005	partial_token	easylaw.go.kr	L2	3	0	1	1	0	2	2	search_reflect	4	0.417	"대출db판매△𓊆𝕤𝕠𝕠𝕟𝕤𝕠𝕠𝕙𝕒𝕞𓊇△대출db판매"
+HG-RT-0006	partial_token	ypcd.or.kr	L3	4	1	1	0	1	3	1	board	4	0.107	구글SEO트렌드 문의 @ʜᴏɴɢʙᴏ8288 구글찌라시 구글검색자동상위노출 찌라시봇 구글검색자동등록서비스 구글검색유입
+HG-RT-0007	hangul_lookalike	easylaw.go.kr	L3	5	2	1	1	0	4	1	search_reflect	4	0.021	p 선물옵션상단작업(ㅋr톡 @adgogo) 선물옵션구글 선물옵션광고þ선물옵션홍보㋦부천원미선물옵션 xHD
+HG-RT-0008	partial_token	easylaw.go.kr	L3	5	2	1	1	0	4	1	search_reflect	4	0.0	"걒91한게임머니상눛（@ ㅋr톡 V8888）감94게임머니상갤14머니상눬95게임머니눁31한게임머니갽"
+HG-RT-0009	hangul_lookalike	www.mois.go.kr	L3	5	2	1	1	0	4	2	search_reflect	4	0.0	"스위스그랜드호텔 나무위키【ㅋr톡:za31】"
+HG-RT-0010	enclosed_alnum	www.mtu.ac.kr	L2	3	0	1	1	0	2	1	search_reflect	3	0.4	'【텔@ 𝗯𝘀𝗲𝗰𝗿𝗲𝘁𝟳】 흥신소 힘든일해드립니다'
+HG-RT-0011	enclosed_alnum	www.mtu.ac.kr	L2	3	0	1	1	0	2	5	search_reflect	3	0.368	【카톡 : 𝚜𝚙𝚢𝟽𝟿𝟽𝟿】👀인스타 해킹【카톡 : 𝚜𝚙𝚢𝟽𝟿𝟽𝟿】👀인스타 해킹👀인스타 해킹👀인스타 해킹
+HG-RT-0012	enclosed_alnum	www.mtu.ac.kr	L3	4	0	1	1	1	3	5	search_reflect	3	0.174	【텔레 : 𝘄𝗽𝗲𝗻𝘁𝗼_𝗴𝘀 】편안한죽음 안락사약물 안락사방법 편안한죽음 안락사약물 안락사방법【텔레 : 𝘄𝗽𝗲𝗻𝘁𝗼_𝗴𝘀 】 편안한죽음 안락사약물 안락사방법💊편안한죽음 안락사약물 안락사방법💊편안한죽음 안락사약물 안락
+HG-RT-0013	enclosed_alnum	www.mtu.ac.kr	L2	3	0	1	1	0	2	5	search_reflect	3	0.292	【카톡@𝘀𝗽𝘆𝟳𝟵𝟳𝟵】 인스타 해킹👀해킹 인스타【카톡@𝘀𝗽𝘆𝟳𝟵𝟳𝟵】 인스타 해킹👀인스타 해킹👀인스타 해킹👀해킹 인스타
+HG-RT-0014	enclosed_alnum	www.mtu.ac.kr	L2	3	0	1	1	0	2	4	search_reflect	3	0.4	【텔@ 𝗯𝘀𝗲𝗰𝗿𝗲𝘁𝟳】 흥신소 힘든일해드립니다
+HG-RT-0015	partial_token	search.gangnam.go.kr	L3	4	0	1	1	1	3	1	search_reflect	5	0.125	O증권디비판매∍＜광고팀텔레𝐒𝐁𝐌𝐓𝟑＞최신디비✖주식DB판매⸩코인DB판매⋧해선디비팝니다≯
+HG-RT-0016	partial_token	search.gangnam.go.kr	L3	4	0	1	1	1	3	2	search_reflect	5	0.125	'O증권디비판매∍＜광고팀텔레𝐒𝐁𝐌𝐓𝟑＞최신디비✖주식DB판매⸩코인DB판매⋧해선디비팝니다≯'
+HG-RT-0017	partial_token	www.mohw.go.kr	L3	5	1	1	1	1	4	2	search_reflect	5	0.095	K3코인db판매⥬⦋텔ㄹㅔ@ɢʙᴏᴛ7⦌해선디비판매◑로또디비삽니다⎔코인디비 업자⬡부동산db 도배⋐
+HG-RT-0018	partial_token	www.mohw.go.kr	L3	5	1	1	1	1	4	2	search_reflect	5	0.095	"K3코인db판매⥬⦋텔ㄹㅔ@ɢʙᴏᴛ7⦌해선디비판매◑로또디비삽니다⎔코인디비 업자⬡부동산db 도배⋐"
+HG-RT-0019	partial_token	easylaw.go.kr	L2	3	0	1	1	0	2	2	search_reflect	5	0.529	"주식db＜@𝕙𝕒𝕔𝕜𝕚𝕟𝕘𝕕𝕓＞↭주식db"
+HG-RT-0020	enclosed_alnum	www.motir.go.kr	L2	3	0	1	1	0	2	2	search_reflect	3	0.302	【텔@ 𝗯𝘀𝗲𝗰𝗿𝗲𝘁𝟳】👨‍💼어려운일 흥신소【텔@ 𝗯𝘀𝗲𝗰𝗿𝗲𝘁𝟳】 흥신소 어려운일👨‍💼흥신소 어려운일👨‍💼흥신소 어려운일👨‍💼어려운일 흥신소
+HG-RT-0021	cyrillic_greek	ace.gachon.ac.kr	L3	4	1	1	0	1	3	2	board	4	0.087	TOP약국 여성작업제 구매 【48H.tор】 흥분제 구매
+HG-RT-0022	cyrillic_greek	www.k3dprinting.or.kr	L3	4	1	1	0	1	3	2	board	3	0.067	카지노솔루션|에보소프트.CΟΜ|슬롯솔루션|토지노솔루션|홀덤 솔루션
+HG-RT-0023	digit_letter	www.jgfestival.or.kr	L2	3	2	0	0	0	2	4	board	2	0.0	두정동노래클럽 [문의 O1O-0000-2472] 천안풀싸롱추천 천안풀싸롱가격 천안풀싸롱주대
+HG-RT-0024	digit_letter	www.jgfestival.or.kr	L2	3	2	0	0	0	2	4	board	2	0.0	두정동노래방 [문의 O1O-0000-2472] 천안셔츠룸추천 천안셔츠룸가격 천안셔츠룸주대
+HG-RT-0025	digit_letter	www.jgfestival.or.kr	L3	4	2	1	0	0	3	4	board	3	0.021	부천호빠위치O1O-0000-1155 24시간영업 l 주대10만원 l 부천호빠가격 O1O-0000-1155 …
+HG-RT-0026	digit_letter	www.jgfestival.or.kr	L3	4	2	1	0	0	3	4	board	3	0.023	⁅경산노래방도우미⁆ O1O=0000=1234 ⁅경산보도사무실⁆ ⁅경산아가씨사무실 ⁆ ⁅경산노래방알바⁆ ⁅경산…
+HG-RT-0027	digit_letter	www.jgfestival.or.kr	L3	4	2	1	0	0	3	4	board	3	0.02	수유러시아출장안마☑️olO~0000~o661☑️캬톡dagan8282 수유러시아출장마사지 수유백마출장 수유연애…
+HG-RT-0028	digit_letter	www.jgfestival.or.kr	L3	4	2	1	0	0	3	4	board	3	0.02	[알바문의 O1O=0000=4103] 안산노래방알바 독산동노래도우미알바 시흥노래방알바 시흥노래방도우미 시흥보…
+HG-RT-0029	digit_letter	www.jgfestival.or.kr	L2	3	2	0	0	0	2	4	board	2	0.0	강남풀사롱 O1O=0000=OO14 역삼세븐방이동2차룸 문의 정보 [가격,시스템,서비스,위치,노는법] 정보
+HG-RT-0030	digit_letter	www.jgfestival.or.kr	L2	3	2	0	0	0	2	4	board	2	0.0	서면풀싸롱 O1O~0000~9717 서면 유흥 해운대 유흥
+HG-RT-0031	digit_letter	www.jgfestival.or.kr	L2	3	2	0	0	0	2	4	board	2	0.0	[문의 O1O=0000=5101][카카0 TC777] 강서보도사무실 강서구룸알바
+HG-RT-0032	digit_letter	www.jgfestival.or.kr	L3	4	2	1	0	0	3	4	board	3	0.02	비지니스∴광주룸싸롱∴O1O.0000.0948 ★용봉동룸싸롱★용봉동풀싸롱★용봉동노래방★용봉동노래홀★용봉동가라오…
+HG-RT-0033	digit_letter	ggtech.or.kr	L3	4	2	1	0	0	3	4	board	4	0.021	블루게임 포커대회（ O1O. 0000.3464 ） 인디고holdem사이트 카지노사이트 바둑이게임추천추천호 …
+HG-RT-0034	digit_letter	ggtech.or.kr	L3	4	2	1	0	0	3	4	board	3	0.024	블루 최대%"2 4시 :O10.0000,3464" 블루게임맞고 블루고스톱포커른 섬 소매 가격 3,600엔 (…
+HG-RT-0035	digit_letter	ggtech.or.kr	L3	4	2	1	0	0	3	4	board	3	0.0	블루바둑이 ↙ O1O. 0000.3464↙인디고게임 에이케이게임↙ 블루게임
+HG-RT-0036	digit_letter	ggtech.or.kr	L3	4	2	1	0	0	3	4	board	3	0.0	블루바­둑이 ↙ O1O. 0000.3464↙인디고게­임↙ 블루게­임
+HG-RT-0037	digit_letter	www.gimje.go.kr	L3	4	2	1	0	0	3	3	board	3	0.0	◆21년 1학기 할인 혜택받고 사회.복지사 준비!◆ 안녕하세요! 이용수 팀장입니다. ^^ 전화 : OlO 0000 4869 요즘 점점 일자리가 줄어들고 있다는 사실을 알고 계실까요? 거기다 코로나 사태로 인해 일자리
+HG-RT-0038	digit_letter	www.gimje.go.kr	L3	4	2	1	0	0	3	3	board	3	0.0	◆21년 1학기 할인 혜택받고 보육.교사 준비!◆ 안녕하세요! 이용수 팀장입니다. ^^ 전화 : OlO 0000 4869 요즘 점점 일자리가 줄어들고 있다는 사실을 알고 계실까요? 거기다 코로나 사태로 인해 일자리가
+HG-RT-0039	digit_letter	www.gimje.go.kr	L3	4	2	1	0	0	3	3	board	3	0.0	◆ 노후대비, 재취업 준비 사회.복지사 장학 혜택받자 ◆ 안녕하세요! 이용수 학습설계 팀장입니다. OlO 0000 4869 문의 바랍니다!! 고등학교만 졸업을 하셨어도 취득은 가능한데요. 모든 수강, 시험, 과제물,
+HG-RT-0040	digit_letter	www.gimje.go.kr	L3	4	2	1	0	0	3	3	board	3	0.0	◆ 노후대비, 재취업 준비 보육.교사 장학 혜택받자 ◆ 안녕하세요! 이용수 학습설계 팀장입니다. OlO 0000 4869 문의 바랍니다!! 고등학교만 졸업을 하셨어도 취득은 가능한데요. 직장인이나 주부들도 쉽게 취득
+HG-RT-0041	hangul_lookalike	www.gimje.go.kr	L3	4	2	1	0	0	3	3	board	4	0.0	■ 노후 대비와 재취업을 동시에 준비합시다 ■ 이름 : 김기찬 직급 : 팀장 소속 : 학습,설계팀 번호 : 010 – 7921 – 8428 로 문의 주시면 친절히 상담해 드리겠습니다. 학점,은행제를 통해 ㅈr격증 취
+HG-RT-0042	digit_letter	www.gimje.go.kr	L3	4	2	1	0	0	3	3	board	3	0.0	◆ 사회.복지사 장학 혜택받고 노후대비, 재취업 준비 ◆ 안녕하세요! 이용수 학습설계 팀장입니다. OlO 0000 4869 문의 바랍니다!! 고등학교만 졸업을 하셨어도 취득은 가능한데요. 모든 수강, 시험, 과제물,
+HG-RT-0044	digit_letter	gwangjuguide.or.kr	L3	4	2	1	0	0	3	4	board	4	0.0	렌즈카드▶Ol0＊0000＊88l7＊목카드▶Ol0＊0000＊88l7 * 표시카드
+HG-RT-0045	hangul_lookalike	gwangjuguide.or.kr	L3	4	2	1	0	0	3	4	board	4	0.02	대출매니저365 ㅋr톡dcm365 작업대출전문 작업대출 24시 언제나 가능하고 언제든 상담해드립니다 문의주세…
+HG-RT-0046	enclosed_alnum	counselpsy.hannam.ac.kr	L1	2	0	1	0	0	1	4	board	5	0.222	80bet가입 ㅌㄹ𝐡𝐨𝐧𝐠𝐛𝐨𝟖𝟐𝟖𝟖 인사동키스방 【광고대행 @HONGBO8288】 면목역쓰리썸
+HG-RT-0047	digit_letter	counselpsy.hannam.ac.kr	L2	3	2	0	0	0	2	4	board	2	0.0	콘텐츠이용료현금화 [o1o 0000. 9848 ] 모빌카드현금화소액결제티켓
+HG-RT-0048	hangul_lookalike	counselpsy.hannam.ac.kr	L3	4	2	1	0	0	3	4	board	4	0.0	한게임PC환전상 ⌈ㅋr툑R3333⌋ 한게임PC머니 한게임로우바둑이환전상시세업체 한게임모바일캐시환전사이트
+HG-RT-0049	digit_letter	counselpsy.hannam.ac.kr	L2	3	2	0	0	0	2	4	board	2	0.0	콘텐츠이용료현금화 [o1o 0000. 9848 ] 모빌리언스카드현금화콘텐츠이용료
+HG-RT-0050	enclosed_alnum	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	3	0.826	명일일본출장 텔레 ⒟⒞⒦⒤⒨❽❽❽ 폰⁰⑤⁰ ⁰⓪⁰⁰ ⁹⓪⁶⁰
+HG-RT-0051	hangul_lookalike	counselpsy.hannam.ac.kr	L3	4	2	1	0	0	3	4	board	3	0.0	한게임포커머니상 ㅋr툑T9999 한게임 머니 구매 한게임사천성 한게임 머니 상
+HG-RT-0052	enclosed_alnum	counselpsy.hannam.ac.kr	L1	2	0	1	0	0	1	4	board	4	0.214	김천출장샵출장샵 【ㄹ ㅏ인✅ 𝕜𝕜𝕘𝕜𝟝𝟚】 방문만남다방콜걸키스방
+HG-RT-0053	enclosed_alnum	counselpsy.hannam.ac.kr	L2	3	0	1	0	1	2	4	board	4	0.188	여수조건만남출장마사지 【L I N E♥️ 𝕜𝕜𝕘𝕜𝟝𝟚】 출장안마일일데이트업소
+HG-RT-0054	digit_letter	counselpsy.hannam.ac.kr	L2	3	2	0	0	0	2	4	board	2	0.0	소액결제현금화 [01o 0000 . 9848] 토스후불결제현금화모빌리언스카드현금화
+HG-RT-0055	enclosed_alnum	counselpsy.hannam.ac.kr	L3	4	1	1	0	1	3	4	board	3	0.094	오피마트 밤밤.🅒🅞🅜 발산역핸플 여의도쓰리썸 오피타운쩜오 논현쓰리썸
+HG-RT-0056	enclosed_alnum	counselpsy.hannam.ac.kr	L3	4	1	1	0	1	3	4	board	3	0.075	부산달리기 밤밤.🅒🅞🅜 방배역가라오케 흑석역건마 오피파라다이스일본인출장 장안아로마
+HG-RT-0057	fullwidth	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	4	0.792	갈현동일본출장 텔레 ⓓⓒⓚⓘⓜ➇➇➇ 폰０５０ ００００ ９０６０
+HG-RT-0058	enclosed_alnum	counselpsy.hannam.ac.kr	L2	3	0	1	0	1	2	4	board	4	0.182	거제출장안마조건만남 【line☎️ 𝕞𝕨𝕨𝕞𝟠𝟠】 출장마사지출장홈타이키스방
+HG-RT-0059	enclosed_alnum	counselpsy.hannam.ac.kr	L2	3	0	1	0	1	2	4	board	5	0.182	남원출장마사지출장마사지 【ㄹ ㅏ 인♥️ 𝕜𝕜𝕘𝕜𝟝𝟚】 미시VIP마사지예약만남
+HG-RT-0060	digit_letter	counselpsy.hannam.ac.kr	L2	3	2	0	0	0	2	4	board	2	0.0	컨텐츠이용료현금화 [01o 0000 . 9848] 소액결제티켓모빌카드현금화
+HG-RT-0061	enclosed_alnum	counselpsy.hannam.ac.kr	L2	3	0	1	0	1	2	4	board	4	0.176	익산출장마사지조건만남 【line✅ 𝕜𝕜𝕘𝕜𝟝𝟚】 조건만남출장홈타이성인미팅
+HG-RT-0062	fullwidth	counselpsy.hannam.ac.kr	L2	3	0	1	0	1	2	4	board	3	0.084	사다리게임솔루션 임대 ㅌ＠ｅｖｏ５８８７ 라이브스포츠 솔루션 대여 라이브바카라 솔루션 프라그마틱 제작 사다리 솔루션 라이브스포츠 솔루션 분양 실시간바카라 솔루션 대여 카지노 사이트 성피 분양
+HG-RT-0063	cyrillic_greek	counselpsy.hannam.ac.kr	L3	4	1	1	0	1	3	4	board	6	0.122	텐카지노핑돈 【문의 ㅌ @HONGBO8288】 창동코스튬 ㅌㄹнσиgвσ8288 수유쓰리썸
+HG-RT-0064	fullwidth	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	4	0.731	응암일본출장마사지 텔레 ⓓⓒⓚⓘⓜ➇➇➇ 폰０⑤０ ０⓪０⓪ ９０⑥０
+HG-RT-0065	fullwidth	counselpsy.hannam.ac.kr	L2	3	0	1	0	1	2	4	board	3	0.082	오프매장솔루션 대여 ㅌ＠ｅｖｏ５８８７ 토토 솔루션 분양 홀덤 솔루션 라이브토지노 사이트 대여 라이브슬롯 사이트 대여 사다리게임 솔루션 임대 토토사이트 제작 프라그마틱 솔루션 임대 토지노 솔루션 제작
+HG-RT-0066	fullwidth	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	3	0.679	갈현동일본안마 텔 ｄｃｋｉｍ❽❽❽ 폰０５０ ００００ ９０６０
+HG-RT-0067	hangul_lookalike	counselpsy.hannam.ac.kr	L3	4	2	1	0	0	3	4	board	4	0.0	한게임클래식환전상 ⊟ㅋr툑V8888⊟ 한게임로얄홀덤머니환전추천 한게임머니환전상사이트 한게임바둑이캐시환전상안전
+HG-RT-0068	enclosed_alnum	counselpsy.hannam.ac.kr	L1	2	0	1	0	0	1	4	board	5	0.238	술탄카지노평생주소 【H】【O】【N】【G】【B】【O】【8】【2】【8】【8】 온천장역노브라셔츠룸 ㅌㄹⓗⓞⓝⓖⓑⓞ⑧②⑧⑧ 안암일본인출장
+HG-RT-0069	enclosed_alnum	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	5	0.286	올레벳제포 【문의 ㅌ @HONGBO8288】 강남역텐프로 ㅌㄹ🅗🅞🅝🅖🅑🅞➑➋➑➑ 구서룸싸롱
+HG-RT-0070	fullwidth	counselpsy.hannam.ac.kr	L1	2	0	1	0	0	1	4	board	5	0.381	산타카지노먹튀 ㅌㄹ𝖍𝖔𝖓𝖌𝖇𝖔ՑշՑՑ 강남대로룸싸롱 ｈｏｎｇｂｏ８２８８ 창동백마오피
+HG-RT-0071	digit_letter	counselpsy.hannam.ac.kr	L2	3	2	0	0	0	2	4	board	2	0.0	컨텐츠이용료현금화 [01o 0000 . 9848] 모빌카드현금화모빌리언스카드현금화
+HG-RT-0072	fullwidth	counselpsy.hannam.ac.kr	L1	2	0	1	0	0	1	4	board	3	0.679	합정동일본출장 텔 ｄｃｋｉｍ⑧⑧⑧ 폰⓪５⓪ ００⓪０ ９⓪６⓪
+HG-RT-0073	enclosed_alnum	counselpsy.hannam.ac.kr	L1	2	0	1	0	0	1	4	board	4	0.41	식스검증 @𝕙𝕠𝕟𝕘𝕓𝕠𝟠𝟚𝟠𝟠 중동백마출장 ㅌㄹ𝖍𝖔𝖓𝖌𝖇𝖔ՑշՑՑ 용호동유흥주점
+HG-RT-0074	enclosed_alnum	counselpsy.hannam.ac.kr	L2	3	1	0	0	1	2	4	board	2	0.094	경달 밤밤.🅲🅾🅼 남포역백마오피 신림일본인오피 인천유흥가가라오케 좌동립카페
+HG-RT-0075	fullwidth	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	5	0.633	신원동일본마사지 텔레 ᴅᴄᴋɪᴍ⑧⑧⑧ 폰⓪５⓪ ００⓪０ ９⓪６⓪
+HG-RT-0076	hangul_lookalike	counselpsy.hannam.ac.kr	L3	4	2	1	0	0	3	4	board	4	0.0	한게임포커머니상 ╪ㅋr툑V8888╪ 한게임환전상안전 한게임카지노캐시환전상판매추천 한게임모바일환전상
+HG-RT-0077	enclosed_alnum	counselpsy.hannam.ac.kr	L1	2	0	1	0	0	1	4	board	5	0.256	베팅룸추천코드 ㅌㄹⓗⓞⓝⓖⓑⓞ⑧②⑧⑧ 사직비키니룸 【문의 ㅌ @HONGBO8288】 잠실역오피출장
+HG-RT-0078	partial_token	counselpsy.hannam.ac.kr	L3	4	1	1	0	1	3	4	board	4	0.146	스피드카지노신고 【H】【O】【N】【G】【B】【O】【8】【2】【8】【8】 방배역스웨디시1인샵 🅷🅾🅽🅶🅱🅾8288 서대문구하이퍼블릭
+HG-RT-0079	fullwidth	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	4	0.696	건대일본마사지 텔 ⒟⒞⒦⒤⒨888 폰０⑤０ ０⓪０⓪ ９０⑥０
+HG-RT-0080	enclosed_alnum	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	5	0.209	유니88제포 ㅌㄹ𝖍𝖔𝖓𝖌𝖇𝖔ՑշՑՑ 합정일본인오피 ㅌㄹⱧØ₦₲฿Ø8288 구로구미러룸풀싸롱
+HG-RT-0081	enclosed_alnum	counselpsy.hannam.ac.kr	L1	2	0	0	0	1	1	4	board	2	0.088	에스코트 밤밤.𝓬𝓸𝓶 마곡백마오피 연남출장마사지 경달쓰리썸 방배역오피출장
+HG-RT-0083	enclosed_alnum	counselpsy.hannam.ac.kr	L2	3	0	1	0	1	2	4	board	4	0.176	의왕출장샵출장홈타이 【LINE♥️ 𝕜𝕜𝕘𝕜𝟝𝟚】 다방출장녀다방티켓데이트대행
+HG-RT-0085	hangul_lookalike	counselpsy.hannam.ac.kr	L3	4	2	1	0	0	3	4	board	4	0.0	한게임피씨머니상 ✫ㅋr툑T9999✫ 한게임모바일캐시환전안전 한게임홀덤머니상환전추천 한게임바둑이환전상시세
+HG-RT-0086	enclosed_alnum	counselpsy.hannam.ac.kr	L2	3	0	1	0	1	2	4	board	4	0.176	정읍출장안마조건만남 【L I N E✅ 𝕞𝕨𝕨𝕞𝟠𝟠】 호텔출장성인소개팅출장홈타이
+HG-RT-0092	partial_token	counselpsy.hannam.ac.kr	L3	4	1	1	0	1	3	4	board	5	0.162	파라오슬롯핑돈 【문의 ㅌ @HONGBO8288】 청담사거리호빠 🅷🅾🅽🅶🅱🅾8288 선릉역코스튬
+HG-RT-0093	enclosed_alnum	counselpsy.hannam.ac.kr	L2	3	0	1	0	1	2	4	board	3	0.182	용인출장마사지출장샵 【라인⭐ 𝕞𝕨𝕨𝕞𝟠𝟠】 발리마사지조건만남동남아아가씨
+HG-RT-0095	hangul_lookalike	counselpsy.hannam.ac.kr	L3	4	2	1	0	0	3	4	board	4	0.0	한게임머니구매 ✸⃝ㅋr툑R3333✸⃝ 한게임카지노머니상팝니다안전 한게임고스톱캐시팝니다추천 한게임모바일머니상구매사이트
+HG-RT-0096	partial_token	counselpsy.hannam.ac.kr	L1	2	0	1	0	0	1	4	board	5	0.216	김포출장홈타이출장홈타이 【liⓝⓔ☎️ 𝕞𝕨𝕨𝕞𝟠𝟠】 로미로미마사지안마방로미로미마사지
+HG-RT-0097	enclosed_alnum	counselpsy.hannam.ac.kr	L1	2	0	1	0	0	1	4	board	4	0.2	광양출장안마출장샵 【line☎️ 𝕞𝕨𝕨𝕞𝟠𝟠】 안마방만남대행만남대행
+HG-RT-0098	enclosed_alnum	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	3	0.792	대흥일본출장안마 텔 ⓓⓒⓚⓘⓜ➑➑➑ 폰⓪⑤⓪ ⓪⓪⓪⓪ ⑨⓪⑥⓪
+HG-RT-0099	enclosed_alnum	counselpsy.hannam.ac.kr	L2	3	0	1	0	1	2	4	board	4	0.188	부평출장안마출장안마 【Line♥️ 𝕞𝕨𝕨𝕞𝟠𝟠】 호텔출장조건만남조건만남
+HG-RT-0100	fullwidth	counselpsy.hannam.ac.kr	L2	3	0	1	0	1	2	4	board	4	0.085	라이브슬롯사이트 대여 ㅌ＠ｅｖｏ５８８７ 카지노API 임대 라이브토토 사이트 분양 토지노 솔루션 임대 라이브스포츠솔루션 임대 카지노 사이트 임대 에볼사이트 파워볼 솔루션 대여 카지노API
+HG-RT-0101	enclosed_alnum	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	4	0.571	메이비카지노통협 ⓗⓞⓝⓖⓑⓞ⑧②⑧⑧ 강북구일본오피 ㅌㄹ🅗🅞🅝🅖🅑🅞➑➋➑➑ 신도림역대학생휴게텔
+HG-RT-0105	partial_token	counselpsy.hannam.ac.kr	L1	2	0	1	0	0	1	4	board	5	0.267	상주출장샵출장홈타이 【liⓝⓔ☎️ 𝕜𝕜𝕘𝕜𝟝𝟚】 출장만남티켓다방커피배달
+HG-RT-0109	hangul_lookalike	counselpsy.hannam.ac.kr	L3	4	2	1	0	0	3	4	board	4	0.0	한게임피씨머니상 ❊ㅋr툑K3333❊ 한게임고스톱머니팝니다안전 한게임카지노머니판매안전 한게임고스돕머니상삽니다안전
+HG-RT-0110	cyrillic_greek	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	6	0.267	천안조건만남출장안마 【ι i nⓔ✅ 𝕞𝕨𝕨𝕞𝟠𝟠】 연애다방아가씨페이만남
+HG-RT-0111	enclosed_alnum	counselpsy.hannam.ac.kr	L1	2	0	1	0	0	1	4	board	4	0.25	조이카지노검증 @𝕙𝕠𝕟𝕘𝕓𝕠𝟠𝟚𝟠𝟠 북구건마 【H】【O】【N】【G】【B】【O】【8】【2】【8】【8】 혜화역노브라셔츠룸
+HG-RT-0114	hangul_lookalike	counselpsy.hannam.ac.kr	L3	4	2	1	0	0	3	4	board	3	0.0	한게임포커머니상 ㅋr툑W5555 한게임 피씨 환전상 한게임더블맞고 한게임 머니 상
+HG-RT-0115	fullwidth	counselpsy.hannam.ac.kr	L2	3	0	1	0	1	2	4	board	3	0.078	사설카지노솔루션 분양 ㅌ＠ｅｖｏ５８８７ 라이브토토사이트 제작 실시간슬롯사이트 임대 라이브슬롯솔루션 에볼루션사이트 임대 실시간슬롯사이트 대여 실시간스포츠 솔루션 대여 사다리 솔루션 분양 토지노사이트
+HG-RT-0117	enclosed_alnum	counselpsy.hannam.ac.kr	L3	4	1	1	0	1	3	4	board	3	0.073	남자들의수다 밤밤.🅒🅞🅜 중랑구백마오피 용산구룸싸롱 광주달리기노브라셔츠룸 구서노래빠
+HG-RT-0118	partial_token	counselpsy.hannam.ac.kr	L1	2	0	1	0	0	1	4	board	5	0.316	문카지노검증 ㅌㄹ𝘩𝘰𝘯𝘨𝘣𝘰8288 동작구하이터치룸 🄷🄾🄽🄶🄱🄾8288 삼성타운러시안바
+HG-RT-0125	partial_token	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	3	0.429	겜블시티검증 🄷🄾🄽🄶🄱🄾8288 영등포역러시안클럽 🅷🅾🅽🅶🅱🅾8288 사직노래방
+HG-RT-0126	hangul_lookalike	counselpsy.hannam.ac.kr	L3	4	2	1	0	0	3	4	board	3	0.0	한게임PC머니상 ㅋr툑K3333 한게임 머니 한게임더블맞고 한게임 머니 구매
+HG-RT-0132	hangul_lookalike	counselpsy.hannam.ac.kr	L3	4	2	1	0	0	3	4	board	3	0.0	한게임모바일환전상 ㅋr툑K3333 한게임포커머니환전사이트 한게임맞고환전상시세상사이트 한게임코인머니환전안전
+HG-RT-0133	fullwidth	counselpsy.hannam.ac.kr	L1	2	0	1	0	0	1	4	board	4	0.25	멜론슬롯검증 ｈｏｎｇｂｏ８２８８ 수유러시안클럽 h⃞ o⃞ n⃞ g⃞ b⃞ o⃞ 8⃞ 2⃞ 8⃞ 8⃞ 송파구백마출장
+HG-RT-0139	hangul_lookalike	counselpsy.hannam.ac.kr	L3	4	2	1	0	0	3	4	board	3	0.0	한게임피씨머니상 ㅋr툑W5555 한게임포커환전상판매추천 한게임홀덤머니시세사이트 한게임PC캐시팝니다안전
+HG-RT-0143	cyrillic_greek	counselpsy.hannam.ac.kr	L3	4	1	1	0	1	3	4	board	6	0.116	벳스핀먹튀확정 【광고대행 @HONGBO8288】 중구스파 ㅌㄹнσиgвσ8288 온천장역스파
+HG-RT-0144	hangul_lookalike	counselpsy.hannam.ac.kr	L3	4	2	1	0	0	3	4	board	3	0.0	한게임머니판매 ㅋr툑V8888 한게임 포커 머니상 한게임포커클래식 한게임 머니 구매
+HG-RT-0145	fullwidth	counselpsy.hannam.ac.kr	L2	3	0	1	0	1	2	4	board	4	0.084	프라그마틱 솔루션 ㅌ＠ｅｖｏ５８８７ 사설토토 사이트 라이브슬롯솔루션 분양 실시간토토사이트 대여 라이브카지노솔루션 임대 성피 제작 사설카지노사이트 임대 라이브스포츠솔루션 바카라API
+HG-RT-0148	hangul_lookalike	counselpsy.hannam.ac.kr	L3	4	2	1	0	0	3	4	board	3	0.0	한게임클래식환전상 ㅋr툑G3333 한게임클래식 환전상 한게임오목 한게임 환전 상
+HG-RT-0152	hangul_lookalike	counselpsy.hannam.ac.kr	L3	4	2	1	0	0	3	4	board	4	0.0	한게임환전상 ❅⃤ㅋr툑K3333❅⃤ 한게임머니상환전상 한게임바둑이머니판매추천 한게임PC캐시환전상
+HG-RT-0153	hangul_lookalike	counselpsy.hannam.ac.kr	L3	4	2	1	0	0	3	4	board	4	0.0	한게임클래식환전상 ✦⃟ㅋr툑T9999✦⃟ 한게임코인환전상시세상안전 한게임클래식캐시머니업체 한게임카지노머니팝니다업체
+HG-RT-0156	cyrillic_greek	counselpsy.hannam.ac.kr	L3	4	1	1	0	1	3	4	board	5	0.065	진주출장샵출장안마 【ι i nⓔ✅ bba104】 출장만남출장마사지골프동행
+HG-RT-0160	fullwidth	counselpsy.hannam.ac.kr	L1	1	0	0	0	0	0	4	board	2	0.655	안암동일본마사지 텔 ｄｃｋｉｍ８８８ 폰０５０ ００００ ９０６０
+HG-RT-0161	enclosed_alnum	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	3	0.792	논현동일본출장 텔레 ⒟⒞⒦⒤⒨❽❽❽ 폰⓪❺⓪ ⓿⓿⓪⓿ ❾⓪❻⓪
+HG-RT-0164	cyrillic_greek	counselpsy.hannam.ac.kr	L3	4	1	1	0	1	3	4	board	6	0.111	마월추천 ㅌㄹнσиgвσ8288 용산러시안클럽 【문의 ㅌ @HONGBO8288】 강북구대학생휴게텔
+HG-RT-0168	hangul_lookalike	counselpsy.hannam.ac.kr	L3	4	2	1	0	0	3	4	board	3	0.0	한게임PC환전상 ㅋr툑R3333 한게임 머니 시세 한게임하이로우 한게임 포커 머니 상
+HG-RT-0169	partial_token	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	3	0.414	도쿄카지노인증 🅷🅾🅽🅶🅱🅾8288 남대문시장하이퍼블릭 🅷🅾🅽🅶🅱🅾8288 회기하퍼
+HG-RT-0173	hangul_lookalike	counselpsy.hannam.ac.kr	L3	4	2	1	0	0	3	4	board	4	0.0	한게임포커머니상 ◤ㅋr툑G3333◤ 한게임포커머니삽니다사이트 한게임홀덤머니가격안전 한게임모바일머니상판매추천
+HG-RT-0174	enclosed_alnum	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	4	0.517	미아동일본마사지 텔 ᴅᴄᴋɪᴍ⁸⁸⁸ 폰₀₅₀ 0000 ₉₀₆₀
+HG-RT-0175	fullwidth	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	4	0.792	신천동일본출장 텔레 ⓓⓒⓚⓘⓜ➑➑➑ 폰⓪５⓪ ００⓪０ ９⓪６⓪
+HG-RT-0176	enclosed_alnum	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	3	0.792	북아현동일본출장 텔 ⓓⓒⓚⓘⓜ➇➇➇ 폰⓪❺⓪ ⓿⓿⓪⓿ ❾⓪❻⓪
+HG-RT-0178	fullwidth	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	4	0.258	중림동일본출장마사지 텔 ｄｃｋｉｍ➑➑➑ 폰050 0000 9060
+HG-RT-0182	hangul_lookalike	counselpsy.hannam.ac.kr	L3	4	2	1	0	0	3	4	board	4	0.0	한게임PC환전상 ╔ㅋr툑T9999╗ 한게임고스돕캐시삽니다 한게임카지노환전상가격업체 한게임로얄홀덤캐시머니판매추천
+HG-RT-0183	hangul_lookalike	counselpsy.hannam.ac.kr	L3	4	2	1	0	0	3	4	board	4	0.0	한게임환전상 ❖ㅋr툑T9999❖ 한게임섯다머니상환전상업체 한게임럭키랜드캐시머니상판매업체 한게임7포커머니상
+HG-RT-0184	partial_token	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	4	0.552	암사동일본마사지 텔 ᴅᴄᴋɪᴍ888 폰⁰⁵⁰ ⁰⁰⁰⁰ ⁹⁰⁶⁰
+HG-RT-0188	fullwidth	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	5	0.655	수색일본출장안마 텔 ᴅᴄᴋɪᴍ⁸⁸⁸ 폰⓪５⓪ ００⓪０ ９⓪６⓪
+HG-RT-0189	partial_token	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	5	0.5	신원일본출장안마 텔레 ᴅᴄᴋɪᴍ888 폰⓿⑤⓿ ⓪⓪0⓪ ⑨⓿⑥⓿
+HG-RT-0190	fullwidth	counselpsy.hannam.ac.kr	L1	2	0	1	0	0	1	4	board	5	0.5	마포일본출장안마 텔레 ｄｃｋｉｍ⑧⑧⑧ 폰₀₅₀ 0000 ₉₀₆₀
+HG-RT-0191	hangul_lookalike	counselpsy.hannam.ac.kr	L3	4	2	1	0	0	3	4	board	3	0.0	한게임모바일환전상 ㅋr툑W5555 한게임 피씨 환전상 한게임섯다&맞고 한게임 머니 팝니다
+HG-RT-0194	fullwidth	counselpsy.hannam.ac.kr	L1	2	0	1	0	0	1	4	board	3	0.704	효창동일본출장마사지 텔레 ⓓⓒⓚⓘⓜ８８８ 폰０⑤０ ０⓪０⓪ ９０⑥０
+HG-RT-0197	hangul_lookalike	counselpsy.hannam.ac.kr	L3	4	2	1	0	0	3	4	board	4	0.0	한게임머니상 ⊙ㅋr툑V8888⊙ 한게임섯다머니팝니다 한게임카지노환전상구매업체 한게임모바일머니상시세사이트
+HG-RT-0199	cyrillic_greek	counselpsy.hannam.ac.kr	L3	4	1	1	0	1	3	4	board	6	0.109	하이카지노후기 ㅌㄹнσиgвσ8288 동래구호스트 【광고대행 @HONGBO8288】 명륜일본인오피
+HG-RT-0200	hangul_lookalike	counselpsy.hannam.ac.kr	L3	4	2	1	0	0	3	4	board	4	0.0	한게임환전상 ✤ㅋr툑K3333✤ 한게임머니상시세상사이트 한게임7포커환전상시세추천 한게임클래식캐시구매
+HG-RT-0203	cyrillic_greek	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	6	0.455	7번가후기 ㅌㄹⓗⓞⓝⓖⓑⓞ⑧②⑧⑧ 길동안마방 ㅌㄹнσиgвσ8288 북구코스튬
+HG-RT-0207	hangul_lookalike	counselpsy.hannam.ac.kr	L3	4	2	1	0	0	3	4	board	4	0.0	김해출장마사지출장홈타이 【ㄹr 인♥️ bba104】 콜연애개인콜
+HG-RT-0208	hangul_lookalike	counselpsy.hannam.ac.kr	L3	4	2	1	0	0	3	4	board	4	0.0	한게임클래식환전상 ◱ㅋr툑R3333◱ 한게임맞고캐시팝니다추천 한게임7포커머니환전사이트 한게임로얄홀덤머니상판매안전
+HG-RT-0211	fullwidth	counselpsy.hannam.ac.kr	L1	2	0	1	0	0	1	4	board	3	0.655	역촌일본마사지 텔레 ｄｃｋｉｍ８８８ 폰０⑤０ ０⓪０⓪ ９０⑥０
+HG-RT-0212	cyrillic_greek	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	6	0.429	호빵맨평생주소 ⓗⓞⓝⓖⓑⓞ⑧②⑧⑧ 장전역노래방 ㅌㄹнσиgвσ8288 창동백마출장
+HG-RT-0214	partial_token	counselpsy.hannam.ac.kr	L2	3	0	1	0	1	2	4	board	4	0.033	계룡출장안마출장샵 【liⓝe♥️ GMNK36】 만남대행티켓다방골프동행
+HG-RT-0215	enclosed_alnum	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	3	0.731	신사동은평일본마사지 텔 ⓓⓒⓚⓘⓜ❽❽❽ 폰⓪❺⓪ ⓿⓿⓪⓿ ❾⓪❻⓪
+HG-RT-0216	enclosed_alnum	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	5	0.643	천호일본안마 텔레 ᵈᶜᵏⁱᵐ⁸⁸⁸ 폰⓿⑤⓿ ⓪⓪0⓪ ⑨⓿⑥⓿
+HG-RT-0217	enclosed_alnum	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	3	0.864	종로일본출장 텔 ⓓⓒⓚⓘⓜ❽❽❽ 폰⓪⑤⓪ ⓪⓪⓪⓪ ⑨⓪⑥⓪
+HG-RT-0218	fullwidth	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	4	0.826	신수동일본안마 텔 ⓓⓒⓚⓘⓜ➇➇➇ 폰０５０ ００００ ９０６０
+HG-RT-0220	enclosed_alnum	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	4	0.652	세곡일본안마 텔레 ⓓⓒⓚⓘⓜ➑➑➑ 폰₀₅₀ 0000 ₉₀₆₀
+HG-RT-0225	fullwidth	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	4	0.258	구의동일본출장마사지 텔 ｄｃｋｉｍ❽❽❽ 폰050 0000 9060
+HG-RT-0232	hangul_lookalike	counselpsy.hannam.ac.kr	L3	4	2	1	0	0	3	4	board	4	0.0	부평출장마사지조건만남 【ㄹr 인⭐ bba104】 개인콜키스방방문만남
+HG-RT-0238	enclosed_alnum	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	4	0.75	용답동일본안마 텔레 ⓓⓒⓚⓘⓜ➑➑➑ 폰⓿⑤⓿ ⓪⓪0⓪ ⑨⓿⑥⓿
+HG-RT-0243	enclosed_alnum	counselpsy.hannam.ac.kr	L1	2	0	1	0	0	1	4	board	4	0.625	월곡동일본출장 텔레 ⓓⓒⓚⓘⓜ⑧⑧⑧ 폰₀₅₀ 0000 ₉₀₆₀
+HG-RT-0250	enclosed_alnum	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	5	0.6	용답동일본마사지 텔레 ᴅᴄᴋɪᴍ❽❽❽ 폰⓿⑤⓿ ⓪⓪0⓪ ⑨⓿⑥⓿
+HG-RT-0253	partial_token	counselpsy.hannam.ac.kr	L2	3	0	1	0	1	2	4	board	4	0.062	통영출장홈타이출장마사지 【ⓛ ⓘN E⭐ YKM96】 출장홈타이안마방파트너대행
+HG-RT-0255	fullwidth	counselpsy.hannam.ac.kr	L1	2	0	1	0	0	1	4	board	4	0.633	창신동일본마사지 텔레 ｄｃｋｉｍ⑧⑧⑧ 폰⁰⑤⁰ ⁰⓪⁰⁰ ⁹⓪⁶⁰
+HG-RT-0256	enclosed_alnum	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	3	0.826	마장일본안마 텔레 ⓓⓒⓚⓘⓜ➇➇➇ 폰⓪❺⓪ ⓿⓿⓪⓿ ❾⓪❻⓪
+HG-RT-0259	enclosed_alnum	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	3	0.633	사근동일본마사지 텔레 ᴅᴄᴋɪᴍ⁸⁸⁸ 폰⁰⁵⁰ ⁰⁰⁰⁰ ⁹⁰⁶⁰
+HG-RT-0265	fullwidth	counselpsy.hannam.ac.kr	L1	2	0	1	0	0	1	4	board	3	0.679	응암일본출장 텔레 ｄｃｋｉｍ⑧⑧⑧ 폰０５０ ００００ ９０６０
+HG-RT-0266	enclosed_alnum	counselpsy.hannam.ac.kr	L2	3	0	1	0	1	2	4	board	4	0.148	김해조건만남출장샵 【ⓛ ⓘⓝⓔ⭐ GMNK36】 골프동행티켓다방조건만남
+HG-RT-0277	fullwidth	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	4	0.864	신촌일본출장 텔 ⓓⓒⓚⓘⓜ➑➑➑ 폰０５０ ００００ ９０６０
+HG-RT-0280	fullwidth	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	4	0.621	광화문일본출장 텔레 ｄｃｋｉｍ⑧⑧⑧ 폰⓿⑤⓿ ⓪⓪0⓪ ⑨⓿⑥⓿
+HG-RT-0285	enclosed_alnum	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	3	0.75	합정동일본출장 텔레 ⒟⒞⒦⒤⒨⑻⑻⑻ 폰⓿⑤⓿ ⓪⓪0⓪ ⑨⓿⑥⓿
+HG-RT-0289	hangul_lookalike	counselpsy.hannam.ac.kr	L3	4	2	1	0	0	3	4	board	4	0.0	광양출장홈타이출장홈타이 【ㄹr 인♥️ bba104】 파트너대행여대생다방콜걸
+HG-RT-0292	partial_token	counselpsy.hannam.ac.kr	L2	3	0	1	0	1	2	4	board	4	0.062	구리조건만남조건만남 【liⓝⓔ☎️ bba104】 비즈니스동행출장안마호텔만남
+HG-RT-0294	enclosed_alnum	counselpsy.hannam.ac.kr	L1	2	0	1	0	0	1	4	board	3	0.792	방배동일본마사지 텔 ⓓⓒⓚⓘⓜ⑧⑧⑧ 폰⁰⑤⁰ ⁰⓪⁰⁰ ⁹⓪⁶⁰
+HG-RT-0297	fullwidth	counselpsy.hannam.ac.kr	L1	2	0	1	0	0	1	4	board	5	0.484	방이동일본출장마사지 텔 ｄｃｋｉｍ⑧⑧⑧ 폰₀₅₀ 0000 ₉₀₆₀
+HG-RT-0298	hangul_lookalike	counselpsy.hannam.ac.kr	L3	4	2	1	0	0	3	4	board	4	0.0	영천출장샵조건만남 【ㄹr 인⭐ GMNK36】 유흥업소만남대행호텔만남
+HG-RT-0299	cyrillic_greek	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	6	0.429	888가입 ㅌㄹⓗⓞⓝⓖⓑⓞ⑧②⑧⑧ 이수역룸싸롱 ㅌㄹнσиgвσ8288 상수유흥주점
+HG-RT-0306	hangul_lookalike	counselpsy.hannam.ac.kr	L3	4	2	1	0	0	3	4	board	4	0.0	한게임모바일환전상 ⊠ㅋr툑R3333⊠ 한게임포커머니사이트 한게임카지노환전상환전추천 한게임포커머니구매
+HG-RT-0309	cyrillic_greek	counselpsy.hannam.ac.kr	L3	4	1	1	0	1	3	4	board	5	0.061	영주출장샵출장마사지 【ι i nⓔ✅ GMNK36】 마사지만남대행로미로미마사지
+HG-RT-0310	fullwidth	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	4	0.731	월곡동일본출장안마 텔레 ⒟⒞⒦⒤⒨❽❽❽ 폰０５０ ００００ ９０６０
+HG-RT-0312	fullwidth	counselpsy.hannam.ac.kr	L1	2	0	1	0	0	1	4	board	5	0.613	평창동일본출장마사지 텔 ᵈᶜᵏⁱᵐ⁸⁸⁸ 폰０⑤０ ０⓪０⓪ ９０⑥０
+HG-RT-0325	hangul_lookalike	counselpsy.hannam.ac.kr	L3	4	2	1	0	0	3	4	board	3	0.0	한게임머니팝니다 ㅋr툑W5555 한게임 머니 한게임7포커 한게임 모바일 머니 상
+HG-RT-0327	fullwidth	counselpsy.hannam.ac.kr	L1	2	0	1	0	0	1	4	board	5	0.704	대조일본출장 텔 ᵈᶜᵏⁱᵐ⁸⁸⁸ 폰０⑤０ ０⓪０⓪ ９０⑥０
+HG-RT-0330	enclosed_alnum	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	5	0.621	북아현동일본출장 텔 ᵈᶜᵏⁱᵐ⁸⁸⁸ 폰⓿⑤⓿ ⓪⓪0⓪ ⑨⓿⑥⓿
+HG-RT-0331	fullwidth	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	3	0.826	평창동일본출장 텔 ⒟⒞⒦⒤⒨⑻⑻⑻ 폰⓪５⓪ ００⓪０ ９⓪６⓪
+HG-RT-0334	enclosed_alnum	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	4	0.75	염리동일본안마 텔레 ⓓⓒⓚⓘⓜ➑➑➑ 폰⓿⑤⓿ ⓪⓪0⓪ ⑨⓿⑥⓿
+HG-RT-0339	partial_token	counselpsy.hannam.ac.kr	L3	4	1	1	0	1	3	4	board	4	0.172	신천동일본마사지 텔 ᴅᴄᴋɪᴍ888 폰050 0000 9060
+HG-RT-0349	enclosed_alnum	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	4	0.633	자곡동일본마사지 텔레 ᴅᴄᴋɪᴍ⑧⑧⑧ 폰⁰⁵⁰ ⁰⁰⁰⁰ ⁹⁰⁶⁰
+HG-RT-0352	fullwidth	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	6	0.533	성수일본출장안마 텔레 ᴅᴄᴋɪᴍ888 폰⓪５⓪ ００⓪０ ９⓪６⓪
+HG-RT-0353	enclosed_alnum	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	3	0.818	건대일본출장 텔 ⓓⓒⓚⓘⓜ⑧⑧⑧ 폰⓿⑤⓿ ⓪⓪0⓪ ⑨⓿⑥⓿
+HG-RT-0364	enclosed_alnum	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	3	0.679	회현동일본안마 텔 ᴅᴄᴋɪᴍ❽❽❽ 폰⁰⁵⁰ ⁰⁰⁰⁰ ⁹⁰⁶⁰
+HG-RT-0365	hangul_lookalike	counselpsy.hannam.ac.kr	L3	4	2	1	0	0	3	4	board	4	0.0	한게임모바일환전상 ❂ㅋr툑G3333❂ 한게임포커머니상상안전 한게임바둑이머니상판매안전 한게임럭키랜드머니상가격안전
+HG-RT-0373	hangul_lookalike	counselpsy.hannam.ac.kr	L3	4	2	1	0	0	3	4	board	3	0.0	한게임럭키랜드머니상 ㅋr툑W5555 한게임클래식 환전상 한게임오목 한게임 피씨 환전 상
+HG-RT-0375	fullwidth	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	5	0.576	신사동은평일본출장안마 텔레 ᴅᴄᴋɪᴍ⁸⁸⁸ 폰０⑤０ ０⓪０⓪ ９０⑥０
+HG-RT-0384	hangul_lookalike	counselpsy.hannam.ac.kr	L3	4	2	1	0	0	3	4	board	4	0.0	한게임머니상 ⋆ㅋr툑K0000⋆ 한게임로얄홀덤캐시구매안전 한게임카지노캐시팝니다안전 한게임럭키랜드캐시머니상가격
+HG-RT-0398	hangul_lookalike	counselpsy.hannam.ac.kr	L3	4	2	1	0	0	3	4	board	4	0.0	한게임피씨환전상 ◐̸ㅋr툑K0000◑̸ 한게임고스돕머니구매안전 한게임로우바둑이머니안전 한게임맞고캐시환전상안전
+HG-RT-0399	enclosed_alnum	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	5	0.6	자곡동일본마사지 텔레 ᴅᴄᴋɪᴍ⁸⁸⁸ 폰⓿⑤⓿ ⓪⓪0⓪ ⑨⓿⑥⓿
+HG-RT-0401	fullwidth	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	4	0.76	서초동일본출장안마 텔 ⓓⓒⓚⓘⓜ➑➑➑ 폰⓪５⓪ ００⓪０ ９⓪６⓪
+HG-RT-0404	hangul_lookalike	counselpsy.hannam.ac.kr	L3	4	2	1	0	0	3	4	board	4	0.0	순천출장안마출장홈타이 【ㄹr 인♥️ bba104】 데이트대행출장홈타이예약만남
+HG-RT-0406	partial_token	counselpsy.hannam.ac.kr	L2	3	0	1	0	1	2	4	board	4	0.031	서산출장마사지조건만남 【liⓝe♥️ GMNK36】 개인방문만남비즈니스동행
+HG-RT-0408	enclosed_alnum	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	3	0.704	신천일본안마 텔 ᴅᴄᴋɪᴍ❽❽❽ 폰⁰⁵⁰ ⁰⁰⁰⁰ ⁹⁰⁶⁰
+HG-RT-0422	cyrillic_greek	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	6	0.357	원엑스벳제포 ㅌㄹнσиgвσ8288 대연가라오케 @𝕙𝕠𝕟𝕘𝕓𝕠𝟠𝟚𝟠𝟠 중구노브라셔츠룸
+HG-RT-0423	fullwidth	counselpsy.hannam.ac.kr	L1	2	0	1	0	0	1	4	board	3	0.826	금호일본출장 텔레 ⓓⓒⓚⓘⓜ⑧⑧⑧ 폰⓪５⓪ ００⓪０ ９⓪６⓪
+HG-RT-0430	fullwidth	counselpsy.hannam.ac.kr	L1	2	0	1	0	0	1	4	board	3	0.792	부암동일본출장 텔레 ⓓⓒⓚⓘⓜ⑧⑧⑧ 폰⓪５⓪ ００⓪０ ９⓪６⓪
+HG-RT-0432	partial_token	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	5	0.571	망우동일본출장 텔 ᴅᴄᴋɪᴍ888 폰⓪❺⓪ ⓿⓿⓪⓿ ❾⓪❻⓪
+HG-RT-0437	enclosed_alnum	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	3	0.704	옥수동일본출장마사지 텔레 ⓓⓒⓚⓘⓜ⁸⁸⁸ 폰⓪❺⓪ ⓿⓿⓪⓿ ❾⓪❻⓪
+HG-RT-0438	fullwidth	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	3	0.731	논현일본출장마사지 텔레 ⒟⒞⒦⒤⒨⑻⑻⑻ 폰０５０ ００００ ９０６０
+HG-RT-0446	fullwidth	counselpsy.hannam.ac.kr	L1	2	0	1	0	0	1	4	board	3	0.792	신수동일본안마 텔레 ⓓⓒⓚⓘⓜ⑧⑧⑧ 폰０５０ ００００ ９０６０
+HG-RT-0447	fullwidth	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	5	0.679	황학동일본안마 텔 ᴅᴄᴋɪᴍ❽❽❽ 폰⓪５⓪ ００⓪０ ９⓪６⓪
+HG-RT-0458	partial_token	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	5	0.533	서교동일본출장안마 텔 ᴅᴄᴋɪᴍ888 폰⓪❺⓪ ⓿⓿⓪⓿ ❾⓪❻⓪
+HG-RT-0460	hangul_lookalike	counselpsy.hannam.ac.kr	L3	4	2	1	0	0	3	4	board	4	0.0	한게임럭키랜드머니상 ◍⃝ㅋr툑K0000◍⃝ 한게임포커캐시머니상사이트 한게임홀덤캐시머니상판매안전 한게임코인머니상시세사이트
+HG-RT-0463	cyrillic_greek	counselpsy.hannam.ac.kr	L3	4	1	1	0	1	3	4	board	5	0.062	김포출장안마출장마사지 【ι i nⓔ✅ GMNK36】 방문만남출장녀출장마사지
+HG-RT-0471	hangul_lookalike	counselpsy.hannam.ac.kr	L3	4	2	1	0	0	3	4	board	3	0.0	한게임럭키랜드머니상 ㅋr툑G3333 한게임 클래식 머니상 한게임섯다&맞고 한게임 피씨 머니 상
+HG-RT-0483	fullwidth	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	5	0.679	번동일본출장 텔레 ᴅᴄᴋɪᴍ⁸⁸⁸ 폰０⑤０ ０⓪０⓪ ９０⑥０
+HG-RT-0499	enclosed_alnum	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	3	0.792	고덕일본마사지 텔레 ⒟⒞⒦⒤⒨❽❽❽ 폰⁰⁵⁰ ⁰⁰⁰⁰ ⁹⁰⁶⁰
+HG-RT-0500	hangul_lookalike	counselpsy.hannam.ac.kr	L3	4	2	1	0	0	3	4	board	4	0.0	경산출장마사지출장마사지 【ㄹr 인⭐ bba104】 안마방골프동행조건만남
+HG-RT-0506	enclosed_alnum	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	4	0.75	신수동일본출장 텔레 ⓓⓒⓚⓘⓜ⁸⁸⁸ 폰⓿⑤⓿ ⓪⓪0⓪ ⑨⓿⑥⓿
+HG-RT-0509	enclosed_alnum	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	4	0.64	창신동일본마사지 텔레 ⒟⒞⒦⒤⒨888 폰⓪❺⓪ ⓿⓿⓪⓿ ❾⓪❻⓪
+HG-RT-0511	enclosed_alnum	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	4	0.655	석관동일본출장 텔레 ᴅᴄᴋɪᴍ❽❽❽ 폰⓪⑤⓪ ⓪⓪⓪⓪ ⑨⓪⑥⓪
+HG-RT-0516	cyrillic_greek	counselpsy.hannam.ac.kr	L3	4	1	1	0	1	3	4	board	5	0.077	남양주출장샵출장안마 【ι i nⓔ✅ bba104】 개인미시유부녀
+HG-RT-0526	partial_token	counselpsy.hannam.ac.kr	L2	3	0	1	0	1	2	4	board	4	0.067	서귀포출장샵조건만남 【liⓝⓔ☎️ YKM96】 다방티켓여대생비즈니스동행
+HG-RT-0529	hangul_lookalike	counselpsy.hannam.ac.kr	L3	4	2	1	0	0	3	4	board	3	0.0	한게임머니구매 ㅋr툑G3333 한게임 럭키랜드 머니상 한게임파티훌라 한게임 모바일 환전 상
+HG-RT-0551	partial_token	counselpsy.hannam.ac.kr	L2	3	0	1	0	1	2	4	board	4	0.065	삼척출장마사지출장홈타이 【ⓛ ⓘN E⭐ YKM96】 콜걸출장샵태국전통마사지
+HG-RT-0561	cyrillic_greek	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	6	0.262	9윈가입코드 ㅌㄹнσиgвσ8288 잠실역안마 ㅌㄹ𝘩𝘰𝘯𝘨𝘣𝘰8288 종각역백마오피
+HG-RT-0562	fullwidth	counselpsy.hannam.ac.kr	L1	2	0	1	0	0	1	4	board	4	0.76	대치동일본마사지 텔레 ⓓⓒⓚⓘⓜ⁸⁸⁸ 폰０⑤０ ０⓪０⓪ ９０⑥０
+HG-RT-0564	fullwidth	counselpsy.hannam.ac.kr	L2	3	1	1	0	0	2	4	board	4	0.76	원효로일본출장안마 텔 ⒟⒞⒦⒤⒨❽❽❽ 폰⓪５⓪ ００⓪０ ９⓪６⓪
+HG-RT-0565	digit_letter	www.jgfestival.or.kr	L2	3	2	0	0	0	2	4	board	2	0.0	대전호빠 O1O-0000-0667 세준실장 대전유성호빠 유성호빠선수 유성선수부르는곳 유성선수노래방
+HG-RT-0566	digit_letter	www.jgfestival.or.kr	L3	4	2	1	0	0	3	4	board	3	0.021	크크 역삼룸싸롱 OlO-0000-O52O 강남세인트 유미대표 역삼 룸살롱 역삼룸싸롱 역삼 룸싸롱 역삼룸싸롱 …
+HG-RT-0567	digit_letter	www.jgfestival.or.kr	L2	3	2	0	0	0	2	4	board	2	0.0	온천장룸싸롱 추천 O1O=0000=9717 동래룸살롱 동래룸사롱 동래룸 동래룸빵
+HG-RT-0568	digit_letter	www.jgfestival.or.kr	L2	3	2	0	0	0	2	4	board	2	0.0	대전호빠 O1O-0000-0667 세준실장 유성남보도 대전남자선수 유성남자선수 대전유성호빠
+HG-RT-0569	digit_letter	www.jgfestival.or.kr	L2	3	2	0	0	0	2	4	board	2	0.0	성정동노래클럽 [문의 O1O-0000-2472] 천안풀싸롱추천 천안풀싸롱가격 천안풀싸롱주대
+HG-RT-0570	digit_letter	www.jgfestival.or.kr	L3	4	2	1	0	0	3	4	board	3	0.021	연산동여성전용노래방 부산호빠 ⚠️MD수빈 O1O.0000.6611⚠️ 부산호빠 해운대호스트바 광안리호스트빠 …
+HG-RT-0571	digit_letter	www.jgfestival.or.kr	L3	4	2	1	0	0	3	4	board	3	0.0	수질∴광주룸싸롱∴O1O.0000.0948 ★치평동룸싸롱★치평동풀싸롱★치평동노래방★치평동노래클럽★치평동노래홀
+HG-RT-0572	digit_letter	www.jgfestival.or.kr	L3	4	2	1	0	0	3	4	board	4	0.018	ㅣ대전룸싸롱ㅣ☎O1O.0000.8445 유성룸싸롱ㅣ유성풀싸롱ㅣ유성가라오케ㅣ둔산동유흥주점ㅣ유성노래클럽ㅣ대전유성…
+HG-RT-0573	digit_letter	www.jgfestival.or.kr	L2	3	2	0	0	0	2	4	board	2	0.0	동래풀싸롱 추천 O1O=0000=9717 연산동풀사롱 서면풀사롱 해운대풀사롱 광안리풀사롱 동래풀사롱
+HG-RT-0574	digit_letter	www.jgfestival.or.kr	L2	3	2	0	0	0	2	4	board	2	0.0	부천노래방가격 O1O-0000-2364 신중동역노래방 상동역노래방 부천노래방 부천퍼블릭 부천가라오케
+HG-RT-0575	digit_letter	www.jgfestival.or.kr	L3	4	2	1	0	0	3	4	board	3	0.02	건대노래방보도사무실 문의전화 : O1O=0000=7675 건대여성밤알바 건대아가씨알바 건대여성고수익알바 건대…
+HG-RT-0576	digit_letter	www.jgfestival.or.kr	L2	3	2	0	0	0	2	4	board	2	0.0	[문의 O1O=0000=5101][카카0 TC777] 강서구당일알바 강서구바알바
+HG-RT-0577	digit_letter	www.jgfestival.or.kr	L2	3	2	0	0	0	2	4	board	2	0.0	연산동유흥 O1O=0000=9717 서면유흥업소
+HG-RT-0578	digit_letter	www.jgfestival.or.kr	L2	3	2	0	0	0	2	4	board	2	0.0	[문의 O1O=0000=2065] 상남동풀싸롱 [내상제로][예약문의]
+HG-RT-0579	digit_letter	www.jgfestival.or.kr	L2	3	2	0	0	0	2	4	board	2	0.0	주안호빠 부천호빠 O1O-0000-2291 부천호스트바/부천여성시대/남자도우미/인천호빠 주안호빠
+HG-RT-0580	digit_letter	www.jgfestival.or.kr	L2	3	2	0	0	0	2	4	board	2	0.0	대전호빠 O1O-0000-0667 세준실장 대전호스트바 유성여성전용노래방 대전여성전용노래방 대전호빠
+HG-RT-0581	digit_letter	www.jgfestival.or.kr	L3	4	2	1	0	0	3	4	board	3	0.021	선릉룸살롱 20대많은곳 O1O=0000=O52O 선릉cnn 선릉 룸싸롱 선릉룸사롱 선릉 룸싸롱 선릉룸살롱 선…
+HG-RT-0582	digit_letter	www.jgfestival.or.kr	L2	3	2	0	0	0	2	4	board	2	0.0	[문의 O1O=0000=5101][카카0 TC777] 강서구여우알바 강서구여자알바
+HG-RT-0583	digit_letter	www.jgfestival.or.kr	L2	3	2	0	0	0	2	4	board	2	0.0	해운대퍼블릭룸 O1O~0000~9717 연산동 유흥업소 광안리 유흥업소
+HG-RT-0584	digit_letter	www.jgfestival.or.kr	L3	4	2	1	0	0	3	4	board	3	0.0	수질굿■상무지구룸싸롱■O1O.0000.0948 ●상무지구유흥주점●상무지구풀싸롱●상무지구노래방●상무지구가라오케
+HG-RT-0585	digit_letter	www.jgfestival.or.kr	L2	3	2	0	0	0	2	4	board	2	0.0	부천호빠 부천호빠 O1O-0000-2291 부천호스트바/인천호빠/부천호스트빠 부평호빠
+HG-RT-0586	digit_letter	www.jgfestival.or.kr	L3	4	2	1	0	0	3	4	board	4	0.018	y대전유성룸바y☎O1O.0000.8445 대전가라오케y대전셔츠룸싸롱y유성하이퍼블릭y둔산동가라오케y월평동노래ㅇ…
+HG-RT-0587	digit_letter	www.jgfestival.or.kr	L2	3	2	0	0	0	2	4	board	2	0.0	[문의 O1O=0000=2065] 창원호스트바 [내상제로][예약문의]
+HG-RT-0588	digit_letter	www.jgfestival.or.kr	L2	3	2	0	0	0	2	4	board	2	0.0	인천노래방도우미 [전화 O1O-0000-8520] 주안노래방알바 주안노래방도우미 주안보도사무실
+HG-RT-0589	digit_letter	www.jgfestival.or.kr	L3	4	2	1	0	0	3	4	board	3	0.02	인천주안노래방 [O1O-0000-3859] 부천노래방주대 부천노래방2차 부평노래방가격 부평노래방추천 계산동노…
+HG-RT-0590	digit_letter	www.jgfestival.or.kr	L2	3	2	0	0	0	2	4	board	2	0.0	[순양티켓 O1O=0000 =2546] 아이폰 콘텐츠이용료 현금화 카드현금화
+HG-RT-0591	digit_letter	www.jgfestival.or.kr	L2	3	2	0	0	0	2	4	board	2	0.0	천안노래방도우미알바 O1O=0000=1669 천안노래방도우미알바 천안노래방알바 천안1등사무실
+HG-RT-0592	digit_letter	www.jgfestival.or.kr	L3	4	2	1	0	0	3	4	board	3	0.023	달토 선릉룸사롱 OlO-0000-O52O 유미대표 교대풀살롱 최고의 업소 정보 [가격,시스템,서비스,위치,…
+HG-RT-0593	digit_letter	www.jgfestival.or.kr	L3	4	2	1	0	0	3	4	board	3	0.0	빠른초이스■광주룸싸롱■O1O.0000.0948 ●광주풀싸롱●광주노래방●광주노래홀●광주노래클럽●광주가라오케
+HG-RT-0594	digit_letter	www.jgfestival.or.kr	L3	4	2	1	0	0	3	4	board	3	0.022	선릉풀사롱 O1O=0000=5863 역삼베리엔굿 방이동2차룸 위치 정보 [가격,시스템,서비스,위치,노는법…
+HG-RT-0595	digit_letter	www.jgfestival.or.kr	L3	4	2	1	0	0	3	4	board	3	0.049	검증†방이동 블렌딩 〔O1O.0000.196O〕 주대·연락처 방문팁 수실장 ❰ 방이동 가라오케 추천 ⇓ 천호…
+HG-RT-0596	digit_letter	www.jgfestival.or.kr	L2	3	2	0	0	0	2	4	board	2	0.0	[문의 O1O=0000=2065] 상남동룸싸롱 [예약문의][내상제로]
+HG-RT-0597	digit_letter	www.jgfestival.or.kr	L2	3	2	0	0	0	2	4	board	2	0.0	부천호빠 부천호빠 O1O-0000-2291 부천호스트바/부천여성시대/남자도우미/인천호빠 부천호스트바
+HG-RT-0598	digit_letter	www.jgfestival.or.kr	L2	3	2	0	0	0	2	4	board	2	0.0	인천노래방알바 [전화 O1O-0000-8520] 인천노래방알바 인천노래방도우미 인천보도사무실
+HG-RT-0599	digit_letter	www.jgfestival.or.kr	L2	3	2	0	0	0	2	4	board	2	0.0	천안노래방알바 O1O=0000=1669 천안노래방도우미알바 천안노래방알바 천안1등사무실
+HG-RT-0600	digit_letter	www.jgfestival.or.kr	L3	4	2	1	0	0	3	4	board	3	0.0	물량∴광주룸싸롱∴O1O.0000.0948 ★광주풀싸롱★광주노래방★광주유흥주점★광주가라오케★광주노래클럽
+HG-RT-0601	digit_letter	www.jgfestival.or.kr	L2	3	2	0	0	0	2	4	board	2	0.0	부천노래방 O1O-0000-2364 중동호빠룸 부천호스트바룸 부천호빠노래방
+HG-RT-0602	digit_letter	www.jgfestival.or.kr	L3	4	2	1	0	0	3	4	board	3	0.02	남양주【출장안마】❤️olO~0000~o661❤️캬톡dagan8282 남양주러시아출장마사지 남양주백마출장 남양…
+HG-RT-0603	digit_letter	www.jgfestival.or.kr	L2	3	2	0	0	0	2	4	board	2	0.0	[체리뱅크 O1O=0000 =7785] 신용카드현금화 정식업체 전북카드현금화
+HG-RT-0604	digit_letter	www.jgfestival.or.kr	L2	3	2	0	0	0	2	4	board	2	0.0	부천노래방,O1O-0000-2438,신중동퍼블릭 계산동노래방 부천노래방
+HG-RT-0605	digit_letter	www.jgfestival.or.kr	L2	3	2	0	0	0	2	4	board	2	0.0	건대노래방알바 문의전화 : O1O=0000=7675 건대룸보도 건대보도사무실 건대노래방보도
+HG-RT-0606	digit_letter	www.jgfestival.or.kr	L2	3	2	0	0	0	2	4	board	2	0.0	잠실룸보도 문의전화 : O1O=0000=7675 잠실룸보도 잠실보도사무실 잠실노래방보도
+HG-RT-0607	digit_letter	www.jgfestival.or.kr	L3	4	2	1	0	0	3	4	board	3	0.051	프리▥잠실 타임즈 【OlO.0000.196O】 비용·티씨 포함/미포함 ▪수실장 ❰ 잠실 쩜오 추천 ⬆ 방이동…
+HG-RT-0608	digit_letter	www.jgfestival.or.kr	L2	3	2	0	0	0	2	4	board	2	0.0	경산야간알바 O1O=0000=1234 경산업소알바 경산초미시사무실 경산룸알바 경산주점알바
+HG-RT-0609	digit_letter	www.jgfestival.or.kr	L3	4	2	1	0	0	3	4	board	3	0.022	역삼2차룸 O1O=0000=5863 강남세븐 방의동소프트풀 아가시 많은곳 정보 [가격,시스템,서비스,위치…
+HG-RT-0610	digit_letter	www.jgfestival.or.kr	L2	3	2	0	0	0	2	4	board	2	0.0	남자도우미 부천호빠 O1O-0000-2291 부천호스트바/인천호빠/부천호스트빠 인천호빠
+HG-RT-0612	digit_letter	www.jgfestival.or.kr	L3	4	2	1	0	0	3	4	board	3	0.021	2026년 최고의 강남풀싸롱 추천 O1O=0000=3211 친절한 하늘실장 강남풀싸롱가격 풀싸롱위치 풀싸롱 …
+HG-RT-0613	digit_letter	www.jgfestival.or.kr	L2	3	2	0	0	0	2	4	board	2	0.0	룸보도 [전화 O1O-0000-2536] 홍대노래방알바 홍대노래방도우미 홍대룸알바
+HG-RT-0614	digit_letter	www.jgfestival.or.kr	L2	3	2	0	0	0	2	4	board	2	0.0	룸보도 [전화 O1O-0000-2536] 홍대룸보도 홍대보도사무실 홍대퍼블릭알바 홍대가라오케알바
+HG-RT-0616	digit_letter	jnbburi.or.kr	L3	4	2	1	0	0	3	4	board	3	0.021	계산택지쓰리노 차실장 OlO 0000 5O82 계산동노래방 원하는 날짜에 맞춰 방문 계획 세우는 방법 계산동…
+HG-RT-0617	digit_letter	jnbburi.or.kr	L3	4	2	1	0	0	3	4	board	3	0.021	박촌동쓰리노 차실장 OlO 0000 5O82 계산동노래빠 방문 계획에 맞춰 예약 순서를 정리하는 방법 계산동…
+HG-RT-0618	digit_letter	jnbburi.or.kr	L3	4	2	1	0	0	3	4	board	3	0.021	계양구쓰리노 차실장 OlO 0000 5O82 박촌동쓰리노 코스 선택 후 예약 일정을 정리하는 순서 계산동유흥…
+HG-RT-0619	digit_letter	jnbburi.or.kr	L3	4	2	1	0	0	3	4	board	3	0.021	작전동쓰리노 차실장 OlO 0000 5O82 계산동룸싸롱 코스별로 필요한 준비 내용을 미리 알아보기 박촌동쓰…
+HG-RT-0620	digit_letter	jnbburi.or.kr	L3	4	2	1	0	0	3	4	board	3	0.022	효성동쓰리노 차실장 OlO 0000 5O82 계산동가라오케 여유 있는 일정으로 방문할 때 참고할 예약 팁 계…
+HG-RT-0621	hangul_lookalike	jnbburi.or.kr	L3	4	2	1	0	0	3	4	board	4	0.02	피망머니상 ❤️ㅋr톡 pm4989 피망머니상❤️ 안전피망포커머니상 피망슬롯머니상 모바일피방포커머니상 피망머니…
+HG-RT-0647	digit_letter	jnbburi.or.kr	L3	4	2	1	0	0	3	4	board	3	0.071	옥수동호빠 o1o·0000·1030 매력만점 금호호빠 비용확인
+HG-RT-0648	digit_letter	jnbburi.or.kr	L2	3	2	0	0	0	2	4	board	2	0.0	반포하이쩜오 o1o 0000 2358 잠원쩜오 이용 전 확인사항
+HG-RT-0649	digit_letter	jnbburi.or.kr	L3	4	2	1	0	0	3	4	board	4	0.054	청계산입구역풀쌀롱 o1o·0000·9736 수준급 이용 안내｜근처 판교역풀쌀롱 확인
+HG-RT-0650	digit_letter	jnbburi.or.kr	L2	3	2	0	0	0	2	4	board	2	0.0	일산마사지 o1o 0000 9736 프리미엄 백마안마 시세문의
+HG-RT-0651	digit_letter	jnbburi.or.kr	L2	3	2	0	0	0	2	4	board	2	0.0	동탄풀사롱 o1o 0000 9736 실력파 병점풀싸롱 반송룸초이스 예약안내
+HG-RT-0652	digit_letter	jnbburi.or.kr	L3	4	2	1	0	0	3	4	board	3	0.077	신림마사지 o1o·0000·9736 정통 당곡안마 예약문의
+HG-RT-0653	digit_letter	jnbburi.or.kr	L3	4	2	1	0	0	3	4	board	3	0.057	신도림호스트빠 o1o·0000·1030 수준급 대림호빠 구로호스트바 비용확인
+HG-RT-0654	digit_letter	jnbburi.or.kr	L2	3	2	0	0	0	2	4	board	2	0.0	방이동노래방 o1o 0000 2358 송파나루노래방 이용 기준
+HG-RT-0655	digit_letter	jnbburi.or.kr	L3	4	2	1	0	0	3	4	board	3	0.0	구로디지털단지역노래방 o1o 0000 2358 수준급 선택 가이드｜근처 신대방역노래방 확인
+HG-RT-0656	digit_letter	jnbburi.or.kr	L3	4	2	1	0	0	3	4	board	4	0.053	군자역구장 o1o·0000·9736 인기폭발 예약 전 체크｜근처 어린이대공원역구장 확인
+HG-RT-0658	digit_letter	jnbburi.or.kr	L3	4	2	1	0	0	3	4	board	3	0.077	신사호빠 o1o·0000·1030 압구정호스트바 업종 비교
+HG-RT-0659	digit_letter	jnbburi.or.kr	L3	4	2	1	0	0	3	4	board	4	0.057	신림역하퍼 o1o·0000·2358 실력파 문의 전 체크｜근처 신대방역퍼블릭 확인
+HG-RT-0662	digit_letter	jnbburi.or.kr	L3	4	2	1	0	0	3	4	board	3	0.074	청담하이쩜오 o1o·0000·2358 강남구청쩜오 업종 비교
+HG-RT-0686	digit_letter	jnbburi.or.kr	L3	4	2	1	0	0	3	4	board	3	0.08	강남호빠 o1o·0000·1030 논현호스트바 위치 확인
+HG-RT-0689	digit_letter	jnbburi.or.kr	L3	4	2	1	0	0	3	4	board	3	0.069	압구정호빠 o1o·0000·1030 끝내주는 청담호빠 실시간문의
+HG-RT-0755	fullwidth	www.k3dprinting.or.kr	L2	3	0	1	0	1	2	4	board	3	0.01	[필독] 광고문의 구글찌라시.ＣOM 구글찌라시프로그램구매 웹문서찌라시광고 웹문서찌라시홍보 적용 소액결제 하이퍼블릭 분야별 링크 모빌리언스카드현금화 구글웹문서 구글찌라시 010카톡 010홍보 구글해선솔루션홍보 구글솔루
+HG-RT-0758	fullwidth	www.k3dprinting.or.kr	L1	2	0	1	0	0	1	4	board	3	0.679	대흥동일본출장 텔 ｄｃｋｉｍ⑧⑧⑧ 폰０５０ ００００ ９０６０
+HG-RT-0763	fullwidth	www.k3dprinting.or.kr	L2	3	1	1	0	0	2	4	board	4	0.633	일원일본출장안마 텔레 ｄｃｋｉｍ⑧⑧⑧ 폰⓪❺⓪ ⓿⓿⓪⓿ ❾⓪❻⓪
+HG-RT-0785	fullwidth	www.k3dprinting.or.kr	L1	2	0	1	0	0	1	4	board	3	0.731	황학동일본출장마사지 텔 ⓓⓒⓚⓘⓜ⑧⑧⑧ 폰０５０ ００００ ９０６０
+HG-RT-0796	hangul_lookalike	www.k3dprinting.or.kr	L3	4	2	1	0	0	3	4	board	4	0.0	한게임클래식머니상 〈ㅋr툑K0000〉 한게임고스톱환전상가격추천 한게임카지노머니상팝니다추천 한게임코인환전상시세상업체
+HG-RT-0804	fullwidth	www.k3dprinting.or.kr	L1	2	0	1	0	0	1	4	board	3	0.731	역촌동일본출장마사지 텔 ⓓⓒⓚⓘⓜ⑧⑧⑧ 폰０５０ ００００ ９０６０
+HG-RT-0809	enclosed_alnum	www.k3dprinting.or.kr	L2	3	0	1	0	1	2	4	board	4	0.056	해외선물솔루션홍보 Ⓜ️ 텔@ TDTD1111
+HG-RT-0812	fullwidth	www.k3dprinting.or.kr	L2	3	1	1	0	0	2	4	board	5	0.679	아현동일본안마 텔 ᴅᴄᴋɪᴍ⑧⑧⑧ 폰０５０ ００００ ９０６０
+HG-RT-0813	hangul_lookalike	www.k3dprinting.or.kr	L3	4	2	1	0	0	3	4	board	4	0.0	한게임럭키랜드머니상 ◨ㅋr툑K0000◨ 한게임클래식캐시머니판매사이트 한게임로우바둑이캐시머니상판매 한게임바둑이머니시세업체
+HG-RT-0817	fullwidth	www.k3dprinting.or.kr	L1	2	0	1	0	0	1	4	board	5	0.655	전농동일본출장 텔레 ᵈᶜᵏⁱᵐ⁸⁸⁸ 폰０⑤０ ０⓪０⓪ ９０⑥０
+HG-RT-0820	enclosed_alnum	www.k3dprinting.or.kr	L2	3	1	1	0	0	2	4	board	3	0.826	거여일본마사지 텔 ⒟⒞⒦⒤⒨❽❽❽ 폰⁰⁵⁰ ⁰⁰⁰⁰ ⁹⁰⁶⁰
+HG-RT-0825	enclosed_alnum	www.k3dprinting.or.kr	L2	3	1	1	0	0	2	4	board	4	0.6	반포동일본마사지 텔레 ⒟⒞⒦⒤⒨❽❽❽ 폰₀₅₀ 0000 ₉₀₆₀
+HG-RT-0833	fullwidth	www.k3dprinting.or.kr	L2	3	1	1	0	0	2	4	board	4	0.679	고덕일본출장 텔레 ᴅᴄᴋɪᴍ⁸⁸⁸ 폰０５０ ００００ ９０６０
+HG-RT-0836	enclosed_alnum	www.k3dprinting.or.kr	L2	3	1	1	0	0	2	4	board	4	0.679	상봉동일본출장 텔 ᴅᴄᴋɪᴍ❽❽❽ 폰⓪❺⓪ ⓿⓿⓪⓿ ❾⓪❻⓪
+HG-RT-0841	partial_token	www.k3dprinting.or.kr	L2	3	0	1	0	1	2	4	board	4	0.071	영덕출장마사지출장마사지 【liⓝⓔ☎️ YKM96】 개인콜개인콜개인콜
+HG-RT-0843	enclosed_alnum	www.k3dprinting.or.kr	L2	3	0	1	0	1	2	4	board	4	0.103	김해출장홈타이출장홈타이 【ⓛ ⓘⓝⓔ⭐ bba104】 로미로미마사지로미로미마사지로미로미마사지
+HG-RT-0844	partial_token	www.k3dprinting.or.kr	L2	3	0	1	0	1	2	4	board	4	0.069	영덕출장안마출장안마 【ⓛ ⓘN E⭐ YKM96】 출장업소출장업소출장업소
+HG-RT-0847	hangul_lookalike	www.k3dprinting.or.kr	L3	4	2	1	0	0	3	4	board	4	0.0	거제출장마사지출장마사지 【ㄹr 인♥️ GMNK36】 동남아아가씨동남아아가씨동남아아가씨
+HG-RT-0848	enclosed_alnum	www.k3dprinting.or.kr	L2	3	1	1	0	0	2	4	board	4	0.594	서빙고동일본출장마사지 텔 ᴅᴄᴋɪᴍ❽❽❽ 폰⓪⑤⓪ ⓪⓪⓪⓪ ⑨⓪⑥⓪
+HG-RT-0852	partial_token	www.k3dprinting.or.kr	L2	3	0	1	0	1	2	4	board	4	0.037	양산출장홈타이출장홈타이 【liⓝe♥️ bba104】 콜걸콜걸콜걸
+HG-RT-0853	enclosed_alnum	www.k3dprinting.or.kr	L2	3	0	1	0	1	2	4	board	4	0.133	군포출장홈타이출장홈타이 【ⓛ ⓘⓝⓔ⭐ SEX959】 유료만남유료만남유료만남
+HG-RT-0854	partial_token	www.k3dprinting.or.kr	L2	3	0	1	0	1	2	4	board	4	0.049	정읍출장홈타이출장홈타이 【ⓛ ⓘN E⭐ SEX959】 태국전통마사지태국전통마사지태국전통마사지
+HG-RT-0860	digit_letter	www.kcoal.or.kr	L3	4	2	1	0	0	3	3	board	3	0.0	2026년 최신 핸드폰❤️O1O 0000 7782❤️24시티켓❤️깔끔한처리
+HG-RT-0861	digit_letter	www.kcoal.or.kr	L3	4	2	1	0	0	3	3	board	3	0.0	365일 완벽한 SKT O1O 0000 7782ㅣSKT미납ㅣ휴대폰방법ㅣ 악성정책
+HG-RT-0862	digit_letter	www.kcoal.or.kr	L3	4	2	1	0	0	3	3	board	3	0.0	사기걱정하지마세요-☎O1O 0000 7782-핸드폰 -다날700/50/432/605/615결제정책해결방법
+HG-RT-0863	digit_letter	www.kcoal.or.kr	L3	4	2	1	0	0	3	3	board	3	0.0	365일 완벽한 휴대폰매입업체 O1O 0000 7782ㅣSKT미납ㅣ다날50결제정책해결방법ㅣ 악성정책
+HG-RT-0864	digit_letter	www.kcoal.or.kr	L3	4	2	1	0	0	3	3	board	5	0.0	2026년최고가매입ㅣ아이폰 정보이용료 방법｜☎O1O 0000 7782｜SKT KT LG 통신사별 가이드 모두OK
+HG-RT-0866	hangul_lookalike	www.kcoal.or.kr	L3	4	2	1	0	0	3	3	board	3	0.0	[상승장] 내 시간과 체력에 투자하는 여성 상담사 신규 채용 -ㅋr톡:TM070
+HG-RT-0891	digit_letter	ujrehab.or.kr	L3	4	2	1	0	0	3	3	board	3	0.0	강남어나더❤️OlO-0000-OO53❤️친절문의환영 #강남어나더 #강남역어나더 #강남역쩜오 #역삼동쩜오
+HG-RT-0892	digit_letter	ujrehab.or.kr	L3	4	2	1	0	0	3	3	board	3	0.023	강남세이렌❤️OlO-0000-OO53❤️친절문의24시 #강남세이렌 #선릉세이렌 #강남쩜오 #선릉역쩜오 #대치…
+HG-RT-0894	cyrillic_greek	ypcd.or.kr	L3	4	1	1	0	1	3	4	board	5	0.091	인천조건만남출장샵 【ι i nⓔ✅ ????????????????????????】 연인대행업소호텔출장
+HG-RT-0928	digit_letter	ypcd.or.kr	L2	3	2	0	0	0	2	4	board	2	0.0	가락셔츠룸 OIO.0000.3351 매혹적인 가락셔츠룸 가락미러룸 가락동셔츠룸
+HG-RT-0966	enclosed_alnum	ypcd.or.kr	L2	3	1	1	0	0	2	4	board	3	0.625	진관동일본안마 텔레 ⒟⒞⒦⒤⒨888 폰⓿⑤⓿ ⓪⓪0⓪ ⑨⓿⑥⓿
+HG-RT-1018	enclosed_alnum	ypcd.or.kr	L2	3	0	1	0	1	2	4	board	4	0.143	용인조건만남조건만남 【ⓛ ⓘⓝⓔ⭐ GMNK36】 예약만남커플마사지마사지
+HG-RT-1026	partial_token	ypcd.or.kr	L2	3	0	1	0	1	2	4	board	4	0.071	순천출장샵출장홈타이 【ⓛ ⓘN E⭐ YKM96】 조건만남출장녀티켓다방
+HG-RT-1061	enclosed_alnum	ypcd.or.kr	L2	3	1	1	0	0	2	4	board	4	0.2	메인벳평생주소 ㅌㄹ????????????????????????➑➋➑➑ 은평구일본인출장 【H】【O】【N】【G】…
+HG-RT-1088	enclosed_alnum	ypcd.or.kr	L2	3	1	1	0	0	2	4	board	3	0.6	인사동일본출장안마 텔 ⒟⒞⒦⒤⒨888 폰⓿⑤⓿ ⓪⓪0⓪ ⑨⓿⑥⓿
+HG-RT-1089	partial_token	ypcd.or.kr	L2	3	0	1	0	1	2	4	board	4	0.033	원주출장홈타이조건만남 【liⓝe♥️ GMNK36】 호텔출장출장업체연애
+HG-RT-1092	enclosed_alnum	ypcd.or.kr	L2	3	1	1	0	0	2	4	board	4	0.6	연희일본출장마사지 텔 ⒟⒞⒦⒤⒨❽❽❽ 폰₀₅₀ 0000 ₉₀₆₀
+HG-RT-1195	digit_letter	ypcd.or.kr	L3	4	2	1	0	0	3	4	board	3	0.022	강남풀사롱❤️OlO-0000-OO53❤️친절문의24시 #강남풀싸롱 #역삼동풀싸롱 #선릉풀싸롱 #대치동풀싸롱 …
+HG-RT-1205	enclosed_alnum	ypcd.or.kr	L2	3	1	1	0	0	2	4	board	4	0.25	비트365입금먹튀 ㅌㄹ????????????????????????➑➋➑➑ 부암1인샵 @????????????…
+HG-RT-1296	partial_token	ysgsa.yonsei.ac.kr	L1	2	0	1	0	0	1	4	board	4	0.244	인디고게임실버,인디언게임관리자⋘𝟬𝟭𝟬-𝟬𝟬𝟬𝟬-𝟯𝟯𝟱𝟯⋙AK게임준회원,블루게임본사,몰디브바둑이
+HG-RT-1297	partial_token	ysgsa.yonsei.ac.kr	L2	3	1	1	0	0	2	4	board	4	0.391	인디언게임(인디언game) 0️⃣1️⃣0️⃣-⓿⓿⓿⓿。❸❹❻❹
+HG-RT-1298	enclosed_alnum	ysgsa.yonsei.ac.kr	L3	4	1	1	0	1	3	4	board	4	0.158	2026 🧊 바카라사이트쿠폰정리 ⎛ 여왕벌.𝐧𝐞𝐭 추천코드 𝐾𝐾𝟷𝟺 ⎞ 🧊 축구배팅사이트순위 · 야구배팅사이트찾기 · 환전빠른토토사이트비교
+HG-RT-1299	fullwidth_symbol	counselpsy.hannam.ac.kr	L3	4	1	1	0	1	3	4	board	4	0.038	블랙배너［ 님。com ］퍼블릭돈암동한게임카지노캐시머니업체
+HG-RT-1300	fullwidth_symbol	counselpsy.hannam.ac.kr	L3	4	1	1	0	1	3	4	board	4	0.029	쇼핑몰배너［ 꿈·shop ］한게임PC환전상판매업체거여한게임모바일머니구매
+HG-RT-1301	fullwidth_symbol	counselpsy.hannam.ac.kr	L2	3	0	1	0	1	2	4	board	4	0.017	블랙키워드［ 배너나라․com ］에볼루션알광고 구글해외선물솔루션광고 구글스포츠광고카지노API 대여한게임PC머니상삽니다안전
+HG-RT-1302	fullwidth_symbol	counselpsy.hannam.ac.kr	L2	3	0	1	0	1	2	4	board	4	0.034	배너［ cafe24․site ］한게임클래식머니환전상갈현일산 마두
+HG-RT-1303	fullwidth_symbol	counselpsy.hannam.ac.kr	L3	4	2	1	0	0	3	4	board	4	0.0	배너［ 밤ㆍshop ］한게임고스톱머니상구매업체서산한게임클래식캐시환전상추천
+HG-RT-1304	fullwidth_symbol	counselpsy.hannam.ac.kr	L3	4	1	1	0	1	3	4	board	4	0.028	구글상단노출［ 황。com ］한게임고스톱환전상상추천네이버아이디대여정품 카지노알
+HG-RT-1305	fullwidth_symbol	counselpsy.hannam.ac.kr	L3	4	1	1	0	1	3	4	board	4	0.033	구글도배프로그램［ 꿈·shop ］성피방 알분양매니저벳홀덤솔루션 분양
+HG-RT-1306	fullwidth_symbol	counselpsy.hannam.ac.kr	L3	4	1	1	0	1	3	4	board	3	0.025	배너［ cafe24｡site ］한게임고스톱캐시머니상사이트서초한게임럭키랜드머니상시세
+HG-RT-1307	fullwidth_symbol	counselpsy.hannam.ac.kr	L2	3	0	1	0	1	2	4	board	4	0.034	광고문의［ 님․com ］성피방 알가격한게임머니Melon아이디판매
+HG-RT-1308	fullwidth_symbol	counselpsy.hannam.ac.kr	L3	4	1	1	0	1	3	4	board	4	0.02	구글찌라시 프로그램［ 배너나라。com ］성피방 카지노 API 개발업체한게임피씨환전상interpark아이디대여
+HG-RT-1309	fullwidth_symbol	counselpsy.hannam.ac.kr	L3	4	2	1	0	0	3	4	board	4	0.0	쇼핑몰배너［ 황ㆍcom ］한게임포커머니환전상업체라이브카지노 솔루션 개발한게임코인머니시세상사이트
+HG-RT-1310	fullwidth_symbol	counselpsy.hannam.ac.kr	L3	4	1	1	0	1	3	4	board	4	0.028	구글상단노출［ 배너나라。com ］성인pc방알 구매팝리니지한게임7포커머니사이트
+HG-RT-1311	fullwidth_symbol	counselpsy.hannam.ac.kr	L3	4	1	1	0	1	3	4	board	4	0.024	웹문서상위노출［ 노・xyz ］한게임로우바둑이캐시삽니다가락한게임바둑이캐시환전상가격업체
+HG-RT-1312	fullwidth_symbol	counselpsy.hannam.ac.kr	L3	4	1	1	0	1	3	4	board	4	0.022	배너［ cafe24。site ］구글도배 오피홍보 선불유심업체슬롯 사이트 분양한게임캐시머니상가격안전
+HG-RT-1313	fullwidth_symbol	counselpsy.hannam.ac.kr	L3	4	2	1	0	0	3	4	board	4	0.0	웹문서상위노출［ 숨ㆍxyz ］토지노솔루션토토충전계좌매입한게임럭키랜드캐시구매사이트
+HG-RT-1314	fullwidth_symbol	counselpsy.hannam.ac.kr	L2	3	0	1	0	1	2	4	board	3	0.021	구글찌라시［ 배너나라．com ］한게임모바일머니상팝니다추천카지노 사이트 제작한게임모바일머니상판매추천
+HG-RT-1315	fullwidth_symbol	counselpsy.hannam.ac.kr	L2	3	0	1	0	1	2	4	board	3	0.02	구글도배프로그램［ 꿈．shop ］한게임7포커머니환전안전사설토지노 솔루션 제작한게임고스톱캐시머니가격안전
+HG-RT-1316	fullwidth_symbol	counselpsy.hannam.ac.kr	L3	4	1	1	0	1	3	4	board	4	0.029	구글찌라시 프로그램［ 밤・xyz ］사설카지노솔루션 제작카지노 솔루션 렌탈재즈바
+HG-RT-1317	fullwidth_symbol	counselpsy.hannam.ac.kr	L3	4	2	1	0	0	3	4	board	4	0.0	각종배너［ 님ㆍcom ］성피방 카지노 API 연동업체중곡동한게임고스돕머니삽니다
+HG-RT-1318	fullwidth_symbol	counselpsy.hannam.ac.kr	L3	4	2	1	0	0	3	4	board	4	0.0	배너［ 밤ㆍxyz ］강서구와인슬롯한게임럭키랜드캐시환전상가격추천
+HG-RT-1319	fullwidth_symbol	counselpsy.hannam.ac.kr	L2	3	0	1	0	1	2	4	board	3	0.04	구글도배프로그램［ 숨．xyz ］익선동마사지365강남 하퍼
+HG-RT-1320	fullwidth_symbol	counselpsy.hannam.ac.kr	L3	4	1	1	0	1	3	4	board	4	0.03	모든광고［ 숨・xyz ］한게임고스톱캐시삽니다업체서교한게임포커환전상환전
+HG-RT-1321	fullwidth_symbol	counselpsy.hannam.ac.kr	L3	4	1	1	0	1	3	4	board	3	0.026	구글찌라시［ 배너나라｡com ］한게임맞고머니상판매안전구리한게임PC환전상가격업체
+HG-RT-1322	fullwidth_symbol	counselpsy.hannam.ac.kr	L3	4	2	1	0	0	3	4	board	4	0.0	구글1페이지노출［ cafe24ㆍsite ］한게임포커머니상상업체원주에스코트서비스
+HG-RT-1323	fullwidth_symbol	counselpsy.hannam.ac.kr	L3	4	1	1	0	1	3	4	board	3	0.024	쇼핑몰배너［ 숨｡xyz ］한국에로영화 서양야동에볼루션 알구매한게임카지노환전상삽니다사이트
+HG-RT-1325	fullwidth_symbol	counselpsy.hannam.ac.kr	L2	3	0	1	0	1	2	4	board	3	0.02	웹문서상위노출［ 황．com ］무료웹툰광고 무료웹툰홍보 무료웹툰상위노출에볼루션 알값한게임클래식머니상삽니다안전
+HG-RT-1326	fullwidth_symbol	counselpsy.hannam.ac.kr	L2	3	0	1	0	1	2	4	board	3	0.03	구글도배프로그램［ 노．xyz ］한게임PC머니상환전상안전일산 셔츠데이스파
+HG-RT-1327	fullwidth_symbol	counselpsy.hannam.ac.kr	L3	4	1	1	0	1	3	4	board	3	0.021	웹문서상위노출［ 밤｡xyz ］한게임로얄홀덤머니상구매추천라이브카지노 솔루션한게임코인환전상삽니다사이트
+HG-RT-1328	fullwidth_symbol	counselpsy.hannam.ac.kr	L3	4	1	1	0	1	3	4	board	4	0.029	배너［ 숨・xyz ］한게임섯다머니가격라이브홀덤솔루션한게임클래식머니상시세
+HG-RT-1329	fullwidth_symbol	counselpsy.hannam.ac.kr	L3	4	2	1	0	0	3	4	board	4	0.0	광고문의［ 꿈ㆍshop ］한게임섯다환전상추천프한게임고스돕캐시삽니다추천
+HG-RT-1331	fullwidth_symbol	counselpsy.hannam.ac.kr	L3	4	1	1	0	1	3	4	board	4	0.031	구글도배프로그램［ cafe24・site ］남포역사설토토사이트 임대통협
+HG-RT-1333	fullwidth_symbol	counselpsy.hannam.ac.kr	L2	3	0	1	0	1	2	4	board	3	0.034	블랙배너［ 님．com ］종로구카지노알분양한게임모바일머니구매업체
+HG-RT-1334	fullwidth_symbol	counselpsy.hannam.ac.kr	L2	3	0	1	0	1	2	4	board	4	0.038	각종배너［ 님․com ］한남동거여동한게임고스돕캐시머니안전
+HG-RT-1336	fullwidth_symbol	counselpsy.hannam.ac.kr	L3	4	2	1	0	0	3	4	board	4	0.0	웹상위노출［ 황ㆍcom ］한게임섯다머니상시세상업체인사동한게임코인머니판매업체
+HG-RT-1337	fullwidth_symbol	counselpsy.hannam.ac.kr	L3	4	2	1	0	0	3	4	board	4	0.0	각종배너［ 황ㆍcom ］한게임섯다머니상구매안전혜화동휴대폰정보현금화
+HG-RT-1338	fullwidth_symbol	counselpsy.hannam.ac.kr	L2	3	0	1	0	1	2	4	board	3	0.026	웹문서상위노출［ 노．xyz ］한게임환전상상사이트오금동한게임고스톱환전상판매사이트
+HG-RT-1339	fullwidth_symbol	counselpsy.hannam.ac.kr	L3	4	1	1	0	1	3	4	board	3	0.025	웹문서상위노출［ 노｡xyz ］한게임로우바둑이머니상삽니다안전성북한게임모바일머니상추천
+HG-RT-1340	fullwidth_symbol	counselpsy.hannam.ac.kr	L3	4	1	1	0	1	3	4	board	4	0.025	광고문의［ 노。xyz ］한게임로얄홀덤머니가격카지노 정품알 공급한게임클래식머니상판매추천
+HG-RT-1342	fullwidth_symbol	counselpsy.hannam.ac.kr	L3	4	2	1	0	0	3	4	board	4	0.0	구글도배프로그램［ 밤ㆍshop ］소액결제티켓광장한게임모바일머니삽니다
+HG-RT-1348	fullwidth_symbol	counselpsy.hannam.ac.kr	L3	4	1	1	0	1	3	4	board	4	0.025	블랙배너［ 꿈。shop ］한게임홀덤환전상팝니다안전한게임피씨머니상실시간에볼 사이트 분양
+HG-RT-1361	fullwidth_symbol	counselpsy.hannam.ac.kr	L3	4	1	1	0	1	3	4	board	3	0.033	웹상위노출［ 밤｡xyz ］한게임포커머니상상업체강일한게임 포커 머니 상
+HG-RT-1365	fullwidth_symbol	counselpsy.hannam.ac.kr	L3	4	2	1	0	0	3	4	board	4	0.0	블랙배너［ 밤ㆍshop ］한게임캐시매입진관동일산 풍동
+HG-RT-1367	fullwidth_symbol	counselpsy.hannam.ac.kr	L3	4	1	1	0	1	3	4	board	4	0.027	구글상단노출［ 밤·shop ］한게임홀덤머니판매업체성내한게임로얄홀덤머니가격안전
+HG-RT-1376	fullwidth_symbol	counselpsy.hannam.ac.kr	L2	3	0	1	0	1	2	4	board	4	0.029	웹상위노출［ 밤․xyz ］한게임맞고캐시머니안전남영동한게임맞고캐시머니상안전
+HG-RT-1381	fullwidth_symbol	counselpsy.hannam.ac.kr	L2	3	0	1	0	1	2	4	board	4	0.022	쇼핑몰배너［ 밤․shop ］한게임고스돕머니상팝니다업체한게임클래식환전상한게임고스돕환전상환전안전
