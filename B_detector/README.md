@@ -12,4 +12,4 @@ A 가 넘긴 텍스트 요소에서 불법광고를 찾아 요강 4종(HOMOGLYPH
 
 HOMOGLYPH 정규화에 쓰는 Unicode 17.0.0 표(confusables·Scripts·IdentifierType)는 `C_data/data/unicode/` 에 있다. 쓸 때 주의할 점(매핑 방향, 집합 필드, 기본값)은 그 폴더 README 에 있다.
 | `gate.py` | 내용 판정(선택적으로 LLM) |
-| `fusion.py` | 같은 요소·같은 기법 병합 · 신뢰도 · 임계값 |
+| `fusion.py` | 같은 요소·같은 기법 병합 · 신뢰도 · 임계값 |히히
