@@ -3618,6 +3618,2106 @@
    "location": "div.h18.quizH",
    "evidence_text": "올해 불법 스포츠 도박 신고 포상금 총 지급액은?",
    "subtype": "risky_word_normal"
+  },
+  {
+   "id": "DC-517",
+   "url": "https://nouhausshop.com/article/ì��ìœ",
+   "location": "a.xans-element-.xans-layout.xans-layout-statelogoff",
+   "evidence_text": "로그인",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-518",
+   "url": "https://emzone.co.kr/article/리뷰/4/3835/",
+   "location": "a",
+   "evidence_text": "마이페이지",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-519",
+   "url": "https://www.bandimall.co.kr/article/리뷰/4/9450/page/2/",
+   "location": "a",
+   "evidence_text": "전체상품목록 바로가기",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-520",
+   "url": "https://www.srs.or.kr/bbs/board.php?bo_table=b0301&wr_id=2",
+   "location": "a.dep1",
+   "evidence_text": "재단소개",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-521",
+   "url": "https://samjinwt.co.kr/board/gallery/read.html?no=13932&board_no=8",
+   "location": "span.unit.displaynone",
+   "evidence_text": "KRW",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-522",
+   "url": "http://ddobagi.kr/bbs/board.php?bo_table=5_2&wr_id=31",
+   "location": "a",
+   "evidence_text": "회사소개",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-523",
+   "url": "https://www.stcarollo.or.kr/bbs/board.php?bo_table=0405&wr_id=167",
+   "location": "a",
+   "evidence_text": "직원공간",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-524",
+   "url": "http://www.core-ship.com/src/bbs/board.php?bo_table=sub0502&wr_id=20",
+   "location": "strong > strong",
+   "evidence_text": "[출처]",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-525",
+   "url": "https://www.haiip.net/bbs/board.php?bo_table=notice&wr_id=694",
+   "location": "strong",
+   "evidence_text": "무료테스트",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-526",
+   "url": "https://kgba.co.kr/bbs/board.php?bo_table=06sub01&wr_id=2724",
+   "location": "span",
+   "evidence_text": "한국골프장경영협회",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-527",
+   "url": "http://qlife.kr/bbs/board.php?bo_table=free&wr_id=49867",
+   "location": "span",
+   "evidence_text": "facebook",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-528",
+   "url": "https://safelab119.co.kr/article/상품-qa/6/18649/page/2/",
+   "location": "t1",
+   "evidence_text": "{$js-banner-description1}",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-529",
+   "url": "https://alibikorea.com/bbs/board.php?bo_table=qna&wr_id=547",
+   "location": "h1",
+   "evidence_text": "Q&A",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-530",
+   "url": "https://gsths.yonsei.ac.kr/community/board.php?mNum=5&sNum=2&boardid=board&mode=view&idx=18",
+   "location": "h2",
+   "evidence_text": "공지사항",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-531",
+   "url": "https://m.andar.co.kr/article/review/4/3561501/page/4/",
+   "location": "span.displaynone",
+   "evidence_text": "{#item}",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-532",
+   "url": "https://tmori.co.kr/article/상품-후기/4/8265/",
+   "location": "a.-mov.-scl",
+   "evidence_text": "{$js-banner}",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-533",
+   "url": "https://nouhausshop.com/article/ì��ìœ",
+   "location": "a.wp-cate",
+   "evidence_text": "전체상품",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-534",
+   "url": "https://emzone.co.kr/article/리뷰/4/3835/",
+   "location": "a",
+   "evidence_text": "회원가입",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-535",
+   "url": "https://www.bandimall.co.kr/article/리뷰/4/9450/page/2/",
+   "location": "a.xans-element-.xans-layout.xans-layout-statelogoff",
+   "evidence_text": "로그인",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-536",
+   "url": "https://www.srs.or.kr/bbs/board.php?bo_table=b0301&wr_id=2",
+   "location": "a",
+   "evidence_text": "이사장 인사말",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-537",
+   "url": "https://samjinwt.co.kr/board/gallery/read.html?no=13932&board_no=8",
+   "location": "a",
+   "evidence_text": "ROBOT",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-538",
+   "url": "http://ddobagi.kr/bbs/board.php?bo_table=5_2&wr_id=31",
+   "location": "a",
+   "evidence_text": "치킨메뉴",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-539",
+   "url": "https://www.stcarollo.or.kr/bbs/board.php?bo_table=0405&wr_id=167",
+   "location": "a.lnb_title",
+   "evidence_text": "진료예약",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-540",
+   "url": "http://www.core-ship.com/src/bbs/board.php?bo_table=sub0502&wr_id=20",
+   "location": "a",
+   "evidence_text": "BULK 운임 조건에 대해 알아볼께요",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-541",
+   "url": "https://www.haiip.net/bbs/board.php?bo_table=notice&wr_id=694",
+   "location": "strong",
+   "evidence_text": "결제하기",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-542",
+   "url": "https://kgba.co.kr/bbs/board.php?bo_table=06sub01&wr_id=2724",
+   "location": "a",
+   "evidence_text": "2025년 이전 데이터보기",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-543",
+   "url": "http://qlife.kr/bbs/board.php?bo_table=free&wr_id=49867",
+   "location": "span",
+   "evidence_text": "Blog",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-544",
+   "url": "https://safelab119.co.kr/article/상품-qa/6/18649/page/2/",
+   "location": "a",
+   "evidence_text": "{$js-banner}",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-545",
+   "url": "https://nouhausshop.com/article/ì��ìœ",
+   "location": "a.wp-cate",
+   "evidence_text": "이벤트",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-546",
+   "url": "https://emzone.co.kr/article/리뷰/4/3835/",
+   "location": "a",
+   "evidence_text": "주문조회",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-547",
+   "url": "https://www.bandimall.co.kr/article/리뷰/4/9450/page/2/",
+   "location": "span.bb.displaynone",
+   "evidence_text": "3,000원",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-548",
+   "url": "https://www.srs.or.kr/bbs/board.php?bo_table=b0301&wr_id=2",
+   "location": "a.dep1",
+   "evidence_text": "목적사업",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-549",
+   "url": "https://samjinwt.co.kr/board/gallery/read.html?no=1020&board_no=8",
+   "location": "a",
+   "evidence_text": "공지사항",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-550",
+   "url": "http://ddobagi.kr/bbs/board.php?bo_table=5_2&wr_id=31",
+   "location": "a",
+   "evidence_text": "개설절차",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-551",
+   "url": "https://www.stcarollo.or.kr/bbs/board.php?bo_table=0405&wr_id=167",
+   "location": "a",
+   "evidence_text": "커뮤니티",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-552",
+   "url": "http://www.core-ship.com/src/bbs/board.php?bo_table=sub0502&wr_id=20",
+   "location": "strong > strong",
+   "evidence_text": "작성자",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-553",
+   "url": "https://www.haiip.net/bbs/board.php?bo_table=notice&wr_id=694",
+   "location": "strong",
+   "evidence_text": "로그인",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-554",
+   "url": "https://kgba.co.kr/bbs/board.php?bo_table=06sub01&wr_id=2724",
+   "location": "p",
+   "evidence_text": "구인게시판",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-555",
+   "url": "http://qlife.kr/bbs/board.php?bo_table=free&wr_id=49867",
+   "location": "span",
+   "evidence_text": "team@qlife.kr",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-556",
+   "url": "https://safelab119.co.kr/article/상품-qa/6/18649/page/2/",
+   "location": "t2",
+   "evidence_text": "{$js-banner-description2}",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-557",
+   "url": "https://nouhausshop.com/article/ì��ìœ",
+   "location": "a",
+   "evidence_text": "상품검색",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-558",
+   "url": "https://emzone.co.kr/article/리뷰/4/3835/",
+   "location": "a",
+   "evidence_text": "장바구니",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-559",
+   "url": "https://www.bandimall.co.kr/article/리뷰/4/9450/page/2/",
+   "location": "span",
+   "evidence_text": "한국어",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-560",
+   "url": "https://www.srs.or.kr/bbs/board.php?bo_table=b0301&wr_id=2",
+   "location": "a",
+   "evidence_text": "설립취지",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-561",
+   "url": "https://samjinwt.co.kr/board/gallery/read.html?no=1020&board_no=8",
+   "location": "span.name",
+   "evidence_text": "한국어",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-562",
+   "url": "http://ddobagi.kr/bbs/board.php?bo_table=5_2&wr_id=31",
+   "location": "a",
+   "evidence_text": "지역별 매장찾기",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-563",
+   "url": "https://www.stcarollo.or.kr/bbs/board.php?bo_table=0405&wr_id=167",
+   "location": "a.lnb_title",
+   "evidence_text": "진료과/의료진",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-564",
+   "url": "http://www.core-ship.com/src/bbs/board.php?bo_table=sub0502&wr_id=20",
+   "location": "a",
+   "evidence_text": "ARC",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-565",
+   "url": "https://www.haiip.net/bbs/board.php?bo_table=notice&wr_id=694",
+   "location": "strong",
+   "evidence_text": "채팅상담",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-566",
+   "url": "https://nouhausshop.com/article/ì��ìœ",
+   "location": "a",
+   "evidence_text": "장바구니",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-567",
+   "url": "http://ilovemodo.co.kr/bbs/board.php?bo_table=notice&wr_id=3",
+   "location": "a.nav-link",
+   "evidence_text": "Home",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-568",
+   "url": "http://nxnsystems.com/29/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=168465816&t=board",
+   "location": "strong",
+   "evidence_text": "2024 LS일렉트릭-KITA 오픈이노베이션 최종 선정!",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-569",
+   "url": "https://www.phoenixfish.co.kr/bbs/board.php?bo_table=notify&wr_id=87",
+   "location": "li",
+   "evidence_text": "All rights reserved.",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-570",
+   "url": "https://cesenc.com/59/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=169672718&t=board",
+   "location": "span > span",
+   "evidence_text": "창업자들의 비즈니스 성공을 돕는",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-571",
+   "url": "https://rndtech.co.kr/bbs/board.php?bo_table=free&wr_id=142",
+   "location": "span.sound_only",
+   "evidence_text": "개발의뢰 하위 메뉴 열기",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-572",
+   "url": "https://www.yunbonggil.or.kr/bbs/board.php?bo_table=mhnews&wr_id=634",
+   "location": "a",
+   "evidence_text": "ENG",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-573",
+   "url": "https://koppertcress.co.kr/24/?bmode=view&idx=167284964",
+   "location": "span.footer-company-info__item",
+   "evidence_text": "상호명: 농업회사법인 (주)케이씨케이",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-574",
+   "url": "https://greenchrist.org/education/?mod=document&uid=5887",
+   "location": "h1.et_pb_module_header",
+   "evidence_text": "연구교육 사업",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-575",
+   "url": "https://omf.bsaha.or.kr/bbs/board.php?bo_table=reevieeww&wr_id=2",
+   "location": "a.gnb_1da",
+   "evidence_text": "공지사항",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-576",
+   "url": "https://keynkids.com/Notice/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173195482&t=board",
+   "location": "em",
+   "evidence_text": "Earn money as",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-577",
+   "url": "https://sample-reservation-room.simplyweb.co.kr/Notice/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=27000047&t=board",
+   "location": "em",
+   "evidence_text": "Earn money as",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-578",
+   "url": "http://www.jejupluson.com/bbs/board.php?bo_table=sub04_6&wr_id=744",
+   "location": "a#bt_menu_tab_ori1",
+   "evidence_text": "조합소개",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-579",
+   "url": "https://www.ksfaga.or.kr/bbs/board.php?bo_table=news&wr_id=14",
+   "location": "p",
+   "evidence_text": "협회 계좌번호",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-580",
+   "url": "https://www.mdf.or.kr/docs/?bmode=view&idx=169713337",
+   "location": "span > span",
+   "evidence_text": "TEL : 02.6207.3102",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-581",
+   "url": "https://t777.muv.kr/18/?q=YToyOntzOjQ6InBhZ2UiO2k6MztzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=25604442&t=board",
+   "location": "span.plain_name",
+   "evidence_text": "패션게시판",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-582",
+   "url": "http://www.hb-touresort.com/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=173232449&t=board",
+   "location": "span.plain_name",
+   "evidence_text": "Home",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-583",
+   "url": "http://cool-jam.kr/cj-freeboard/3?uid=237&mod=document&pageid=1",
+   "location": "strong",
+   "evidence_text": "공익제보",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-584",
+   "url": "https://milkstorehouse.kr/QNA/?bmode=view&idx=124714108",
+   "location": "strong",
+   "evidence_text": "PR",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-585",
+   "url": "https://openestimate.co.kr/bbs/board.php?bo_table=review&wr_id=548",
+   "location": "span",
+   "evidence_text": "Copyright",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-586",
+   "url": "https://silvernote.com/Gallery/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=170429782&t=board",
+   "location": "h1",
+   "evidence_text": "간병문화의 혁신",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-587",
+   "url": "http://wangsung.co.kr/53/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=174896569&t=board",
+   "location": "span",
+   "evidence_text": "CUSTOMER SUPPORT",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-588",
+   "url": "http://www.adulddalservice.com/52/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=174812555&t=board",
+   "location": "span > span",
+   "evidence_text": "행복한 삶을 살아 가는 데 도움이 되는",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-589",
+   "url": "https://www.daego.kr/bbs/board.php?bo_table=main_08_faq&wr_id=15",
+   "location": "a.btn_b01.btn2",
+   "evidence_text": "목록",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-590",
+   "url": "http://www.forca.org/bbs/board.php?bo_table=assonews&wr_id=442",
+   "location": "a.nav-link.dropdown-toggle-none.text-truncate",
+   "evidence_text": "INFORMATION",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-591",
+   "url": "https://www.hysolutech.com/bbs/board.php?bo_table=qna&wr_id=378",
+   "location": "li",
+   "evidence_text": "E-mail : webmaster@hysolutech.com",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-592",
+   "url": "http://www.inama.co.kr/53/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=1828959&t=board",
+   "location": "span",
+   "evidence_text": "정보안내",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-593",
+   "url": "http://www.mylifemarket.com/bbs/board.php?bo_table=market&wr_id=25",
+   "location": "b",
+   "evidence_text": "벼룩시장",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-594",
+   "url": "http://www.seoulpaper.com/seoul/board.php?bo_table=biblography&wr_id=834",
+   "location": "div#tel > span",
+   "evidence_text": "신뢰할수 있는 서울대 박사님들이 함께합니다.",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-595",
+   "url": "http://www.xn--ok1bq3ynze4zf.kr/bbs/board.php?bo_table=gallery&wr_id=170",
+   "location": "a",
+   "evidence_text": "[Admin]",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-596",
+   "url": "https://biam.co.kr/info-6/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=174810206&t=board",
+   "location": "h1.widget_menu_title",
+   "evidence_text": "구인/구직",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-597",
+   "url": "https://byso.kr/cs-rne/?bmode=view&idx=168819350",
+   "location": "span",
+   "evidence_text": "Membership",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-598",
+   "url": "https://dr-antiaging.com/bbs/board.php?bo_table=gallery&wr_id=68",
+   "location": "p.prpr",
+   "evidence_text": "※ 본 사이트와 디자인 및 콘텐츠는 저작권법에 의해 보호되며, 무단 복제 및 도용 시 법적 책임을 물을 수 있습니다",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-599",
+   "url": "https://dreamkio.web-dream.co.kr/32/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=169719766&t=board",
+   "location": "span",
+   "evidence_text": "영어와 친해지는 가장 쉬운 방법, 드림키오 엄마표 영어",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-600",
+   "url": "https://egopower.co.kr/faq/?q=YToyOntzOjQ6InBhZ2UiO2k6NDtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=32817802&t=board",
+   "location": "span > span",
+   "evidence_text": "OUR STORY",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-601",
+   "url": "http://g-display.co.kr/bbs/board.php?bo_table=free&wr_id=97161",
+   "location": "span",
+   "evidence_text": "Tel. 070-7435-3721",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-602",
+   "url": "https://insystems.co.kr/24/?bmode=view&idx=169732357",
+   "location": "span.txt_body",
+   "evidence_text": "Contact Us",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-603",
+   "url": "http://jnjtheatercenter.com/notice/?q=YToyOntzOjQ6InBhZ2UiO2k6MjtzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=174789287&t=board",
+   "location": "h1.widget_menu_title",
+   "evidence_text": "공지사항",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-604",
+   "url": "https://kaccc.org/bbs/board.php?bo_table=B05&wr_id=1454",
+   "location": "a",
+   "evidence_text": "https://edukacc.kr/",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-605",
+   "url": "https://max2029.com/bbs/board.php?bo_table=bo1&wr_id=6032",
+   "location": "a",
+   "evidence_text": "개인정보처리방침",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-606",
+   "url": "https://nprsilver.co.kr/30/?bmode=view&idx=125993751",
+   "location": "span",
+   "evidence_text": "고객 센터",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-607",
+   "url": "http://prgst.com/bbs/board.php?bo_table=blog&wr_id=74",
+   "location": "span.sns_icon",
+   "evidence_text": "SNS",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-608",
+   "url": "https://sje.co.kr/agent/?bmode=view&idx=167676672",
+   "location": "div.copryright-area._copy_menu",
+   "evidence_text": "Copyright ⓒ 2026 메가폰 삼주전자 All rights reserved.",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-609",
+   "url": "https://ssdj.or.kr/bbs/board.php?bo_table=supporters&wr_id=35084",
+   "location": "a",
+   "evidence_text": "개인정보처리방침",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-610",
+   "url": "https://www.fun-net.co.kr/bbs/board.php?bo_table=free&wr_id=3071",
+   "location": "li",
+   "evidence_text": "오류안내 페이지",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-611",
+   "url": "https://www.magdrain.co.kr/review/?bmode=view&idx=167150898",
+   "location": "span",
+   "evidence_text": "본 사이트 내의 모든 이미지 및 콘텐츠 등은 저작권법 제 4조에 의한 저작물로서 소유권은 (주)로뎀에코텍에 있으며 (주)로뎀에코텍의 사전 허가 없이 무단 도용 시 법적인 제제를 받습니다.",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-612",
+   "url": "http://www.sandblastmc.com/bbs/board.php?bo_table=qna&wr_id=19315",
+   "location": "a",
+   "evidence_text": "ADMIN",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-613",
+   "url": "https://www.turkeykorean.net/home/bbs/board.php?bo_table=datacenter2023&wr_id=891",
+   "location": "strong",
+   "evidence_text": "The Korean's Association in Turkey",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-614",
+   "url": "http://ilovemodo.co.kr/bbs/board.php?bo_table=notice&wr_id=3",
+   "location": "a#navbarDropdown",
+   "evidence_text": "펜션소개",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-615",
+   "url": "http://nxnsystems.com/29/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=168465816&t=board",
+   "location": "span",
+   "evidence_text": "EVERYTHING",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-616",
+   "url": "https://www.phoenixfish.co.kr/bbs/board.php?bo_table=notify&wr_id=87",
+   "location": "strong",
+   "evidence_text": "영화산업",
+   "subtype": "transparent_like_normal"
+  },
+  {
+   "id": "DC-617",
+   "url": "http://painstorm.co.kr/bbs/board.php?bo_table=news&wr_id=9300",
+   "location": "p",
+   "evidence_text": "흐미… 간만에 토요일 가려했는데 ㅠㅠㅠㅠㅠㅠ",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-618",
+   "url": "http://painstorm.co.kr/bbs/board.php?bo_table=news&wr_id=9296",
+   "location": "p",
+   "evidence_text": "오오오 캡틴~!!! 댓글 ㄱㅅ요 ㅎ 무릎 회복 잘하구 다음기회에 하자구후.. 옛 추억이 몽글몽글 ㅠㅠ",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-619",
+   "url": "http://painstorm.co.kr/bbs/board.php?bo_table=news&wr_id=9400",
+   "location": "div#bo_v_con",
+   "evidence_text": "오늘 20시30분 이후귀가 하실때 우산 꽂이함에서 우산 잘못 가져가신분카운터에 부탁드립니다 ㅠㅠ",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-620",
+   "url": "http://painstorm.co.kr/bbs/board.php?bo_table=news&wr_id=9400",
+   "location": "p",
+   "evidence_text": "오 다행 ㅋㅋ",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-621",
+   "url": "https://www.uuoobe.com/bbs/board.php?bo_table=imom&wr_id=23336",
+   "location": "td",
+   "evidence_text": "카니발 \"아이가 타고 있어요\" 근황 ㄷㄷ (5)",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-622",
+   "url": "https://www.uuoobe.com/bbs/board.php?bo_table=imom&wr_id=23263",
+   "location": "div.cmt-content",
+   "evidence_text": "눈물고인거 봐 ㅠㅠ 많이 아팠나보네",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-623",
+   "url": "https://www.uuoobe.com/bbs/board.php?bo_table=imom&wr_id=23252",
+   "location": "div.cmt-content",
+   "evidence_text": "좋은 내용감사해요~ 저도 치질로 고생중인데 수술은 안하셧나봐요제품도 다써보셧네요 ㅎㅎ 참고할게요!",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-624",
+   "url": "http://lapet.co.kr/bbs/board.php?bo_table=review&wr_id=23",
+   "location": "p",
+   "evidence_text": "ㅎㅎ 감사합니다~",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-625",
+   "url": "http://lapet.co.kr/bbs/board.php?bo_table=review&wr_id=38",
+   "location": "p",
+   "evidence_text": "이쁨 많이 받고 사랑 듬뿍 주면서 함께 하고 있어요 ㅎㅎ",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-626",
+   "url": "http://lapet.co.kr/bbs/board.php?bo_table=review&wr_id=16",
+   "location": "p",
+   "evidence_text": "엄청 말괄량이구용 개구져용ㅎㅅㅎ",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-627",
+   "url": "http://www.music1company.com/notice/notice/?uid=98&mod=document&pageid=1",
+   "location": "div.comments-list-username",
+   "evidence_text": "ㄱㅅ",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-628",
+   "url": "http://www.music1company.com/notice/notice/?uid=303&mod=document&pageid=1",
+   "location": "div.comments-list-username",
+   "evidence_text": "ㅇㅇㅇ",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-629",
+   "url": "http://www.music1company.com/notice/notice/?uid=206&mod=document&pageid=1",
+   "location": "div.comments-list-content",
+   "evidence_text": "We will rock you ㅎㅇㅌ♡♡♡♡♡♡♡ 대박나세요",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-630",
+   "url": "http://www.music1company.com/notice/notice/?uid=125&mod=document&pageid=1",
+   "location": "div.comments-list-content",
+   "evidence_text": "대박나십쑝 ㅈㄷㅎ ㅎㅇㅌ 💕",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-631",
+   "url": "http://www.music1company.com/notice/notice/?uid=206&mod=document&pageid=1",
+   "location": "p",
+   "evidence_text": "12월 22일(일)ㅡ14시/18시",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-632",
+   "url": "https://www.gamidang.com/bbs/link.php?bo_table=banners&wr_id=7&no=1",
+   "location": "h3",
+   "evidence_text": "소속 단체 (ㄱㄷㄴ순)",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-633",
+   "url": "https://www.gamidang.com/bbs/board.php?bo_table=0604&wr_id=4766",
+   "location": "p",
+   "evidence_text": "그래서인지 씨앗 문장과 암송 텍스트가 모두 서론과 1장에 몰려 있었답니다. ㅎㅎㅎ",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-634",
+   "url": "https://www.gamidang.com/bbs/link.php?bo_table=banners&wr_id=1&no=1",
+   "location": "li",
+   "evidence_text": "[강세미나] 격한 자본s11 : 노동자의 운명 ㅡ 일요일 오전 10시 30분 ~ 12시 [6] 10.18 개강",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-635",
+   "url": "https://www.merzy.co.kr/board/product/read.html?no=256&board_no=4",
+   "location": "p",
+   "evidence_text": "제 통장이 털려요 ? 안털려요? ㅠㅠㅠㅠㅠ 하 근데이거진짜 너무 이쁜거아니에요??",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-636",
+   "url": "https://www.merzy.co.kr/board/product/read.html?no=250&board_no=4",
+   "location": "p",
+   "evidence_text": "아닠ㅋㅋㅋㅋ패키지가 이렇게 예뻐도 되는겁니까? ㅋㅋㅋㅋ",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-637",
+   "url": "http://www.lovecinema.co.kr/bbs/board.php?bo_table=board13&wr_id=1",
+   "location": "span",
+   "evidence_text": "지극히 개인적인 건데요 마스크가 저에겐 무척이나 큰 반전이었습니다 왜냐구요? ㅋㅋ 전 마스크가 공포물인줄 알고 봤는데 코메디더군요 쟝르도 모르고 봐서인지 갠적으로 큰 반전이었습니다..첨시작하는 부분 꼭 공포물 같지 않았나요????",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-638",
+   "url": "http://www.toystar.co.kr/bbs/board.php?bo_table=gallery&wr_id=601",
+   "location": "p",
+   "evidence_text": "싼 하이마운트를 못구해서요.ㅜ_ㅜ뭐 L형마운트도 쓸만하더군요^ㅡ^",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-639",
+   "url": "http://www.toystar.co.kr/bbs/board.php?bo_table=gallery&wr_id=544",
+   "location": "p",
+   "evidence_text": "m1a1이 나오다니..! 반드시 지를겁니다..!!+ㅂ+",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-640",
+   "url": "http://www.toystar.co.kr/bbs/board.php?bo_table=gallery&wr_id=517",
+   "location": "p",
+   "evidence_text": "첫사진의 사장님의 흐뭇한 웃음이...^^그리고 개머리판 옆에있는 두개의 스코프가....>ㅁ<발광형인것 같은데....음..",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-641",
+   "url": "https://kbdlab.co.kr/board_cUlO13/308936?%3Fpage=2",
+   "location": "div.comment_341221_11094.rhymix_content.xe_content",
+   "evidence_text": "가위바위보 = 사행성 행위... ㅜ.ㅠ",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-642",
+   "url": "https://kbdlab.co.kr/board_cUlO13/6760072",
+   "location": "h1",
+   "evidence_text": "키보드 비슷한거 있을까요ㅠㅠ?",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-643",
+   "url": "https://kbdlab.co.kr/board_cUlO13/2436591?%3Fpage=2",
+   "location": "p",
+   "evidence_text": "전부 배송비포함으로 진행된 가격입니다 ㅡㅡㅋ",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-644",
+   "url": "http://www.emmausac.or.kr/bbs/board.php?bo_table=press&wr_id=80",
+   "location": "h1",
+   "evidence_text": "<3층신고합니다>_노래방 기계가 아파요 ㅠㅠ",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-645",
+   "url": "http://www.emmausac.or.kr/bbs/board.php?bo_table=press&wr_id=80",
+   "location": "p",
+   "evidence_text": "바로 체력단련실의 노래방 기계인데요 >ㅁ<",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-646",
+   "url": "http://www.emmausac.or.kr/bbs/board.php?bo_table=press&wr_id=104",
+   "location": "p",
+   "evidence_text": "ㅇㅁㅇ;!",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-647",
+   "url": "http://www.emmausac.or.kr/bbs/board.php?bo_table=press&wr_id=83",
+   "location": "p",
+   "evidence_text": "1층 식당 불이 하나 나갔습니다 ㅠㅠ",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-648",
+   "url": "https://www.nyjfc.com/bbs/board.php?bo_table=cheering&wr_id=5485",
+   "location": "p",
+   "evidence_text": "﻿16~20R 5라운드 5승 ㄷㄷㄷ",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-649",
+   "url": "https://www.nyjfc.com/bbs/board.php?bo_table=cheering&wr_id=5486",
+   "location": "h2",
+   "evidence_text": "ㅠㅠㅠ 리그승강전/플레이오프 취소",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-650",
+   "url": "http://korearecorder.cafe24.com/index.php?mid=board_JHoR95&document_srl=6320",
+   "location": "p",
+   "evidence_text": "'ㅋㅋㅋㅋㅋ'(아빠)",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-651",
+   "url": "http://korearecorder.cafe24.com/index.php?mid=board_JHoR95&document_srl=6263",
+   "location": "div.comment_6281_6248.xe_content",
+   "evidence_text": "오프닝 연주 넘 멋졌어요! ㅎㅎ 역시 경남대표!! ㅋㅋ 같은 학교에서 함께 연주하시는 샘이 계시다니 넘 부러웠…ㅠㅠ다음 겨울에 또 봐요!!",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-652",
+   "url": "http://korearecorder.cafe24.com/board_JHoR95/6656",
+   "location": "p",
+   "evidence_text": "3박 4일이면 훨씬 좋고요!!!!(>ㅅ<)",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-653",
+   "url": "https://www.thusima.com/new/gnboard/bbs/board.php?bo_table=travel3&wr_id=5562",
+   "location": "p",
+   "evidence_text": "감사합니다~! ㅎ또 놀러오세요~~박양민 올림",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-654",
+   "url": "https://www.akmusic.co.kr/renew/bbs/board.php?bo_table=use&wr_id=7964",
+   "location": "p",
+   "evidence_text": "전 기타치러 갑니다! 그럼 이만 ㅋㅋ 오늘 밤새겠네요 ㅋㅋㅋㅋㅋ",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-655",
+   "url": "https://www.farmstream.co.kr/bbs/board.php?bo_table=EvalCompany&wr_id=4920",
+   "location": "h1",
+   "evidence_text": "ㅎ | (주)헬로네이처",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-656",
+   "url": "https://www.farmstream.co.kr/bbs/board.php?bo_table=EvalCompany&wr_id=10",
+   "location": "h1",
+   "evidence_text": "ㄴ | 농부릿지",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-657",
+   "url": "https://www.farmstream.co.kr/bbs/board.php?bo_table=FreeBoard&wr_id=7191",
+   "location": "p",
+   "evidence_text": "ㄷㄷ",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-658",
+   "url": "https://www.farmstream.co.kr/bbs/board.php?bo_table=FreeBoard&wr_id=7211",
+   "location": "p",
+   "evidence_text": "ㅊㅊ 파포토",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-659",
+   "url": "https://www.welfare-center.or.kr/bbs/board.php?bo_table=information&wr_id=79820",
+   "location": "p",
+   "evidence_text": "<음운규칙퀴즈>는 다양한 음운규칙 활동을 통해 ㅎ 탈락과 격음화를 이해하고 자연스럽게 읽고 발음할 수 있도록 돕는 도구입니다.",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-660",
+   "url": "https://www.welfare-center.or.kr/bbs/board.php?bo_table=information&wr_id=79820",
+   "location": "p",
+   "evidence_text": "✨ 음운규칙 이해력 향상: 'ㅎ 탈락'과 '격음화'가 적용되는 단어를 학습하며 음운변동의 원리를 이해하는 능력 강화",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-661",
+   "url": "http://www.v6english.com/zbxe/index.php?mid=EBoardTense&document_srl=242",
+   "location": "p",
+   "evidence_text": "형용사는 [~ㄴ]으로 끝나는 말이다.",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-662",
+   "url": "http://www.v6english.com/zbxe/index.php?mid=EBoardTense&document_srl=317",
+   "location": "p",
+   "evidence_text": "※ [수동태의 현재형]도 역시 [~ㄴ다]로 해석한다.",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-663",
+   "url": "http://www.v6english.com/zbxe/index.php?mid=EBoardTense&document_srl=233",
+   "location": "p",
+   "evidence_text": "현재시제는 어제, 오늘, 내일을 한꺼번에 포함해서 [언제나, 요즘은, 종종] 이런 말들이 생략된 표현이라고 보면 된다. 우리말로 표현할 때는 [~ㄴ다]로 표현한다.",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-664",
+   "url": "https://steel.or.kr/125/?idx=169350497&bmode=view",
+   "location": "li",
+   "evidence_text": "등변ㄱ형강",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-665",
+   "url": "https://steel.or.kr/125/?idx=169350497&bmode=view",
+   "location": "li",
+   "evidence_text": "부등변 ㄱ형강, 부등변 부등후 ㄱ형강",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-666",
+   "url": "https://steel.or.kr/125/?idx=169350497&bmode=view",
+   "location": "li",
+   "evidence_text": "ㄷ형강, 강널말뚝",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-667",
+   "url": "http://www.mna11.kr/bbs/board.php?bo_table=u01&wr_id=98",
+   "location": "blockquote",
+   "evidence_text": "(8) 평보.ㅅ자보.지붕보.간막이도리.지붕 귀잡이보와 깔도리 및 처마도리와의 맞춤면",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-668",
+   "url": "http://www.mna11.co.kr/bbs/board.php?bo_table=t01&wr_id=50",
+   "location": "blockquote",
+   "evidence_text": "1. 샛기둥 : 명시된 치수의 샛기둥 또는 표준 ㄷ형강의 샛기둥은 볼트로 접합하도록 요구된 경우에도 펀치를 해서는 아니된다.",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-669",
+   "url": "https://www.xn--cs0bw61c.com/bbs/board.php?bo_table=notice&wr_id=267&wr_22=&wr_21=&wr_10=&wr_1=&wr_66=&wr_16=",
+   "location": "p",
+   "evidence_text": "ㅇ 가족관계: 48명",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-670",
+   "url": "https://www.xn--cs0bw61c.com/bbs/board.php?bo_table=notice&wr_id=267&wr_22=&wr_21=&wr_10=&wr_1=&wr_66=&wr_16=",
+   "location": "p",
+   "evidence_text": "ㅁ 학생: 소통, 화합, 부모 간 갈등, 이혼가정 관련 고민",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-671",
+   "url": "https://www.xn--cs0bw61c.com/bbs/board.php?bo_table=notice&wr_id=200&wr_22=&wr_21=&wr_10=&wr_1=&wr_66=&wr_16=",
+   "location": "div > div",
+   "evidence_text": "ㅇ 청소년활동진흥법 제4조에 의거하여 청소년 활동을 활성화하고 청소년의 참여를 보장하기 위해",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-672",
+   "url": "http://www.forca.org/bbs/board.php?bo_table=assonews&wr_id=443",
+   "location": "span",
+   "evidence_text": "ㅇ Time : 17:00 ~ 20:30",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-673",
+   "url": "http://www.forca.org/bbs/board.php?bo_table=assonews&wr_id=443",
+   "location": "span",
+   "evidence_text": "ㅇ 사회: 이창수 대표 (Yurah)",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-674",
+   "url": "http://hanam2020.com/bbs/board.php?bo_table=sub09&wr_id=2",
+   "location": "p",
+   "evidence_text": "ㅇ인건비 가이드라인 근거",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-675",
+   "url": "http://www.kbcd.org/bbs/board.php?bo_table=board_04&wr_id=4728",
+   "location": "div > div",
+   "evidence_text": "ㅁ장소 : 동국대 고순청 세미나실",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-676",
+   "url": "https://mptool.co.kr/bbs2026/bbs/board.php?bo_table=notice&wr_id=22",
+   "location": "span",
+   "evidence_text": "ㅇBC카드 Light 할부",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-677",
+   "url": "http://mppv.co.kr/bbs/board.php?bo_table=web_bo3&wr_id=10",
+   "location": "p",
+   "evidence_text": "ㅇ 수원남부경찰서 : 교통안전시설 등 설치관리에 관한 규칙 제17조에 의거 교통안전시설 심의 안건에 상정하여 가결됨",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-678",
+   "url": "http://mppv.co.kr/bbs/board.php?bo_table=web_bo3&wr_id=4",
+   "location": "p",
+   "evidence_text": "결국 지난 4월 12일(금)영통구청 도로정비팀 ㅇㅇㅇ주무관과 협의한 결과",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-679",
+   "url": "https://www.xn--ok0b319aqjdo2a6p.com/bbs/board.php?bo_table=guin&wr_id=3420",
+   "location": "p",
+   "evidence_text": "ㄴ실내근무,자리지정",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-680",
+   "url": "https://www.xn--ok0b319aqjdo2a6p.com/bbs/board.php?bo_table=guin&wr_id=3420",
+   "location": "p",
+   "evidence_text": "ㄴ일급:17만~20만 사이 예상",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-681",
+   "url": "https://omf.bsaha.or.kr/bbs/board.php?bo_table=reevieeww&wr_id=2",
+   "location": "p",
+   "evidence_text": "ㅡAstor Piazzola 아스토르 피아졸라",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-682",
+   "url": "https://omf.bsaha.or.kr/bbs/board.php?bo_table=reevieeww&wr_id=7",
+   "location": "p",
+   "evidence_text": "ㅡE. Morricone",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-683",
+   "url": "http://www.soundname.co.kr/board/bbs/board.php?bo_table=board&wr_id=53866",
+   "location": "div > div",
+   "evidence_text": "ㆍ커피ㅡ 라고 반말하는 사람에게는 1만원을.",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-684",
+   "url": "http://www.anmyeonam.org/board/bbs/board.php?bo_table=community_01&wr_id=12644",
+   "location": "p",
+   "evidence_text": "안면암 포교당 신도인 보 ㅇ 화 보살님이 며칠 전 보내주신",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-685",
+   "url": "http://www.anmyeonam.org/board/bbs/board.php?bo_table=community_01&wr_id=1006",
+   "location": "p",
+   "evidence_text": "ㅇㄷ님!아마도 금생에서 사람들을 기쁘고 즐겁게 해주는 善業을 많이 지었으니분명 복과 덕이 많은 집에 人道還生하게 되리라 믿습니다.댓글 감사 감사합니다.",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-686",
+   "url": "https://www.hyunyounghyunjun.com/commu/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=165422640&t=board",
+   "location": "p",
+   "evidence_text": "2. 성함 : ㅇ ㅇ ㅇ",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-687",
+   "url": "https://www.savecoat.co.kr/bbs/board.php?bo_table=product08&wr_id=108",
+   "location": "h1",
+   "evidence_text": "기타 | 시흥ㅇㅇ센터 쿨페이브먼트 조성사업",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-688",
+   "url": "https://www.lpmarket.co.kr/board/product/read.html?no=8031&board_no=6",
+   "location": "td",
+   "evidence_text": "ㅇㅇ",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-689",
+   "url": "https://jjomool.com/article/구매후기/4/22447/",
+   "location": "td",
+   "evidence_text": "ㅇ****",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-690",
+   "url": "https://lushroom.co.kr/board/product/read.html?no=16897&board_no=4",
+   "location": "h3",
+   "evidence_text": "가든 ㅣ 부드럽고 편안하게 즐기는 플로럴 면 목스카프",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-691",
+   "url": "https://hn.springdayclinic.com/19/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=54270124&t=board",
+   "location": "p",
+   "evidence_text": "상호명: 다시봄날의원 하남점 ㅣ 대표자: 허성훈",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-692",
+   "url": "http://www.nwsportsclub.or.kr/bbs/board.php?bo_table=sub06_03&wr_id=810",
+   "location": "p",
+   "evidence_text": "TS2 FC 1 ㅡ 0 태극 FC",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-693",
+   "url": "http://www.o-dokdo.com/gnuboard4/bbs/board.php?bo_table=05_04&wr_id=20348",
+   "location": "nobr",
+   "evidence_text": "암보다 더 무서운것 ㅡ 근육의 노화에 따른 숙환",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-694",
+   "url": "https://lrl.kr/bbs/board.php?bo_table=free&wr_id=15736",
+   "location": "div.mb-2",
+   "evidence_text": "ㅇㅋ",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-695",
+   "url": "https://lrl.kr/bbs/board.php?bo_table=free&wr_id=17116",
+   "location": "div.mb-2",
+   "evidence_text": "ㄴㄴ 오징어무침은 이따 해야지",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-696",
+   "url": "https://lrl.kr/bbs/board.php?bo_table=free&wr_id=17116",
+   "location": "div.mb-2",
+   "evidence_text": "ㅎㅇ",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-697",
+   "url": "https://lrl.kr/bbs/board.php?bo_table=free&wr_id=17116",
+   "location": "div.mb-2",
+   "evidence_text": "아님 끝말 ㄱ?",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-698",
+   "url": "https://lrl.kr/bbs/board.php?bo_table=free&wr_id=17116",
+   "location": "div.mb-2",
+   "evidence_text": "ㄹㅇ",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-699",
+   "url": "https://dk.masanggames.co.kr/index.php?mid=DK_BOARD5&document_srl=12133609",
+   "location": "div.comment_12134003_3287014.xe_content",
+   "evidence_text": "응~ 간주점프~ 깝 ㄴㄴ",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-700",
+   "url": "https://dk.masanggames.co.kr/index.php?mid=DK_BOARD5&document_srl=12133447",
+   "location": "div.comment_12134391_3357144.xe_content",
+   "evidence_text": "시즌서버끝남 단물다빨아먹고 버려짐 ㅅㄱ",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-701",
+   "url": "https://feedclick.net/bbs/board.php?bo_table=tip&wr_id=12030",
+   "location": "p",
+   "evidence_text": "거의 1억.. ㄷㄷㄷ 참고로 지농은 1금융권 아님",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-702",
+   "url": "https://www.dmitory.com/index.php?mid=novel&document_srl=214440493",
+   "location": "p",
+   "evidence_text": "BL ① 1-0/ㄱ/ㄴ/ㄷ",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-703",
+   "url": "https://www.dmitory.com/index.php?mid=novel&document_srl=348465645",
+   "location": "p",
+   "evidence_text": "여기까진 ㅇㅋ 건강해요 즐거워요",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-704",
+   "url": "http://www.seoulswim.or.kr/bbs/board.php?bo_table=free&wr_id=4926",
+   "location": "h1",
+   "evidence_text": "제2회 서초구청장배 수영대회가 싸움터가 되었어요ㅠㅠ",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-705",
+   "url": "http://www.mmdent.co.kr/dent/bbs/board.php?bo_table=album&wr_id=40276",
+   "location": "p",
+   "evidence_text": "미정실장님 생일 너무 축하드려요~!! ㅎㅎ",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-706",
+   "url": "http://www.koreainsights.co.kr/bbs/board.php?bo_table=news&wr_id=839",
+   "location": "p",
+   "evidence_text": "도착하니 안도의 숨과 함께 지치고 많이 탄 얼굴이 애처롭다. ㅠㅠ",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-707",
+   "url": "https://hikarustyle.com/article/photo/8/10993/page/2/",
+   "location": "p",
+   "evidence_text": "그래서 똑같은걸로 빨강을 매장 직접가서 또 샀는데 또 잃어버렸다는 ㅋㅋ ㅠㅠ 완전 슬포..",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-708",
+   "url": "https://www.gongdong.or.kr/bbs/board.php?bo_table=B271&wr_id=8143",
+   "location": "p",
+   "evidence_text": "안녕하세요~? 나난나나 이신가요?? ㅎㅎ질문으로 잠시 뵙는데도 반갑다는 생각이 듭니다.협동어린이집 설립에 관심을 가지고 계시는군요.",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-709",
+   "url": "http://www.bhkappd.or.kr/bonghwa/bbs/board.php?bo_table=bo_02&wr_id=4",
+   "location": "p",
+   "evidence_text": "우리서로 함께 이겨냅시다 ㅎㅎ",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-710",
+   "url": "http://www.pulm.or.kr/bbs/board.php?bo_table=f02&wr_id=7496",
+   "location": "div > div",
+   "evidence_text": "추석명절 첫째날 모두 평안히 지내시고 계시지요. 낼 추석날은 흐리고 비가 와서 보름달을 볼수가 없다고하네요ㅜㅜ",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-711",
+   "url": "http://www.neowa.or.kr/bbs/board.php?bo_table=service&wr_id=16",
+   "location": "div > div",
+   "evidence_text": "** 봉사하다가 다치시면 안되요ㅜ 단체에서는 치료 지원을 할수가 없답니다. (항상조심)",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-712",
+   "url": "http://www.keslu.or.kr/bbs/board.php?bo_table=free&wr_id=5375",
+   "location": "div#bo_v_con",
+   "evidence_text": "사고없이 안전했으면 좋겠습니다 ㅠ",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-713",
+   "url": "https://www.pohanglab.kr/g5/bbs/board.php?bo_table=free&wr_id=4205",
+   "location": "div#bo_v_con",
+   "evidence_text": "이번수업은 향춘과!!만들기 쉽고이뻐서 선물용으로도 너무 좋을것같아요커피나 차를 같이하면 더 맛난거같아요^^담주 수업이 벌써 마지막 수업이라 넘 아쉽네요ㅠㅠ",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-714",
+   "url": "http://www.soomac.org/gb4/m/bbs/board.php?bo_table=m73&wr_id=528",
+   "location": "p",
+   "evidence_text": "우리 김동환 협회장님께서는 한국수맥교육연구협회의 회원들을 위해 첫번째로 기도해 주시더라고요 ㅎㅎㅎ",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-715",
+   "url": "http://www.xn--o39ap3uzjb.kr/bbs/board.php?bo_table=mgr_photo&wr_id=28",
+   "location": "p",
+   "evidence_text": "불조절을 못해서 타기도 했지만ㅠㅠ 누구의 도움을 받지 않고 ⛤홀로⛤ 만들어서 우리 이용인들이 더욱 자신감을 갖게 되었어요!!",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-716",
+   "url": "http://mihwangsa.org/bbs/board.php?bo_table=105020&wr_id=638",
+   "location": "div > div",
+   "evidence_text": "다들 잘지내시죠?!ㅋㅋ",
+   "subtype": "jamo_like_normal"
+  },
+  {
+   "id": "DC-717",
+   "url": "https://hotelgeumosan.com/bbs/board.php?bo_table=cafe&wr_id=1",
+   "location": "a#gnb_2da",
+   "evidence_text": "⁠SUPERIOR",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-718",
+   "url": "http://www.mna11.kr/bbs/board.php?bo_table=u01&wr_id=87",
+   "location": "font",
+   "evidence_text": "­ 위에 명시된 설계하중에 관한 규정에 따라 계산된 설계하중의 150%, 그러나 프리스트레스에 기인하여 증가 또는 조정된 하중은 포함하지 않는다.",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-719",
+   "url": "http://mforet.co.kr/bbs/board.php?bo_table=gallery&wr_id=23647",
+   "location": "span",
+   "evidence_text": "﻿말로 표현하기 어려운 마음이 있습니다.",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-720",
+   "url": "http://w.domi.or.kr/domi/bbs/board.php?bo_table=bo_01&wr_id=888",
+   "location": "span",
+   "evidence_text": "﻿후 신청서 제출(",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-721",
+   "url": "https://www.nyjfc.com/bbs/board.php?bo_table=cheering&wr_id=5485",
+   "location": "span",
+   "evidence_text": "﻿16~20R 5라운드 5승 ㄷㄷㄷ",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-722",
+   "url": "https://kclv.org/_chboard/bbs/board.php?bo_table=m1_4&wr_id=38554",
+   "location": "p",
+   "evidence_text": "﻿NCKPC Foundation",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-723",
+   "url": "http://swoori.co.kr/bbs/board.php?bo_table=notice&wr_id=120",
+   "location": "span",
+   "evidence_text": "﻿안녕하세요.",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-724",
+   "url": "https://kftaedu.com/2015/bbs/board.php?bo_table=notice&wr_id=120",
+   "location": "p",
+   "evidence_text": "﻿센터 내 일정 수 이상의 트레이너가 NASM 합격증을 보유하고 있을 시,",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-725",
+   "url": "https://mptool.co.kr/bbs2026/bbs/board.php?bo_table=notice&wr_id=3",
+   "location": "span",
+   "evidence_text": "기존 적립된 포인트는 관리자가 따로 저장해 놓은 자료로 되살려드립니다.﻿",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-726",
+   "url": "http://modamclinic.co.kr/bbs/board.php?bo_table=sub811&wr_id=148",
+   "location": "a",
+   "evidence_text": "@모담모발이식의원 (클릭)﻿",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-727",
+   "url": "http://en.mjglobalacademy.honasoft.co.kr/bbs/board.php?bo_table=referenceroom&wr_id=15",
+   "location": "span",
+   "evidence_text": "﻿IELTS score status of 2019 ~ 2020 first half among the MJ Global Academy students",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-728",
+   "url": "https://www.seoulmaster.co.kr/bbs/board.php?bo_table=bbs1&wr_id=160",
+   "location": "b",
+   "evidence_text": "﻿■ 2회 수강 제한 관련 공지(250701)",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-729",
+   "url": "https://winkia.net/board/free/read.html?no=16541&board_no=1",
+   "location": "span",
+   "evidence_text": "※ ﻿이 이벤트는 실물 다이어리에 해당하는 내용입니다.",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-730",
+   "url": "https://scalendar.co.kr/board/product/read.html?no=8297&board_no=6",
+   "location": "p",
+   "evidence_text": "종이:190﻿g 아르떼(한국제지)",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-731",
+   "url": "https://kmpilot.or.kr/bbs/board.php?bo_table=free&wr_id=6",
+   "location": "span",
+   "evidence_text": "총톤수 6천톤 이상인 선박의 선장으로​ 3 년 이상 승무한 경력(도선수습생 전형시험일 전 5년 이내에 1년 이상 승무한 경력을 포함한다는 조항은​ 2021년 도선수습생 시험부터 적용) 이 있을 것\"",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-732",
+   "url": "https://dr-antiaging.com/bbs/board.php?bo_table=gallery&wr_id=68",
+   "location": "span",
+   "evidence_text": "월 호에서는 ​",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-733",
+   "url": "https://xn--wv4bl9g.com/bbs/board.php?bo_table=notice&wr_id=22",
+   "location": "a",
+   "evidence_text": "2026년 04월 17일(금) C식단 [볼어묵볶음→어묵볶음]으로 대체됩니다 ​ ​ ​",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-734",
+   "url": "http://www.forca.org/bbs/board.php?bo_table=assonews&wr_id=447",
+   "location": "span",
+   "evidence_text": "FORCA는 대구경북경제자유구역청과 함께 「9월 FORCA CEO Forum/대구경북경제자유구역청 투자설명회를 호텔 나루 서울 엠갤러리 22층 부아쟁(Voisin)​에서 개최하였습니다.",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-735",
+   "url": "http://xn--hz2bp8k73g.com/bbs/board.php?bo_table=reservation&wr_id=3",
+   "location": "p",
+   "evidence_text": "예약전화시 미리 말씀해주시면 정성스럽게 준비해드리겠습니다.​",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-736",
+   "url": "https://www.jcyouth.kr/bbs/board.php?bo_table=s6_m1&wr_id=335",
+   "location": "span",
+   "evidence_text": "‘가락나래’가 제4회 정기연주회​",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-737",
+   "url": "https://ukp.ac.kr/%EB%8C%80%ED%95%99%ED%98%84%ED%99%A9/%EB%8C%80%ED%95%99%EA%B3%B5%EA%B0%9C%EC%9E%90%EB%A3%8C/%EB%8C%80%ED%95%99%EC%9E%90%EC%B2%B4%ED%8F%89%EA%B0%80?mod=document&uid=93896",
+   "location": "a.menu-link.sub-menu-link",
+   "evidence_text": "대학소개",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-738",
+   "url": "http://www.toystar.co.kr/bbs/board.php?bo_table=gallery&wr_id=562",
+   "location": "p",
+   "evidence_text": "헛 이총은 저번 STBS랑 TB랑 KSTS랑 연합전할떄 들고 나오신 총 아닌가요? 역시봐도 멋있군요^^",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-739",
+   "url": "https://www.srs.or.kr/bbs/board.php?bo_table=b0301&wr_id=2",
+   "location": "a",
+   "evidence_text": "메일보내기",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-740",
+   "url": "https://ebabyland.co.kr/article/상품후기/4/97069/page/2/",
+   "location": "a",
+   "evidence_text": "상품후기",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-741",
+   "url": "https://zamtool.com/article/상품-qa/6/37/page/3/",
+   "location": "a",
+   "evidence_text": "전동공구",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-742",
+   "url": "https://ukp.ac.kr/%EB%8C%80%ED%95%99%ED%98%84%ED%99%A9/%EB%8C%80%ED%95%99%EA%B3%B5%EA%B0%9C%EC%9E%90%EB%A3%8C/%EB%8C%80%ED%95%99%EC%9E%90%EC%B2%B4%ED%8F%89%EA%B0%80?mod=document&uid=93896",
+   "location": "a.menu-link.sub-menu-link",
+   "evidence_text": "입학 Q&A",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-743",
+   "url": "https://ce.kumoh.ac.kr/consult/sub0502.do",
+   "location": "a",
+   "evidence_text": "총학생회",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-744",
+   "url": "https://iau-yewon.or.kr/?mod=document&page_id=1941&uid=21",
+   "location": "a.mega-menu-link",
+   "evidence_text": "우리의철학&비전",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-745",
+   "url": "https://math.postech.ac.kr/bbs/board.php?bo_table=m07_04&year=2026&month=10&wr_id=2960&sc_no=",
+   "location": "a.sub-2da",
+   "evidence_text": "전임교수",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-746",
+   "url": "https://milkstorehouse.kr/QNA/?bmode=view&idx=124714108",
+   "location": "p",
+   "evidence_text": "I'm a paragraph. Click here to add your own text and edit me.",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-747",
+   "url": "http://www.ungteori.com/bbs/board.php?bo_table=notice&wr_id=10",
+   "location": "a",
+   "evidence_text": "상위",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-748",
+   "url": "http://jtjj.kr/bbs/board.php?bo_table=notice&wr_id=30",
+   "location": "span.bo_v_tit",
+   "evidence_text": "능행스님 \"삶이 아름답기 위해선 죽음이 아름다워야\"",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-749",
+   "url": "https://marexoutdoor.com/bbs/board.php?bo_table=as&wr_id=132",
+   "location": "a.bo_cate_link",
+   "evidence_text": "공지",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-750",
+   "url": "https://sdmhb.or.kr/bbs/board.php?bo_table=B21&wr_id=199",
+   "location": "h1#bo_v_title",
+   "evidence_text": "책 출판 - \"누구나 누리는 햇빛처럼, 햇빛투게더\" -자립회원의 삶과 실천 워크북 출판, 구매 안내",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-751",
+   "url": "http://www.jabbey.org/bbs/board.php?bo_table=free&wr_id=83873",
+   "location": "span.bo_v_tit",
+   "evidence_text": "2026년 9월 \"희년실천주일\"",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-752",
+   "url": "https://kmpilot.or.kr/bbs/board.php?bo_table=free&wr_id=6",
+   "location": "a",
+   "evidence_text": "도선법 시행령(링크 클릭)",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-753",
+   "url": "https://www.pushkinhouse.co.kr/bbs/board.php?bo_table=news&wr_id=4",
+   "location": "a",
+   "evidence_text": "교육",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-754",
+   "url": "http://m.maestlaw.co.kr/bbs/board.php?bo_table=notice&wr_id=960",
+   "location": "h1#hd_h1",
+   "evidence_text": "[판결] 던진 그릇에 맞지 않아도 '폭행' > 법률정보",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-755",
+   "url": "http://w.domi.or.kr/domi/bbs/board.php?bo_table=bo_01&wr_id=694",
+   "location": "a",
+   "evidence_text": "영카트",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-756",
+   "url": "https://www.jumong.org/bbs/board.php?bo_table=0404&wr_id=62883",
+   "location": "a",
+   "evidence_text": "가족·교육문화",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-757",
+   "url": "https://ssdj.or.kr/bbs/board.php?bo_table=supporters&wr_id=165",
+   "location": "a.fb-xfbml-parse-ignore",
+   "evidence_text": "공유하기",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-758",
+   "url": "http://www.daehansinbo.com/bbs/board.php?bo_table=59&wr_id=910",
+   "location": "a.twitter-share-button",
+   "evidence_text": "Tweet",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-759",
+   "url": "http://www.gift4u.or.kr/bbs/board.php?bo_table=b03&wr_id=1352",
+   "location": "a.icon4",
+   "evidence_text": "카카오스토리",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-760",
+   "url": "https://www.jgfestival.or.kr/bbs/board.php?bo_table=propose&wr_id=3338226",
+   "location": "a",
+   "evidence_text": "돌아가기",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-761",
+   "url": "https://cheongna.com/server/bbs/board.php?bo_table=sub_05_04&wr_id=27",
+   "location": "a",
+   "evidence_text": "로그인",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-762",
+   "url": "http://w.domi.or.kr/domi/bbs/board.php?bo_table=bo_01&wr_id=694",
+   "location": "a",
+   "evidence_text": "로그인한 회원만 댓글 등록이 가능합니다.",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-763",
+   "url": "http://cclim.org/bbs/board.php?bo_table=Notice&wr_id=8",
+   "location": "a.Poppins_SB",
+   "evidence_text": "http://pettu.kr",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-764",
+   "url": "https://daslki.co.kr/bbs/board.php?bo_table=notice&wr_id=22",
+   "location": "a",
+   "evidence_text": "구입하기",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-765",
+   "url": "http://www.hesthena.com/kr/bbs/board.php?bo_table=kr_review&wr_id=2",
+   "location": "a",
+   "evidence_text": "HESTHENA.",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-766",
+   "url": "http://iodoo.kr/bbs/board.php?bo_table=story&wr_id=60",
+   "location": "a",
+   "evidence_text": "관리자 로그인",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-767",
+   "url": "https://alibikorea.com/bbs/board.php?bo_table=qna&wr_id=732",
+   "location": "a.order-inquiry-button",
+   "evidence_text": "비회원 주문조회",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-768",
+   "url": "http://mail.cleantek.kr/bbs/board.php?bo_table=notice&wr_id=27",
+   "location": "a",
+   "evidence_text": "http://www.kamnews.co.kr/news/articleView.html?idxno=2957",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-769",
+   "url": "http://hdbrick.phps.kr/bbs/board.php?bo_table=b_09&wr_id=12",
+   "location": "a",
+   "evidence_text": "정보수정",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-770",
+   "url": "http://www.sunbrisbane.com/brsb/bbs/board.php?bo_table=qld_commu&wr_id=574",
+   "location": "a",
+   "evidence_text": "http://koikoi.com.au",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-771",
+   "url": "http://www.phw.or.kr/bbs/board.php?bo_table=s3_3&wr_id=963",
+   "location": "a.gnb_1da",
+   "evidence_text": "평화원소개",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-772",
+   "url": "https://www.ypoc.or.kr/bbs/board.php?bo_table=free&wr_id=7895",
+   "location": "a",
+   "evidence_text": "https://tenasia.hankyung.com/topic/article/2023090846864",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-773",
+   "url": "http://petloves.me/bbs/story?bo_table=story&wr_id=278",
+   "location": "a",
+   "evidence_text": "지금 회원으로 가입하시고 서로 이야기를 나누어요.",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-774",
+   "url": "http://www.gnch.or.kr/bbs/board.php?bo_table=all_uon_freeboard&wr_id=18945",
+   "location": "a",
+   "evidence_text": "회원정보수정",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-775",
+   "url": "http://www.xn--hg3b19gh8gtsg2sa.com/bbs/board.php?bo_table=s2_8&wr_id=9",
+   "location": "a.gnb_1da",
+   "evidence_text": "회사소개",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-776",
+   "url": "https://www.vending.co.kr/bbs/board.php?bo_table=trans_12&wr_id=12",
+   "location": "a",
+   "evidence_text": "관리자",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-777",
+   "url": "http://gs1388.or.kr/bbs/board.php?bo_table=notice&wr_id=50",
+   "location": "title",
+   "evidence_text": "2026년 위기 청소년 가족동반체험프로그램 참가자 모집 안내 > 공지사항 | 금산군청소년상담복지센터(꿈드림)",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-778",
+   "url": "https://jettercoop.kr/notice/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=16067718&t=board",
+   "location": "title",
+   "evidence_text": "가격인상 : 아산제터먹이사회적협동조합",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-779",
+   "url": "https://www.wrokorea.kr/66/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=168485534&t=board",
+   "location": "title",
+   "evidence_text": "신호등 조립도와 코딩이 궁금합니다. : 2025 레고 스마트 AI 모빌리티 경진대회 Q&A",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-780",
+   "url": "https://gvcn.net/30/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=15118189&t=board",
+   "location": "title",
+   "evidence_text": "결제/환불 및 권장 결제사항 안내 : Groove Connection",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-781",
+   "url": "https://arch.yju.ac.kr/board_dzCb23/801112",
+   "location": "title",
+   "evidence_text": "취업Q&A - 건축과 - 영진전문대학교",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-782",
+   "url": "https://beansalot.co.kr/board/free/read.html?no=38&board_no=1",
+   "location": "title",
+   "evidence_text": "배송비 무료혜택 종료 : 제주 유동커피(11월30일) 공지사항 - 빈스얼랏",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-783",
+   "url": "https://kkonggi.com/article/자유게시판/5/6/",
+   "location": "title",
+   "evidence_text": "동원 프리미엄 리얼킹 비프 360g 유통기한 임박 노마진 세일! 자유게시판 - 꽁지삼촌",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-784",
+   "url": "https://www.hello-alberto.com/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=166421340&t=board",
+   "location": "title",
+   "evidence_text": "작품구입문의 : Alberto-green-grim",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-785",
+   "url": "https://xn--oi2bn30a.kr/bbs/board.php?bo_table=notice&wr_id=3",
+   "location": "title",
+   "evidence_text": "라움모바일",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-786",
+   "url": "https://hoeryongpo.kr/bbs/board.php?bo_table=free&wr_id=45",
+   "location": "title",
+   "evidence_text": "자유게시판 | 예천 회룡포 참기름",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-787",
+   "url": "https://www.cbkps.com/bbs/board.php?bo_table=notice&wr_id=6",
+   "location": "title",
+   "evidence_text": "CBK 양악, 윤곽 리얼모델모집 > 공지사항 | CBK 성형외과",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-788",
+   "url": "https://cheongna.com/server/bbs/board.php?bo_table=sub_05_04&wr_id=27",
+   "location": "title",
+   "evidence_text": "청라시민연합 cafe.naver.com/newcheongna > 동호회 | 청라닷컴",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-789",
+   "url": "http://hsjewelrycity.com/bbs/board.php?bo_table=review&wr_id=51",
+   "location": "title",
+   "evidence_text": "인천 브랜드마케팅, 무료 진단과 유료 컨설팅은 무엇이 다를까?",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-790",
+   "url": "http://w.domi.or.kr/domi/bbs/board.php?bo_table=bo_01&wr_id=694",
+   "location": "title",
+   "evidence_text": "대구광역시지체장애인협회 회원 가입 안내",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-791",
+   "url": "http://ilovemodo.co.kr/bbs/board.php?bo_table=notice&wr_id=3",
+   "location": "title",
+   "evidence_text": "홈페이지가 오픈되었습니다. > 공지사항 | 섬사랑굴사랑",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-792",
+   "url": "https://xn--wv4bl9g.com/bbs/board.php?bo_table=notice&wr_id=22",
+   "location": "title",
+   "evidence_text": "코로나19 소독 방역 인증서 - 8월 25일 > 공지사항 - 정직한식사",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-793",
+   "url": "http://indoweb.org/love/bbs/board.php?bo_table=suggest&wr_id=921",
+   "location": "title",
+   "evidence_text": "제휴 & 배너 문의 게시판 > 인도웹 광고 협찬(2026.03.26 업데이트)",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-794",
+   "url": "http://loverecord.co.kr/bbs/board.php?bo_table=after6&wr_id=9516",
+   "location": "title",
+   "evidence_text": "강력추천합니다. > 러브레코드 - 감동후기 | 러브레코드 - 라디오프로포즈,tvN 유퀴즈온더블럭 출연",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-795",
+   "url": "https://sawa.co.kr/bbs/board.php?bo_table=02_04&wr_id=13328",
+   "location": "title",
+   "evidence_text": "비밀번호 입력 | SWA 서울웹툰아카데미",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-796",
+   "url": "http://www.momook.kr/bbs/board.php?bo_table=sub51&wr_id=67",
+   "location": "title",
+   "evidence_text": "의정부민락점 오픈 (19.03.14) > 공지사항 | 모모치킨",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-797",
+   "url": "https://www.stcarollo.or.kr/bbs/board.php?bo_table=0405&wr_id=153",
+   "location": "span.hide",
+   "evidence_text": "사이트맵/모바일 메뉴 열기",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-798",
+   "url": "https://ukp.ac.kr/%EB%8C%80%ED%95%99%ED%98%84%ED%99%A9/%EB%8C%80%ED%95%99%EA%B3%B5%EA%B0%9C%EC%9E%90%EB%A3%8C/%EB%8C%80%ED%95%99%EC%9E%90%EC%B2%B4%ED%8F%89%EA%B0%80?mod=document&uid=93896",
+   "location": "a.menu-link.sub-menu-link",
+   "evidence_text": "대학 소식",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-799",
+   "url": "https://www.fun-net.co.kr/bbs/board.php?bo_table=free&wr_id=3071",
+   "location": "span.hidden",
+   "evidence_text": "홈으로",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-800",
+   "url": "https://www.srs.or.kr/bbs/board.php?bo_table=b0301&wr_id=2",
+   "location": "button.cmt_btn",
+   "evidence_text": "댓글목록",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-801",
+   "url": "https://iau-yewon.or.kr/?mod=document&page_id=1941&uid=21",
+   "location": "a.mega-menu-link",
+   "evidence_text": "학교소개",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-802",
+   "url": "https://www.myspc.org/bbs/board.php?bo_table=new&wr_id=200",
+   "location": "span.normal",
+   "evidence_text": "SPC 환영합니다 ABOUT",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-803",
+   "url": "https://hotelgeumosan.com/bbs/board.php?bo_table=cafe&wr_id=1",
+   "location": "span.req",
+   "evidence_text": "예약분류",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-804",
+   "url": "https://greenchrist.org/education/?mod=document&uid=5749",
+   "location": "span.et_pb_social_media_follow_network_name",
+   "evidence_text": "Follow",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-805",
+   "url": "https://www.pohanglab.kr/g5/bbs/board.php?bo_table=free&wr_id=4194",
+   "location": "form",
+   "evidence_text": "검색대상 검색어 필수",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-806",
+   "url": "http://kn.nodong.org/index.php?mid=board_hsjR33&document_srl=767457",
+   "location": "a",
+   "evidence_text": "정책제안",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-807",
+   "url": "https://www.gurovision.org/bbs/board.php?bo_table=request&wr_id=44",
+   "location": "span.lh-base.fs-7",
+   "evidence_text": "페이스북 공유",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-808",
+   "url": "https://www.ezone.or.kr/bbs/board.php?bo_table=workjob&wr_id=1564",
+   "location": "li.tnb-sns",
+   "evidence_text": "HOME 즐겨찾기",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-809",
+   "url": "https://ukp.ac.kr/%EB%8C%80%ED%95%99%ED%98%84%ED%99%A9/%EB%8C%80%ED%95%99%EA%B3%B5%EA%B0%9C%EC%9E%90%EB%A3%8C/%EB%8C%80%ED%95%99%EC%9E%90%EC%B2%B4%ED%8F%89%EA%B0%80?mod=document&uid=93896",
+   "location": "a.menu-link.sub-menu-link",
+   "evidence_text": "안전경영",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-810",
+   "url": "https://www.fun-net.co.kr/bbs/board.php?bo_table=free&wr_id=3071",
+   "location": "li",
+   "evidence_text": "오류안내 페이지",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-811",
+   "url": "https://iau-yewon.or.kr/?mod=document&page_id=1941&uid=21",
+   "location": "a.mega-menu-link",
+   "evidence_text": "대학",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-812",
+   "url": "https://www.myspc.org/bbs/board.php?bo_table=new&wr_id=200",
+   "location": "span.normal",
+   "evidence_text": "설교영상 Sermon",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-813",
+   "url": "https://hotelgeumosan.com/bbs/board.php?bo_table=cafe&wr_id=1",
+   "location": "span.req",
+   "evidence_text": "예약일자",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-814",
+   "url": "https://www.pohanglab.kr/g5/bbs/board.php?bo_table=free&wr_id=4194",
+   "location": "form",
+   "evidence_text": "검색대상 제목 내용 제목+내용 회원아이디 회원아이디(코) 글쓴이 글쓴이(코) 검색어 필수",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-815",
+   "url": "http://w.domi.or.kr/domi/bbs/board.php?bo_table=bo_01&wr_id=842",
+   "location": "a",
+   "evidence_text": "회원가입",
+   "subtype": "etc_like_normal"
+  },
+  {
+   "id": "DC-816",
+   "url": "http://www.yunbonggil.or.kr/bbs/board.php?bo_table=mhnews&wr_id=608",
+   "location": "select.bc-select",
+   "evidence_text": "기념관 소식 카드뉴스 매헌의소장품 소통창구 윤봉길관련영상",
+   "subtype": "etc_like_normal"
   }
  ]
 }

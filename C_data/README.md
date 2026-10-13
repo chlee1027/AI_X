@@ -4,7 +4,7 @@
 
 | 폴더 | 담당 | 파일 | 건수 |
 |---|---|---|---:|
-| `decoy/` | 사람 1 | `decoy.yaml` 정상 요소(오탐 확인용) · `negatives.json` 정답(음성) | 516 · 516 |
+| `decoy/` | 사람 1 | `decoy.yaml` 정상 요소(오탐 확인용) · `negatives.json` 정답(음성) | 816 · 816 |
 | `etc/` | 사람 1 | `etc.yaml` 4종 밖 회피 수법 · `answer_result_extra_etc.json` 정답 · `퍼센트인코딩_손검토_20261012.csv` | 473 · 473 |
 | `combo/` | 사람 1 | `combo_real.yaml` 수법 2개 이상이 겹친 광고 · `answer_result.json` 4종 코드 정답 · `answer_result_extra_combo.json` 추가 수법 정답 | 529 · 419 · 668 |
 | `homoglyph/` | 사람 2 | `homoglyph_real_test_capped.yaml` 닮은꼴 글자 권장판(캠페인당 5건) · `README.md` | 378 |
