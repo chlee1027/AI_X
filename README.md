@@ -15,6 +15,8 @@
 
 폴더마다 README 에 맡는 산출물이 있다.
 
+탐지 도구 시험판(크롤러 `A_crawler/run.py`, 탐지 엔진 `B_detector/`, exe 묶기 `D_ui_docs/build_exe.sh`)의 현재 상태와 돌리는 법은 `D_ui_docs/탐지도구_개발현황_20261014.md` 에 있다.
+
 ## 요강에서 정한 탐지 유형
 
 적격평가는 아래 4종만 본다. 그 밖의 유형은 `technique: "ETC"` 와 `extra_finding` 으로 `result_extra.json` 에 따로 적는다.

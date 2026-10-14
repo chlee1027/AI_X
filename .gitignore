@@ -2,3 +2,10 @@
 __pycache__/
 *.pyc
 .env
+# 탐지 도구 실행 산출물
+B_detector/out/
+A_crawler/out*/
+A_crawler/result*.json
+A_crawler/run_log.json
+A_crawler/trace.log
+A_crawler/page_features.jsonl
