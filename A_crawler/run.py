@@ -24,8 +24,9 @@ from pathlib import Path
 from urllib.parse import parse_qsl, urlencode, urljoin, urlsplit, urlunsplit
 
 HERE = Path(__file__).resolve().parent
-# 탐지 엔진은 B_detector/. exe 로 묶으면 모델과 모듈이 실행 파일 옆(_MEIPASS)에 함께 들어간다
-DET = HERE if getattr(sys, "frozen", False) else HERE.parent / "B_detector"
+# 탐지 엔진: 저장소에서는 B_detector/, 시험판에서는 dev/. exe 로 묶으면 모델과 모듈이 실행 파일 옆(_MEIPASS)에 들어간다
+DET = HERE if getattr(sys, "frozen", False) else (HERE.parent / "B_detector" if (HERE.parent / "B_detector").exists() else HERE.parent / "dev")
+MODELS = DET / "models" if (DET / "models").exists() else HERE / "models"
 sys.path.insert(0, str(DET))
 
 from detector import Detector  # noqa: E402
@@ -84,8 +85,8 @@ class Tool:
         self.max_pages = max_pages
         self.budget = budget
         self.workers = workers
-        m = pickle.load((DET / "models" / "models.pkl").open("rb"))
-        cfg = json.load((DET / "models" / "config.json").open(encoding="utf-8"))
+        m = pickle.load((MODELS / "models.pkl").open("rb"))
+        cfg = json.load((MODELS / "config.json").open(encoding="utf-8"))
         th = cfg["main"]
         # 설정 파일의 규칙 값(hide·text·hide_ext·fallback·ext_own·need_letter·menu_hosts)을 통째로 넘긴다
         self.det = Detector(m["content"], dict(th), th["mode"], th["jamo_guard"], th.get("dedupe", True))
@@ -306,8 +307,13 @@ class Tool:
         async with async_playwright() as p:
             try:
                 browser = await p.chromium.launch(channel="msedge")
-            except Exception:
-                browser = await p.chromium.launch()
+            except Exception as e_edge:
+                try:
+                    browser = await p.chromium.launch()
+                except Exception:
+                    # 둘 다 없으면 원인을 알 수 있게 남긴다(결과 파일은 main 의 finally 에서 그대로 쓴다)
+                    raise RuntimeError("브라우저를 열 수 없다: Microsoft Edge 가 필요하다"
+                                       "(또는 'python -m playwright install chromium')") from e_edge
             ctx = await browser.new_context(viewport={"width": 1280, "height": 900}, ignore_https_errors=True)
             ctx_nojs = await browser.new_context(viewport={"width": 1280, "height": 900}, ignore_https_errors=True,
                                                  java_script_enabled=False)
