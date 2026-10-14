@@ -1,0 +1,129 @@
+{
+  "total": 350,
+  "id_range": "OF-001~OF-350",
+  "identical_to_person3_final_yaml": true,
+  "sha256": "22c1e5c44c027b6106901220b40ce858f2ff844b9ded6fbe9f9ebf4366ea75dd",
+  "validator": "C_data/tools/validate.py",
+  "passed": 327,
+  "failed": 23,
+  "errors": [
+    "OF-128: 선택자 매칭 0개 (1개여야 함) → #post-2294>div:nth-of-type(2)>div>a:nth-of-type(6)",
+    "OF-129: 선택자 매칭 0개 (1개여야 함) → #post-2294>div:nth-of-type(2)>div>a:nth-of-type(9)",
+    "OF-130: 선택자 매칭 0개 (1개여야 함) → #post-2289>div:nth-of-type(2)>div>a:nth-of-type(6)",
+    "OF-131: 선택자 매칭 0개 (1개여야 함) → #post-2289>div:nth-of-type(2)>div>a:nth-of-type(9)",
+    "OF-132: 선택자 매칭 0개 (1개여야 함) → #post-2289>div:nth-of-type(2)>div>a:nth-of-type(6)",
+    "OF-133: 선택자 매칭 0개 (1개여야 함) → #post-2289>div:nth-of-type(2)>div>a:nth-of-type(9)",
+    "OF-134: 선택자 매칭 0개 (1개여야 함) → #post-2289>div:nth-of-type(2)>div>a:nth-of-type(6)",
+    "OF-135: 선택자 매칭 0개 (1개여야 함) → #post-2289>div:nth-of-type(2)>div>a:nth-of-type(9)",
+    "OF-136: 선택자 매칭 0개 (1개여야 함) → #post-2289>div:nth-of-type(2)>div>a:nth-of-type(6)",
+    "OF-137: 선택자 매칭 0개 (1개여야 함) → #post-2289>div:nth-of-type(2)>div>a:nth-of-type(9)",
+    "OF-138: 선택자 매칭 0개 (1개여야 함) → #post-2253>div:nth-of-type(2)>div>a:nth-of-type(9)",
+    "OF-139: 선택자 매칭 0개 (1개여야 함) → #post-2253>div:nth-of-type(2)>div>a:nth-of-type(6)",
+    "OF-140: 선택자 매칭 0개 (1개여야 함) → #post-2248>div:nth-of-type(2)>div>a:nth-of-type(9)",
+    "OF-141: 선택자 매칭 0개 (1개여야 함) → #post-2248>div:nth-of-type(2)>div>a:nth-of-type(6)",
+    "OF-142: 선택자 매칭 0개 (1개여야 함) → #post-2244>div:nth-of-type(2)>div>a:nth-of-type(9)",
+    "OF-143: 선택자 매칭 0개 (1개여야 함) → html>body>main>div>div>div>div>div:nth-of-type(1)>p:nth-of-type(5)>a>span",
+    "OF-144: 선택자 매칭 0개 (1개여야 함) → html>body>main>div>div>div>div>div:nth-of-type(1)>p:nth-of-type(8)>a>span",
+    "OF-145: 선택자 매칭 0개 (1개여야 함) → html>body>main>div>div>div>div>div:nth-of-type(1)>p:nth-of-type(11)>a>span",
+    "OF-146: 선택자 매칭 0개 (1개여야 함) → html>body>main>div>div>div>div>div:nth-of-type(1)>p:nth-of-type(12)>a>span",
+    "OF-147: 선택자 매칭 0개 (1개여야 함) → html>body>main>div>div>div>div>div:nth-of-type(1)>p:nth-of-type(35)>a>span",
+    "OF-148: 선택자 매칭 0개 (1개여야 함) → html>body>main>div>div>div>div>div:nth-of-type(1)>p:nth-of-type(38)>a>span",
+    "OF-149: 선택자 매칭 0개 (1개여야 함) → html>body>main>div>div>div>div>div:nth-of-type(1)>p:nth-of-type(40)>em:nth-of-type(2)>a:nth-of-type(1)>span",
+    "OF-150: 선택자 매칭 0개 (1개여야 함) → html>body>main>div>div>div>div>div:nth-of-type(1)>p:nth-of-type(42)>a>span"
+  ],
+  "document_parse_recheck": [
+    {
+      "id": "OF-128",
+      "matches_when_parsed_as_document": 0
+    },
+    {
+      "id": "OF-129",
+      "matches_when_parsed_as_document": 0
+    },
+    {
+      "id": "OF-130",
+      "matches_when_parsed_as_document": 0
+    },
+    {
+      "id": "OF-131",
+      "matches_when_parsed_as_document": 0
+    },
+    {
+      "id": "OF-132",
+      "matches_when_parsed_as_document": 0
+    },
+    {
+      "id": "OF-133",
+      "matches_when_parsed_as_document": 0
+    },
+    {
+      "id": "OF-134",
+      "matches_when_parsed_as_document": 0
+    },
+    {
+      "id": "OF-135",
+      "matches_when_parsed_as_document": 0
+    },
+    {
+      "id": "OF-136",
+      "matches_when_parsed_as_document": 0
+    },
+    {
+      "id": "OF-137",
+      "matches_when_parsed_as_document": 0
+    },
+    {
+      "id": "OF-138",
+      "matches_when_parsed_as_document": 0
+    },
+    {
+      "id": "OF-139",
+      "matches_when_parsed_as_document": 0
+    },
+    {
+      "id": "OF-140",
+      "matches_when_parsed_as_document": 0
+    },
+    {
+      "id": "OF-141",
+      "matches_when_parsed_as_document": 0
+    },
+    {
+      "id": "OF-142",
+      "matches_when_parsed_as_document": 0
+    },
+    {
+      "id": "OF-143",
+      "matches_when_parsed_as_document": 0
+    },
+    {
+      "id": "OF-144",
+      "matches_when_parsed_as_document": 0
+    },
+    {
+      "id": "OF-145",
+      "matches_when_parsed_as_document": 0
+    },
+    {
+      "id": "OF-146",
+      "matches_when_parsed_as_document": 0
+    },
+    {
+      "id": "OF-147",
+      "matches_when_parsed_as_document": 0
+    },
+    {
+      "id": "OF-148",
+      "matches_when_parsed_as_document": 0
+    },
+    {
+      "id": "OF-149",
+      "matches_when_parsed_as_document": 0
+    },
+    {
+      "id": "OF-150",
+      "matches_when_parsed_as_document": 0
+    }
+  ],
+  "note": "원문과의 동일성을 유지하기 위해 expected_location을 수정하지 않았습니다. 전체 원문·브라우저 검수 근거는 dyhan2/ai-x_sample의 최종 결과를 참고하세요."
+}
