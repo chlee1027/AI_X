@@ -1,0 +1,285 @@
+- id: OFB-0001
+  category: OFFSCREEN
+  subtype: display_none
+  html: "<div class=\"kboard-document-navi\" style=\"display:none\">\n\t\t\t<div class=\"kboard-prev-document\">\n\t\t\t\t\t\t\t\t<a href=\"/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?mod=document&amp;uid=11045\" title=\"[할인] 동대문 opop걸 ☆ 오피나비.com ☆ 평판 목포 룸\">\n\t\t\t\t\t<span class=\"navi-arrow\">«</span>\n\t\t\t\t\t<span class=\"navi-document-title kboard-default-cut-strings\">[할인] 동대문 opop걸 ☆ 오피나비.com ☆ 평판 목포 룸</span>\n\t\t\t\t</a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\n\t\t\t<div class=\"kboard-next-document\">\n\t\t\t\t\t\t\t\t<a href=\"/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?mod=document&amp;uid=11047\" title=\"일산 룸 하퍼 보스 010 - 4636 -1382, https://ilsanstar.kr/\">\n\t\t\t\t\t<span class=\"navi-document-title kboard-default-cut-strings\">일산 룸 하퍼 보스 010 - 4636 -1382, https://ilsanstar.kr/</span>\n\t\t\t\t\t<span class=\"navi-arrow\">»</span>\n\t\t\t\t</a>\n\t\t\t\t\t\t\t</div>\n\t\t</div>"
+  css: '#root > :first-child{display:none}'
+  evidence_text: « [할인] 동대문 opop걸 ☆ 오피나비.com ☆ 평판 목포 룸
+  expected_location: a[href="/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?mod=document&uid=11045"]
+  is_positive: true
+  extra_finding: null
+  source: 실제 수집(렌더링 확인) · https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?mod=document&uid=11046
+  notes: '숨김 출처: template / 숨긴 요소: div #kboard-default-document > div:nth-of-type(2) / 계산 스타일: display:none / 링크: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?mod=document&uid=11045 / 페이지 제목: 구글대리결제광고 🔵 [ 구 글 찌 라 시 . C O M ] @ [TDTD1111] – 한남대학교 상담심리학과'
+  origin:
+    host: counselpsy.hannam.ac.kr
+    url: https://counselpsy.hannam.ac.kr/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90_%ED%85%8C%EC%8A%A4%ED%8A%B8/?mod=document&uid=11046
+    page_location: '#kboard-default-document > div:nth-of-type(2) > div:nth-of-type(1) > a'
+    page_location_unique: true
+    hide_origin: template
+    hide_root: '#kboard-default-document > div:nth-of-type(2)'
+  source_type: real
+- id: OFB-0002
+  category: OFFSCREEN
+  subtype: font_size_zero_or_tiny
+  html: <h1 id="hd_h1">【먹튀검증커뮤니티 광고프로그램 텔레 @TTSOFTKR12】 유튜브마케팅회사 하이스코어 토토정보커뮤니티 광고대행사 검증커뮤니티 라바카지노 먹튀 슈퍼스타 먹튀 키워드대행사 유튜브조회수늘 &gt; 대회접수_test</h1>
+  css: '#root > :first-child{font-size:0px}'
+  evidence_text: 【먹튀검증커뮤니티 광고프로그램 텔레 @TTSOFTKR12】 유튜브마케팅회사 하이스코어 토토정보커뮤니티 광고대행사 검증커뮤니티 라바카지노 먹튀 슈퍼스타 먹튀 키워드대행사 유튜브조회수늘 > 대회접수_test
+  expected_location: h1
+  is_positive: true
+  extra_finding: null
+  source: 실제 수집(렌더링 확인) · https://www.kusta.or.kr/bbs/board.php?bo_table=mypage&wr_id=76458&sst=wr_hit&sod=desc&sop=and&page=2748
+  notes: '숨김 출처: template / 숨긴 요소: h1 #hd_h1 / 계산 스타일: font-size:0px / 페이지 제목: 【먹튀검증커뮤니티 광고프로그램 텔레 @TTSOFTKR12】 유튜브마케팅회사 하이스코어 토토정보커뮤니티 광고대'
+  origin:
+    host: www.kusta.or.kr
+    url: https://www.kusta.or.kr/bbs/board.php?bo_table=mypage&wr_id=76458&sst=wr_hit&sod=desc&sop=and&page=2748
+    page_location: '#hd_h1'
+    page_location_unique: true
+    hide_origin: template
+    hide_root: '#hd_h1'
+  source_type: real
+- id: OFB-0003
+  category: OFFSCREEN
+  subtype: clip_or_clip_path
+  html: <h1 class="sound_only">롤배팅 [원벳원보증.com / 가입코드 9192] 메이저사이트 &gt; 사진자료실</h1>
+  css: '#root > :first-child{position:absolute;clip:rect(1px, 1px, 1px, 1px)}'
+  evidence_text: 롤배팅 [원벳원보증.com / 가입코드 9192] 메이저사이트 > 사진자료실
+  expected_location: h1
+  is_positive: true
+  extra_finding: null
+  source: 실제 수집(렌더링 확인) · http://www.sujiable.or.kr/gallery/6150
+  notes: '숨김 출처: template / 숨긴 요소: h1 #wd_webis > h1 / 계산 스타일: position:absolute;clip:rect(1px, 1px, 1px, 1px);clip-path:none / 페이지 제목: 롤배팅 [원벳원보증.com / 가입코드 9192] 메이저사이트 > 사진자료실 | 용인시수지장애인복지관'
+  origin:
+    host: www.sujiable.or.kr
+    url: http://www.sujiable.or.kr/gallery/6150
+    page_location: '#wd_webis > h1'
+    page_location_unique: true
+    hide_origin: template
+    hide_root: '#wd_webis > h1'
+  source_type: real
+- id: OFB-0004
+  category: OFFSCREEN
+  subtype: clip_or_clip_path
+  html: '<span class="screen-reader-text">: Lojalitet Politisk Plattform  Kongeriket Norge Get Started mafia online casino</span>'
+  css: '#root > :first-child{position:absolute;clip:auto;clip-path:inset(50%)}'
+  evidence_text: ': Lojalitet Politisk Plattform Kongeriket Norge Get Started mafia online casino'
+  expected_location: span
+  is_positive: true
+  extra_finding: null
+  source: 실제 수집(렌더링 확인) · https://berita.min4kepselayar.sch.id/
+  notes: '숨김 출처: template / 숨긴 요소: span #wp--skip-link--target > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div > / 계산 스타일: position:absolute;clip:auto;clip-path:inset(50%) / 링크: https://berita.min4kepselayar.sch.id/lojalitet-politisk-plattform-kongeriket-norge-get-started-mafia-online-casino/ / 페이지 제목: Portal Berita MIN 4 Kepulauan Selayar – Madrasah Hebat, Berm'
+  origin:
+    host: berita.min4kepselayar.sch.id
+    url: https://berita.min4kepselayar.sch.id/
+    page_location: '#wp--skip-link--target > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div > ul > li:nth-of-type(6) > div > div > div:nth-of-type(2) > div > div:nth-of-type(4) > a > span'
+    page_location_unique: true
+    hide_origin: template
+    hide_root: '#wp--skip-link--target > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div > ul > li:nth-of-type(6) > div > div > div:nth-of-type(2) > div > div:nth-of-type(4) > a > span'
+  source_type: real
+- id: OFB-0005
+  category: OFFSCREEN
+  subtype: clip_or_clip_path
+  html: '<span class="screen-reader-text">: Cum Se Comportă FG777 Cazinou De Jocuri De Noroc A Vedea A Asigura Jocuri De Noroc Rockstar Casino Online — România Get Bonus Now</span>'
+  css: '#root > :first-child{position:absolute;clip:auto;clip-path:inset(50%)}'
+  evidence_text: ': Cum Se Comportă FG777 Cazinou De Jocuri De Noroc A Vedea A Asigura Jocuri De Noroc Rockstar Casino Online — România Get Bonus Now'
+  expected_location: span
+  is_positive: true
+  extra_finding: null
+  source: 실제 수집(렌더링 확인) · https://berita.min4kepselayar.sch.id/
+  notes: '숨김 출처: template / 숨긴 요소: span #wp--skip-link--target > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div > / 계산 스타일: position:absolute;clip:auto;clip-path:inset(50%) / 링크: https://berita.min4kepselayar.sch.id/cum-se-comport-fg777-cazinou-de-jocuri-de-noroc-a-vedea-a-asigura-jocuri-de-noroc-rockstar-casino-online-rom-nia- / 페이지 제목: Portal Berita MIN 4 Kepulauan Selayar – Madrasah Hebat, Berm'
+  origin:
+    host: berita.min4kepselayar.sch.id
+    url: https://berita.min4kepselayar.sch.id/
+    page_location: '#wp--skip-link--target > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div > ul > li:nth-of-type(4) > div > div > div:nth-of-type(2) > div > div:nth-of-type(4) > a > span'
+    page_location_unique: true
+    hide_origin: template
+    hide_root: '#wp--skip-link--target > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div > ul > li:nth-of-type(4) > div > div > div:nth-of-type(2) > div > div:nth-of-type(4) > a > span'
+  source_type: real
+- id: OFB-0006
+  category: OFFSCREEN
+  subtype: clip_or_clip_path
+  html: '<span class="screen-reader-text">: Les critères essentiels pour sélectionner les meilleures offres de Likesbet</span>'
+  css: '#root > :first-child{position:absolute;clip:auto;clip-path:inset(50%)}'
+  evidence_text: ': Les critères essentiels pour sélectionner les meilleures offres de Likesbet'
+  expected_location: span
+  is_positive: true
+  extra_finding: null
+  source: 실제 수집(렌더링 확인) · https://berita.min4kepselayar.sch.id/
+  notes: '숨김 출처: template / 숨긴 요소: span #wp--skip-link--target > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div > / 계산 스타일: position:absolute;clip:auto;clip-path:inset(50%) / 링크: https://berita.min4kepselayar.sch.id/les-crit-res-essentiels-pour-s-lectionner-les-meilleures-offres-de-likesbet/ / 페이지 제목: Portal Berita MIN 4 Kepulauan Selayar – Madrasah Hebat, Berm'
+  origin:
+    host: berita.min4kepselayar.sch.id
+    url: https://berita.min4kepselayar.sch.id/
+    page_location: '#wp--skip-link--target > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div > ul > li:nth-of-type(8) > div > div > div:nth-of-type(2) > div > div:nth-of-type(4) > a > span'
+    page_location_unique: true
+    hide_origin: template
+    hide_root: '#wp--skip-link--target > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div > ul > li:nth-of-type(8) > div > div > div:nth-of-type(2) > div > div:nth-of-type(4) > a > span'
+  source_type: real
+- id: OFB-0007
+  category: OFFSCREEN
+  subtype: clip_or_clip_path
+  html: '<span class="screen-reader-text">: Jak Rovná Se Klient PoneClub Gambling Casino Doprovází Casino500 ◦ národní území Play Now</span>'
+  css: '#root > :first-child{position:absolute;clip:auto;clip-path:inset(50%)}'
+  evidence_text: ': Jak Rovná Se Klient PoneClub Gambling Casino Doprovází Casino500 ◦ národní území Play Now'
+  expected_location: span
+  is_positive: true
+  extra_finding: null
+  source: 실제 수집(렌더링 확인) · https://berita.min4kepselayar.sch.id/
+  notes: '숨김 출처: template / 숨긴 요소: span #wp--skip-link--target > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div > / 계산 스타일: position:absolute;clip:auto;clip-path:inset(50%) / 링크: https://berita.min4kepselayar.sch.id/jak-rovn-se-klient-poneclub-gambling-casino-doprov-z-casino500-n-rodn-zem-play-now/ / 페이지 제목: Portal Berita MIN 4 Kepulauan Selayar – Madrasah Hebat, Berm'
+  origin:
+    host: berita.min4kepselayar.sch.id
+    url: https://berita.min4kepselayar.sch.id/
+    page_location: '#wp--skip-link--target > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div > ul > li:nth-of-type(9) > div > div > div:nth-of-type(2) > div > div:nth-of-type(4) > a > span'
+    page_location_unique: true
+    hide_origin: template
+    hide_root: '#wp--skip-link--target > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div > ul > li:nth-of-type(9) > div > div > div:nth-of-type(2) > div > div:nth-of-type(4) > a > span'
+  source_type: real
+- id: OFB-0008
+  category: OFFSCREEN
+  subtype: clip_or_clip_path
+  html: '<span class="screen-reader-text">: Vox Casino: Van Pragmatic Play Slots tot Live Tafels</span>'
+  css: '#root > :first-child{position:absolute;clip:auto;clip-path:inset(50%)}'
+  evidence_text: ': Vox Casino: Van Pragmatic Play Slots tot Live Tafels'
+  expected_location: span
+  is_positive: true
+  extra_finding: null
+  source: 실제 수집(렌더링 확인) · https://berita.min4kepselayar.sch.id/
+  notes: '숨김 출처: template / 숨긴 요소: span #wp--skip-link--target > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div > / 계산 스타일: position:absolute;clip:auto;clip-path:inset(50%) / 링크: https://berita.min4kepselayar.sch.id/vox-casino-van-pragmatic-play-slots-tot-live-tafels/ / 페이지 제목: Portal Berita MIN 4 Kepulauan Selayar – Madrasah Hebat, Berm'
+  origin:
+    host: berita.min4kepselayar.sch.id
+    url: https://berita.min4kepselayar.sch.id/
+    page_location: '#wp--skip-link--target > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div > ul > li:nth-of-type(2) > div > div > div:nth-of-type(2) > div > div:nth-of-type(4) > a > span'
+    page_location_unique: true
+    hide_origin: template
+    hide_root: '#wp--skip-link--target > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div > ul > li:nth-of-type(2) > div > div > div:nth-of-type(2) > div > div:nth-of-type(4) > a > span'
+  source_type: real
+- id: OFB-0009
+  category: OFFSCREEN
+  subtype: clip_or_clip_path
+  html: <span class="abs-visually-hidden">Daftar Keinginan</span>
+  css: '#root > :first-child{position:absolute;clip:rect(0px, 0px, 0px, 0px)}'
+  evidence_text: Daftar Keinginan
+  expected_location: span
+  is_positive: true
+  extra_finding: null
+  source: 실제 수집(렌더링 확인) · https://bpkad.jambikota.go.id/
+  notes: '숨김 출처: template / 숨긴 요소: span #html-body > div:nth-of-type(1) > header > div:nth-of-type(2) > div:nth-of-type(3) > a > span / 계산 스타일: position:absolute;clip:rect(0px, 0px, 0px, 0px);clip-path:none / 링크: https://bpkad.jambikota.go.id/ / 페이지 제목: RAJABAKAR - Pusat Game Online Terbaru | Hiburan Digital & Pe'
+  origin:
+    host: bpkad.jambikota.go.id
+    url: https://bpkad.jambikota.go.id/
+    page_location: '#html-body > div:nth-of-type(1) > header > div:nth-of-type(2) > div:nth-of-type(3) > a > span'
+    page_location_unique: true
+    hide_origin: template
+    hide_root: '#html-body > div:nth-of-type(1) > header > div:nth-of-type(2) > div:nth-of-type(3) > a > span'
+  source_type: real
+- id: OFB-0010
+  category: OFFSCREEN
+  subtype: negative_left
+  html: '<div class="sponsor-area" style="position: absolute; left: -9999px;"><a href="https://slotraffiahmad.pro/" rel="dofollow">slotraffiahmad.pro</a><br><a href="https://slotraffiahmad.us/" rel="dofollow">slotraffiahmad.us</a><br><a href="https://slotraffiahmad.shop/" rel="dofollow">slotraffiahmad.shop</a><br><a href="https://slotraffiahmad.vip/" rel="dofollow">slotraffiahmad.vip</a><br><a href="https://slotraffiahmad.store/" rel="dofollow">slotraffiahmad.store</a><br><a href="https://slotraffiahmad88.it.com/" rel="dofollow">slotraffiahmad88.it.com</a><br><a href="https://slotraffiahmad77.it.com/" rel="dofollow">slotraffiahmad77.it.com</a><br><a href="https://situsslotraffiahmad.com/" rel="dofollow">situsslotraffiahmad.com</a></div>'
+  css: '#root > :first-child{position:absolute;left:-9999px;top:139px}'
+  evidence_text: slotraffiahmad.pro
+  expected_location: a[href="https://slotraffiahmad.pro/"]
+  is_positive: true
+  extra_finding: null
+  source: 실제 수집(렌더링 확인) · https://qaaspa.com/index.php/bmtj/
+  notes: '숨김 출처: template / 숨긴 요소: div #skip-to-footer > div > div:nth-of-type(1) > div > div:nth-of-type(1) > div:nth-of-type(2) / 계산 스타일: position:absolute;left:-9999px;top:139px / 링크: https://slotraffiahmad.pro/ / 페이지 제목: BioMed Target Journal'
+  origin:
+    host: qaaspa.com
+    url: https://qaaspa.com/index.php/bmtj/
+    page_location: '#skip-to-footer > div > div:nth-of-type(1) > div > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)'
+    page_location_unique: true
+    hide_origin: template
+    hide_root: '#skip-to-footer > div > div:nth-of-type(1) > div > div:nth-of-type(1) > div:nth-of-type(2)'
+  source_type: real
+- id: OFB-0011
+  category: OFFSCREEN
+  subtype: negative_left
+  html: '<div class="sponsor-area" style="position: absolute; left: -9999px;"><a href="https://slotraffiahmad.pro/" rel="dofollow">slotraffiahmad.pro</a><br><a href="https://slotraffiahmad.us/" rel="dofollow">slotraffiahmad.us</a><br><a href="https://slotraffiahmad.shop/" rel="dofollow">slotraffiahmad.shop</a><br><a href="https://slotraffiahmad.vip/" rel="dofollow">slotraffiahmad.vip</a><br><a href="https://slotraffiahmad.store/" rel="dofollow">slotraffiahmad.store</a><br><a href="https://slotraffiahmad88.it.com/" rel="dofollow">slotraffiahmad88.it.com</a><br><a href="https://slotraffiahmad77.it.com/" rel="dofollow">slotraffiahmad77.it.com</a><br><a href="https://situsslotraffiahmad.com/" rel="dofollow">situsslotraffiahmad.com</a></div>'
+  css: '#root > :first-child{position:absolute;left:-9999px;top:139px}'
+  evidence_text: slotraffiahmad.shop
+  expected_location: a[href="https://slotraffiahmad.shop/"]
+  is_positive: true
+  extra_finding: null
+  source: 실제 수집(렌더링 확인) · https://qaaspa.com/index.php/bmtj/
+  notes: '숨김 출처: template / 숨긴 요소: div #skip-to-footer > div > div:nth-of-type(1) > div > div:nth-of-type(1) > div:nth-of-type(2) / 계산 스타일: position:absolute;left:-9999px;top:139px / 링크: https://slotraffiahmad.shop/ / 페이지 제목: BioMed Target Journal'
+  origin:
+    host: qaaspa.com
+    url: https://qaaspa.com/index.php/bmtj/
+    page_location: '#skip-to-footer > div > div:nth-of-type(1) > div > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(3)'
+    page_location_unique: true
+    hide_origin: template
+    hide_root: '#skip-to-footer > div > div:nth-of-type(1) > div > div:nth-of-type(1) > div:nth-of-type(2)'
+  source_type: real
+- id: OFB-0012
+  category: OFFSCREEN
+  subtype: negative_left
+  html: '<div class="sponsor-area" style="position: absolute; left: -9999px;"><a href="https://slotraffiahmad.pro/" rel="dofollow">slotraffiahmad.pro</a><br><a href="https://slotraffiahmad.us/" rel="dofollow">slotraffiahmad.us</a><br><a href="https://slotraffiahmad.shop/" rel="dofollow">slotraffiahmad.shop</a><br><a href="https://slotraffiahmad.vip/" rel="dofollow">slotraffiahmad.vip</a><br><a href="https://slotraffiahmad.store/" rel="dofollow">slotraffiahmad.store</a><br><a href="https://slotraffiahmad88.it.com/" rel="dofollow">slotraffiahmad88.it.com</a><br><a href="https://slotraffiahmad77.it.com/" rel="dofollow">slotraffiahmad77.it.com</a><br><a href="https://situsslotraffiahmad.com/" rel="dofollow">situsslotraffiahmad.com</a></div>'
+  css: '#root > :first-child{position:absolute;left:-9999px;top:139px}'
+  evidence_text: slotraffiahmad88.it.com
+  expected_location: a[href="https://slotraffiahmad88.it.com/"]
+  is_positive: true
+  extra_finding: null
+  source: 실제 수집(렌더링 확인) · https://qaaspa.com/index.php/bmtj/
+  notes: '숨김 출처: template / 숨긴 요소: div #skip-to-footer > div > div:nth-of-type(1) > div > div:nth-of-type(1) > div:nth-of-type(2) / 계산 스타일: position:absolute;left:-9999px;top:139px / 링크: https://slotraffiahmad88.it.com/ / 페이지 제목: BioMed Target Journal'
+  origin:
+    host: qaaspa.com
+    url: https://qaaspa.com/index.php/bmtj/
+    page_location: '#skip-to-footer > div > div:nth-of-type(1) > div > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(6)'
+    page_location_unique: true
+    hide_origin: template
+    hide_root: '#skip-to-footer > div > div:nth-of-type(1) > div > div:nth-of-type(1) > div:nth-of-type(2)'
+  source_type: real
+- id: OFB-0013
+  category: OFFSCREEN
+  subtype: negative_left
+  html: '<div class="sponsor-area" style="position: absolute; left: -9999px;"><a href="https://slotraffiahmad.pro/" rel="dofollow">slotraffiahmad.pro</a><br><a href="https://slotraffiahmad.us/" rel="dofollow">slotraffiahmad.us</a><br><a href="https://slotraffiahmad.shop/" rel="dofollow">slotraffiahmad.shop</a><br><a href="https://slotraffiahmad.vip/" rel="dofollow">slotraffiahmad.vip</a><br><a href="https://slotraffiahmad.store/" rel="dofollow">slotraffiahmad.store</a><br><a href="https://slotraffiahmad88.it.com/" rel="dofollow">slotraffiahmad88.it.com</a><br><a href="https://slotraffiahmad77.it.com/" rel="dofollow">slotraffiahmad77.it.com</a><br><a href="https://situsslotraffiahmad.com/" rel="dofollow">situsslotraffiahmad.com</a></div>'
+  css: '#root > :first-child{position:absolute;left:-9999px;top:139px}'
+  evidence_text: situsslotraffiahmad.com
+  expected_location: a[href="https://situsslotraffiahmad.com/"]
+  is_positive: true
+  extra_finding: null
+  source: 실제 수집(렌더링 확인) · https://qaaspa.com/index.php/bmtj/
+  notes: '숨김 출처: template / 숨긴 요소: div #skip-to-footer > div > div:nth-of-type(1) > div > div:nth-of-type(1) > div:nth-of-type(2) / 계산 스타일: position:absolute;left:-9999px;top:139px / 링크: https://situsslotraffiahmad.com/ / 페이지 제목: BioMed Target Journal'
+  origin:
+    host: qaaspa.com
+    url: https://qaaspa.com/index.php/bmtj/
+    page_location: '#skip-to-footer > div > div:nth-of-type(1) > div > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(8)'
+    page_location_unique: true
+    hide_origin: template
+    hide_root: '#skip-to-footer > div > div:nth-of-type(1) > div > div:nth-of-type(1) > div:nth-of-type(2)'
+  source_type: real
+- id: OFB-0014
+  category: OFFSCREEN
+  subtype: negative_left
+  html: '<div class="sponsor-area" style="position: absolute; left: -9999px;"><a href="https://slotraffiahmad.pro/" rel="dofollow">slotraffiahmad.pro</a><br><a href="https://slotraffiahmad.us/" rel="dofollow">slotraffiahmad.us</a><br><a href="https://slotraffiahmad.shop/" rel="dofollow">slotraffiahmad.shop</a><br><a href="https://slotraffiahmad.vip/" rel="dofollow">slotraffiahmad.vip</a><br><a href="https://slotraffiahmad.store/" rel="dofollow">slotraffiahmad.store</a><br><a href="https://slotraffiahmad88.it.com/" rel="dofollow">slotraffiahmad88.it.com</a><br><a href="https://slotraffiahmad77.it.com/" rel="dofollow">slotraffiahmad77.it.com</a><br><a href="https://situsslotraffiahmad.com/" rel="dofollow">situsslotraffiahmad.com</a></div>'
+  css: '#root > :first-child{position:absolute;left:-9999px;top:139px}'
+  evidence_text: slotraffiahmad.vip
+  expected_location: a[href="https://slotraffiahmad.vip/"]
+  is_positive: true
+  extra_finding: null
+  source: 실제 수집(렌더링 확인) · https://qaaspa.com/index.php/bmtj/
+  notes: '숨김 출처: template / 숨긴 요소: div #skip-to-footer > div > div:nth-of-type(1) > div > div:nth-of-type(1) > div:nth-of-type(2) / 계산 스타일: position:absolute;left:-9999px;top:139px / 링크: https://slotraffiahmad.vip/ / 페이지 제목: BioMed Target Journal'
+  origin:
+    host: qaaspa.com
+    url: https://qaaspa.com/index.php/bmtj/
+    page_location: '#skip-to-footer > div > div:nth-of-type(1) > div > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(4)'
+    page_location_unique: true
+    hide_origin: template
+    hide_root: '#skip-to-footer > div > div:nth-of-type(1) > div > div:nth-of-type(1) > div:nth-of-type(2)'
+  source_type: real
+- id: OFB-0015
+  category: OFFSCREEN
+  subtype: clip_or_clip_path
+  html: <span class="abs-visually-hidden">Daftar Keinginan</span>
+  css: '#root > :first-child{position:absolute;clip:rect(0px, 0px, 0px, 0px)}'
+  evidence_text: Daftar Keinginan
+  expected_location: span
+  is_positive: true
+  extra_finding: null
+  source: 실제 수집(렌더링 확인) · https://raksana.sch.id/
+  notes: '숨김 출처: template / 숨긴 요소: span #html-body > div:nth-of-type(2) > header > div:nth-of-type(2) > div:nth-of-type(4) > a > span / 계산 스타일: position:absolute;clip:rect(0px, 0px, 0px, 0px);clip-path:none / 링크: https://www.raksana.sch.id/ / 페이지 제목: Syair HK: Prediksi HK Syair - Forum Syair HK - Syair Hongkon'
+  origin:
+    host: raksana.sch.id
+    url: https://raksana.sch.id/
+    page_location: '#html-body > div:nth-of-type(2) > header > div:nth-of-type(2) > div:nth-of-type(4) > a > span'
+    page_location_unique: true
+    hide_origin: template
+    hide_root: '#html-body > div:nth-of-type(2) > header > div:nth-of-type(2) > div:nth-of-type(4) > a > span'
+  source_type: real
