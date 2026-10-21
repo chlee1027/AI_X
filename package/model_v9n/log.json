@@ -1,0 +1,42 @@
+{
+  "kw": {
+    "text": "restored",
+    "cue_norm": true,
+    "strip": 0.5,
+    "lex": [
+      "도박",
+      "성인·유흥",
+      "대출·금융",
+      "마약",
+      "의약품",
+      "투자·코인",
+      "위조·불법거래"
+    ],
+    "lexmod": "adlex2"
+  },
+  "thresholds": {
+    "HOMOGLYPH": 0.2,
+    "JAMO": 0.3,
+    "TRANSPARENT": 0.8,
+    "OFFSCREEN": 0.6
+  },
+  "ui_skip": true,
+  "dev_oof_site_disjoint": {
+    "lenient": 0.6438,
+    "strict": 0.5034
+  },
+  "gov_A_fp": 22,
+  "source": "runs/eval9.txt (진행보고서 7-45절)",
+  "seconds": 34.2,
+  "base": "v9m + 번호 기호 HG 제외 + 저자기호·ㅣ 구분자 JAMO 제외 + ETC 고침(7-77·7-78절)",
+  "stack": true,
+  "api_mode": "demote",
+  "gov_A_fp_inner": 0,
+  "gov_B_fp_inner": 19,
+  "hg2": true,
+  "report": "block",
+  "garble": true,
+  "conj_strong": true,
+  "conj_floor": 0.4,
+  "numform": true
+}

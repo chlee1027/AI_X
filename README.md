@@ -4,18 +4,28 @@
 
 점검할 웹사이트 URL 하나를 넣으면 하위 페이지·게시글·댓글·iframe 안에 게시되거나 숨겨진 불법광고를 찾아, 유형과 위치를 화면과 `result.json` 으로 알려 주는 Windows 11 도구를 만든다.
 
+## 최종판 (v9n + API v2x, 2026-10-21)
+
+사이트 주소 하나를 받아 최대 2,000쪽 또는 20분 동안 실제 브라우저(Edge)로 돌아다니며 숨기거나 위장한 불법광고를 찾아
+`result.json`(4종)과 `result_extra.json`(추가 유형)을 쓴다. 규칙과 학습 판정기로 후보를 고르고, 애매한 것만 Claude API(claude-haiku-5-5)에 2차로 묻는다.
+키가 없으면 API 없이 끝까지 돈다. 이전 시험판(`A_crawler`·`B_detector`·`D_ui_docs`)은 이 판으로 바꾸며 지웠다(git 이력에 남아 있음).
+
+- 성능·한계·요강 해석: `인계문서_보고서팀.md`
+- 빌드: `빌드방법.txt` (Windows, Python 3.12.7, `package/requirements.txt`)
+- 사용법: `package/사용설명서.txt`
+- 결과 형식 점검: `python model2/요강점검.py <결과 폴더>`
+- 실행 파일은 레포에 올리지 않는다(약 300 MB). 제출 zip 으로 따로 전달한다.
+
 ## 폴더
 
-| 폴더 | 역할 | 맡는 일 |
-|---|---|---|
-| `A_crawler/` | A. 크롤러 · 렌더링 · 성능 | 사이트 탐색, 렌더링, 요소 위치(CSS 선택자), `result.json` 기록·스키마 검증, 30분 시간 예산 |
-| `B_detector/` | B. 탐지 엔진 | 문자열 정규화, 4종 탐지기, 키워드 사전, 추가 유형, 병합·임계값 |
-| `C_data/` | C. 데이터 · 평가 | 실측 샘플(DECOY · ETC · 난독화 조합 · JAMO · OFFSCREEN), 키워드 사전(`data/lexicon/`), 요강 스키마 정답셋, 모의 사이트, 채점기 |
-| `D_ui_docs/` | D. UI · 패키징 · 문서 | 결과 화면, 실행 파일 빌드, 사용설명서·매뉴얼, 서식 1~4, 제출 |
-
-폴더마다 README 에 맡는 산출물이 있다.
-
-탐지 도구 시험판(크롤러 `A_crawler/run.py`, 탐지 엔진 `B_detector/`, exe 묶기 `D_ui_docs/build_exe.sh`)의 현재 상태와 돌리는 법은 `D_ui_docs/탐지도구_개발현황_20261014.md` 에 있다.
+| 위치 | 내용 |
+|---|---|
+| `model/`, `model2/` | 탐지 코드. 진입점은 `model2/scan4.py`(크롤러·판정) |
+| `package/detect.py` | 실행 파일 진입점, `package/build.py` 로 빌드 |
+| `package/model_v9n/` | 학습된 판정 모델 |
+| `model2/채점.py`, `score_key.py`, `score_extra.py` | 사이트 채점(정답 파일과 비교, 집계만 출력) |
+| `model2/score_test_etc.py` | 봉인 시험셋 추가 유형 채점(집계만 출력) |
+| `C_data/` | 실측 샘플(DECOY · ETC · 난독화 조합 · JAMO · OFFSCREEN), 키워드 사전, 요강 스키마 정답셋, 모의 사이트, 채점기 |
 
 ## 요강에서 정한 탐지 유형
 

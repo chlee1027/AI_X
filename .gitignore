@@ -9,3 +9,9 @@ A_crawler/result*.json
 A_crawler/run_log.json
 A_crawler/trace.log
 A_crawler/page_features.jsonl
+# 10-21 최종판(v9n): API 키·빌드 산출물·검사 결과
+api_key.txt
+package/.venv/
+package/build/
+package/dist/
+model2/scans/

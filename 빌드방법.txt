@@ -1,0 +1,16 @@
+빌드 방법 (Windows, Python 3.12.7)
+
+1. package 폴더에서 가상환경을 만든다
+   python -m venv .venv
+   .venv\Scripts\python -m pip install -r requirements.txt
+2. 빌드
+   .venv\Scripts\python build.py
+   -> package\dist\AdDetector (API 없음), package\dist\AdDetector_API (API 판) 가 만들어진다.
+3. 브라우저: 설치된 Microsoft Edge 를 쓴다(따로 내려받지 않음).
+4. API 키: 실행 파일 옆 .env.example 을 .env 로 이름을 바꾸고 ANTHROPIC_API_KEY= 뒤에 키를 넣는다.
+   키가 없거나 호출이 실패하면 API 없는 판과 같은 방식으로 끝까지 검사한다.
+5. 결과 형식 점검: python model2\요강점검.py <결과 폴더>
+
+구성
+- model, model2: 탐지 코드(scan4.py 가 크롤러·판정 진입점)
+- package/detect.py: 실행 파일 진입점, build.py: 빌드, model_v9n: 학습된 판정 모델
