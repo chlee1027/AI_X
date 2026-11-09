@@ -1,0 +1,161 @@
+id,lang,source,gt,pred,cer,exact,sec,first
+o000,ko,normal,주민참여예산 제안 공모,주민참여예산 제안 공모,0.0,1,1.028,1
+o001,ko,normal,학술대회 논문 접수 마감,학술대회 논문 접수 마감,0.0,1,0.901,0
+o002,en,normal,Open Journal Systems,Open Journal Systems,0.0,1,1.922,0
+o003,en,spam,a hrefhttp://magmagm.com/,a hrefhttp://magmagm.com/,0.0,1,1.501,0
+o004,ko,spam,#강남풀싸롱 #역삼동풀싸롱 #선릉풀싸롱 #대치동풀싸,#강남풀싸롱#역삼동풀싸롱 #선릉풀싸롱#대치동풀싸,0.0,1,1.584,0
+o005,ko,normal,겨울철 화재 예방 수칙,겨울철 화재 예방 수칙,0.0,1,1.214,0
+o006,ko,spam,대조일본출장마사지 텔레 888,대조일본출장마사지 텔레 888,0.0,1,0.707,0
+o007,en,normal,Penerimaan Mahasiswa Baru 2026,Penerimaan Mahasiswa Baru 2026,0.0,1,1.222,0
+o008,ko,normal,청년 일자리 박람회,청년 일자리 박람회,0.0,1,1.248,0
+o009,mixed,spam,아이슬롯.COM아이 슬롯머신 islotgame,아이슬롯.COM아이 슬롯머신 islotgame,0.0,1,1.154,0
+o010,en,spam,Lisensi MAHJONG Terpercaya,Lisensi MAHJONG Terpercaya,0.0,1,0.779,0
+o011,en,spam,situs gacor,situs gacor,0.0,1,1.022,0
+o012,en,spam,psk casino,psk casino,0.0,1,0.534,0
+o013,en,spam,HONGBO828,HONGBO828,0.0,1,0.613,0
+o014,ko,spam,인디언게임 슬롯사이트 슬롯인디어홀덤잭팟,인디언게임슬롯사이트슬롯인디어홀덤책팟,0.0526,0,0.702,0
+o015,mixed,spam,시알리스정5mg Cialis 20mg,시알리스정5mg Cialis 20mg,0.0,1,1.238,0
+o016,ko,normal,동행복권 공식 판매점,동행복권 공식 판매점,0.0,1,0.874,0
+o017,mixed,spam,메이저놀이터. holdemSITE.문의: 카톡 /,메이저놀이터.holdemSITE.문의:카톡/,0.0,1,1.325,0
+o018,ko,spam,응암일본출장마사지 텔레,응암일본출장마사지 텔레,0.0,1,1.172,0
+o019,en,spam,slot gacor,slot gacor,0.0,1,1.27,0
+o020,ko,normal,대출 상담 은행 창구 방문,대출 상담 은행 창구 방문,0.0,1,1.155,0
+o021,mixed,spam,islot코리아바둑이게임 무료 불루슬롯,islot코리아바둑이게임 무료 불루슬롯,0.0,1,1.469,0
+o022,mixed,spam,가 13.rpd641.top,가 13.rpd641.top,0.0,1,1.39,0
+o023,mixed,spam,광고문의 cafe24site 라이브성피방 카지,광교문의 cae24si@ 락이브성피방 캐지,0.2727,0,0.89,0
+o024,mixed,spam,r툑K0000 한게임모바일환전상시세추천,r욕K0000 한게임모바일환전상시세추천,0.05,0,1.603,0
+o025,mixed,spam,실시간카지노 vipvip25닷com JOINCOD,실시간카지노 vipvip25닷comJOINCOD,0.0,1,1.292,0
+o026,en,spam,Apa Keuntungan Dari,Apa Keuntungan Dari,0.0,1,1.262,0
+o027,en,spam,online casinos,online casinos,0.0,1,1.117,0
+o028,mixed,spam,진주출장샵출장안마 i ne,진주출장삽출장안마ine,0.0833,0,1.165,0
+o029,en,spam,generic viagra,generic viagra,0.0,1,1.206,0
+o030,ko,normal,봉사활동 신청 기간 연장,봉사활동 신청 기간 연장,0.0,1,1.052,0
+o031,en,normal,Open Journal Systems,Open Journal Systems,0.0,1,0.762,0
+o032,en,normal,Seminar Nasional Pendidikan,Seminar Nasional Pendidikan,0.0,1,0.643,0
+o033,en,spam,deutsch porno,deutsch porno,0.0,1,0.625,0
+o034,en,spam,SLOT TOTO MACAU,SLOT TOTO MACAU,0.0,1,1.306,0
+o035,en,normal,Penerimaan Mahasiswa Baru 2026,Penerimaan Mahasiswa Baru 2026,0.0,1,0.836,0
+o036,en,spam,slot spaceman,slot spaceman,0.0,1,0.623,0
+o037,en,spam,situs gacor 2026 terpercaya,situs gacor 2026 terpercaya,0.0,1,1.386,0
+o038,ko,normal,개인정보 처리방침 개정 안내,개인정보 처리방침 개정 안내,0.0,1,0.809,0
+o039,en,normal,Penerimaan Mahasiswa Baru 2026,Penerimaan Mahasiswa Baru 2026,0.0,1,0.828,0
+o040,mixed,spam,백경게임랜드 ml 3.rub748.top +,백경게임랜드 m 3.rub748.top,0.0952,0,1.531,0
+o041,ko,normal,도서관 휴관 안내 11월 10일,도서관 휴관 안내 11월 10일,0.0,1,0.641,0
+o042,ko,normal,2026 지역축제 참가자 모집,2026 지역축제 참가자 모집,0.0,1,1.436,0
+o043,mixed,spam,선불유심구매 @brrsim77 텔레그램 15만원급,선불유심구매 @brrsim77 텔레그램 15만원급,0.0,1,0.768,0
+o044,en,spam,situs slot777,situs slot777,0.0,1,1.25,0
+o045,ko,spam,안전시스템 아너링크최저가아너링크알카지노솔루션최저,안전시스템 아너팅크최저가아너팅크알카지노솔루션최저,0.08,0,1.405,0
+o046,mixed,spam,#텍사스홀덤 #홀덤대회 #국내홀덤대회blgm7.c,#텍사스홀덤 #홀덤대회#국내홀덤대회blgm7.c,0.0,1,1.807,0
+o047,en,normal,Seminar Nasional Pendidikan,Seminar Nasional Pendidikan,0.0,1,0.859,0
+o048,mixed,spam,r툑G3333 한게임포커머니상상안전 한게임바둑,r톡G3333 한게임포커머니상상안전 한게임바둑,0.0435,0,0.799,0
+o049,ko,spam,인턴기자지난 경쟁과 4일 속수무책으로,인턴기자지난 경쟁과 4일 속수무책으로,0.0,1,1.451,0
+o050,mixed,spam,토지노 VIPVIP25쩜COM,토지노 VIPVIP25펌COM,0.0667,0,1.371,0
+o051,ko,normal,학술대회 논문 접수 마감,학술대회 논문 접수 마감,0.0,1,1.198,0
+o052,en,normal,Download Template Artikel,Download Template Artikel,0.0,1,0.903,0
+o053,ko,normal,학술대회 논문 접수 마감,학술대회 논문 접수 마감,0.0,1,1.359,0
+o054,mixed,spam,월곡동일본출장안마 텔레 dckim 폰050 0,월곡동일본출장안마 텔레 dckim폰0500,0.0,1,1.813,0
+o055,ko,spam,인디고홀덤 토넘너트,인디고홀덤 토넘너트,0.0,1,0.722,0
+o056,en,spam,buy levitra online,buy levitra online,0.0,1,0.641,0
+o057,en,spam,Internet Gaming with,Internet Gaming with,0.0,1,1.474,0
+o058,en,spam,situs toto,situs toto,0.0,1,0.667,0
+o059,ko,normal,스포츠토토 합법 구매처 안내,스포츠토토 합법 구매처 안내,0.0,1,0.748,0
+o060,ko,normal,독감 예방접종 무료 실시,독감 예방접종 무료 실시,0.0,1,0.68,0
+o061,en,spam,Situs Toto,Situs Toto,0.0,1,1.448,0
+o062,ko,normal,학술대회 논문 접수 마감,학술대회 논문 접수 마감,0.0,1,0.697,0
+o063,en,spam,bokep indo,bokep indo,0.0,1,1.399,0
+o064,ko,spam,승부 인디언홀덤 +,승부 인디언홀덤,0.125,0,1.047,0
+o065,en,normal,Download Template Artikel,Download Template Artikel,0.0,1,1.716,0
+o066,mixed,spam,구글찌라시 프로그램 cafe24site 한게임,구글찌라시 프로그램 cafe24site 한게임,0.0,1,1.357,0
+o067,mixed,spam,블루게임.COM 와일드먹튀검증 텍사스홀덤사이트 온,블루게임.COM 와일드먹튀검증 텍사스홀덤사이트 온,0.0,1,1.544,0
+o068,ko,normal,가을 정기 세일 최대 50%,가을 정기 세일 최대 50%,0.0,1,1.913,0
+o069,ko,spam,"온라인슬롯, 모바일슬롯, 카지노커뮤니티 비트티비","온라인슬롯, 모바일슬롯, 카지노커뮤니티 비트티비",0.0,1,0.847,0
+o070,mixed,spam,안전토토사이트 KC7979.COM 와이즈프로,안전토토사이트 KC7979.COM 와이즈프로,0.0,1,1.435,0
+o071,ko,spam,영덕군 시알리스,영덕군 시알리스,0.0,1,1.516,0
+o072,ko,spam,과천 처방전 필요 없이,과천 처방전 필요 없이,0.0,1,0.696,0
+o073,mixed,spam,헤븐카지노추천 hongbo8288,헤븐카지노추천hongbo8288,0.0,1,0.806,0
+o074,en,spam,Situs Toto Slot,Situs Toto Slot,0.0,1,1.261,0
+o075,ko,normal,온라인 민원 신청 바로가기,온라인 민원 신청 바로가기,0.0,1,1.003,0
+o076,en,spam,KAKI4D LOGIN,KAKI4D LOGIN,0.0,1,1.345,0
+o077,ko,spam,합정안마방 @,합정안마방 a,0.1667,0,1.604,0
+o078,mixed,spam,바다이야기5만 다 81.rau798.top 릴게,바다이야기5만 다81.rau798.top 릴게,0.0,1,0.723,0
+o079,en,spam,00:19:03 NAVER77.TOP.TO NAVE,00:19:03 NAVERT7.T0P.T0 NAVE,0.1154,0,1.276,0
+o080,en,spam,Membangun Self Control Bebas,Membangun Self Control Bebas,0.0,1,1.261,0
+o081,en,spam,Situs Toto Slot,Situs Toto Slot,0.0,1,0.624,0
+o082,en,normal,Seminar Nasional Pendidikan,Seminar Nasional Pendidikan,0.0,1,1.495,0
+o083,en,spam,SITUS TOTO,SITUS TOTO,0.0,1,0.695,0
+o084,ko,normal,불법 도박 신고 1336,불법 도박 신고 1336,0.0,1,1.303,0
+o085,en,normal,Free Shipping on Orders,Free Shipping on Orders,0.0,1,0.988,0
+o086,mixed,spam,COD79COM 온라인카지노게임모바일카지노게임한,COD79COM 온라인카지노게 임모바일카지노게임한,0.0,1,1.719,0
+o087,ko,normal,가을 정기 세일 최대 50%,가을 정기 세일 최대 50%,0.0,1,1.235,0
+o088,ko,normal,불법 도박 신고 1336,불법 도박 신고 1336,0.0,1,1.718,0
+o089,en,spam,Situs Hk,Situs Hk,0.0,1,1.146,0
+o090,en,normal,Call for Papers Vol. 12 No. 3,Call for Papers Vol. 12 No.3,0.0,1,0.89,0
+o091,ko,normal,독감 예방접종 무료 실시,독감예방접종무료실시,0.0,1,1.481,0
+o092,ko,normal,온라인 민원 신청 바로가기,온라인 민원 신청 바로가기,0.0,1,0.836,0
+o093,mixed,spam,시알리스 100mg,시알리스 100mg,0.0,1,1.213,0
+o094,ko,spam,888 폰050 0000 9060,888 050 0000 9060,0.0667,0,1.34,0
+o095,ko,spam,시알리스 구입처,시알리스 구입처,0.0,1,0.641,0
+o096,ko,normal,청년 일자리 박람회,청년 일자리 박람회,0.0,1,0.634,0
+o097,en,spam,- Slot jackpot,-Slot jackpot,0.0,1,1.37,0
+o098,ko,normal,봉사활동 신청 기간 연장,봉사활동 신청 기간 연장,0.0,1,0.959,0
+o099,ko,normal,도서관 휴관 안내 11월 10일,도서관휴관안내11월10일,0.0,1,0.715,0
+o100,en,spam,hd porn,hd porn,0.0,1,0.583,0
+o101,en,spam,DEWAN4D LOGIN,DEWAN4D LOGIN,0.0,1,0.775,0
+o102,en,spam,XXX HD Sex,XXX HD Sex,0.0,1,0.682,0
+o103,ko,normal,독감 예방접종 무료 실시,독감 예방접종 무료 실시,0.0,1,0.823,0
+o104,mixed,spam,MD수빈 O1O.0000.6611 부산호빠,MD수빈 010.0000.6611 부산호빠,0.0952,0,1.015,0
+o105,ko,normal,겨울철 화재 예방 수칙,겨울철 화재 예방 수칙,0.0,1,0.69,0
+o106,en,normal,Seminar Nasional Pendidikan,Seminar Nasional Pendidikan,0.0,1,0.742,0
+o107,en,spam,slot gacor,slot gacor,0.0,1,0.759,0
+o108,ko,spam,888 폰5 000 96,888 폰5 000 96,0.0,1,1.554,0
+o109,mixed,spam,릴게임바다이야기사이트 31.ryd146.top,릴게임바다이야기사이트 31.ryd146.top,0.0,1,0.77,0
+o110,ko,normal,개인정보 처리방침 개정 안내,개인정보 처리방침 개정 안내,0.0,1,1.727,0
+o111,en,normal,Open Journal Systems,Open Journal Systems,0.0,1,0.78,0
+o112,ko,normal,신입생 입학설명회,신입생 입학설명회,0.0,1,0.789,0
+o113,en,normal,Call for Papers Vol. 12 No. 3,Call for Papers Vol. 12 No.3,0.0,1,1.278,0
+o114,ko,normal,대출 상담 은행 창구 방문,대출 상담 은행 창구 방문,0.0,1,0.766,0
+o115,ko,spam,안녕하세요! 이용수,안녕하세요!이용수,0.0,1,1.343,0
+o116,ko,spam,및 완비되는 원금의 의뢰인 것으로,및 완비되는 원금의 의뢰인 것으로,0.0,1,0.982,0
+o117,ko,spam,불야성 이용 전 확인사항근처,불야성 이용 전 확인사항근처,0.0,1,0.826,0
+o118,ko,normal,봉사활동 신청 기간 연장,봉사활동 신청 기간 연장,0.0,1,1.487,0
+o119,mixed,spam,정보이용료 방법O1O 0000,정보이용료 방법0100000,0.1429,0,1.754,0
+o120,ko,normal,청년 일자리 박람회,청년 일자리 박람회,0.0,1,0.749,0
+o121,ko,spam,톡 텔 레:,톡텔레:,0.0,1,1.344,0
+o122,ko,spam,비아그라 구매/구입/비아그라 효능/시알리스,비아그라 구매/구입/비아그라 효능/시알리스,0.0,1,0.992,0
+o123,en,spam,cialis online,clalis online,0.0833,0,0.699,0
+o124,ko,spam,- 최고의 인디언게임 사이트,-최고의 인디언게임 사이트,0.0,1,1.535,0
+o125,en,normal,Seminar Nasional Pendidikan,Seminar Nasional Pendidikan,0.0,1,1.473,0
+o126,ko,normal,청년 일자리 박람회,청년 일자리 | 박람회,0.125,0,1.796,0
+o127,ko,spam,사이트는 저작권,사이트는 저작권,0.0,1,0.964,0
+o128,en,normal,Penerimaan Mahasiswa Baru 2026,Penerimaan Mahasiswa Baru 2026,0.0,1,0.999,0
+o129,en,spam,LINK ALTERNATIF,LINK ALTERNATIF,0.0,1,0.799,0
+o130,en,normal,Call for Papers Vol. 12 No. 3,Call tor Papers Vol. 12 No. 3,0.0435,0,0.919,0
+o131,en,spam,SLOT GACOR,SLOT GACOR,0.0,1,1.34,0
+o132,ko,normal,대출 상담 은행 창구 방문,대출 상담 은행 경 창구 방문,0.1,0,0.998,0
+o133,ko,spam,먹검증빙카노 빙고카노 빙롯안전,먹검증빙카노 빙고카노 빙롯안전,0.0,1,0.834,0
+o134,en,spam,DAFTAR AKUN,DAFTAR AKUN,0.0,1,0.713,0
+o135,en,spam,Newest SITUS TERATAI888,Newest SITUS TERATAI888,0.0,1,1.286,0
+o136,ko,normal,학술대회 논문 접수 마감,학술대회논문 접수마감,0.0,1,1.578,0
+o137,ko,normal,학술대회 논문 접수 마감,학술대회 논문 접수 마감,0.0,1,0.815,0
+o138,en,normal,Penerimaan Mahasiswa Baru 2026,Penerimaan Mahasiswa Baru 2026,0.0,1,1.16,0
+o139,en,spam,brand levitra online pharmac,brand levitra online pharmac,0.0,1,0.829,0
+o140,ko,spam,비아그라,비아그라,0.0,1,0.673,0
+o141,ko,spam,시알리스 가격,시알리스 가격,0.0,1,1.444,0
+o142,ko,spam,#슬롯잭팟 #슬롯사이트추천 #슬롯나라 #슬롯게임매니,슬롯책홧 #슬롯새이트축천 술롯내라 슬롯계임베니,0.44,0,0.998,0
+o143,mixed,spam,마카오노블레스 KC7979.COM 강원랜드인,마카오노블레스 KC7979.COM 강원랜드인,0.0,1,0.955,0
+o144,en,normal,Penerimaan Mahasiswa Baru 2026,Penerimaan Mahasiswa Baru 2026,0.0,1,1.377,0
+o145,ko,normal,신입생 입학설명회,신입생 입학설명회,0.0,1,0.846,0
+o146,ko,spam,인디고홀덤 토넘너트,인디고홀덤 토넘너트,0.0,1,1.024,0
+o147,en,spam,Situs Toto,Situs Toto,0.0,1,1.453,0
+o148,mixed,spam,후결제 카톡:EEU777 텔레:EEU666,후결제 카톡:EEU777 텔레:EEU666,0.0,1,1.0,0
+o149,ko,normal,스포츠토토 합법 구매처 안내,스포츠토토 합법 구매처 안내,0.0,1,1.373,0
+o150,en,normal,Open Journal Systems,Open Journal Systems,0.0,1,1.528,0
+o151,ko,normal,독감 예방접종 무료 실시,독감 예방접종 등 무료 수 실시,0.2,0,1.682,0
+o152,en,spam,Loki Casino Online und erleb,Loki Casino Online und erleb,0.0,1,1.174,0
+o153,en,spam,s 89.cia312.net,s 89.cia312.net,0.0,1,0.788,0
+o154,ko,normal,개인정보 처리방침 개정 안내,개인정보 처리방침 개정 안내,0.0,1,0.95,0
+o155,ko,normal,도서관 휴관 안내 11월 10일,도서관 휴관 안내 11월 10일,0.0,1,0.912,0
+o156,en,spam,Pg slot,Pg slot,0.0,1,1.259,0
+o157,en,spam,U S D T,U S D T,0.0,1,0.669,0
+o158,ko,normal,개인정보 처리방침 개정 안내,개인정보 처리방침 개정 안내,0.0,1,1.833,0
+o159,ko,normal,주민참여예산 제안 공모,주민참여예산 제안 공모,0.0,1,0.747,0

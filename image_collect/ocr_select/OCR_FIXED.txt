@@ -1,0 +1,24 @@
+OCR 엔진 고정 (2026-11-04, 채현). 11.9 전 고정 조건(재계획 3절 분리 규칙) 충족: 실제 수집 이미지는 쓰지 않고 합성 배너 160장으로 골랐다.
+실제 이미지는 속도 확인에만 썼다(내용·라벨은 결정에 쓰지 않음).
+
+ocr_engine: paddleocr
+engine_version: 3.7.0 (paddlepaddle 3.3.1, paddlex 3.7.2)
+models: PP-OCRv5_mobile_det + korean_PP-OCRv5_mobile_rec
+settings: use_doc_orientation_classify=False, use_doc_unwarping=False, use_textline_orientation=False, device=cpu,
+          enable_mkldnn=False, text_det_limit_type=max, text_det_limit_side_len=1280,
+          입력 이미지 긴 변 1600px 초과 시 OCR 전에 1600px 로 축소(글상자 좌표는 원본 크기로 되돌림)
+model cache: C:/Users/Public/pdxcache (PADDLE_PDX_CACHE_HOME; 한글 경로에서는 Paddle 이 모델 파일을 못 읽는다)
+code: tools/ocr_engines.py  class Paddle (기본값이 위 설정)
+synth set: ocr_select/synth_gt.csv sha256[:12]=4658dd98ebda, 160장 (ko 70, mixed 27, en/id 63)
+
+결과 (CER, 빈칸·대소문자 무시; 시간은 CPU, 첫 장 제외)
+  paddleocr mobile_det (채택)  CER 0.012  ko 0.010 mixed 0.033 en 0.004  0.33 s/img   result_paddleocr.csv
+  paddleocr server_det         CER 0.015  ko 0.018 mixed 0.031 en 0.004  1.21 s/img   result_paddleocr_serverdet.csv
+  easyocr 1.7.2 (ko+en)        CER 0.069  ko 0.047 mixed 0.139 en 0.063  0.19 s/img   result_easyocr.csv
+  짝지은 차이 easyocr - 채택: 0.0575, 부트스트랩 2000회 95% CI [0.0420, 0.0749], 채택이 나음 56 / 같음 104 / 나쁨 0
+  짝지은 차이 server_det - 채택: 0.0030, 95% CI [-0.0011, 0.0075], 채택이 나음 8 / 같음 146 / 나쁨 6
+
+바뀐 경위 (11-04 하루 안)
+  1) 기본 설정(server_det)으로 고름. 2) 실제 이미지에 돌리니 25분에 59장: oneDNN 을 끈 CPU 에서 server_det 이 빈 1600px 한 장에 16.8초.
+  3) 검출 긴 변 1280 제한, 입력 1600 축소를 더하고 3) mobile_det 로 바꿔 합성 160장을 다시 잼(위 표). mobile_det 는 빈 1600px 한 장 1.7초.
+  주의: 검출 모델 이름을 직접 주면 lang=korean 이 무시되어 인식 모델이 중국어·영어용이 된다. 인식 모델 이름도 직접 줘야 한다.
