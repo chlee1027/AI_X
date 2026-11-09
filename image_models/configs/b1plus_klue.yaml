@@ -1,0 +1,12 @@
+# B1+ 2단계: KLUE-RoBERTa 미세조정 (Colab L4)
+model_id: b1plus_klue
+pretrained: klue/roberta-base
+max_len: 128
+batch_size: 32
+epochs: 3
+lr: 2.0e-5
+weight_decay: 0.01
+warmup: 0.1
+class_weight: balanced
+seeds: [0, 1, 2]
+oof_folds: 5                          # H6 학습 몫 임베딩은 group_id 단위 OOF
