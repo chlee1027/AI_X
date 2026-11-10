@@ -65,6 +65,16 @@ def load(split_path, meta_paths, ocr_paths, allow_test=False):
         if n_test:
             print(f"[알림] split_v1 에 test 행 {n_test}개가 있어 읽지 않았다")
     meta = _read_many(meta_paths)
+    # H4 의 meta_trainval.csv 처럼 meta 에 split·group_id 가 함께 들어 있으면 split 파일이 정본이다.
+    # 값이 split 파일과 하나라도 다르면 멈추고, 같으면 meta 쪽 열을 버린다(합칠 때 split_x·split_y 로 갈리지 않게).
+    dup = [c for c in ("split", "group_id") if c in meta.columns]
+    if dup:
+        chk = sp.merge(meta[["image_id"] + dup], on="image_id", how="inner", suffixes=("", "_meta"))
+        for c in dup:
+            bad = int((chk[c] != chk[c + "_meta"]).sum())
+            if bad:
+                raise SystemExit(f"meta 의 {c} 가 split 파일과 다른 행 {bad}개")
+        meta = meta.drop(columns=dup)
     ocr = _read_many(ocr_paths)[["image_id", "text"]]
     df = sp.merge(meta, on="image_id", how="left", validate="1:1")
     miss = df["label"].isna().sum() if "label" in df else len(df)
