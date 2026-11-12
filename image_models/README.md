@@ -1,7 +1,7 @@
 # 이미지 불법광고 탐지: 채현 몫 모델 (B1, B1+)
 
 재계획 4절의 B1(OCR + v9n 그대로)과 B1+(OCR 글로 다시 학습한 텍스트 분류기), H6 글 임베딩을 만든다.
-M3 는 M2 검증 점수(다영, 11.14~11.15)가 오면 이 폴더에 더한다.
+M3(`m3_claude.py`)는 바탕 모델 점수가 애매한 이미지만 Claude 비전에 다시 묻는다. 바탕은 B1+ TF-IDF 로 시작하고, M2 검증 점수(다영)가 11.15 안에 오고 검증 PR-AUC 가 TF-IDF 이상이면 M2 로 바꾼다(11.13 에 정한 규칙).
 
 ## 지키는 규칙 (코드가 막는 것)
 
@@ -49,6 +49,27 @@ python b1plus_klue.py $A --config configs/b1plus_klue.yaml
 | `emb_b1plus_klue_val.npy`, `emb_b1plus_klue_train_oof.npy` | **H6 (11.13, 다영에게)**. 768차원 float16, 행 순서는 같은 이름의 `_ids.csv` |
 
 H6 학습 몫 임베딩은 OOF 다. 자기 학습 데이터를 본 모델에서 뽑은 임베딩으로 M2 를 학습하면, 검증·평가에서는 나오지 않는 깨끗한 신호를 배우기 때문이다.
+
+## M3: 애매한 이미지만 Claude 비전에 묻기
+
+API 키는 환경 변수 `ANTHROPIC_API_KEY` 로 준다. 설정은 `configs/m3.yaml`, 프롬프트는 `prompts/m3_v1.txt`(가이드라인 v1.1 요약).
+
+```
+A="--split split_v1_trainval.csv --meta meta_trainval.csv --ocr ocr_trainval.csv --images <H4_trainval 폴더>"
+B="--base runs/b1plus_tfidf/pred_b1plus_tfidf_val.csv"
+
+# 1. API 없이 구간별 호출 수·어림 비용
+python m3_claude.py $A $B --config configs/m3.yaml --dry-run
+# 2. 무작위 20장만 물어 장당 실제 비용 재기
+python m3_claude.py $A $B --config configs/m3.yaml --limit 20
+# 3. 가장 넓은 구간 전체를 묻고 구간 고르기 (2 에서 물은 답은 캐시에서 다시 쓴다)
+python m3_claude.py $A $B --config configs/m3.yaml
+```
+
+- 검증셋에서는 `widest_zone` 안의 이미지를 한 번만 묻고, 그 안의 작은 구간마다 fix·break·순이득·호출 수·비용을 다시 계산한다(`zones_m3_val.csv`). 고르는 규칙은 순이득 최대, 같으면 호출 적은 쪽.
+- 답은 `runs/m3/claude_cache.jsonl` 에 쌓이고, 같은 프롬프트·모델·설정이면 다시 묻지 않는다. 거절·형식 오류는 다시 묻지 않고, 연결·속도 제한 오류만 다시 묻는다.
+- `fix_human`·`break_human` 은 사람이 확인한 라벨(labeler 에 채현·정연·확인)만 센 값이다. 라벨 초안 대부분을 Claude 가 달았으므로 Claude 를 쓰는 M3 점수는 이 열과 같이 본다.
+- 평가셋(준아): `--allow-test --zone <lo> <hi> --base pred_<바탕>_test.csv --out runs_test` 로 고른 구간 하나만 묻는다.
 
 ## 평가셋 추론 (준아, H7 뒤)
 

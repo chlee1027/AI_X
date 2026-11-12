@@ -1,0 +1,23 @@
+# M3 (Haiku 비교판): configs/m3.yaml 과 모델·단가·fallback 만 다르다
+model_id: m3_haiku
+base_model_id: b1plus_tfidf     # 바탕 점수. 11.13 규칙: M2 검증 PR-AUC >= 0.907 이면 m2 로 바꾼다
+prompt: prompts/m3_v1.txt
+claude_model: claude-haiku-5-5
+effort: low                     # Haiku 5.5 기본은 medium, Opus 쪽과 맞춰 low
+max_tokens: 4096                # thinking 토큰도 여기에 들어간다
+fallback: false                 # Haiku 5.5 는 서버 쪽 fallback 이 없다. 거절이면 바탕 판정을 그대로 둔다
+use_ocr_text: true              # OCR 글을 참고로 같이 준다(최대 ocr_max_chars 자)
+ocr_max_chars: 800
+max_side: 1568                  # 긴 변이 이보다 크면 줄여 보낸다(토큰 절약)
+workers: 6
+max_retries: 4
+price_per_mtok:                 # 비용 계산용(USD). claude_model 을 바꾸면 같이 바꾼다
+  input: 0.10
+  output: 0.50
+# 검증셋에서는 가장 넓은 구간을 한 번만 묻고, 그 안의 작은 구간들은 저장한 답으로 다시 계산한다
+widest_zone: [0.05, 0.9]
+zone_lo: [0.05, 0.1, 0.15, 0.2, 0.25]
+zone_hi: [0.4, 0.5, 0.6, 0.7, 0.8, 0.9]
+# 구간 고르는 규칙(검증셋 결과를 보기 전에 정함): 순이득(fix - break) 최대,
+# 같으면 호출 수가 적은 쪽, 그래도 같으면 좁은 쪽
+select_rule: net_gain
