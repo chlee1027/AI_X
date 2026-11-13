@@ -1,6 +1,6 @@
 # M3: 바탕 모델 점수가 애매한 이미지만 Claude 비전에 다시 묻는다
 model_id: m3
-base_model_id: b1plus_tfidf     # 바탕 점수. 11.13 규칙: M2 검증 PR-AUC >= 0.907 이면 m2 로 바꾼다
+base_model_id: m2               # 바탕 점수. 11.13 규칙 적용: M2 검증 PR-AUC 0.9396 >= TF-IDF 0.907 (다영 11.13 전달)
 prompt: prompts/m3_v1.txt
 claude_model: claude-opus-5-5
 effort: low                     # 분류라 낮게. Opus 5.5 는 thinking 을 끌 수 없고 effort 로만 조절한다

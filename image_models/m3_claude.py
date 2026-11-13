@@ -1,7 +1,7 @@
 """M3: 바탕 모델 점수가 애매한 구간에 든 이미지만 Claude 비전에 다시 묻는다.
 
 검증셋(채현)
-  python m3_claude.py $A --config configs/m3.yaml --base runs/b1plus_tfidf/pred_b1plus_tfidf_val.csv \
+  python m3_claude.py $A --config configs/m3.yaml --base runs/m2/pred_m2_val.csv \
       --images <H4_trainval 폴더> [--dry-run] [--limit 20]
   - 가장 넓은 구간(widest_zone)의 이미지를 한 번만 묻고 답을 runs/m3/claude_cache.jsonl 에 쌓는다.
     다시 돌리면 이미 물은 이미지는 건너뛴다(같은 프롬프트·모델·설정일 때).
@@ -83,7 +83,10 @@ def est_image_tokens(w, h, max_side):
 # ---------- Claude ----------
 def make_client(cfg):
     import anthropic
-    return anthropic.Anthropic(max_retries=int(cfg.get("max_retries", 4)), timeout=120.0)
+    # brotli 응답을 받지 않는다: Brotli 1.0.x 가 깔린 환경(anaconda 기본)에서는 httpx2 가 응답을 못 풀어
+    # TypeError 가 APIConnectionError 로 보인다(11.13 채현 PC). gzip 은 표준 라이브러리라 어디서나 풀린다.
+    return anthropic.Anthropic(max_retries=int(cfg.get("max_retries", 4)), timeout=120.0,
+                               default_headers={"Accept-Encoding": "gzip, deflate"})
 
 
 def ask(client, cfg, system, media, data, ocr_text):
@@ -251,8 +254,14 @@ def main():
     base = pd.read_csv(a.base, dtype={"image_id": str})[["image_id", "score", "pred"]]
     base = base.rename(columns={"score": "base_score", "pred": "base_pred"})
     d = df.merge(base, on="image_id", how="left", validate="1:1")
-    if d["base_score"].isna().any():
-        raise SystemExit(f"바탕 점수가 없는 {split} 이미지 {int(d['base_score'].isna().sum())}장")
+    # 바탕 점수 파일이 unsure == 1(채점 제외) 이미지를 뺀 채 올 수 있다(다영 M2 검증 점수). 그런 행만 빼고 묻지 않는다.
+    miss = d["base_score"].isna()
+    if (miss & d["scored"]).any():
+        raise SystemExit(f"바탕 점수가 없는 채점 대상 {split} 이미지 {int((miss & d['scored']).sum())}장")
+    if miss.any():
+        print(f"[알림] 바탕 점수가 없는 채점 제외(unsure) 이미지 {int(miss.sum())}장은 빼고 묻지 않는다")
+        d = d[~miss].reset_index(drop=True)
+        d["base_pred"] = d["base_pred"].astype(int)
     thr = float(d.loc[d["base_pred"] == 1, "base_score"].min())
     lo_w, hi_w = (a.zone if a.zone else cfg["widest_zone"])
     if not (lo_w < thr < hi_w):

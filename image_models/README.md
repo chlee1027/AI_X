@@ -56,7 +56,7 @@ API 키는 환경 변수 `ANTHROPIC_API_KEY` 로 준다. 설정은 `configs/m3.y
 
 ```
 A="--split split_v1_trainval.csv --meta meta_trainval.csv --ocr ocr_trainval.csv --images <H4_trainval 폴더>"
-B="--base runs/b1plus_tfidf/pred_b1plus_tfidf_val.csv"
+B="--base runs/m2/pred_m2_val.csv"   # 다영 M2 검증 점수(image_id,score)에 검증 F1 최대 문턱 0.657093 으로 pred 를 붙인 것
 
 # 1. API 없이 구간별 호출 수·어림 비용
 python m3_claude.py $A $B --config configs/m3.yaml --dry-run

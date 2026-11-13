@@ -1,6 +1,6 @@
 # M3 (Haiku 비교판): configs/m3.yaml 과 모델·단가·fallback 만 다르다
 model_id: m3_haiku
-base_model_id: b1plus_tfidf     # 바탕 점수. 11.13 규칙: M2 검증 PR-AUC >= 0.907 이면 m2 로 바꾼다
+base_model_id: m2               # 바탕 점수. 11.13 규칙 적용: M2 검증 PR-AUC 0.9396 >= TF-IDF 0.907 (다영 11.13 전달)
 prompt: prompts/m3_v1.txt
 claude_model: claude-haiku-5-5
 effort: low                     # Haiku 5.5 기본은 medium, Opus 쪽과 맞춰 low
