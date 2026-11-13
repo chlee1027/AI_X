@@ -73,14 +73,19 @@ python m3_claude.py $A $B --config configs/m3.yaml
 
 ## 평가셋 추론 (준아, H7 뒤)
 
+노트북 `colab_test_inference.ipynb`(Colab T4)로 돌린다. 준비물과 순서는 노트북 첫 칸에 있다. 칸마다 검증 몫을 먼저 다시 돌려 앞서 낸 점수와 같은지 확인하고, 다르면 멈춘다.
+
 ```
-A="--split split_v1.csv --meta ... --ocr ... --allow-test --out runs_test"
-python b1_v9n.py $A --config configs/b1.yaml --score-only --thr 0.5
-python b1plus_tfidf.py $A --config configs/b1plus_tfidf.yaml --infer-only runs/b1plus_tfidf/model_b1plus_tfidf.pkl
-python b1plus_klue.py $A --config configs/b1plus_klue.yaml --infer-only runs/b1plus_klue/ckpt_s0 --thr <report 의 seed 0 문턱>
+A="--split split_v1.csv --meta meta.csv --ocr ocr.csv --allow-test --out runs_test"
+python b1_v9n.py $A --config configs/b1.yaml --score-only --thr 0.922496          # 검증셋 F1 최대 문턱
+python b1plus_tfidf.py $A --config configs/b1plus_tfidf.yaml --infer-only model_b1plus_tfidf.pkl
+python b1plus_klue.py $A --config configs/b1plus_klue.yaml --infer-only ckpt_s0 --thr 0.953839   # seed 0 문턱
+# M2 (다영 추론 코드): KLUE 가 낸 emb_b1plus_klue_test.npy 를 받아 점수, 문턱 0.657093 으로 pred
+python m3_claude.py $A --config configs/m3.yaml --base runs_test/m2/pred_m2_test.csv --images <test 폴더> --zone 0.05 0.8
 ```
 
-`pred_<id>_test.csv` 와 `emb_b1plus_klue_test.npy`(M2 평가셋 추론용)가 나온다.
+- KLUE → M2 → M3 는 앞 단계 출력을 받으므로 이 순서다.
+- 평가셋 모드에서는 라벨을 쓰지 않는다. `describe()` 는 평가 몫의 장 수만 내고, M3 는 바탕 점수가 평가 몫 전부에 있어야 돈다.
 
 ## 알려진 한계
 

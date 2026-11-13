@@ -93,6 +93,10 @@ def load(split_path, meta_paths, ocr_paths, allow_test=False):
 
 def describe(df):
     for s, g in df.groupby("split"):
+        if s == "test":
+            # 평가 몫은 장 수만 낸다. 양성·unsure 수는 라벨이라 노트북 출력에 남기지 않는다(출력이 채현에게 넘어올 수 있다)
+            print(f"  {s}: {len(g)}장")
+            continue
         sc = g[g["scored"]]
         print(f"  {s}: {len(g)}장, 채점 대상 {len(sc)}장, 양성 {int(sc['y'].sum())}장 ({sc['y'].mean():.3f})")
 

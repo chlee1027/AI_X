@@ -256,6 +256,9 @@ def main():
     d = df.merge(base, on="image_id", how="left", validate="1:1")
     # 바탕 점수 파일이 unsure == 1(채점 제외) 이미지를 뺀 채 올 수 있다(다영 M2 검증 점수). 그런 행만 빼고 묻지 않는다.
     miss = d["base_score"].isna()
+    if a.allow_test and miss.any():
+        # 평가셋에서는 라벨(unsure)로 행을 고르지 않는다. 바탕 점수는 평가 몫 전부에 있어야 한다
+        raise SystemExit(f"바탕 점수가 없는 test 이미지 {int(miss.sum())}장. 바탕 점수 파일이 평가 몫 전부를 덮는지 확인")
     if (miss & d["scored"]).any():
         raise SystemExit(f"바탕 점수가 없는 채점 대상 {split} 이미지 {int((miss & d['scored']).sum())}장")
     if miss.any():
@@ -264,10 +267,13 @@ def main():
         d["base_pred"] = d["base_pred"].astype(int)
     thr = float(d.loc[d["base_pred"] == 1, "base_score"].min())
     lo_w, hi_w = (a.zone if a.zone else cfg["widest_zone"])
-    if not (lo_w < thr < hi_w):
+    # 검증셋에서는 pred 가 1 인 가장 낮은 점수 = 바탕 문턱이다. 평가셋에서는 그 값이 문턱보다 높게 나올 수 있고
+    # 구간은 이미 검증셋에서 정했으므로 감싸는지 따지지 않는다.
+    if not a.allow_test and not (lo_w < thr < hi_w):
         raise SystemExit(f"구간 [{lo_w}, {hi_w}) 이 바탕 문턱 {thr:.4f} 를 감싸지 않는다")
     q = d[(d["base_score"] >= lo_w) & (d["base_score"] < hi_w)]
-    print(f"[{split}] {len(d)}장, 바탕 {cfg['base_model_id']} 문턱 {thr:.4f}, 구간 [{lo_w}, {hi_w}) {len(q)}장")
+    thr_txt = "" if a.allow_test else f" 문턱 {thr:.4f},"
+    print(f"[{split}] {len(d)}장, 바탕 {cfg['base_model_id']}{thr_txt} 구간 [{lo_w}, {hi_w}) {len(q)}장")
     if a.limit:
         q = q.sample(n=min(a.limit, len(q)), random_state=0)
         print(f"  --limit: 무작위 {len(q)}장만 묻는다")
