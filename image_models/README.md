@@ -80,7 +80,7 @@ A="--split split_v1.csv --meta meta.csv --ocr ocr.csv --allow-test --out runs_te
 python b1_v9n.py $A --config configs/b1.yaml --score-only --thr 0.922496          # 검증셋 F1 최대 문턱
 python b1plus_tfidf.py $A --config configs/b1plus_tfidf.yaml --infer-only model_b1plus_tfidf.pkl
 python b1plus_klue.py $A --config configs/b1plus_klue.yaml --infer-only ckpt_s0 --thr 0.953839   # seed 0 문턱
-# M2 (다영 추론 코드): KLUE 가 낸 emb_b1plus_klue_test.npy 를 받아 점수, 문턱 0.657093 으로 pred
+# M2 (다영 추론 코드): KLUE 가 낸 emb_b1plus_klue_test.npy 를 받아 점수, 다영 동결 문턱 0.5903098977202796 으로 pred(검증 판정은 0.657093 과 같음)
 python m3_claude.py $A --config configs/m3.yaml --base runs_test/m2/pred_m2_test.csv --images <test 폴더> --zone 0.05 0.8
 ```
 
