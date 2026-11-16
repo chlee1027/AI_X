@@ -15,3 +15,6 @@ package/.venv/
 package/build/
 package/dist/
 model2/scans/
+
+# 이미지 모델 실행 결과(이미지 ID·점수 포함)
+image_models/runs*/

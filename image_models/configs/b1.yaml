@@ -1,0 +1,6 @@
+# B1: OCR 글 + v9n 그대로 (학습 없음)
+model_id: b1
+v9n_dir: package/model_v9n   # 저장소 뿌리 기준
+use_href: false              # B1 은 글만 본다(재계획 4절). 감싼 링크는 넣지 않는다
+fixed_threshold: 0.5         # v9n 이 추가 유형(ETC)에 쓰는 광고 점수 문턱
+threshold_mode: val          # 예측 파일 pred 에 쓸 문턱: fixed 또는 val(검증셋 F1 최대). 11.13 val 로 확정: B1+·M2·M3 와 같은 규칙, 팀 비교표 B1 값과 같은 문턱
