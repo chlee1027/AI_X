@@ -87,6 +87,22 @@ python m3_claude.py $A --config configs/m3.yaml --base runs_test/m2/pred_m2_test
 - KLUE → M2 → M3 는 앞 단계 출력을 받으므로 이 순서다.
 - 평가셋 모드에서는 라벨을 쓰지 않는다. `describe()` 는 평가 몫의 장 수만 내고, M3 는 바탕 점수가 평가 몫 전부에 있어야 돈다.
 
+## M2 Grad-CAM: 배너 비율 지름길 점검 (검증셋)
+
+다영의 동결 M2 묶음(`infer_m2.py` 와 같은 전처리)으로 검증셋 3,026장을 다시 돌려, 그림 쪽이 흰 여백(원래 비율)을 단서로 쓰는지 본다. 평가셋은 쓰지 않는다. 라벨은 마지막 요약에만 쓴다.
+
+```
+python m2_gradcam.py --h4 <H4_trainval> --m2 <M2_inference_H7_20261116> \
+  --text-emb emb_b1plus_klue_val.npy --text-ids emb_b1plus_klue_val_ids.csv --out runs/m2_gradcam
+python m2_gradcam_summary.py --run runs/m2_gradcam --h4 <H4_trainval> --out runs/m2_gradcam/summary
+```
+
+- 열지도: CLIP 마지막 블록 입력 토큰(7x7 조각)의 Grad-CAM. 목표는 시드 셋의 logit 평균이다.
+- 여백 몫: 열지도 중 흰 여백에 놓인 몫을 여백 넓이와 비교한다. 1이면 고르게 퍼진 것과 같다.
+- 모양만 남긴 대조: 그림 내용을 회색으로 지우고 여백 윤곽만 남긴 이미지를 넣어, 그림 쪽 점수의 PR-AUC 를 잰다.
+- 결과(2026-11-17): 점수 재현 최대 차이 3.3e-4, 문턱 판정 차이 0. 여백 있는 불법 71장에서 열지도의 여백 몫 중앙 15%(여백 넓이 40%). 모양만 남긴 이미지의 그림 쪽 PR-AUC 0.036 [0.016, 0.073], 무작위 0.038, 실제 이미지 0.683. 정사각형 불법 36장은 여백이 없어 이 점검 밖이고, 파일 크기·압축 흔적은 재지 않았다.
+- 필요한 패키지: `transformers==4.46.3`(다영 5.17.0 대비 점수 차이는 위 재현 값), torch(CPU 로 돈다), pillow, pandas, matplotlib.
+
 ## 알려진 한계
 
 - 글자가 없는 이미지는 빈 글자로 점수를 낸다. 세 모델 모두 그런 이미지에서는 같은 점수를 준다
