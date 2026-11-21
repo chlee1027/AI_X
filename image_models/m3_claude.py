@@ -18,6 +18,7 @@
 pred: 구간 밖은 바탕 pred, 구간 안은 Claude 의 label == illegal. API 가 끝내 실패하거나 거절하면 바탕 pred 를 그대로 둔다.
 """
 import argparse
+import shutil
 import base64
 import hashlib
 import io
@@ -210,6 +211,17 @@ def apply_zone(base_score, base_pred, ans, lo, hi):
     return s, p, inz
 
 
+def apply_route(s, p, ans, rt, lo, hi):
+    """11-19 규칙 D: 구간 밖(바탕 점수 lo 미만)인데 다른 모델(B1)이 불법이라 한 이미지도 Claude 답으로 바꾼다.
+    점수는 구간 이미지와 같은 눈금(lo + 확률 x 폭)에 놓아 PR-AUC 순서가 판정과 어긋나지 않게 한다."""
+    s, p = s.copy(), p.copy()
+    has = ans["ok"].map(lambda v: v is True).to_numpy()
+    m = rt & has
+    s[m] = lo + ans["illegal_prob"].to_numpy(dtype=float)[m] * (hi - lo)
+    p[m] = (ans["label"].to_numpy() == "illegal")[m].astype(int)
+    return s, p
+
+
 def score_zone(d, s, p, inz, cfg, costs):
     sc = d["scored"].to_numpy()
     y = d["y"].to_numpy()
@@ -239,7 +251,12 @@ def main():
     ap.add_argument("--zone", nargs=2, type=float, default=None, help="평가셋: 고른 구간 lo hi")
     ap.add_argument("--dry-run", action="store_true", help="API 를 부르지 않고 호출 수·예상 비용만")
     ap.add_argument("--limit", type=int, default=None, help="가장 넓은 구간에서 무작위 N장만 묻는다(시드 0)")
+    ap.add_argument("--route-pred", default=None,
+                    help="규칙 D: 다른 모델 예측 CSV(image_id, score). 바탕 점수가 구간 아래인데 이 점수가 --route-thr 이상이면 묻는다")
+    ap.add_argument("--route-thr", type=float, default=None, help="규칙 D 문턱(B1 은 검증 F1 최대 0.922496)")
     a = ap.parse_args()
+    if (a.route_pred is None) != (a.route_thr is None):
+        raise SystemExit("--route-pred 와 --route-thr 는 같이 준다")
     cfg, chash = C.load_config(a.config)
     commit = C.git_commit()
     prompt = (C.HERE / cfg["prompt"]).read_text(encoding="utf-8")
@@ -247,6 +264,13 @@ def main():
     key = cache_key(cfg, phash)
     out = Path(a.out) / cfg["model_id"]
     cache_path = out / "claude_cache.jsonl"
+    # 같은 설정(cache_key 가 같음)으로 다른 폴더에 쌓아 둔 답을 다시 쓴다. 원래 캐시 파일은 건드리지 않고 복사한다
+    if cfg.get("seed_cache_from") and not cache_path.exists():
+        src = Path(a.out) / cfg["seed_cache_from"] / "claude_cache.jsonl"
+        if src.exists():
+            out.mkdir(parents=True, exist_ok=True)
+            shutil.copyfile(src, cache_path)
+            print(f"  캐시 복사: {src} -> {cache_path}")
 
     df = C.load(a.split, a.meta, a.ocr, allow_test=a.allow_test)
     split = "test" if a.allow_test else "val"
@@ -272,6 +296,15 @@ def main():
     if not a.allow_test and not (lo_w < thr < hi_w):
         raise SystemExit(f"구간 [{lo_w}, {hi_w}) 이 바탕 문턱 {thr:.4f} 를 감싸지 않는다")
     q = d[(d["base_score"] >= lo_w) & (d["base_score"] < hi_w)]
+    rt = np.zeros(len(d), bool)
+    if a.route_pred:
+        r = pd.read_csv(a.route_pred, dtype={"image_id": str})[["image_id", "score"]].rename(columns={"score": "route_score"})
+        rs = d[["image_id"]].merge(r, on="image_id", how="left", validate="1:1")["route_score"]
+        if rs.isna().any():
+            raise SystemExit(f"--route-pred 에 없는 {split} 이미지 {int(rs.isna().sum())}장")
+        rt = ((d["base_score"] < lo_w) & (rs >= a.route_thr)).to_numpy()
+        q = pd.concat([q, d[rt]])
+        print(f"  규칙 D: 바탕 {lo_w} 미만이고 route 점수 >= {a.route_thr} 인 {int(rt.sum())}장을 더 묻는다")
     thr_txt = "" if a.allow_test else f" 문턱 {thr:.4f},"
     print(f"[{split}] {len(d)}장, 바탕 {cfg['base_model_id']}{thr_txt} 구간 [{lo_w}, {hi_w}) {len(q)}장")
     if a.limit:
@@ -321,6 +354,8 @@ def main():
     bs, bp = d["base_score"].to_numpy(float), d["base_pred"].to_numpy(int)
     if a.allow_test:
         s, p, inz = apply_zone(bs, bp, ans, lo_w, hi_w)
+        s, p = apply_route(s, p, ans, rt, lo_w, hi_w)
+        inz = inz | rt
         pd.DataFrame({"image_id": d["image_id"], "score": np.round(s, 6), "pred": p, "model_id": cfg["model_id"],
                       "config_hash": chash, "commit": commit})[C.PRED_COLS].to_csv(out / f"pred_{cfg['model_id']}_test.csv", index=False)
         C.save_json(out / f"report_{cfg['model_id']}_test.json", {"zone": [lo_w, hi_w], "calls": int(inz.sum()),
@@ -349,12 +384,28 @@ def main():
     print(f"  고른 구간 [{best['lo']}, {best['hi']}): 순이득 {best['net']} (fix {best['fix']}, break {best['break']}),"
           f" 호출 {best['calls']}장, ${best['cost_usd']}")
     s, p, inz = apply_zone(bs, bp, ans, best["lo"], best["hi"])
+    route_m = None
+    if rt.any():
+        # 규칙 D 는 고른 구간 위에 더한다. 비교는 「고른 구간만」 대 「고른 구간 + 규칙 D」, 차이는 규칙 D 이미지에서만 난다
+        s, p = apply_route(s, p, ans, rt, best["lo"], best["hi"])
+        inz = inz | rt
+        route_m = score_zone(d, s, p, inz, cfg, costs)
+        sc, y = d["scored"].to_numpy(), d["y"].to_numpy()
+        zp = apply_zone(bs, bp, ans, best["lo"], best["hi"])[1]
+        rfix = int((rt & sc & (zp != y) & (p == y)).sum())
+        rbrk = int((rt & sc & (zp == y) & (p != y)).sum())
+        route_m.update(route_calls=int(rt.sum()), route_pos=int((rt & sc & (y == 1)).sum()), route_fix=rfix,
+                       route_break=rbrk, route_net=rfix - rbrk, route_cost_usd=round(float(costs[rt].sum()), 4))
+        print(f"  + 규칙 D: {int(rt.sum())}장(채점 대상 불법 {route_m['route_pos']}장), 고친 것 {rfix}, 망친 것 {rbrk},"
+              f" 순이득 {rfix - rbrk}, ${route_m['route_cost_usd']} -> P {route_m['precision']} R {route_m['recall']}"
+              f" F1 {route_m['f1']} PR-AUC {route_m['pr_auc']}")
     pd.DataFrame({"image_id": d["image_id"], "score": np.round(s, 6), "pred": p, "model_id": cfg["model_id"],
                   "config_hash": chash, "commit": commit})[C.PRED_COLS].to_csv(out / f"pred_{cfg['model_id']}_val.csv", index=False)
     rate = best["calls"] / len(d)
     C.save_json(out / f"report_{cfg['model_id']}.json", {
         "base_model_id": cfg["base_model_id"], "base_threshold": thr, "base_val": base_m, "chosen": best,
         "select_rule": cfg["select_rule"], "call_rate_val": round(rate, 4), "answered": n_ok, "errors": errs,
+        "route": None if route_m is None else dict(pred=a.route_pred, thr=a.route_thr, **route_m),
         "served": served, "cost_per_image_usd": round(float(costs[asked].mean()), 5) if asked.any() else None,
         "prompt_hash": phash, "cache_key": key, "config_hash": chash, "commit": commit})
     C.log_experiment(out.parent / "experiments.csv", dict(
